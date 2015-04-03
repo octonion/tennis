@@ -1,0 +1,62 @@
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+    </div>
+        <br />
+        <div class="menu_header_2" style="margin-top:0px">
+            <a id="ctl00_ContentPlaceHolder1_lnkTeam" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkTeam','')"><div id="ctl00_ContentPlaceHolder1_divTeam" class="rankingclick">
+                Team
+            </div></a>
+            <a id="ctl00_ContentPlaceHolder1_lnkSingle" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkSingle','')"><div id="ctl00_ContentPlaceHolder1_divSingle" class="ranking">
+                Singles
+             </div></a>
+             <a id="ctl00_ContentPlaceHolder1_lnkDouble" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkDouble','')"><div id="ctl00_ContentPlaceHolder1_divDouble" class="ranking">
+                Doubles
+             </div></a>
+        </div>
+
+
+        <div>
+            Division:&nbsp;&nbsp;<select name="ctl00$ContentPlaceHolder1$drpLeague" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolder1$drpLeague\',\'\')', 0)" id="ctl00_ContentPlaceHolder1_drpLeague">
+	<option selected="selected" value="1">Division I Men</option>
+	<option value="2">Division II Men</option>
+	<option value="3">Division III Men</option>
+	<option value="4">Division I Women</option>
+	<option value="5">Division II Women</option>
+	<option value="6">Division III Women</option>
+	<option value="7">NAIA Men</option>
+	<option value="8">NAIA Women</option>
+	<option value="9">NJCAA I Men</option>
+	<option value="10">NJCAA I Women</option>
+	<option value="11">NJCAA II Women</option>
+	<option value="12">NJCAA III Women</option>
+	<option value="13">Southern California CC Men</option>
+	<option value="14">Southern California CC Women</option>
+	<option value="991">Division Other Men</option>
+	<option value="992">Division Other Women</option>
+	<option value="993">NJCAA III Men</option>
+	<option value="994">Northern California CC Men</option>
+	<option value="995">Northern California CC Women</option>
+	<option value="996">Wisconsin Junior College Athletic Association Men</option>
+	<option value="997">Wisconsin Junior College Athletic Association Women</option>
+
+
+Next:
+
+<input type="submit" name="ctl00$ContentPlaceHolder1$btnNext" value="Next" id="ctl00_ContentPlaceHolder1_btnNext">
+
+//*[@id="ctl00_ContentPlaceHolder1_btnNext"]

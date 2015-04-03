@@ -1,0 +1,404 @@
+league_id,conference_id,conference_name
+1,0,Select All Conferences
+1,10076,American Athletic Conference
+1,52,Atlantic 10 Conference
+1,53,Atlantic Coast Conference
+1,82,Atlantic Sun Conference
+1,54,Big 12 Conference
+1,55,Big East Conference
+1,56,Big Sky Conference
+1,57,Big South Conference
+1,58,Big Ten Conference
+1,59,Big West Conference
+1,60,Colonial Athletic Association
+1,61,Conference USA
+1,70,Horizon League Conference
+1,64,Inactive
+1,62,Independent
+1,65,Ivy League
+1,66,Metro Atlantic Athletic Conference
+1,67,Mid-American Conference
+1,69,Mid-Eastern Athletic Conf.
+1,71,Missouri Valley Conference
+1,72,Mountain West Conference
+1,73,Northeast Conference
+1,74,Ohio Valley Conference
+1,75,Pacific-12 Conference
+1,76,Southeastern Conference
+1,77,Southern Conference
+1,78,Southland Conference
+1,79,Southwestern Athletic Conf.
+1,68,Summit League
+1,80,Sun Belt Conference
+1,81,The Patriot League
+1,83,West Coast Conference
+1,84,Western Athletic Conference
+2,0,Select All Conferences
+2,85,California Collegiate Athletic Association
+2,319,Central Atlantic Collegiate Conference
+2,87,Central Intercollegiate Athletic Association
+2,86,Conference Carolinas
+2,88,Division II Independents
+2,10053,East Coast Conference
+2,89,Eastern College Athletic Conference-II
+2,10051,Great American Conference
+2,90,Great Lakes Intercollegiate Athletic Conference
+2,91,Great Lakes Valley Conference
+2,10061,Great Midwest Athletic Conference
+2,92,Gulf South Conference
+2,10014,Heartland Conference
+2,93,Independent
+2,10035,Inter University Athletic League of Puerto Rico
+2,94,Lone Star Conference
+2,95,Mid-America Intercollegiate Athletics Association
+2,108,Mountain East Conference
+2,96,New York Collegiate Athletic Conference
+2,97,No. Central Intercollegiate Athletic Conference
+2,98,Northeast-10 Conference
+2,99,Northern Sun Intercollegiate Conference
+2,100,Pacific West Conference
+2,101,Peach Belt Conference
+2,102,Pennsylvania State Athletic Conference
+2,103,Rocky Mountain Athletic Conference
+2,104,South Atlantic Conference
+2,105,Southern Intercol. Ath. Conf.
+2,106,Sunshine State Conference
+2,107,The Heartland Conference
+2,10085,West Virginia Intercollegiate Athletic Conference
+3,0,Select All Conferences
+3,10005,Allegheny Mountain Collegiate Conference
+3,109,American Southwest Conference
+3,111,Capital Athletic Conference Inc.
+3,112,Centennial Conference
+3,113,City University of New York Athletic Conference
+3,114,College Conference of Illinois & Wisconsin
+3,140,Colonial States Athletic Conference
+3,115,Commonwealth Coast Conference
+3,116,Commonwealth Conference
+3,118,Eastern College Athletic Conference
+3,119,Eastern College Athletic Conference-III
+3,120,Empire 8
+3,121,Freedom Conference
+3,147,Great Northeast Athletic Conference
+3,342,Great South Athletic Conference
+3,122,Heartland Collegiate Athletic Conference
+3,327,Hudson Valley Intercollegiate Athletic Conference
+3,123,Independent
+3,124,Iowa Intercol. Athletic Conf.
+3,125,Lake Michigan Conference
+3,325,Landmark Conference
+3,149,Liberty League
+3,126,Little East Conference
+3,127,Massachusetts State College Athletic Conference
+3,128,Michigan Intercol. Ath. Assn.
+3,129,Middle Atlantic Conferences
+3,130,Midwest Conference
+3,131,Minnesota Intercollegiate Athletic Conference
+3,365,New England Collegiate Conference
+3,132,New England Small College Athletic Conference
+3,133,New England Women's & Men's Athletics Conference
+3,134,New Jersey Athletic Conference
+3,10004,North Atlantic Conference
+3,135,North Coast Athletic Conference
+3,317,North Eastern Athletic Conference
+3,10001,Northern Athletics Conference
+3,136,Northern Illinois-Iowa Conference
+3,137,Northwest Conference
+3,138,Ohio Athletic Conference
+3,139,Old Dominion Athletic Conf.
+3,359,Pennsylvania State University Athletic Conference
+3,141,Presidents' Athletic Conference
+3,142,Skyline Conference
+3,10072,Southern Athletic Association
+3,143,Southern California Intercollegiate Athletic Conf.
+3,144,Southern Collegiate Athletic Conference
+3,145,St. Louis Intercollegiate Athletic Conference
+3,146,State University of New York Athletic Conference
+3,148,University Athletic Association
+3,338,Upper Midwest Athletic Conference
+3,117,USA South Athletic Conference
+3,150,Wisconsin Intercollegiate Athletic Conference
+4,0,Select All Conferences
+4,151,America East Conference
+4,10077,American Athletic Conference
+4,152,Atlantic 10 Conference
+4,153,Atlantic Coast Conference
+4,182,Atlantic Sun Conference
+4,154,Big 12 Conference
+4,155,Big East Conference
+4,156,Big Sky Conference
+4,157,Big South Conference
+4,158,Big Ten Conference
+4,159,Big West Conference
+4,160,Colonial Athletic Association
+4,161,Conference USA
+4,162,Division I Independents
+4,170,Horizon League Conference
+4,164,Independent
+4,165,Ivy League
+4,166,Metro Atlantic Athletic Conference
+4,167,Mid-American Conference
+4,169,Mid-Eastern Athletic Conf.
+4,171,Missouri Valley Conference
+4,172,Mountain West Conference
+4,173,Northeast Conference
+4,174,Ohio Valley Conference
+4,175,Pacific-12 Conference
+4,176,Southeastern Conference
+4,177,Southern Conference
+4,178,Southland Conference
+4,179,Southwestern Athletic Conf.
+4,168,Summit League
+4,180,Sun Belt Conference
+4,181,The Patriot League
+4,183,West Coast Conference
+4,184,Western Athletic Conference
+5,0,Select All Conferences
+5,185,California Collegiate Athletic Association
+5,320,Central Atlantic Collegiate Conference
+5,187,Central Intercollegiate Athletic Association
+5,186,Conference Carolinas
+5,188,Division II Independents
+5,10054,East Coast Conference
+5,189,Eastern College Athletic Conference-II
+5,10052,Great American Conference
+5,190,Great Lakes Intercollegiate Athletic Conference
+5,191,Great Lakes Valley Conference
+5,10062,Great Midwest Athletic Conference
+5,192,Gulf South Conference
+5,10015,Heartland Conference
+5,193,Independent
+5,10036,Inter University Athletic League of Puerto Rico
+5,194,Lone Star Conference
+5,195,Mid-America Intercollegiate Athletics Association
+5,208,Mountain East Conference
+5,196,New York Collegiate Athletic Conference
+5,197,No. Central Intercollegiate Athletic Conference
+5,198,Northeast-10 Conference
+5,199,Northern Sun Intercollegiate Conference
+5,200,Pacific West Conference
+5,201,Peach Belt Conference
+5,202,Pennsylvania State Athletic Conference
+5,203,Rocky Mountain Athletic Conference
+5,204,South Atlantic Conference
+5,205,Southern Intercol. Ath. Conf.
+5,206,Sunshine State Conference
+5,207,The Heartland Conference
+5,10086,West Virginia Intercollegiate Athletic Conference
+6,0,Select All Conferences
+6,10006,Allegheny Mountain Collegiate Conference
+6,209,American Southwest Conference
+6,210,Atlantic Women's Colleges Conference
+6,346,California Pacific Conference
+6,211,Capital Athletic Conference Inc.
+6,212,Centennial Conference
+6,213,City University of New York Athletic Conference
+6,214,College Conference of Illinois & Wisconsin
+6,241,Colonial States Athletic Conference
+6,215,Commonwealth Coast Conference
+6,216,Commonwealth Conference
+6,218,Eastern College Athletic Conference
+6,219,Eastern College Athletic Conference-III
+6,220,Empire 8
+6,221,Freedom Conference
+6,248,Great Northeast Athletic Conference
+6,343,Great South Athletic Conference
+6,222,Heartland Collegiate Athletic Conference
+6,10002,Hudson Valley Intercollegiate Athletic Conference
+6,223,Independent
+6,224,Iowa Intercol. Athletic Conf.
+6,225,Lake Michigan Conference
+6,326,Landmark Conference
+6,250,Liberty League
+6,226,Little East Conference
+6,227,Massachusetts State College Athletic Conference
+6,228,Michigan Intercol. Ath. Assn.
+6,229,Middle Atlantic Conferences
+6,230,Midwest Conference
+6,231,Minnesota Intercollegiate Athletic Conference
+6,355,N/A
+6,366,New England Collegiate Conference
+6,232,New England Small College Athletic Conference
+6,233,New England Women's & Men's Athletics Conference
+6,234,New Jersey Athletic Conference
+6,235,New York State Women's Collegiate Athletic Assoc.
+6,10003,North Atlantic Conference
+6,236,North Coast Athletic Conference
+6,318,North East Athletic Conference
+6,374,North Eastern Athletic Conference
+6,323,Northeastern Athletic Conference
+6,10000,Northern Athletics Conference
+6,237,Northern Illinois-Iowa Conference
+6,238,Northwest Conference
+6,239,Ohio Athletic Conference
+6,240,Old Dominion Athletic Conf.
+6,360,Pennsylvania State University Athletic Conference
+6,242,Presidents' Athletic Conference
+6,243,Skyline Conference
+6,10073,Southern Athletic Association
+6,244,Southern California Intercollegiate Athletic Conf.
+6,245,Southern Collegiate Athletic Conference
+6,246,St. Louis Intercollegiate Athletic Conference
+6,247,State University of New York Athletic Conference
+6,249,University Athletic Association
+6,339,Upper Midwest Athletic Conference
+6,217,USA South Athletic Conference
+6,251,Wisconsin Intercollegiate Athletic Conference
+7,0,Select All Conferences
+7,252,American Mideast Conference
+7,10089,American Midwest Conference
+7,253,Appalachian Athletic Conference
+7,10087,Association of Independent Institutions
+7,369,Cascade Collegiate Conference
+7,10007,Chicagoland Collegiate Athletic Conference
+7,266,Crossroads League
+7,10078,Dropped Program
+7,255,Georgia-Alabama-Carolina Conference
+7,363,Golden State Athletic Conference
+7,256,Great Plains Athletic Conference
+7,10008,Gulf Coast Athletic Conference
+7,261,Heart of America Athletic Conference
+7,257,Independent (11)
+7,258,Independent (3)
+7,259,Independent (4)
+7,260,Independent (5)
+7,262,Independent (7)
+7,263,Independent (8)
+7,264,Independent (9)
+7,265,Kansas Collegiate Athletic Conference
+7,10071,Kentucky Intercollegiate Athletic Conference
+7,308,Mayflower Conference
+7,310,Midlands Collegiate Athletic Conference
+7,267,Mid-South Conference
+7,10042,Midwest Collegiate Conference
+7,10079,N/A
+7,10016,Red River Athletic Conference
+7,268,Sooner Athletic Conference
+7,10021,Southern States Athletics Conference
+7,254,The Sun Conference
+7,269,TranSouth Athletic Conference
+7,10013,Wolverine-Hoosier Athletic Conference
+8,0,Select All Conferences
+8,270,American Mideast Conference
+8,10090,American Midwest Conference
+8,271,Appalachian Athletic Conference
+8,10088,Association of Independent Institutions
+8,307,California Pacific Conference
+8,370,Cascade Collegiate Conference
+8,372,Chicagoland Collegiate Athletic Conference
+8,285,Crossroads League
+8,273,Georgia-Alabama-Carolina Conference
+8,274,Golden State Athletic Conference
+8,275,Great Plains Athletic Conference
+8,10009,Gulf Coast Athletic Conference
+8,276,Heart of America Athletic Conference
+8,277,Independent (1)
+8,278,Independent (11)
+8,279,Independent (3)
+8,280,Independent (4)
+8,281,Independent (7)
+8,282,Independent (8)
+8,283,Kansas Collegiate Athletic Conference
+8,284,Kentucky Intercollegiate Athletic Conference
+8,309,Mayflower Conference
+8,311,Midlands Collegiate Conference
+8,286,Mid-South Conference
+8,10043,Midwest Collegiate Conference
+8,10017,Red River Athletic Conference
+8,287,Sooner Athletic Conference
+8,10022,Southern States Athletics Conference
+8,272,The Sun Conference
+8,288,TranSouth Athletic Conference
+8,10012,Wolverine-Hoosier Athletic Conference
+9,0,Select All Conferences
+9,330,Alabama Community College Conference
+9,328,Arizona Community College Athletic Conference
+9,314,Bi-State Conference
+9,10081,Eastern Pennsylvania Athletic Conference
+9,367,Garden State Athletic Conference
+9,10010,Georgia Junior College Athletic Association (Reg. XVII)
+9,10019,Great Rivers Athletic Conference
+9,10046,Illinois Skyway Collegiate Conference (Region IV)
+9,312,Jayhawk Conference
+9,10044,Maryland Junior College Athletic Conference
+9,373,Mid-State Athletic Conference
+9,10048,Mississippi Association of Community & Junior Colleges
+9,352,N/A
+9,350,Region V
+9,335,Region X
+9,10074,Region XIV
+9,10039,Region XVII
+10,0,Select All Conferences
+10,334,Alabama Community College Conference
+10,329,Arizona Community College Athletic Conference
+10,316,Bi-State Conference
+10,10082,Eastern Pennsylvania Athletic Conference
+10,10080,Florida College System Activities Association Southern Conference
+10,10011,Georgia Junior College Athletic Association (Reg. XVII)
+10,10047,Illinois Skyway Collegiate Conference (Region IV)
+10,364,Kansas Jayhawk Community College Conference
+10,10033,Maryland Junior College Athletic Conference
+10,10049,Mississippi Association of Community & Junior Colleges
+10,353,N/A
+10,337,Northern Texas Junior College Athletic Association
+10,344,Region 8
+10,351,Region V
+10,336,Region X
+10,10075,Region XIV
+10,10040,Region XVII
+11,0,Select All Conferences
+11,313,Jayhawk Conference
+11,358,N/A
+12,0,Select All Conferences
+12,368,Garden State Athletics Conference
+12,10026,Georgia Junior College Athletic Assoc. (Region XVII)
+12,10030,Iowa Community College Athletic Conference (Region XI)
+12,10031,Region III
+12,10024,Region XIX
+12,10070,Region XV
+12,10041,Region XVII
+13,0,Select All Conferences
+13,289,Bay Valley Conference
+13,290,Central Valley Conference
+13,291,Coast Schools Conference
+13,292,Foothill Conference
+13,293,Golden Valley Conference
+13,294,Orange Empire/Mission Conference
+13,295,Pacific Coast Conference
+13,296,South Coast Schools
+13,297,Western State Schools
+14,0,Select All Conferences
+14,298,Bay Valley
+14,299,Central Valley
+14,300,Coast Schools
+14,301,Foothill Schools
+14,302,Golden Valley Conference
+14,303,Orange Empire/Mission Schools
+14,304,Pacific Coast Conference
+14,305,South Coast Schools
+14,306,Western State Schools
+991,0,Select All Conferences
+991,357,N/A
+991,10050,National Christian College Athletic Association
+992,0,Select All Conferences
+992,324,N/A
+993,0,Select All Conferences
+993,10025,Georgia Junior College Athletic Assoc. (Region XVII)
+993,10029,Iowa Community College Athletic Conference (Region XI)
+993,10034,Maryland Junior College Athletic Conference
+993,10032,Region III
+993,10023,Region XIX
+993,10069,Region XV
+993,10028,Region XXI
+994,0,Select All Conferences
+994,10063,Big 8 North Conference
+994,10064,Big 8 South Conference
+994,10057,Big Eight Conference
+994,10059,Coast Conference
+995,0,Select All Conferences
+995,10065,Big 8 North Conference
+995,10066,Big 8 South Conference
+995,10058,Big Eight Conference
+995,10060,Coast Conference
+996,0,Select All Conferences
+997,0,Select All Conferences
