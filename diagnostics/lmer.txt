@@ -1,0 +1,62 @@
+[1] 4799    6
+[1] TRUE
+[1] 4799    3
+start par. =  1 1 fn =  13544.07 
+At return
+eval:  72 fn:      13108.994 par:  2.03148  1.82183
+(NM) 20: f = 13108.6 at  2.02955  1.82451 0.356216 0.600281
+(NM) 40: f = 13108.6 at  2.03025  1.81729 0.365093 0.598641
+(NM) 60: f = 13108.6 at  2.03117  1.82192 0.364671 0.598415
+(NM) 80: f = 13108.6 at  2.03154  1.82149 0.365245 0.598234
+(NM) 100: f = 13108.6 at  2.03167  1.82127 0.364857 0.598294
+(NM) 120: f = 13108.6 at  2.03164  1.82135 0.364968 0.598309
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: cbind(team_score, opponent_score) ~ field + (1 | offense) + (1 |  
+    defense)
+   Data: g
+      AIC       BIC    logLik  deviance  df.resid 
+13116.596 13141.923 -6554.298 13108.596      4150 
+Random effects:
+ Groups  Name        Std.Dev.
+ defense (Intercept) 2.032   
+ offense (Intercept) 1.821   
+Number of obs: 4154, groups:  defense, 405; offense, 263
+Fixed Effects:
+      (Intercept)  fieldoffense_home  
+           0.3649             0.5983  
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: cbind(team_score, opponent_score) ~ field + (1 | offense) + (1 |  
+    defense)
+   Data: g
+
+     AIC      BIC   logLik deviance df.resid 
+ 13116.6  13141.9  -6554.3  13108.6     4150 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-5.1465 -0.6477  0.0284  0.6513  5.9056 
+
+Random effects:
+ Groups  Name        Variance Std.Dev.
+ defense (Intercept) 4.128    2.032   
+ offense (Intercept) 3.317    1.821   
+Number of obs: 4154, groups:  defense, 405; offense, 263
+
+Fixed effects:
+                  Estimate Std. Error z value Pr(>|z|)    
+(Intercept)        0.36495    0.15747   2.318   0.0205 *  
+fieldoffense_home  0.59831    0.03643  16.425   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+fildffns_hm -0.157
+Analysis of Variance Table
+      Df Sum Sq Mean Sq F value
+field  1 275.09  275.09  275.09
+[1] TRUE
