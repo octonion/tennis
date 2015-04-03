@@ -1,272 +1,332 @@
 BEGIN
 CREATE TABLE
-INSERT 0 263
- rk  |                 school                 |   str    |  ofs   |  dfs   |  sos   
------+----------------------------------------+----------+--------+--------+--------
-   1 | University of Virginia                 | 5961.488 | 55.070 |  0.009 |  6.537
-   2 | Baylor University                      | 4284.038 | 45.489 |  0.011 |  9.242
-   3 | University of Oklahoma                 | 4069.389 | 43.868 |  0.011 | 11.738
-   4 | University of Southern California      | 2569.514 | 33.467 |  0.013 |  7.397
-   5 | University of Illinois                 | 1259.453 | 25.204 |  0.020 |  6.767
-   6 | University of Georgia                  |  955.063 | 22.093 |  0.023 |  7.459
-   7 | Ohio State University                  |  658.855 | 18.203 |  0.028 |  5.632
-   8 | Duke University                        |  653.422 | 18.287 |  0.028 |  6.998
-   9 | UCLA                                   |  635.797 | 17.219 |  0.027 |  7.732
-  10 | Virginia Tech                          |  535.873 | 17.146 |  0.032 |  4.315
-  11 | North Carolina                         |  517.701 | 16.406 |  0.032 |  5.357
-  12 | University of Texas                    |  503.142 | 16.165 |  0.032 |  8.634
-  13 | TCU                                    |  500.208 | 15.778 |  0.032 |  7.783
-  14 | Wake Forest University                 |  494.333 | 16.729 |  0.034 |  4.956
-  15 | Texas A&M University                   |  434.016 | 15.954 |  0.037 |  6.488
-  16 | Columbia University                    |  323.619 | 11.502 |  0.036 |  6.626
-  17 | California                             |  227.802 | 10.299 |  0.045 |  4.398
-  18 | Stanford University                    |  211.754 | 10.985 |  0.052 |  3.963
-  19 | University of Minnesota                |  195.987 | 10.234 |  0.052 |  3.822
-  20 | University of South Florida            |  192.154 |  9.651 |  0.050 |  5.221
-  21 | LSU                                    |  181.249 |  9.793 |  0.054 |  2.906
-  22 | Florida State University               |  176.081 |  9.827 |  0.056 |  5.110
-  23 | Northwestern University                |  169.641 |  9.932 |  0.059 |  3.763
-  24 | University of Louisville               |  165.918 |  9.627 |  0.058 |  2.987
-  25 | University of Florida                  |  165.646 |  9.411 |  0.057 |  8.028
-  26 | North Carolina State                   |  161.399 |  8.943 |  0.055 |  4.193
-  27 | University of Mississippi              |  160.386 |  9.011 |  0.056 |  5.818
-  28 | Mississippi State University           |  156.358 |  8.904 |  0.057 |  3.656
-  29 | Texas Tech University                  |  153.841 |  8.323 |  0.054 |  5.988
-  30 | University of Tulsa                    |  146.429 |  8.992 |  0.061 |  4.705
-  31 | Oklahoma State University              |  140.459 |  8.313 |  0.059 |  3.365
-  32 | Vanderbilt University                  |  138.591 |  8.489 |  0.061 |  5.081
-  33 | University of San Diego                |  132.324 |  8.134 |  0.061 |  4.675
-  34 | University of Notre Dame               |  127.189 |  8.523 |  0.067 |  5.873
-  35 | Harvard University                     |  109.260 |  7.286 |  0.067 |  3.893
-  36 | Drake University                       |  108.393 |  7.268 |  0.067 |  3.357
-  37 | University of Oregon                   |  107.672 |  7.727 |  0.072 |  3.157
-  38 | Princeton University                   |   83.377 |  6.177 |  0.074 |  3.626
-  39 | Wichita State University               |   76.827 |  6.466 |  0.084 |  2.195
-  40 | San Diego State University             |   73.815 |  6.495 |  0.088 |  3.331
-  41 | Tulane University                      |   71.006 |  5.977 |  0.084 |  3.162
-  42 | Old Dominion University                |   64.738 |  5.782 |  0.089 |  1.854
-  43 | University of Tennessee                |   64.669 |  5.891 |  0.091 |  5.246
-  44 | Georgia Tech                           |   58.825 |  5.777 |  0.098 |  4.400
-  45 | University of Washington               |   57.317 |  5.655 |  0.099 |  2.522
-  46 | Dartmouth College                      |   56.926 |  5.530 |  0.097 |  4.651
-  47 | University of Denver                   |   54.342 |  5.277 |  0.097 |  2.485
-  48 | University of South Carolina           |   48.292 |  5.008 |  0.104 |  4.677
-  49 | SMU                                    |   47.986 |  5.327 |  0.111 |  2.412
-  50 | Indiana University-Bloomington         |   43.429 |  4.506 |  0.104 |  3.530
-  51 | University of North Florida            |   42.941 |  4.406 |  0.103 |  2.313
-  52 | Rice University                        |   42.768 |  4.786 |  0.112 |  3.538
-  53 | University of Kentucky                 |   42.462 |  4.908 |  0.116 |  3.404
-  54 | Cornell University                     |   41.958 |  4.550 |  0.108 |  4.338
-  55 | University of Memphis                  |   38.227 |  4.313 |  0.113 |  2.773
-  56 | Clemson University                     |   32.600 |  3.930 |  0.121 |  4.784
-  57 | Brown University                       |   31.963 |  4.075 |  0.127 |  1.872
-  58 | Auburn University                      |   30.419 |  3.992 |  0.131 |  3.305
-  59 | University of New Mexico               |   29.592 |  3.712 |  0.125 |  3.458
-  60 | Penn State University                  |   27.143 |  3.634 |  0.134 |  4.517
-  61 | Univ. of Texas at San Antonio          |   26.790 |  3.638 |  0.136 |  2.744
-  62 | Florida Gulf Coast University          |   25.899 |  3.760 |  0.145 |  1.828
-  63 | University of Alabama                  |   23.723 |  3.464 |  0.146 |  2.455
-  64 | Texas A&M-Corpus Christi               |   23.403 |  3.527 |  0.151 |  2.323
-  65 | UC Santa Barbara                       |   23.048 |  3.647 |  0.158 |  2.889
-  66 | Michigan State University              |   22.983 |  3.540 |  0.154 |  2.411
-  67 | University of Iowa                     |   22.524 |  3.577 |  0.159 |  2.516
-  68 | University of Nebraska                 |   22.154 |  3.430 |  0.155 |  2.300
-  69 | Charlotte                              |   22.096 |  3.502 |  0.158 |  1.300
-  70 | Pepperdine                             |   20.925 |  3.317 |  0.159 |  4.641
-  71 | Troy University                        |   20.817 |  3.406 |  0.164 |  1.958
-  72 | University of Arkansas                 |   19.762 |  3.209 |  0.162 |  2.360
-  73 | UC Davis                               |   18.162 |  3.044 |  0.168 |  1.724
-  74 | UNLV                                   |   17.739 |  3.191 |  0.180 |  2.616
-  75 | UC Irvine                              |   17.655 |  2.964 |  0.168 |  2.242
-  76 | East Tennessee State University        |   17.617 |  2.877 |  0.163 |  3.200
-  77 | University of Michigan                 |   17.393 |  3.046 |  0.175 |  5.994
-  78 | Loyola Marymount University            |   16.096 |  2.995 |  0.186 |  2.130
-  79 | University of Portland                 |   14.730 |  2.708 |  0.184 |  1.360
-  80 | Univ. of San Francisco                 |   14.498 |  2.636 |  0.182 |  2.633
-  81 | Univ. of Wisconsin, Green Bay          |   14.482 |  2.666 |  0.184 |  2.432
-  82 | University of South Alabama            |   14.390 |  2.598 |  0.181 |  1.740
-  83 | Cal Poly                               |   13.870 |  2.682 |  0.193 |  2.536
-  84 | University of Pennsylvania             |   13.023 |  2.563 |  0.197 |  2.404
-  85 | University of Miami (Florida)          |   12.563 |  2.567 |  0.204 |  3.873
-  86 | St. John's University                  |   11.897 |  2.429 |  0.204 |  2.133
-  87 | UNC Wilmington                         |   11.636 |  2.347 |  0.202 |  2.419
-  88 | Fresno State                           |   11.324 |  2.381 |  0.210 |  2.202
-  89 | University of Central Florida          |   10.683 |  2.314 |  0.217 |  2.206
-  90 | University of Utah                     |    9.400 |  2.146 |  0.228 |  3.146
-  91 | Florida Atlantic University            |    9.191 |  2.224 |  0.242 |  1.405
-  92 | Boise State University                 |    9.075 |  2.067 |  0.228 |  3.629
-  93 | Utah State University                  |    8.381 |  2.095 |  0.250 |  1.704
-  94 | Yale University                        |    7.648 |  2.012 |  0.263 |  2.443
-  95 | Brigham Young University               |    7.450 |  1.987 |  0.267 |  2.362
-  96 | Virginia Commonwealth University       |    7.311 |  1.952 |  0.267 |  2.298
-  97 | Middle Tennessee State University      |    7.009 |  1.926 |  0.275 |  1.816
-  98 | College of William and Mary            |    6.920 |  1.945 |  0.281 |  1.367
-  99 | University of Nevada                   |    6.865 |  1.873 |  0.273 |  3.124
- 100 | Coastal Carolina University            |    6.786 |  1.944 |  0.286 |  1.590
- 101 | University of Wisconsin                |    6.670 |  1.921 |  0.288 |  3.874
- 102 | South Carolina State                   |    6.651 |  1.873 |  0.282 |  0.788
- 103 | University of Arizona                  |    6.251 |  1.830 |  0.293 |  2.958
- 104 | Univ. of Maryland, Baltimore County    |    5.608 |  1.745 |  0.311 |  0.819
- 105 | University of Louisiana                |    5.567 |  1.567 |  0.282 |  2.460
- 106 | University of Texas at Arlington       |    5.403 |  1.645 |  0.304 |  3.022
- 107 | Furman University                      |    4.903 |  1.585 |  0.323 |  3.249
- 108 | Georgia State University               |    4.574 |  1.553 |  0.340 |  2.436
- 109 | Lamar University                       |    4.558 |  1.587 |  0.348 |  1.374
- 110 | University of Southern Mississippi     |    4.431 |  1.384 |  0.312 |  1.232
- 111 | Valparaiso University                  |    3.947 |  1.397 |  0.354 |  1.253
- 112 | Cleveland State University             |    3.797 |  1.413 |  0.372 |  0.781
- 113 | University at Buffalo                  |    3.707 |  1.373 |  0.370 |  1.556
- 114 | College of Charleston                  |    3.455 |  1.446 |  0.418 |  1.545
- 115 | Santa Clara University                 |    3.421 |  1.293 |  0.378 |  3.508
- 116 | Samford University                     |    3.300 |  1.279 |  0.388 |  1.552
- 117 | Northern Illinois University           |    3.205 |  1.305 |  0.407 |  0.945
- 118 | DePaul University                      |    3.200 |  1.251 |  0.391 |  1.415
- 119 | Western Michigan University            |    3.134 |  1.340 |  0.428 |  1.256
- 120 | Stetson University                     |    3.128 |  1.361 |  0.435 |  1.659
- 121 | George Washington University           |    3.053 |  1.227 |  0.402 |  2.545
- 122 | Presbyterian College                   |    2.950 |  1.273 |  0.432 |  1.160
- 123 | Elon University                        |    2.908 |  1.241 |  0.427 |  1.443
- 124 | Illinois State University              |    2.771 |  1.226 |  0.442 |  1.626
- 125 | Campbell University                    |    2.637 |  1.194 |  0.453 |  0.968
- 126 | Appalachian State University           |    2.585 |  1.103 |  0.427 |  1.305
- 127 | Winthrop University                    |    2.523 |  1.144 |  0.453 |  1.389
- 128 | Marquette                              |    2.482 |  1.150 |  0.463 |  1.891
- 129 | Gonzaga University                     |    2.360 |  1.060 |  0.449 |  1.648
- 130 | Mercer University                      |    2.323 |  1.112 |  0.479 |  1.809
- 131 | University of the Pacific (California) |    2.138 |  1.125 |  0.526 |  2.601
- 132 | UAB                                    |    2.102 |  1.126 |  0.536 |  1.973
- 133 | Binghamton University                  |    2.045 |  1.003 |  0.490 |  2.615
- 134 | Georgia Southern University            |    2.043 |  1.044 |  0.511 |  1.691
- 135 | UNC Greensboro                         |    1.880 |  1.039 |  0.552 |  1.275
- 136 | Gardner-Webb University                |    1.807 |  1.003 |  0.555 |  1.804
- 137 | Liberty University                     |    1.806 |  1.032 |  0.572 |  1.568
- 138 | University of Richmond                 |    1.799 |  0.974 |  0.542 |  0.656
- 139 | Wofford                                |    1.724 |  0.995 |  0.577 |  1.357
- 140 | Kennesaw State University              |    1.696 |  0.953 |  0.562 |  1.560
- 141 | Purdue University                      |    1.569 |  0.899 |  0.573 |  4.212
- 142 | Xavier University                      |    1.551 |  0.933 |  0.601 |  1.018
- 143 | Belmont University                     |    1.502 |  0.844 |  0.562 |  0.836
- 144 | East Carolina University               |    1.452 |  0.890 |  0.613 |  1.321
- 145 | Monmouth University                    |    1.386 |  0.852 |  0.615 |  0.660
- 146 | Northern Arizona University            |    1.322 |  0.785 |  0.594 |  0.904
- 147 | Nicholls State University              |    1.321 |  0.671 |  0.508 |  1.784
- 148 | Grand Canyon University                |    1.319 |  0.786 |  0.596 |  0.691
- 149 | Tennessee Tech University              |    1.302 |  0.824 |  0.633 |  1.468
- 150 | University of Toledo                   |    1.264 |  0.828 |  0.656 |  2.007
- 151 | New Mexico State University            |    1.237 |  0.719 |  0.582 |  1.492
- 152 | University of Hawaii                   |    1.231 |  0.771 |  0.627 |  2.505
- 153 | University of South Carolina, Upstate  |    1.202 |  0.821 |  0.683 |  1.695
- 154 | Ball State University                  |    1.168 |  0.791 |  0.677 |  2.010
- 155 | Weber State                            |    1.076 |  0.749 |  0.696 |  0.766
- 156 | UNC Asheville                          |    1.067 |  0.800 |  0.749 |  1.166
- 157 | University of Idaho                    |    1.057 |  0.727 |  0.688 |  1.162
- 158 | U.S. Military Academy                  |    1.032 |  0.763 |  0.740 |  0.550
- 159 | NJIT                                   |    1.016 |  0.733 |  0.722 |  0.821
- 160 | Eastern Kentucky University            |    0.996 |  0.795 |  0.798 |  0.801
- 161 | Butler University                      |    0.991 |  0.759 |  0.766 |  1.480
- 162 | Marist College                         |    0.978 |  0.655 |  0.670 |  0.696
- 163 | University of Texas-Pan American       |    0.976 |  0.743 |  0.761 |  1.630
- 164 | U.S. Air Force Academy                 |    0.936 |  0.728 |  0.778 |  1.068
- 165 | Austin Peay State University           |    0.865 |  0.717 |  0.829 |  0.772
- 166 | Southern Illinois, Carbondale          |    0.850 |  0.649 |  0.764 |  1.830
- 167 | U.S. Naval Academy                     |    0.847 |  0.674 |  0.796 |  0.583
- 168 | UMKC                                   |    0.823 |  0.707 |  0.859 |  1.122
- 169 | Lipscomb University                    |    0.779 |  0.647 |  0.831 |  1.499
- 170 | Davidson College                       |    0.777 |  0.666 |  0.857 |  0.663
- 171 | Montana                                |    0.769 |  0.681 |  0.886 |  1.727
- 172 | Boston College                         |    0.707 |  0.598 |  0.846 |  3.259
- 173 | Duquesne University                    |    0.680 |  0.615 |  0.904 |  0.595
- 174 | Saint Mary's College of California     |    0.677 |  0.616 |  0.911 |  2.729
- 175 | Univ. of Incarnate Word                |    0.670 |  0.596 |  0.889 |  4.077
- 176 | Montana State University-Bozeman       |    0.650 |  0.625 |  0.961 |  1.195
- 177 | Radford University                     |    0.635 |  0.572 |  0.900 |  0.860
- 178 | IPFW                                   |    0.624 |  0.582 |  0.932 |  0.720
- 179 | University of New Orleans              |    0.616 |  0.608 |  0.987 |  1.824
- 180 | Creighton University                   |    0.598 |  0.504 |  0.844 |  0.350
- 181 | Sacramento State                       |    0.589 |  0.556 |  0.944 |  0.913
- 182 | Boston University                      |    0.508 |  0.489 |  0.964 |  1.083
- 183 | Stony Brook University                 |    0.477 |  0.469 |  0.983 |  0.435
- 184 | Univ. of Dayton                        |    0.438 |  0.494 |  1.126 |  0.665
- 185 | Georgetown University                  |    0.435 |  0.480 |  1.102 |  1.038
- 186 | James Madison University               |    0.372 |  0.429 |  1.152 |  0.912
- 187 | Jacksonville State University          |    0.344 |  0.438 |  1.275 |  1.069
- 188 | Saint Joseph's University              |    0.333 |  0.412 |  1.237 |  0.531
- 189 | Youngstown State University            |    0.273 |  0.373 |  1.368 |  1.106
- 190 | University of Detroit Mercy            |    0.270 |  0.390 |  1.446 |  1.522
- 191 | Bucknell University                    |    0.251 |  0.369 |  1.473 |  0.349
- 192 | Southern Illinois, Edwardsville        |    0.236 |  0.340 |  1.442 |  0.464
- 193 | South Dakota State                     |    0.231 |  0.352 |  1.522 |  0.561
- 194 | Northern Kentucky University           |    0.230 |  0.355 |  1.546 |  0.905
- 195 | Quinnipiac University                  |    0.229 |  0.331 |  1.446 |  0.432
- 196 | Bethune-Cookman University             |    0.222 |  0.329 |  1.483 |  0.632
- 197 | Bryant University                      |    0.217 |  0.321 |  1.475 |  1.195
- 198 | Chattanooga                            |    0.214 |  0.342 |  1.603 |  1.043
- 199 | North Carolina Central University      |    0.202 |  0.313 |  1.549 |  0.693
- 200 | Morehead State University              |    0.196 |  0.295 |  1.509 |  1.259
- 201 | Oral Roberts University                |    0.184 |  0.326 |  1.766 |  0.312
- 202 | Abilene Christian University           |    0.181 |  0.299 |  1.650 |  1.078
- 203 | Univ. of Illinois at Chicago           |    0.172 |  0.296 |  1.726 |  1.453
- 204 | Fairleigh Dickinson University         |    0.169 |  0.276 |  1.640 |  0.661
- 205 | IUPUI                                  |    0.154 |  0.293 |  1.902 |  0.972
- 206 | Eastern Illinois University            |    0.152 |  0.271 |  1.781 |  0.805
- 207 | Temple University                      |    0.141 |  0.256 |  1.813 |  0.400
- 208 | Florida A&M University                 |    0.138 |  0.246 |  1.778 |  1.791
- 209 | George Mason University                |    0.128 |  0.285 |  2.225 |  0.679
- 210 | Drexel University                      |    0.107 |  0.233 |  2.186 |  0.406
- 211 | UC Riverside                           |    0.093 |  0.221 |  2.384 |  2.305
- 212 | Alcorn State University                |    0.089 |  0.225 |  2.528 |  0.665
- 213 | St. Francis Univ. (Pennsylvania)       |    0.079 |  0.203 |  2.582 |  0.351
- 214 | Wright State University                |    0.078 |  0.212 |  2.706 |  0.560
- 215 | Lehigh University                      |    0.075 |  0.205 |  2.744 |  0.555
- 216 | Fairfield University                   |    0.070 |  0.203 |  2.915 |  0.331
- 217 | Norfolk State University               |    0.068 |  0.173 |  2.522 |  0.663
- 218 | Villanova University                   |    0.066 |  0.175 |  2.666 |  0.856
- 219 | Seattle University                     |    0.058 |  0.154 |  2.668 |  0.899
- 220 | Idaho State University                 |    0.049 |  0.196 |  3.958 |  0.950
- 221 | St. Bonaventure University             |    0.049 |  0.163 |  3.338 |  0.911
- 222 | Colgate University                     |    0.047 |  0.168 |  3.553 |  0.294
- 223 | Saint Louis University                 |    0.045 |  0.182 |  4.073 |  0.452
- 224 | Mount St. Mary's University            |    0.040 |  0.142 |  3.541 |  0.356
- 225 | Niagara University                     |    0.037 |  0.145 |  3.896 |  0.543
- 226 | Longwood University                    |    0.036 |  0.123 |  3.382 |  1.472
- 227 | Prairie View A&M University            |    0.032 |  0.134 |  4.199 |  0.859
- 228 | Univ. of Northern Colorado             |    0.031 |  0.141 |  4.531 |  1.048
- 229 | Wagner College                         |    0.029 |  0.130 |  4.465 |  0.421
- 230 | Alabama State University               |    0.026 |  0.117 |  4.463 |  0.585
- 231 | The Citadel                            |    0.024 |  0.106 |  4.396 |  1.902
- 232 | Portland State University              |    0.022 |  0.108 |  5.005 |  1.245
- 233 | Hofstra University                     |    0.020 |  0.112 |  5.494 |  0.509
- 234 | Eastern Washington University          |    0.020 |  0.103 |  5.197 |  1.818
- 235 | University of Connecticut              |    0.017 |  0.096 |  5.690 |  0.676
- 236 | Chicago State University               |    0.017 |  0.100 |  5.960 |  0.622
- 237 | Morgan State University                |    0.016 |  0.094 |  5.923 |  1.073
- 238 | Univ. of North Dakota                  |    0.015 |  0.089 |  5.823 |  0.323
- 239 | University of Hartford                 |    0.015 |  0.093 |  6.242 |  0.484
- 240 | Loyola College (Maryland)              |    0.014 |  0.088 |  6.180 |  0.595
- 241 | Sacred Heart University                |    0.014 |  0.087 |  6.358 |  0.372
- 242 | University of Delaware                 |    0.013 |  0.086 |  6.491 |  0.569
- 243 | Jackson State University               |    0.008 |  0.065 |  7.927 |  1.876
- 244 | Coppin State College                   |    0.007 |  0.072 |  9.897 |  0.557
- 245 | Tennessee State University             |    0.007 |  0.061 |  8.723 |  0.624
- 246 | Lafayette College                      |    0.004 |  0.046 | 11.867 |  0.382
- 247 | Howard University                      |    0.004 |  0.051 | 13.061 |  1.366
- 248 | Murray State University                |    0.004 |  0.042 | 11.575 |  0.972
- 249 | North Carolina A&T State University    |    0.003 |  0.047 | 13.827 |  1.462
- 250 | Univ. of Maryland Eastern Shore        |    0.003 |  0.042 | 13.304 |  0.322
- 251 | St. Peter's University                 |    0.003 |  0.042 | 14.189 |  0.253
- 252 | Nebraska, Omaha                        |    0.002 |  0.042 | 19.977 |  1.077
- 253 | St. Francis College (New York)         |    0.002 |  0.032 | 18.435 |  0.423
- 254 | Fordham University                     |    0.001 |  0.027 | 18.330 |  0.380
- 255 | Hampton University                     |    0.001 |  0.028 | 21.019 |  0.786
- 256 | Holy Cross                             |    0.001 |  0.029 | 24.680 |  0.519
- 257 | La Salle University                    |    0.001 |  0.030 | 27.494 |  0.405
- 258 | Rider University                       |    0.001 |  0.023 | 31.802 |  0.552
- 259 | Southern Utah University               |    0.001 |  0.020 | 30.906 |  0.736
- 260 | Univ. of Arkansas Pine Bluff           |    0.001 |  0.019 | 37.640 |  1.189
- 261 | Siena College                          |    0.000 |  0.017 | 37.347 |  0.248
- 262 | Western Illinois University            |    0.000 |  0.010 | 44.299 |  0.691
- 263 | Alabama A&M University                 |    0.000 |  0.008 | 38.827 |  0.207
-(263 rows)
+INSERT 0 323
+ rk  |                 school                 |    str    |  ofs   |   dfs   |  sos   
+-----+----------------------------------------+-----------+--------+---------+--------
+   1 | North Carolina                         | 14520.976 | 76.707 |   0.005 |  9.751
+   2 | California                             |  9451.041 | 64.894 |   0.007 | 12.918
+   3 | University of Southern California      |  8814.897 | 64.672 |   0.007 | 13.416
+   4 | UCLA                                   |  7538.305 | 58.569 |   0.008 | 14.076
+   5 | University of Florida                  |  7375.604 | 56.922 |   0.008 | 13.601
+   6 | University of Georgia                  |  7013.366 | 55.510 |   0.008 | 18.236
+   7 | Baylor University                      |  5757.686 | 54.100 |   0.009 |  9.407
+   8 | Stanford                               |  4857.854 | 48.257 |   0.010 | 13.038
+   9 | University of Miami (Florida)          |  4352.717 | 44.017 |   0.010 | 12.060
+  10 | Vanderbilt University                  |  4057.724 | 42.929 |   0.011 | 16.317
+  11 | University of Alabama                  |  3753.766 | 41.111 |   0.011 | 14.629
+  12 | Texas A&M University                   |  2613.395 | 35.481 |   0.014 | 16.235
+  13 | Oklahoma State University              |  2355.105 | 31.707 |   0.013 | 12.275
+  14 | Clemson University                     |  2211.825 | 31.658 |   0.014 | 12.475
+  15 | University of Michigan                 |  2037.264 | 29.817 |   0.015 |  8.421
+  16 | University of Virginia                 |  1688.287 | 28.755 |   0.017 | 11.828
+  17 | Pepperdine                             |  1261.315 | 24.296 |   0.019 |  9.856
+  18 | Texas Tech University                  |  1157.326 | 22.466 |   0.019 |  8.026
+  19 | Arizona State University               |  1036.258 | 22.302 |   0.022 |  6.712
+  20 | TCU                                    |   863.826 | 19.965 |   0.023 | 10.432
+  21 | Ohio State University                  |   827.645 | 19.303 |   0.023 |  5.374
+  22 | University of Mississippi              |   694.680 | 18.154 |   0.026 |  8.168
+  23 | University of Kentucky                 |   582.622 | 15.962 |   0.027 |  8.781
+  24 | Mississippi State University           |   572.453 | 16.583 |   0.029 |  4.801
+  25 | University of South Carolina           |   517.088 | 15.624 |   0.030 |  6.862
+  26 | Duke University                        |   515.141 | 14.880 |   0.029 | 10.222
+  27 | LSU                                    |   457.704 | 14.834 |   0.032 |  6.192
+  28 | Auburn University                      |   445.039 | 14.495 |   0.033 |  6.536
+  29 | Georgia Tech                           |   436.514 | 14.953 |   0.034 | 12.010
+  30 | Florida State University               |   323.549 | 12.508 |   0.039 |  5.496
+  31 | Wichita State University               |   280.544 | 11.276 |   0.040 |  2.660
+  32 | Virginia Tech                          |   262.671 | 11.262 |   0.043 |  6.698
+  33 | Northwestern University                |   238.265 | 10.935 |   0.046 |  9.302
+  34 | University of Notre Dame               |   210.832 | 10.147 |   0.048 |  7.362
+  35 | Rice University                        |   197.164 |  9.528 |   0.048 |  7.019
+  36 | Purdue University                      |   194.367 |  9.287 |   0.048 |  6.071
+  37 | University of Arizona                  |   184.099 |  9.495 |   0.052 |  3.847
+  38 | University of Oklahoma                 |   179.140 |  9.105 |   0.051 |  6.584
+  39 | College of William and Mary            |   166.463 |  9.028 |   0.054 |  3.972
+  40 | Dartmouth College                      |   160.029 |  8.350 |   0.052 |  4.933
+  41 | University of South Alabama            |   153.015 |  8.444 |   0.055 |  1.444
+  42 | University of Tulsa                    |   149.642 |  8.440 |   0.056 |  3.519
+  43 | DePaul University                      |   140.017 |  7.798 |   0.056 |  2.375
+  44 | Princeton University                   |   125.726 |  7.275 |   0.058 |  5.943
+  45 | University of Texas at Austin          |   124.467 |  7.771 |   0.062 | 11.952
+  46 | Saint Mary's College of California     |   120.436 |  7.540 |   0.063 |  6.696
+  47 | Middle Tennessee State University      |   112.100 |  7.307 |   0.065 |  1.944
+  48 | Boston College                         |   111.538 |  7.258 |   0.065 |  6.778
+  49 | University of Washington               |   100.765 |  6.795 |   0.067 |  6.751
+  50 | University of Houston                  |    98.547 |  6.943 |   0.070 |  3.983
+  51 | Wake Forest University                 |    89.296 |  6.504 |   0.073 |  6.254
+  52 | Long Beach State University            |    80.517 |  6.366 |   0.079 |  2.881
+  53 | University of Arkansas                 |    70.793 |  5.874 |   0.083 |  4.133
+  54 | Fresno State                           |    70.772 |  5.646 |   0.080 |  2.842
+  55 | Columbia University                    |    70.290 |  5.534 |   0.079 |  5.284
+  56 | University of Maryland, College Park   |    60.071 |  5.374 |   0.089 |  5.337
+  57 | Indiana University-Bloomington         |    57.540 |  5.332 |   0.093 |  3.485
+  58 | Harvard University                     |    53.628 |  5.090 |   0.095 |  6.148
+  59 | Old Dominion University                |    52.508 |  5.031 |   0.096 |  3.114
+  60 | Penn State University                  |    49.806 |  4.865 |   0.098 |  5.356
+  61 | University of Minnesota                |    48.911 |  4.792 |   0.098 |  3.227
+  62 | University of Utah                     |    46.577 |  4.497 |   0.097 |  6.767
+  63 | Brown University                       |    45.447 |  4.542 |   0.100 |  4.956
+  64 | San Jose State University              |    42.731 |  4.625 |   0.108 |  3.368
+  65 | SMU                                    |    38.234 |  4.173 |   0.109 |  3.198
+  66 | University of Portland                 |    37.321 |  4.043 |   0.108 |  2.673
+  67 | Syracuse University                    |    36.019 |  4.187 |   0.116 |  8.758
+  68 | Virginia Commonwealth University       |    35.413 |  4.088 |   0.115 |  2.168
+  69 | Brigham Young University               |    35.397 |  4.159 |   0.118 |  4.186
+  70 | University of Oregon                   |    35.281 |  4.152 |   0.118 |  6.341
+  71 | Stony Brook University                 |    32.386 |  3.744 |   0.116 |  0.674
+  72 | Washington State University            |    31.481 |  3.821 |   0.121 |  3.909
+  73 | University of Tennessee                |    31.416 |  3.873 |   0.123 |  6.733
+  74 | Charleston Southern University         |    30.105 |  3.517 |   0.117 |  0.890
+  75 | Michigan State University              |    29.829 |  3.754 |   0.126 |  2.845
+  76 | Tulane University                      |    28.651 |  3.425 |   0.120 |  3.864
+  77 | Cornell University                     |    28.586 |  3.641 |   0.127 |  3.033
+  78 | San Diego State University             |    28.313 |  3.714 |   0.131 |  4.555
+  79 | Marshall University                    |    27.061 |  3.618 |   0.134 |  3.428
+  80 | University of Illinois                 |    25.699 |  3.510 |   0.137 |  3.704
+  81 | University of Memphis                  |    25.577 |  3.423 |   0.134 |  5.796
+  82 | University of Colorado                 |    24.503 |  3.397 |   0.139 |  3.958
+  83 | University of Texas at Arlington       |    23.792 |  3.608 |   0.152 |  2.642
+  84 | Yale University                        |    23.320 |  3.058 |   0.131 |  3.804
+  85 | University of Louisville               |    22.762 |  3.259 |   0.143 |  4.328
+  86 | University of Kansas                   |    21.231 |  3.201 |   0.151 |  4.446
+  87 | University of Wisconsin, Madison       |    21.181 |  3.269 |   0.154 |  2.298
+  88 | Drake University                       |    21.012 |  3.265 |   0.155 |  1.309
+  89 | University of New Mexico               |    20.485 |  3.202 |   0.156 |  3.822
+  90 | Univ. of Missouri, Columbia            |    20.040 |  3.126 |   0.156 |  6.014
+  91 | University of North Florida            |    19.944 |  3.037 |   0.152 |  1.427
+  92 | North Carolina State                   |    19.829 |  3.153 |   0.159 |  6.100
+  93 | Chattanooga                            |    19.829 |  3.247 |   0.164 |  0.908
+  94 | Georgia State University               |    19.105 |  2.871 |   0.150 |  3.251
+  95 | University of Denver                   |    18.708 |  2.928 |   0.157 |  2.134
+  96 | University of Iowa                     |    18.221 |  2.962 |   0.163 |  3.857
+  97 | East Tennessee State University        |    17.738 |  2.923 |   0.165 |  0.879
+  98 | Miami University (Ohio)                |    17.603 |  2.793 |   0.159 |  1.837
+  99 | Gonzaga University                     |    17.514 |  2.953 |   0.169 |  1.879
+ 100 | University of Nebraska                 |    16.909 |  2.869 |   0.170 |  3.057
+ 101 | UC Santa Barbara                       |    15.397 |  2.628 |   0.171 |  2.650
+ 102 | Univ. of San Francisco                 |    14.636 |  2.586 |   0.177 |  3.149
+ 103 | University of Central Florida          |    14.423 |  2.646 |   0.183 |  2.241
+ 104 | Samford University                     |    12.699 |  2.418 |   0.190 |  2.034
+ 105 | Boston University                      |    11.934 |  2.258 |   0.189 |  1.394
+ 106 | University of South Florida            |    11.623 |  2.322 |   0.200 |  5.264
+ 107 | University of North Texas              |    11.575 |  2.241 |   0.194 |  4.226
+ 108 | University of Pennsylvania             |    11.158 |  2.297 |   0.206 |  3.304
+ 109 | Liberty University                     |    10.947 |  2.332 |   0.213 |  1.034
+ 110 | Univ. of Massachusetts, Amherst        |     9.519 |  2.052 |   0.216 |  1.269
+ 111 | Univ. of Hawaii, Manoa                 |     9.438 |  2.142 |   0.227 |  3.313
+ 112 | Cal State Northridge                   |     9.399 |  2.153 |   0.229 |  2.039
+ 113 | Florida International University (FIU) |     9.311 |  2.173 |   0.233 |  2.166
+ 114 | Univ. of Wyoming                       |     8.690 |  2.003 |   0.231 |  1.754
+ 115 | Univ. of Pittsburgh                    |     7.747 |  1.919 |   0.248 |  9.040
+ 116 | ULM (Univ. of Louisiana at Monroe)     |     7.425 |  1.778 |   0.239 |  1.075
+ 117 | St. John's University                  |     6.596 |  1.838 |   0.279 |  1.904
+ 118 | UC Irvine                              |     6.591 |  1.787 |   0.271 |  2.400
+ 119 | Stetson University                     |     6.456 |  1.786 |   0.277 |  0.926
+ 120 | Xavier University                      |     6.319 |  1.794 |   0.284 |  1.321
+ 121 | Coastal Carolina University            |     6.121 |  1.703 |   0.278 |  0.938
+ 122 | Sacramento State                       |     6.089 |  1.703 |   0.280 |  1.841
+ 123 | University of Nevada                   |     5.984 |  1.689 |   0.282 |  2.405
+ 124 | West Virginia University               |     5.741 |  1.696 |   0.295 |  2.463
+ 125 | Marquette                              |     5.624 |  1.633 |   0.290 |  1.304
+ 126 | Univ. of Texas at San Antonio          |     5.232 |  1.644 |   0.314 |  1.884
+ 127 | University of the Pacific (California) |     5.189 |  1.577 |   0.304 |  2.668
+ 128 | Louisiana Tech University              |     5.023 |  1.484 |   0.295 |  2.322
+ 129 | Murray State University                |     4.990 |  1.630 |   0.327 |  0.544
+ 130 | Iowa State University                  |     4.862 |  1.449 |   0.298 |  2.344
+ 131 | Troy University                        |     4.847 |  1.423 |   0.294 |  1.319
+ 132 | Winthrop University                    |     4.727 |  1.468 |   0.311 |  2.501
+ 133 | UAB                                    |     4.681 |  1.480 |   0.316 |  2.781
+ 134 | Florida Gulf Coast University          |     4.642 |  1.468 |   0.316 |  2.384
+ 135 | Stephen F. Austin                      |     4.458 |  1.613 |   0.362 |  1.887
+ 136 | Charlotte                              |     4.457 |  1.457 |   0.327 |  1.356
+ 137 | East Carolina University               |     4.436 |  1.434 |   0.323 |  2.071
+ 138 | Texas A&M Corpus-Christi               |     4.359 |  1.398 |   0.321 |  1.413
+ 139 | University of Idaho                    |     4.307 |  1.443 |   0.335 |  1.081
+ 140 | James Madison University               |     4.058 |  1.279 |   0.315 |  0.893
+ 141 | Kansas State                           |     4.005 |  1.330 |   0.332 |  2.917
+ 142 | UC Davis                               |     3.812 |  1.371 |   0.360 |  1.933
+ 143 | Nicholls State University              |     3.792 |  1.521 |   0.401 |  1.685
+ 144 | Elon University                        |     3.765 |  1.476 |   0.392 |  1.450
+ 145 | Furman University                      |     3.741 |  1.300 |   0.347 |  1.922
+ 146 | College of Charleston                  |     3.615 |  1.344 |   0.372 |  2.877
+ 147 | Boise State University                 |     3.457 |  1.290 |   0.373 |  2.321
+ 148 | Northwestern State University          |     3.338 |  1.328 |   0.398 |  1.215
+ 149 | University of Connecticut              |     3.246 |  1.270 |   0.391 |  1.235
+ 150 | Grand Canyon University                |     3.207 |  1.162 |   0.362 |  1.225
+ 151 | Utah State University                  |     3.190 |  1.232 |   0.386 |  1.446
+ 152 | Univ. of Central Arkansas              |     3.142 |  1.210 |   0.385 |  0.385
+ 153 | Santa Clara University                 |     3.052 |  1.199 |   0.393 |  3.156
+ 154 | Saint Louis University                 |     2.841 |  1.217 |   0.428 |  0.547
+ 155 | Northern Arizona University            |     2.747 |  1.086 |   0.395 |  1.450
+ 156 | UNLV                                   |     2.686 |  1.167 |   0.435 |  2.460
+ 157 | Davidson College                       |     2.648 |  1.206 |   0.455 |  1.081
+ 158 | UTEP                                   |     2.647 |  1.093 |   0.413 |  1.180
+ 159 | University of Richmond                 |     2.627 |  1.123 |   0.428 |  1.140
+ 160 | Western Michigan University            |     2.508 |  1.128 |   0.450 |  1.487
+ 161 | UNC Wilmington                         |     2.325 |  1.027 |   0.442 |  1.213
+ 162 | Univ. of Incarnate Word                |     2.293 |  0.839 |   0.366 |  2.400
+ 163 | Temple University                      |     2.252 |  1.052 |   0.467 |  0.830
+ 164 | University of Southern Mississippi     |     2.241 |  1.006 |   0.449 |  1.314
+ 165 | Ball State University                  |     2.138 |  1.027 |   0.480 |  0.853
+ 166 | Georgetown University                  |     2.120 |  1.015 |   0.479 |  1.095
+ 167 | UNC Greensboro                         |     1.850 |  0.943 |   0.510 |  1.013
+ 168 | Abilene Christian University           |     1.773 |  0.913 |   0.515 |  1.499
+ 169 | New Mexico State University            |     1.772 |  0.838 |   0.473 |  1.264
+ 170 | Bethune-Cookman University             |     1.704 |  0.870 |   0.511 |  0.402
+ 171 | Cal State Fullerton                    |     1.696 |  0.870 |   0.513 |  1.728
+ 172 | McNeese State University               |     1.687 |  0.953 |   0.565 |  1.767
+ 173 | University of Cincinnati               |     1.619 |  0.877 |   0.541 |  1.390
+ 174 | University of San Diego                |     1.582 |  0.894 |   0.565 |  3.619
+ 175 | Eastern Kentucky University            |     1.530 |  0.879 |   0.574 |  0.836
+ 176 | Drexel University                      |     1.481 |  0.814 |   0.550 |  0.408
+ 177 | Western Kentucky University            |     1.474 |  0.810 |   0.550 |  1.439
+ 178 | Cal Poly                               |     1.460 |  0.833 |   0.571 |  2.225
+ 179 | Loyola Marymount University            |     1.449 |  0.836 |   0.577 |  3.633
+ 180 | Southeastern Louisiana University      |     1.424 |  0.887 |   0.623 |  0.763
+ 181 | University at Buffalo                  |     1.419 |  0.810 |   0.571 |  0.927
+ 182 | University of Toledo                   |     1.389 |  0.794 |   0.571 |  1.043
+ 183 | U.S. Air Force Academy                 |     1.380 |  0.946 |   0.685 |  1.128
+ 184 | Southern Illinois, Carbondale          |     1.341 |  0.803 |   0.599 |  0.885
+ 185 | University of Louisiana                |     1.324 |  0.818 |   0.618 |  1.705
+ 186 | Rutgers University                     |     1.288 |  0.762 |   0.592 |  2.155
+ 187 | Eastern Michigan University            |     1.263 |  0.779 |   0.617 |  1.597
+ 188 | Fordham University                     |     1.238 |  0.685 |   0.553 |  1.155
+ 189 | Seton Hall University                  |     1.189 |  0.674 |   0.567 |  0.686
+ 190 | Appalachian State University           |     1.146 |  0.727 |   0.634 |  1.060
+ 191 | Florida Atlantic University            |     1.113 |  0.717 |   0.644 |  0.826
+ 192 | Akron                                  |     1.112 |  0.725 |   0.652 |  1.060
+ 193 | Delaware State University              |     1.104 |  1.104 |   1.000 |       
+ 194 | Coppin State College                   |     1.000 |  1.000 |   1.000 |  0.475
+ 195 | University of New Orleans              |     0.878 |  0.688 |   0.783 |  1.017
+ 196 | Creighton University                   |     0.818 |  0.568 |   0.694 |  0.682
+ 197 | Campbell University                    |     0.818 |  0.614 |   0.751 |  0.813
+ 198 | Montana                                |     0.793 |  0.616 |   0.777 |  1.346
+ 199 | Duquesne University                    |     0.786 |  0.630 |   0.802 |  1.045
+ 200 | Northern Illinois University           |     0.777 |  0.610 |   0.785 |  0.623
+ 201 | Lipscomb University                    |     0.742 |  0.565 |   0.761 |  1.501
+ 202 | University at Albany                   |     0.731 |  0.596 |   0.815 |  1.079
+ 203 | Towson University                      |     0.689 |  0.589 |   0.854 |  0.564
+ 204 | Southern Illinois, Edwardsville        |     0.670 |  0.558 |   0.833 |  0.439
+ 205 | Texas State University                 |     0.664 |  0.613 |   0.923 |  1.910
+ 206 | University of Detroit Mercy            |     0.589 |  0.497 |   0.845 |  0.620
+ 207 | Georgia Southern University            |     0.578 |  0.518 |   0.896 |  0.889
+ 208 | IPFW                                   |     0.548 |  0.521 |   0.950 |  0.498
+ 209 | Univ. of Maryland, Baltimore County    |     0.528 |  0.517 |   0.978 |  1.104
+ 210 | University of Texas-Pan American       |     0.499 |  0.452 |   0.906 |  1.091
+ 211 | George Washington University           |     0.484 |  0.483 |   0.999 |  1.802
+ 212 | Eastern Illinois University            |     0.478 |  0.483 |   1.010 |  0.385
+ 213 | Univ. of Northern Iowa                 |     0.459 |  0.467 |   1.017 |  0.766
+ 214 | Univ. of Illinois at Chicago           |     0.458 |  0.478 |   1.043 |  0.711
+ 215 | Weber State                            |     0.452 |  0.464 |   1.027 |  0.948
+ 216 | Arkansas State University              |     0.448 |  0.477 |   1.064 |  1.051
+ 217 | Cleveland State University             |     0.435 |  0.483 |   1.110 |  1.004
+ 218 | U.S. Naval Academy                     |     0.434 |  0.465 |   1.071 |  0.496
+ 219 | Lamar University                       |     0.418 |  0.433 |   1.036 |  0.939
+ 220 | Binghamton University                  |     0.406 |  0.442 |   1.088 |  0.991
+ 221 | Univ. of Evansville                    |     0.399 |  0.406 |   1.018 |  0.576
+ 222 | Providence College                     |     0.384 |  0.419 |   1.093 |  0.627
+ 223 | Youngstown State University            |     0.347 |  0.411 |   1.184 |  0.612
+ 224 | Portland State University              |     0.337 |  0.401 |   1.189 |  0.848
+ 225 | Saint Joseph's University              |     0.337 |  0.400 |   1.185 |  0.733
+ 226 | University of Tennessee at Martin      |     0.334 |  0.382 |   1.143 |  0.662
+ 227 | Radford University                     |     0.333 |  0.409 |   1.230 |  1.132
+ 228 | Wright State University                |     0.321 |  0.389 |   1.213 |  0.481
+ 229 | Colorado State University              |     0.296 |  0.391 |   1.321 |  1.545
+ 230 | Bradley University                     |     0.296 |  0.376 |   1.270 |  0.525
+ 231 | Long Island University (Brooklyn)      |     0.288 |  0.356 |   1.237 |  0.415
+ 232 | Univ. of Dayton                        |     0.255 |  0.359 |   1.410 |  0.540
+ 233 | Eastern Washington University          |     0.216 |  0.334 |   1.548 |  1.525
+ 234 | Sam Houston State University           |     0.194 |  0.316 |   1.630 |  1.104
+ 235 | Univ. of Northern Colorado             |     0.186 |  0.291 |   1.568 |  1.216
+ 236 | Southern University, Baton Rouge       |     0.181 |  0.263 |   1.449 |  0.349
+ 237 | Wofford                                |     0.176 |  0.294 |   1.670 |  0.764
+ 238 | Montana State University-Bozeman       |     0.172 |  0.265 |   1.539 |  1.257
+ 239 | Longwood University                    |     0.163 |  0.269 |   1.655 |  0.598
+ 240 | Missouri State University              |     0.161 |  0.274 |   1.702 |  0.888
+ 241 | Morgan State University                |     0.154 |  0.270 |   1.755 |  1.614
+ 242 | UNC Asheville                          |     0.150 |  0.234 |   1.559 |  1.084
+ 243 | Seattle University                     |     0.150 |  0.247 |   1.650 |  1.084
+ 244 | University of Rhode Island             |     0.143 |  0.282 |   1.974 |  0.748
+ 245 | Lehigh University                      |     0.137 |  0.261 |   1.912 |  0.985
+ 246 | Presbyterian College                   |     0.128 |  0.260 |   2.032 |  0.514
+ 247 | Quinnipiac University                  |     0.128 |  0.223 |   1.741 |  0.324
+ 248 | South Dakota State                     |     0.126 |  0.242 |   1.924 |  0.530
+ 249 | Villanova University                   |     0.123 |  0.244 |   1.976 |  0.870
+ 250 | Fairleigh Dickinson University         |     0.117 |  0.244 |   2.081 |  0.510
+ 251 | Bryant University                      |     0.117 |  0.216 |   1.841 |  0.709
+ 252 | Kennesaw State University              |     0.116 |  0.235 |   2.035 |  1.193
+ 253 | North Carolina Central University      |     0.115 |  0.224 |   1.942 |  0.764
+ 254 | U.S. Military Academy                  |     0.115 |  0.247 |   2.147 |  1.424
+ 255 | Gardner-Webb University                |     0.115 |  0.245 |   2.137 |  0.955
+ 256 | UMKC                                   |     0.108 |  0.228 |   2.107 |  0.921
+ 257 | Niagara University                     |     0.096 |  0.229 |   2.400 |  0.357
+ 258 | University of South Carolina, Upstate  |     0.093 |  0.217 |   2.337 |  1.070
+ 259 | University of Delaware                 |     0.090 |  0.212 |   2.364 |  0.736
+ 260 | University of South Dakota             |     0.087 |  0.194 |   2.225 |  0.303
+ 261 | Siena College                          |     0.082 |  0.211 |   2.561 |  0.350
+ 262 | Morehead State University              |     0.082 |  0.190 |   2.316 |  1.112
+ 263 | St. Francis Univ. (Pennsylvania)       |     0.080 |  0.185 |   2.308 |  0.389
+ 264 | Belmont University                     |     0.080 |  0.222 |   2.783 |  0.828
+ 265 | Idaho State University                 |     0.079 |  0.204 |   2.572 |  1.410
+ 266 | South Carolina State                   |     0.079 |  0.204 |   2.580 |  1.372
+ 267 | Jacksonville State University          |     0.078 |  0.221 |   2.820 |  1.099
+ 268 | George Mason University                |     0.070 |  0.185 |   2.653 |  0.384
+ 269 | Univ. of Wisconsin, Milwaukee          |     0.069 |  0.186 |   2.690 |  1.340
+ 270 | UC Riverside                           |     0.059 |  0.170 |   2.870 |  1.553
+ 271 | Western Carolina University            |     0.059 |  0.162 |   2.754 |  0.736
+ 272 | Hofstra University                     |     0.058 |  0.169 |   2.895 |  0.393
+ 273 | Butler University                      |     0.058 |  0.178 |   3.043 |  0.928
+ 274 | Howard University                      |     0.052 |  0.155 |   2.978 |  0.621
+ 275 | Alcorn State University                |     0.051 |  0.160 |   3.164 |  0.462
+ 276 | Oakland University                     |     0.050 |  0.154 |   3.050 |  0.895
+ 277 | Mercer University                      |     0.048 |  0.156 |   3.273 |  1.377
+ 278 | Norfolk State University               |     0.047 |  0.145 |   3.087 |  0.387
+ 279 | Univ. of North Dakota                  |     0.039 |  0.142 |   3.664 |  1.253
+ 280 | Illinois State University              |     0.033 |  0.118 |   3.530 |  1.186
+ 281 | Sacred Heart University                |     0.032 |  0.118 |   3.634 |  0.497
+ 282 | Colgate University                     |     0.031 |  0.101 |   3.218 |  0.160
+ 283 | NJIT                                   |     0.031 |  0.126 |   4.031 |  0.890
+ 284 | Oral Roberts University                |     0.030 |  0.117 |   3.948 |  0.383
+ 285 | St. Bonaventure University             |     0.028 |  0.128 |   4.615 |  0.532
+ 286 | Nebraska, Omaha                        |     0.025 |  0.120 |   4.770 |  0.560
+ 287 | Chicago State University               |     0.025 |  0.108 |   4.326 |  0.705
+ 288 | Bucknell University                    |     0.024 |  0.110 |   4.663 |  0.713
+ 289 | Florida A&M University                 |     0.022 |  0.096 |   4.334 |  0.396
+ 290 | Bowling Green State University         |     0.022 |  0.105 |   4.789 |  1.221
+ 291 | Southern Utah University               |     0.022 |  0.121 |   5.616 |  1.235
+ 292 | Austin Peay State University           |     0.019 |  0.106 |   5.623 |  1.020
+ 293 | Fairfield University                   |     0.019 |  0.096 |   5.116 |  0.349
+ 294 | Jackson State University               |     0.019 |  0.088 |   4.711 |  1.138
+ 295 | Alabama State University               |     0.018 |  0.084 |   4.607 |  0.219
+ 296 | Northern Kentucky University           |     0.017 |  0.089 |   5.074 |  0.601
+ 297 | Marist College                         |     0.013 |  0.081 |   6.365 |  0.851
+ 298 | IUPUI                                  |     0.013 |  0.067 |   5.290 |  0.306
+ 299 | Wagner College                         |     0.013 |  0.104 |   8.236 |  1.186
+ 300 | La Salle University                    |     0.013 |  0.104 |   8.236 |  0.611
+ 301 | Monmouth University                    |     0.011 |  0.102 |   9.346 |  0.518
+ 302 | Southeast Missouri State               |     0.008 |  0.063 |   7.816 |  0.695
+ 303 | Loyola College (Maryland)              |     0.008 |  0.077 |  10.241 |  0.571
+ 304 | Valparaiso University                  |     0.007 |  0.059 |   8.196 |  0.487
+ 305 | Prairie View A&M University            |     0.005 |  0.063 |  13.418 |  1.161
+ 306 | Savannah State University              |     0.003 |  0.035 |  12.997 |  0.606
+ 307 | Lafayette College                      |     0.002 |  0.033 |  15.652 |  0.461
+ 308 | Hampton University                     |     0.002 |  0.028 |  16.639 |  0.600
+ 309 | St. Peter's University                 |     0.002 |  0.028 |  16.924 |  0.190
+ 310 | Manhattan College                      |     0.001 |  0.029 |  21.374 |  0.178
+ 311 | Univ. of Maryland Eastern Shore        |     0.001 |  0.019 |  14.696 |  0.475
+ 312 | Univ. of Wisconsin, Green Bay          |     0.001 |  0.028 |  25.415 |  0.421
+ 313 | Mount St. Mary's University            |     0.001 |  0.019 |  29.548 |  0.533
+ 314 | Western Illinois University            |     0.001 |  0.022 |  42.667 |  0.455
+ 315 | Holy Cross                             |     0.000 |  0.019 |  56.347 |  0.808
+ 316 | Alabama A&M University                 |     0.000 |  0.011 |  40.170 |  0.867
+ 317 | Tennessee State University             |     0.000 |  0.014 |  57.340 |  0.546
+ 318 | Rider University                       |     0.000 |  0.014 |  57.349 |  0.270
+ 319 | Univ. of Arkansas Pine Bluff           |     0.000 |  0.010 |  55.645 |  0.493
+ 320 | University of Hartford                 |     0.000 |  0.012 |  69.223 |  1.062
+ 321 | North Carolina A&T State               |     0.000 |  0.006 | 108.815 |  0.685
+ 322 | Grambling State University             |     0.000 |  0.007 | 120.707 |  0.373
+ 323 | St. Francis College (New York)         |     0.000 |  0.006 | 140.029 |  0.293
+(323 rows)
 
-COPY 263
+COPY 323
 COMMIT

@@ -42,7 +42,7 @@ end) as team_score,
 end) as opponent_score
 
 from ita.team_results tr
-where tr.league_id=1
+where tr.league_id=4
 );
 
 commit;
