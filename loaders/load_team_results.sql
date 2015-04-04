@@ -1,10 +1,9 @@
 begin;
 
-create schema ita;
-
 drop table if exists ita.team_results;
 
 create table ita.team_results (
+	year		      integer,
 	season_id	      integer,
 	league_id	      integer,
 	team_id		      integer,
@@ -17,6 +16,6 @@ create table ita.team_results (
 	result_javascript     text
 );
 
-copy ita.team_results from '/tmp/ita_team_results.csv' csv header;
+copy ita.team_results from '/tmp/results.csv' csv header;
 
 commit;

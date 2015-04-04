@@ -18,10 +18,11 @@ base_url = "http://itarankings.itatennis.com/TeamSchedule.aspx"
 #page_number = 0
 total = 0
 
-season_id = 2015
+season_id = 10
+year = 2010
 teams = CSV.open("csv/ita_team.csv", "r", {:headers => TRUE})
-results = CSV.open("csv/ita_team_results.csv","w")
-results << ["season_id", "league_id", "team_id", "game_date", "opponent_string", "opponent_id", "opponent_url", "outcome", "score", "result_javascript"]
+results = CSV.open("csv/ita_team_results_#{year}.csv","w")
+results << ["year", "season_id", "league_id", "team_id", "game_date", "opponent_string", "opponent_id", "opponent_url", "outcome", "score", "result_javascript"]
 
 teams.each do |team|
 
@@ -30,15 +31,14 @@ teams.each do |team|
   league_id = team["league_id"]
   team_id = team["team_id"]
   team_name = team["team_name"]
-  season_id = 15
 
-  url = base_url + "?did=#{league_id}&confid=0&teamid=#{team_id}&Seasonid=15"
+  url = base_url + "?did=#{league_id}&confid=0&teamid=#{team_id}&Seasonid=#{season_id}"
 
   page = agent.get(url)
 
   page.parser.xpath(result_path).each_with_index do |tr,i|
 
-    row = [season_id, league_id, team_id]
+    row = [year, season_id, league_id, team_id]
     tr.xpath("td").each_with_index do |td,j|
       case j
       when 1

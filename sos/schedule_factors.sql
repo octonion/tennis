@@ -59,16 +59,14 @@ insert into r
 (
 select
 r.team_id,
---r.school_div_id,
-null,
+r.team_league_id,
 r.opponent_id,
---r.opponent_div_id,
-null,
+r.opponent_league_id,
 r.game_date,
 r.year,
 r.field
 from ita.results r
-where r.year between 2015 and 2015
+where r.year between 2012 and 2015
 );
 
 update r
@@ -89,14 +87,16 @@ where (f.parameter,f.level)=('field',r.field_id);
 -- opponent o_div
 
 update r
-set o_div=coalesce(f.exp_factor,1.0)
+--set o_div=coalesce(f.exp_factor,1.0)
+set o_div=f.exp_factor
 from ita._factors f
 where (f.parameter,f.level::integer)=('o_div',r.opponent_div_id);
 
 -- opponent d_div
 
 update r
-set d_div=coalesce(f.exp_factor,1.0)
+--set d_div=coalesce(f.exp_factor,1.0)
+set d_div=f.exp_factor
 from ita._factors f
 where (f.parameter,f.level::integer)=('d_div',r.opponent_div_id);
 
@@ -110,13 +110,13 @@ create temporary table rs (
          defensive_all		float
 );
 
-update r
-set o_div=1.0
-where o_div is null;
+--update r
+--set o_div=1.0
+--where o_div is null;
 
-update r
-set d_div=1.0
-where d_div is null;
+--update r
+--set d_div=1.0
+--where d_div is null;
 
 insert into rs
 (school_id,year,

@@ -15,7 +15,7 @@ left join ita.schools_divisions o
   on (o.school_id,o.year)=(r.opponent_id,r.year)
 where
     t.div_id<=o.div_id
-and r.year between 2009 and 2015
+and r.year between 2012 and 2015
 group by r.year,t.div_id,o.div_id
 order by r.year,t.div_id,o.div_id;
 

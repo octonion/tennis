@@ -14,14 +14,17 @@ select
 r.year,
 r.field as field,
 r.team_id as team,
+r.team_league_id as o_div,
 r.opponent_id as opponent,
+r.opponent_league_id as d_div,
 r.team_score as team_score,
 r.opponent_score as opponent_score
 from ita.results r
 
 where
-    r.year between 2015 and 2015
---and not(r.team_score,r.opponent_score)=(0,0)
+    r.year between 2012 and 2015
+and r.team_league_id in (1,2,3,7)
+and r.opponent_league_id in (1,2,3,7)
 
 ;")
 
@@ -41,15 +44,13 @@ year <- as.factor(year)
 field <- as.factor(field)
 #field <- relevel(field, ref = "neutral")
 
-#d_div <- as.factor(d_div)
+d_div <- as.factor(d_div)
 
-#o_div <- as.factor(o_div)
+o_div <- as.factor(o_div)
 
 #game_length <- as.factor(game_length)
 
-fp <- data.frame(field)
-#fp <- data.frame(year,field,d_div,o_div)
-#fp <- data.frame(field,d_div,o_div)
+fp <- data.frame(year,field,d_div,o_div)
 fpn <- names(fp)
 
 # Random parameters
@@ -91,7 +92,7 @@ g <- cbind(fp,rp)
 
 dim(g)
 
-model <- cbind(team_score,opponent_score) ~ field+(1|offense)+(1|defense)
+model <- cbind(team_score,opponent_score) ~ year+field+o_div+d_div+(1|offense)+(1|defense)
 fit <- glmer(model, data=g, REML=FALSE, family=binomial(logit), verbose=TRUE)
 
 fit
