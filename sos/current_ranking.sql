@@ -22,6 +22,7 @@ sf.school_id,
       when t.league_id=2 then 'D2'
       when t.league_id=3 then 'D3'
       when t.league_id=7 then 'NAIA'
+      when t.league_id=9 then 'NJCAA'
 end) as league,
 sf.year,
 --log(sf.strength)+log(o.exp_factor)-log(d.exp_factor) as str,

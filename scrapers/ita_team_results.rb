@@ -18,8 +18,8 @@ base_url = "http://itarankings.itatennis.com/TeamSchedule.aspx"
 #page_number = 0
 total = 0
 
-season_id = 10
-year = 2010
+season_id = 9
+year = 2009
 teams = CSV.open("csv/ita_team.csv", "r", {:headers => TRUE})
 results = CSV.open("csv/ita_team_results_#{year}.csv","w")
 results << ["year", "season_id", "league_id", "team_id", "game_date", "opponent_string", "opponent_id", "opponent_url", "outcome", "score", "result_javascript"]
