@@ -66,7 +66,7 @@ r.game_date,
 r.year,
 r.field
 from ita.results r
-where r.year between 2012 and 2015
+where r.year between 2009 and 2015
 );
 
 update r
