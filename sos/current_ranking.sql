@@ -18,11 +18,15 @@ insert into r
 select
 t.team_name,
 sf.school_id,
-(case when t.league_id=1 then 'D1'
-      when t.league_id=2 then 'D2'
-      when t.league_id=3 then 'D3'
-      when t.league_id=7 then 'NAIA'
-      when t.league_id=9 then 'NJCAA'
+(case when t.league_id in (1,4) then 'D1'
+      when t.league_id in (2,5) then 'D2'
+      when t.league_id in (3,6) then 'D3'
+      when t.league_id in (7,8) then 'NAIA'
+      when t.league_id in (9,10) then 'NJCAA I'
+      when t.league_id in (11) then 'NJCAA II'
+      when t.league_id in (12,993) then 'NJCAA II'
+      when t.league_id in (13,14) then 'SCCC'
+      when t.league_id in (994,995) then 'NCCC'
 end) as league,
 sf.year,
 --log(sf.strength)+log(o.exp_factor)-log(d.exp_factor) as str,

@@ -22,9 +22,11 @@ r.opponent_score as opponent_score
 from ita.results r
 
 where
-    r.year between 2011 and 2015
-and r.team_league_id in (1,2,3,7,9)
-and r.opponent_league_id in (1,2,3,7,9)
+    r.year between 2009 and 2015
+and r.team_league_id in (4,5,6,8,10,11,12,14)
+and r.opponent_league_id in (4,5,6,8,10,11,12,14)
+--and r.team_league_id in (1,2,3,7,9)
+--and r.opponent_league_id in (1,2,3,7,9)
 
 ;")
 
