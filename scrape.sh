@@ -1,11 +1,5 @@
 #!/bin/bash
 
-./scrapers/ncaa_teams.rb
+./scrapers/ita_team_results.rb
 
-./scrapers/ncaa_team_rosters.rb &
-
-./scrapers/ncaa_summaries.rb &
-
-./scrapers/ncaa_team_schedules.rb
-
-./scrapers/ncaa_play_by_play.rb
+./scrapers/ita_team_boxscores.rb
