@@ -4,6 +4,7 @@ copy
 (
 select
 p.player_name as player,
+p.team_name as team,
 bf.estimate::numeric(4,3) as str
 from ita.singles_basic_factors bf
 join ita.players p
