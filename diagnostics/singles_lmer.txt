@@ -1,0 +1,69 @@
+[1] 45110     5
+[1] TRUE
+[1] 45110     3
+start par. =  1 1 fn =  47648.37 
+At return
+eval:  84 fn:      44349.930 par:  3.08601  3.08601
+(NM) 20: f = 44341.7 at    3.0358   3.05997 -0.532348  0.958276
+(NM) 40: f = 44338.2 at   3.06919   3.05972 -0.570841    1.0328
+(NM) 60: f = 44338.2 at     3.078   3.06882 -0.516697   1.04669
+(NM) 80: f = 44337.9 at   3.07126   3.07596 -0.509684   1.03425
+(NM) 100: f = 44337.8 at    3.0855   3.07804 -0.501677   1.03269
+(NM) 120: f = 44337.8 at   3.09144   3.08429 -0.511337   1.03154
+(NM) 140: f = 44337.8 at    3.0888   3.08495 -0.518065   1.03175
+(NM) 160: f = 44337.8 at   3.08803   3.08557 -0.517512   1.03162
+(NM) 180: f = 44337.8 at   3.08789   3.08687 -0.515349   1.03157
+(NM) 200: f = 44337.8 at   3.08672   3.08607 -0.515377   1.03163
+(NM) 220: f = 44337.8 at    3.0871   3.08622 -0.515557   1.03161
+(NM) 240: f = 44337.8 at   3.08686    3.0861 -0.515448   1.03162
+(NM) 260: f = 44337.8 at   3.08687   3.08611 -0.515416   1.03162
+(NM) 280: f = 44337.8 at   3.08688   3.08611 -0.515419   1.03162
+(NM) 300: f = 44337.8 at   3.08688   3.08611 -0.515423   1.03162
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: won ~ field + (1 | player) + (1 | opponent)
+   Data: g
+      AIC       BIC    logLik  deviance  df.resid 
+ 44345.78  44380.65 -22168.89  44337.78     45106 
+Random effects:
+ Groups   Name        Std.Dev.
+ player   (Intercept) 3.087   
+ opponent (Intercept) 3.086   
+Number of obs: 45110, groups:  player, 2236; opponent, 2236
+Fixed Effects:
+      (Intercept)  fieldoffense_home  
+          -0.5154             1.0316  
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: won ~ field + (1 | player) + (1 | opponent)
+   Data: g
+
+     AIC      BIC   logLik deviance df.resid 
+ 44345.8  44380.6 -22168.9  44337.8    45106 
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-11.4547  -0.4161   0.0000   0.4161  11.4549 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ player   (Intercept) 9.529    3.087   
+ opponent (Intercept) 9.524    3.086   
+Number of obs: 45110, groups:  player, 2236; opponent, 2236
+
+Fixed effects:
+                    Estimate Std. Error z value Pr(>|z|)    
+(Intercept)       -0.5154230  0.0001306   -3945   <2e-16 ***
+fieldoffense_home  1.0316196  0.0001307    7891   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+fildffns_hm 0.000 
+Analysis of Variance Table
+      Df Sum Sq Mean Sq F value
+field  1 750.49  750.49  750.49
+[1] TRUE

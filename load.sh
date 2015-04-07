@@ -9,8 +9,12 @@ if [ $db_exists -eq 0 ] ; then
    eval $cmd
 fi
 
-psql tennis -f loaders/create_schema.sql
+psql tennis -f schema/create_schema.sql
 
 tail -q -n+2 csv/ita_team_results_*.csv >> /tmp/results.csv
 psql tennis -f loaders/load_team_results.sql
 rm /tmp/results.csv
+
+grep -v "Never Scheduled" csv/ita_team_singles_*.csv > /tmp/singles.csv
+psql tennis -f loaders/load_team_singles.sql
+rm /tmp/singles.csv
