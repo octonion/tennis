@@ -1,0 +1,948 @@
+rk,school,league,str,ofs,dfs,sos
+1,North Carolina,D1,8.74,4.34,-4.40,117.17
+2,University of Southern California,D1,8.57,4.30,-4.27,211.83
+3,University of Georgia,D1,8.51,4.23,-4.28,526.41
+4,UCLA,D1,8.45,4.22,-4.22,218.38
+5,California,D1,8.44,4.21,-4.23,197.45
+6,University of Florida,D1,8.31,4.14,-4.17,294.25
+7,Baylor University,D1,8.23,4.15,-4.08,84.15
+8,Vanderbilt University,D1,8.18,4.07,-4.11,490.40
+9,Stanford,D1,7.98,4.00,-3.97,262.66
+10,University of Michigan,D1,7.80,3.88,-3.92,76.60
+11,University of Virginia,D1,7.64,3.82,-3.82,208.89
+12,University of Alabama,D1,7.53,3.75,-3.78,274.65
+13,University of Miami (Florida),D1,7.49,3.74,-3.75,182.66
+14,Texas A&M University,D1,7.41,3.72,-3.70,342.96
+15,Oklahoma State University,D1,7.30,3.62,-3.68,91.82
+16,Clemson University,D1,7.01,3.50,-3.51,162.35
+17,Texas Tech University,D1,6.76,3.35,-3.40,87.79
+18,Arizona State University,D1,6.51,3.27,-3.24,66.17
+19,Pepperdine,D1,6.32,3.16,-3.16,58.90
+20,TCU,D1,6.21,3.10,-3.11,105.74
+21,Ohio State University,D1,6.11,3.04,-3.07,50.95
+22,Georgia Tech,D1,6.09,3.05,-3.04,152.66
+23,Duke University,D1,6.08,3.02,-3.06,168.22
+24,University of Mississippi,D1,6.02,3.01,-3.01,56.36
+25,University of South Carolina,D1,5.52,2.78,-2.74,62.27
+26,LSU,D1,5.50,2.75,-2.75,42.77
+27,Mississippi State University,D1,5.45,2.74,-2.71,24.82
+28,Florida State University,D1,5.43,2.71,-2.73,34.95
+29,Northwestern University,D1,5.27,2.65,-2.61,60.26
+30,University of Kentucky,D1,5.25,2.61,-2.64,92.33
+31,Auburn University,D1,5.14,2.56,-2.57,19.93
+32,Wichita State University,D1,5.13,2.56,-2.57,2.89
+33,University of Notre Dame,D1,5.06,2.55,-2.52,77.40
+34,Virginia Tech,D1,5.00,2.51,-2.50,51.32
+35,Rice University,D1,4.80,2.40,-2.41,35.57
+36,Armstrong State University,D2,4.56,2.22,-2.34,0.03
+37,University of Tulsa,D1,4.53,2.28,-2.25,10.82
+38,College of William and Mary,D1,4.36,2.19,-2.17,7.16
+39,Dartmouth College,D1,4.30,2.15,-2.15,20.04
+40,Purdue University,D1,4.29,2.13,-2.16,33.26
+41,University of Texas at Austin,D1,4.29,2.15,-2.14,127.98
+42,University of Oklahoma,D1,4.28,2.14,-2.14,37.01
+43,Boston College,D1,4.28,2.14,-2.14,44.52
+44,DePaul University,D1,4.22,2.08,-2.14,1.87
+45,University of Washington,D1,4.20,2.10,-2.10,43.19
+46,Saint Mary's College of California,D1,4.20,2.10,-2.10,35.91
+47,University of Houston,D1,4.20,2.11,-2.09,13.23
+48,Princeton University,D1,4.15,2.07,-2.08,32.29
+49,University of Arizona,D1,4.09,2.06,-2.03,20.09
+50,University of Arkansas,D1,4.06,2.04,-2.02,14.52
+51,Long Beach State University,D1,3.98,2.00,-1.98,6.28
+52,University of South Alabama,D1,3.73,1.84,-1.89,1.24
+53,Middle Tennessee State University,D1,3.66,1.83,-1.83,2.02
+54,Fresno State,D1,3.61,1.80,-1.82,5.26
+55,University of Illinois,D1,3.61,1.82,-1.79,12.17
+56,Indiana University-Bloomington,D1,3.56,1.80,-1.76,12.28
+57,Columbia University,D1,3.45,1.72,-1.72,23.25
+58,Wake Forest University,D1,3.39,1.70,-1.69,32.64
+59,Old Dominion University,D1,3.34,1.67,-1.67,4.49
+60,University of Tennessee,D1,3.27,1.65,-1.62,58.68
+61,University of Utah,D1,3.26,1.62,-1.64,62.53
+62,University of Oregon,D1,3.25,1.65,-1.61,36.71
+63,Brown University,D1,3.24,1.63,-1.61,20.62
+64,"University of Maryland, College Park",D1,3.13,1.58,-1.55,26.91
+65,University of Minnesota,D1,3.09,1.54,-1.54,9.74
+66,Virginia Commonwealth University,D1,3.08,1.55,-1.53,2.06
+67,San Jose State University,D1,3.06,1.54,-1.51,6.63
+68,Syracuse University,D1,2.97,1.50,-1.47,71.95
+69,Charleston Southern University,D1,2.90,1.43,-1.48,0.32
+70,Penn State University,D1,2.90,1.45,-1.45,29.26
+71,University of Portland,D1,2.90,1.43,-1.47,2.75
+72,Cornell University,D1,2.89,1.44,-1.44,3.73
+73,Marshall University,D1,2.85,1.43,-1.42,11.94
+74,San Diego State University,D1,2.84,1.43,-1.41,9.65
+75,University of Texas at Arlington,D1,2.82,1.40,-1.42,2.69
+76,Yale University,D1,2.80,1.39,-1.41,14.50
+77,University of Memphis,D1,2.78,1.39,-1.40,31.67
+78,Washington State University,D1,2.68,1.34,-1.34,7.92
+79,SMU,D1,2.65,1.33,-1.32,7.05
+80,Tulane University,D1,2.63,1.30,-1.34,8.78
+81,Brigham Young University,D1,2.63,1.33,-1.30,14.67
+82,Michigan State University,D1,2.60,1.31,-1.29,6.03
+83,University of Colorado,D1,2.59,1.31,-1.28,21.69
+84,Harvard University,D1,2.54,1.29,-1.24,28.29
+85,"University of Wisconsin, Madison",D1,2.45,1.24,-1.21,6.13
+86,Stony Brook University,D1,2.45,1.21,-1.25,0.19
+87,University of Kansas,D1,2.45,1.24,-1.21,33.93
+88,Barry University,D2,2.44,1.23,-1.22,0.11
+89,University of Louisville,D1,2.42,1.22,-1.20,19.40
+90,"Univ. of Missouri, Columbia",D1,2.35,1.18,-1.17,35.64
+91,University of North Florida,D1,2.35,1.17,-1.18,0.98
+92,Samford University,D1,2.27,1.14,-1.13,1.68
+93,Brigham Young University-Hawaii,D2,2.27,1.13,-1.14,0.00
+94,UC Santa Barbara,D1,2.26,1.11,-1.15,5.57
+95,Drake University,D1,2.25,1.11,-1.14,0.40
+96,University of Central Florida,D1,2.22,1.13,-1.09,3.35
+97,Univ. of San Francisco,D1,2.21,1.10,-1.11,13.05
+98,Georgia State University,D1,2.17,1.06,-1.10,4.54
+99,North Carolina State,D1,2.16,1.09,-1.06,33.09
+100,University of Denver,D1,2.11,1.06,-1.05,1.45
+101,Miami University (Ohio),D1,2.11,1.05,-1.06,1.24
+102,University of New Mexico,D1,2.08,1.04,-1.04,7.11
+103,University of Pennsylvania,D1,2.07,1.05,-1.02,8.67
+104,University of Iowa,D1,2.06,1.05,-1.01,12.28
+105,Chattanooga,D1,1.99,1.01,-0.98,0.42
+106,University of North Texas,D1,1.95,0.96,-0.99,13.39
+107,East Tennessee State University,D1,1.93,0.96,-0.97,0.57
+108,Florida International University (FIU),D1,1.88,0.94,-0.94,3.39
+109,"Univ. of Hawaii, Manoa",D1,1.86,0.94,-0.92,8.55
+110,University of Nebraska,D1,1.85,0.95,-0.90,6.89
+111,Univ. of Wyoming,D1,1.81,0.88,-0.93,1.61
+112,Gonzaga University,D1,1.81,0.92,-0.88,1.85
+113,UC Irvine,D1,1.80,0.90,-0.89,3.05
+114,University of South Florida,D1,1.71,0.85,-0.86,26.38
+115,Cal State Northridge,D1,1.56,0.79,-0.77,1.46
+116,Boston University,D1,1.56,0.74,-0.82,0.56
+117,Xavier University,D1,1.50,0.75,-0.74,0.66
+118,Sacramento State,D1,1.38,0.70,-0.68,2.05
+119,"Univ. of Massachusetts, Amherst",D1,1.33,0.65,-0.69,0.31
+120,Murray State University,D1,1.28,0.64,-0.65,0.08
+121,Liberty University,D1,1.27,0.65,-0.62,0.44
+122,ULM (Univ. of Louisiana at Monroe),D1,1.24,0.60,-0.64,0.24
+123,Univ. of Pittsburgh,D1,1.13,0.58,-0.55,102.81
+124,Marquette,D1,1.05,0.53,-0.51,1.39
+125,Williams College,D3,1.04,0.50,-0.55,0.04
+126,Florida Gulf Coast University,D1,1.02,0.50,-0.52,2.92
+127,West Virginia University,D1,0.96,0.51,-0.46,6.38
+128,University of Idaho,D1,0.95,0.49,-0.46,0.44
+129,Kansas State,D1,0.95,0.46,-0.49,8.87
+130,Stetson University,D1,0.86,0.45,-0.41,0.32
+131,University of the Pacific (California),D1,0.82,0.42,-0.41,5.15
+132,Winthrop University,D1,0.77,0.39,-0.38,3.74
+133,Santa Clara University,D1,0.76,0.38,-0.38,9.51
+134,University of Nevada,D1,0.75,0.36,-0.39,1.38
+135,Texas A&M Corpus-Christi,D1,0.73,0.37,-0.36,0.67
+136,Univ. of Texas at San Antonio,D1,0.73,0.39,-0.34,1.39
+137,Troy University,D1,0.72,0.34,-0.39,0.84
+138,St. John's University,D1,0.72,0.37,-0.34,1.12
+139,Iowa State University,D1,0.70,0.33,-0.37,4.43
+140,Univ. of West Florida,D2,0.70,0.37,-0.33,0.03
+141,UAB,D1,0.70,0.34,-0.35,5.22
+142,University of Connecticut,D1,0.65,0.32,-0.34,0.64
+143,Coastal Carolina University,D1,0.64,0.32,-0.32,0.37
+144,College of Charleston,D1,0.64,0.34,-0.30,2.69
+145,Stephen F. Austin,D1,0.63,0.34,-0.29,1.02
+146,Nicholls State University,D1,0.57,0.29,-0.27,0.79
+147,UC Davis,D1,0.57,0.29,-0.27,0.72
+148,Louisiana Tech University,D1,0.56,0.28,-0.28,3.10
+149,Boise State University,D1,0.45,0.23,-0.22,1.29
+150,James Madison University,D1,0.37,0.17,-0.20,0.31
+151,Furman University,D1,0.34,0.17,-0.17,1.88
+152,Elon University,D1,0.33,0.17,-0.16,0.23
+153,Western Michigan University,D1,0.32,0.17,-0.16,0.39
+154,Utah State University,D1,0.27,0.12,-0.15,0.51
+155,Northwestern State University,D1,0.25,0.12,-0.12,0.56
+156,UTEP,D1,0.24,0.13,-0.11,0.31
+157,New Mexico State University,D1,0.23,0.11,-0.12,0.55
+158,University of San Diego,D1,0.22,0.12,-0.10,12.86
+159,UNLV,D1,0.21,0.12,-0.09,3.68
+160,East Carolina University,D1,0.16,0.08,-0.09,1.59
+161,Columbus State University,D2,0.15,0.09,-0.06,0.04
+162,Grand Canyon University,D1,0.14,0.05,-0.09,0.33
+163,Saint Leo University,D2,0.14,0.07,-0.07,0.08
+164,Charlotte,D1,0.11,0.06,-0.05,0.47
+165,Claremont-Mudd-Scripps,D3,0.05,0.05,0.00,0.00
+166,Emory University,D3,0.05,-0.01,-0.06,0.04
+167,Temple University,D1,0.04,0.01,-0.02,0.06
+168,U.S. Air Force Academy,D1,0.01,0.03,0.02,0.44
+169,University of Cincinnati,D1,0.00,0.00,0.00,1.21
+170,Northern Arizona University,D1,0.00,-0.01,-0.01,1.12
+171,Lynn University,D2,-0.08,-0.01,0.07,0.07
+172,Loyola Marymount University,D1,-0.09,-0.04,0.05,9.55
+173,Texas State University,D1,-0.09,-0.06,0.03,1.46
+174,Auburn University Montgomery,NAIA,-0.13,-0.07,0.06,0.00
+175,Eastern Kentucky University,D1,-0.17,-0.07,0.10,0.14
+176,McNeese State University,D1,-0.20,-0.09,0.11,1.27
+177,Saint Louis University,D1,-0.22,-0.11,0.11,0.05
+178,Western Kentucky University,D1,-0.22,-0.11,0.11,1.13
+179,Hawaii Pacific University,D2,-0.23,-0.18,0.05,0.05
+180,St. Mary's University (Texas),D2,-0.23,-0.13,0.10,0.01
+181,UNC Wilmington,D1,-0.28,-0.14,0.14,0.55
+182,Cal State Fullerton,D1,-0.29,-0.13,0.16,1.25
+183,Ball State University,D1,-0.29,-0.13,0.16,0.43
+184,Georgetown University,D1,-0.40,-0.20,0.20,0.41
+185,Cal Poly,D1,-0.42,-0.20,0.22,1.94
+186,Abilene Christian University,D1,-0.42,-0.19,0.23,1.06
+187,Bethune-Cookman University,D1,-0.44,-0.23,0.21,0.04
+188,Eastern Michigan University,D1,-0.46,-0.22,0.24,1.09
+189,Davidson College,D1,-0.47,-0.23,0.24,0.23
+190,Montana,D1,-0.52,-0.25,0.27,0.24
+191,University of Toledo,D1,-0.54,-0.28,0.26,0.52
+192,Akron,D1,-0.58,-0.28,0.31,0.25
+193,University of Southern Mississippi,D1,-0.65,-0.30,0.34,0.50
+194,Midwestern State University,D2,-0.67,-0.34,0.33,0.07
+195,University of Richmond,D1,-0.68,-0.33,0.35,0.49
+196,"Southern Illinois, Carbondale",D1,-0.68,-0.33,0.35,0.49
+197,Rutgers University,D1,-0.70,-0.36,0.34,4.05
+198,UNC Greensboro,D1,-0.71,-0.33,0.39,0.41
+199,Florida Atlantic University,D1,-0.73,-0.38,0.36,0.31
+200,Nova Southeastern University,D2,-0.75,-0.36,0.39,0.04
+201,University at Buffalo,D1,-0.78,-0.40,0.38,0.41
+202,University of Louisiana,D1,-0.82,-0.41,0.41,1.18
+203,Univ. of Central Arkansas,D1,-0.85,-0.43,0.42,0.12
+204,Drexel University,D1,-0.88,-0.44,0.44,0.04
+205,Lipscomb University,D1,-0.89,-0.43,0.46,0.18
+206,New York Institute of Technology,D2,-0.90,-0.45,0.45,0.02
+207,Southeastern Louisiana University,D1,-0.96,-0.46,0.50,0.11
+208,University of New Orleans,D1,-0.99,-0.49,0.50,0.42
+209,Bowdoin College,D3,-1.01,-0.55,0.46,0.03
+210,Georgia Southern University,D1,-1.08,-0.55,0.53,0.34
+211,Univ. of Incarnate Word,D1,-1.15,-0.55,0.60,1.56
+212,Northern Illinois University,D1,-1.31,-0.64,0.66,0.13
+213,Towson University,D1,-1.32,-0.66,0.65,0.05
+214,"Academy of Art University (San Francisco, CA)",D2,-1.36,-0.67,0.68,0.02
+215,Amherst College,D3,-1.36,-0.68,0.68,0.02
+216,Seton Hall University,D1,-1.39,-0.70,0.69,0.15
+217,Northeastern State,D2,-1.39,-0.70,0.69,0.01
+218,Univ. of Northern Iowa,D1,-1.41,-0.69,0.71,0.30
+219,Appalachian State University,D1,-1.41,-0.72,0.70,0.21
+220,Youngstown State University,D1,-1.41,-0.70,0.71,0.11
+221,Campbell University,D1,-1.43,-0.71,0.72,0.19
+222,Fordham University,D1,-1.43,-0.75,0.68,0.49
+223,Lamar University,D1,-1.45,-0.70,0.75,0.38
+224,IPFW,D1,-1.45,-0.70,0.76,0.04
+225,University of Detroit Mercy,D1,-1.46,-0.76,0.70,0.13
+226,"Southern Illinois, Edwardsville",D1,-1.47,-0.73,0.74,0.06
+227,Middlebury College,D3,-1.54,-0.75,0.79,0.02
+228,"Univ. of Maryland, Baltimore County",D1,-1.57,-0.77,0.80,0.48
+229,Univ. of Illinois at Chicago,D1,-1.66,-0.82,0.84,0.24
+230,U.S. Naval Academy,D1,-1.69,-0.83,0.86,0.06
+231,Eastern Illinois University,D1,-1.70,-0.84,0.86,0.07
+232,Duquesne University,D1,-1.72,-0.88,0.85,0.20
+233,Northwood University (Mich.),D2,-1.74,-0.87,0.87,0.00
+234,Cleveland State University,D1,-1.74,-0.85,0.88,0.17
+235,Georgia Gwinnett College,NAIA,-1.77,-0.87,0.90,0.02
+236,Univ. of Dayton,D1,-1.79,-0.89,0.90,0.18
+237,University at Albany,D1,-1.83,-0.90,0.93,0.22
+238,Georgia College,D2,-1.84,-0.96,0.89,0.03
+239,Univ. of Evansville,D1,-1.87,-0.95,0.92,0.20
+240,George Washington University,D1,-1.88,-0.93,0.95,1.39
+241,University of Texas-Pan American,D1,-1.93,-1.01,0.93,0.31
+242,Pomona-Pitzer Colleges,D3,-1.99,-0.97,1.03,0.01
+243,Radford University,D1,-2.01,-1.02,0.99,0.47
+244,Weber State,D1,-2.03,-1.00,1.03,0.10
+245,St. Bonaventure University,D1,-2.04,-1.00,1.04,0.07
+246,Morehead State University,D1,-2.04,-1.02,1.02,0.45
+247,Colorado State University,D1,-2.05,-1.03,1.03,0.70
+248,Queens College (New York),D2,-2.10,-1.02,1.08,0.00
+249,Lindsey Wilson (Ky.),NAIA,-2.11,-1.03,1.07,0.00
+250,Univ. of Northern Colorado,D1,-2.17,-1.09,1.08,0.29
+251,Creighton University,D1,-2.18,-1.11,1.07,0.04
+252,Drury University,D2,-2.19,-1.08,1.11,0.00
+253,Arkansas State University,D1,-2.20,-1.10,1.09,0.52
+254,Portland State University,D1,-2.29,-1.13,1.16,0.13
+255,Wright State University,D1,-2.30,-1.12,1.18,0.02
+256,Bryant University,D1,-2.31,-1.20,1.11,0.08
+257,University of Tennessee at Martin,D1,-2.32,-1.16,1.16,0.12
+258,Quinnipiac University,D1,-2.32,-1.20,1.13,0.02
+259,South Dakota State,D1,-2.35,-1.19,1.16,0.02
+260,Long Island University (Brooklyn),D1,-2.42,-1.26,1.17,0.04
+261,Bradley University,D1,-2.45,-1.22,1.24,0.10
+262,Binghamton University,D1,-2.46,-1.22,1.23,0.10
+263,Grand Valley State University,D2,-2.51,-1.33,1.18,0.01
+264,Saint Joseph's University,D1,-2.52,-1.25,1.27,0.08
+265,Johns Hopkins University,D3,-2.52,-1.31,1.21,0.00
+266,Washington University in St. Louis,D3,-2.62,-1.35,1.27,0.01
+267,Lehigh University,D1,-2.65,-1.34,1.31,0.03
+268,Sam Houston State University,D1,-2.69,-1.34,1.35,0.55
+269,UC San Diego,D2,-2.71,-1.33,1.37,0.08
+270,North Carolina Central University,D1,-2.73,-1.37,1.35,0.12
+271,Upper Iowa University,D2,-2.80,-1.46,1.34,0.00
+272,Univ. of Indianapolis,D2,-2.81,-1.39,1.41,0.01
+273,Azusa Pacific University,D2,-2.81,-1.41,1.40,0.02
+274,McKendree University (Ill.),D2,-2.82,-1.38,1.44,0.00
+275,Wofford,D1,-2.82,-1.40,1.41,0.11
+276,"Southern University, Baton Rouge",D1,-2.84,-1.45,1.39,0.02
+277,MIT,D3,-2.85,-1.42,1.42,0.02
+278,Eastern Washington University,D1,-2.87,-1.41,1.45,0.73
+279,Presbyterian College,D1,-2.88,-1.44,1.45,0.04
+280,Tusculum College,D2,-2.93,-1.49,1.45,0.00
+281,Gardner-Webb University,D1,-2.94,-1.45,1.50,0.31
+282,Providence College,D1,-2.95,-1.52,1.42,0.55
+283,University of Delaware,D1,-2.95,-1.45,1.50,0.22
+284,Flagler (Fla.),D2,-2.98,-1.48,1.50,0.07
+285,Indiana University of Pennsylvania,D2,-2.99,-1.51,1.48,0.00
+286,Montana State University-Bozeman,D1,-3.02,-1.53,1.49,0.63
+287,Butler University,D1,-3.02,-1.52,1.50,0.40
+288,U.S. Military Academy,D1,-3.03,-1.49,1.55,0.62
+289,Seattle University,D1,-3.04,-1.58,1.46,0.33
+290,UMKC,D1,-3.07,-1.55,1.52,0.10
+291,Concordia College (New York),D2,-3.10,-1.58,1.53,0.05
+292,Kennesaw State University,D1,-3.13,-1.55,1.59,0.90
+293,Carnegie Mellon University,D3,-3.13,-1.60,1.53,0.02
+294,University of South Dakota,D1,-3.15,-1.59,1.56,0.03
+295,Cal State L.A.,D2,-3.15,-1.57,1.58,0.05
+296,Univ. of Chicago,D3,-3.17,-1.64,1.53,0.02
+297,St. Edward's University,D2,-3.20,-1.62,1.58,0.04
+298,Wayne State (MI),D2,-3.23,-1.61,1.62,0.00
+299,Goldey-Beacom College,D2,-3.23,-1.62,1.62,0.00
+300,Missouri State University,D1,-3.25,-1.61,1.63,0.43
+301,Dallas Baptist (Texas),D2,-3.28,-1.63,1.65,0.01
+302,Villanova University,D1,-3.28,-1.64,1.64,0.17
+303,Longwood University,D1,-3.31,-1.66,1.65,0.08
+304,Wingate University,D2,-3.36,-1.67,1.69,0.00
+305,UNC Asheville,D1,-3.36,-1.65,1.71,0.04
+306,George Mason University,D1,-3.38,-1.73,1.65,0.01
+307,Rollins College,D2,-3.38,-1.67,1.71,0.06
+308,Wesleyan University,D3,-3.41,-1.71,1.70,0.01
+309,Shorter University,D2,-3.41,-1.70,1.72,0.01
+310,Queens University of Charlotte,D2,-3.44,-1.73,1.71,0.00
+311,"Univ. of Wisconsin, Milwaukee",D1,-3.45,-1.70,1.76,0.49
+312,Fairleigh Dickinson University,D1,-3.48,-1.73,1.75,0.09
+313,Univ. of North Dakota,D1,-3.49,-1.76,1.73,0.34
+314,Florida Tech,D2,-3.50,-1.78,1.72,0.01
+315,Belmont University,D1,-3.55,-1.75,1.80,0.13
+316,Oakland University,D1,-3.56,-1.81,1.76,0.21
+317,Idaho State University,D1,-3.59,-1.77,1.82,0.73
+318,Point Loma Nazarene University (Calif.),D2,-3.59,-1.78,1.81,0.13
+319,"University of South Carolina, Upstate",D1,-3.59,-1.78,1.81,0.34
+320,St. Francis Univ. (Pennsylvania),D1,-3.60,-1.79,1.81,0.04
+321,Morgan State University,D1,-3.60,-1.79,1.81,1.54
+322,Erskine College,D2,-3.60,-1.86,1.75,0.00
+323,Univ. of the South,D3,-3.64,-1.87,1.77,0.00
+324,Embry-Riddle (Fla.),NAIA,-3.64,-1.79,1.85,0.00
+325,Illinois State University,D1,-3.66,-1.81,1.85,1.06
+326,University of Rhode Island,D1,-3.66,-1.84,1.83,0.04
+327,South Carolina State,D1,-3.68,-1.83,1.86,0.92
+328,Jacksonville State University,D1,-3.70,-1.83,1.86,0.34
+329,Norfolk State University,D1,-3.70,-1.85,1.85,0.02
+330,Xavier University of Louisiana,NAIA,-3.71,-1.87,1.84,0.00
+331,Augustana College (South Dakota),D2,-3.73,-1.89,1.84,0.00
+332,Howard University,D1,-3.74,-1.86,1.88,0.06
+333,Palm Beach Atlantic (Fla.),D2,-3.75,-1.89,1.86,0.01
+334,Southwest Baptist,D2,-3.76,-1.90,1.86,0.00
+335,Washington & Lee University,D3,-3.78,-1.89,1.89,0.00
+336,California University of Pennsylvania,D2,-3.79,-1.86,1.93,0.00
+337,IUPUI,D1,-3.81,-1.92,1.88,0.05
+338,Pfeiffer University,D2,-3.85,-1.91,1.94,0.00
+339,DePauw University,D3,-3.95,-1.97,1.98,0.00
+340,Western Carolina University,D1,-3.95,-1.97,1.98,0.07
+341,Southern Utah University,D1,-3.96,-1.96,2.00,0.15
+342,Univ. of Redlands,D3,-4.02,-2.00,2.02,0.00
+343,Chestnut Hill College,D2,-4.04,-1.99,2.05,0.00
+344,Mercer University,D1,-4.08,-2.03,2.05,0.56
+345,Alcorn State University,D1,-4.09,-2.06,2.03,0.03
+346,Newman University,D2,-4.10,-2.06,2.03,0.01
+347,Sonoma State University,D2,-4.11,-2.05,2.06,0.00
+348,UC Riverside,D1,-4.12,-2.06,2.07,0.45
+349,Francis Marion University,D2,-4.14,-2.06,2.08,0.01
+350,Hofstra University,D1,-4.26,-2.14,2.12,0.00
+351,Chicago State University,D1,-4.32,-2.19,2.13,0.15
+352,Niagara University,D1,-4.33,-2.15,2.19,0.04
+353,Northern Kentucky University,D1,-4.34,-2.16,2.18,0.15
+354,GRU Augusta,D2,-4.39,-2.18,2.21,0.01
+355,Cardinal Strich University,NAIA,-4.39,-2.21,2.18,0.00
+356,Sacred Heart University,D1,-4.40,-2.22,2.18,0.07
+357,Cameron University,D2,-4.41,-2.18,2.23,0.01
+358,Arkansas Tech University,D2,-4.42,-2.23,2.19,0.00
+359,Case Western Reserve University,D3,-4.43,-2.26,2.16,0.00
+360,Limestone College,D2,-4.43,-2.20,2.23,0.00
+361,University of Mary Washington,D3,-4.44,-2.18,2.26,0.00
+362,Young Harris College,D2,-4.54,-2.25,2.29,0.00
+363,Northwest Missouri State,D2,-4.58,-2.31,2.27,0.00
+364,Valdosta State University,D2,-4.62,-2.33,2.29,0.06
+365,Brenau University (Ga.),NAIA,-4.63,-2.36,2.26,0.00
+366,Trinity University (Texas),D3,-4.63,-2.33,2.30,0.01
+367,Saginaw Valley State University,D2,-4.69,-2.38,2.31,0.00
+368,University of North Georgia,D2,-4.71,-2.34,2.37,0.00
+369,Florida A&M University,D1,-4.72,-2.40,2.32,0.04
+370,Ferris State University,D2,-4.77,-2.38,2.39,0.01
+371,Hope College,D3,-4.78,-2.42,2.36,0.00
+372,Bowling Green State University,D1,-4.79,-2.37,2.42,0.84
+373,Skidmore College,D3,-4.80,-2.43,2.37,0.01
+374,Vassar College,D3,-4.84,-2.44,2.40,0.00
+375,University of Tampa,D2,-4.84,-2.40,2.44,0.02
+376,Lander University,D2,-4.87,-2.42,2.45,0.01
+377,"University of Arkansas, Fort Smith",D2,-4.88,-2.43,2.45,0.01
+378,Savannah College of Art & Design,NAIA,-4.88,-2.44,2.44,0.00
+379,Univ. of Nebraska at Kearney,D2,-4.91,-2.47,2.44,0.00
+380,Clayton State University,D2,-4.92,-2.42,2.49,0.01
+381,Austin Peay State University,D1,-4.92,-2.44,2.48,0.38
+382,Bucknell University,D1,-4.97,-2.49,2.48,0.10
+383,Westmont College,NAIA,-5.03,-2.51,2.52,0.00
+384,Jackson State University,D1,-5.06,-2.54,2.52,0.53
+385,Whitman College,D3,-5.10,-2.54,2.56,0.00
+386,Tufts University,D3,-5.12,-2.52,2.59,0.01
+387,Florida Southern College,D2,-5.16,-2.58,2.58,0.03
+388,Fairfield University,D1,-5.18,-2.56,2.62,0.01
+389,"Texas A&M, Kingsville",D2,-5.18,-2.60,2.58,0.00
+390,Oral Roberts University,D1,-5.21,-2.61,2.60,0.06
+391,Tiffin University,D2,-5.22,-2.66,2.56,0.00
+392,Alabama State University,D1,-5.23,-2.62,2.60,0.01
+393,Denison University,D3,-5.30,-2.65,2.65,0.00
+394,Lewis University,D2,-5.33,-2.66,2.67,0.00
+395,Tarleton State University,D2,-5.35,-2.68,2.67,0.01
+396,"Nebraska, Omaha",D1,-5.39,-2.68,2.71,0.04
+397,Southeastern Oklahoma State,D2,-5.43,-2.71,2.73,0.00
+398,"Anderson University, South Carolina",D2,-5.45,-2.72,2.73,0.00
+399,Univ. of La Verne,D3,-5.49,-2.75,2.74,0.00
+400,NJIT,D1,-5.56,-2.76,2.80,0.22
+401,Southern Nazarene (Okla.),D2,-5.56,-2.75,2.81,0.00
+402,East Central University (Oklahoma),D2,-5.57,-2.78,2.79,0.00
+403,Emporia State University,D2,-5.57,-2.76,2.81,0.00
+404,Arizona Christian University,NAIA,-5.58,-2.76,2.81,0.00
+405,Olivet Nazarene (Ill.),NAIA,-5.62,-2.79,2.83,0.00
+406,"Univ. of South Carolina, Aiken",D2,-5.63,-2.79,2.84,0.01
+407,North Carolina Wesleyan,D3,-5.67,-2.83,2.83,0.00
+408,Marist College,D1,-5.73,-2.85,2.88,0.13
+409,"Univ. of Missouri, St. Louis",D2,-5.75,-2.87,2.88,0.00
+410,Univ. of Alabama in Huntsville,D2,-5.77,-2.88,2.89,0.00
+411,Univ. of North Alabama,D2,-5.82,-2.89,2.93,0.00
+412,Northwood (Fla.),NAIA,-5.84,-2.94,2.90,0.00
+413,Valparaiso University,D1,-5.89,-2.93,2.97,0.10
+414,Western New Mexico University,D2,-5.92,-3.02,2.90,0.01
+415,Walsh (Ohio),D2,-5.93,-2.98,2.95,0.00
+416,West Virginia State University,D2,-5.96,-2.99,2.97,0.00
+417,University of St. Thomas,D3,-6.00,-2.99,3.02,0.00
+418,Colgate University,D1,-6.00,-3.03,2.97,0.00
+419,Oklahoma Baptist,NAIA,-6.01,-2.99,3.02,0.00
+420,Mount Olive College,D2,-6.12,-3.05,3.07,0.00
+421,Whitworth University,D3,-6.17,-3.07,3.10,0.00
+422,University of Northwestern Ohio,NAIA,-6.20,-3.08,3.12,0.00
+423,"Univ. of Wisconsin, Whitewater",D3,-6.21,-3.10,3.10,0.00
+424,Rockhurst University,D2,-6.27,-3.15,3.12,0.00
+425,Brandeis University,D3,-6.29,-3.14,3.15,0.00
+426,College of New Jersey,D3,-6.30,-3.12,3.18,0.00
+427,Newberry College,D2,-6.31,-3.17,3.14,0.00
+428,University of West Alabama,D2,-6.31,-3.14,3.17,0.00
+429,Southeast Missouri State,D1,-6.31,-3.13,3.18,0.11
+430,Mercyhurst University,D2,-6.32,-3.12,3.20,0.00
+431,Evangel (Mo.),NAIA,-6.34,-3.14,3.20,0.00
+432,Lewis and Clark College (OR),D3,-6.39,-3.21,3.18,0.00
+433,Siena College,D1,-6.42,-3.17,3.25,0.01
+434,Carleton College,D3,-6.44,-3.21,3.22,0.00
+435,Loyola College (Maryland),D1,-6.49,-3.23,3.26,0.07
+436,Indiana Wesleyan,NAIA,-6.49,-3.24,3.25,0.00
+437,Willamette University,D3,-6.51,-3.23,3.28,0.00
+438,University of Central Oklahoma,D2,-6.53,-3.27,3.26,0.01
+439,Oberlin College,D3,-6.56,-3.26,3.31,0.00
+440,Univ. of Montevallo,D2,-6.58,-3.27,3.31,0.00
+441,Linfield College,D3,-6.60,-3.31,3.30,0.00
+442,Colorado Mesa University,D2,-6.64,-3.36,3.28,0.00
+443,Trinity College (Connecticut),D3,-6.68,-3.33,3.35,0.01
+444,Lewis-Clark State College (Idaho),NAIA,-6.69,-3.34,3.35,0.18
+445,Babson College,D3,-6.72,-3.38,3.34,0.02
+446,Hampton University,D1,-6.76,-3.41,3.35,0.16
+447,Southeastern University,NAIA,-6.77,-3.35,3.42,0.00
+448,Davenport University,NAIA,-6.78,-3.40,3.38,0.00
+449,Quincy University,D2,-6.79,-3.41,3.39,0.00
+450,"Univ. of Texas, Permian Basin",D2,-6.81,-3.42,3.39,0.02
+451,Wagner College,D1,-6.85,-3.45,3.40,0.08
+452,Delaware State University,D1,-6.88,-3.43,3.45,0.01
+453,Christopher Newport University,D3,-6.89,-3.43,3.46,0.00
+454,Savannah State University,D1,-6.89,-3.46,3.44,0.13
+455,The University of Texas at Tyler,D3,-6.91,-3.49,3.42,0.00
+456,Lincoln Memorial University,D2,-6.91,-3.43,3.48,0.00
+457,St. Lawrence University,D3,-6.93,-3.48,3.46,0.00
+458,Stillman College,D2,-6.94,-3.48,3.46,0.00
+459,Maryville University of Saint Louis,D2,-6.96,-3.48,3.48,0.00
+460,Southern New Hampshire University,D2,-6.96,-3.47,3.50,0.02
+461,Aquinas College (Mich),NAIA,-6.98,-3.51,3.47,0.00
+462,Prairie View A&M University,D1,-6.99,-3.51,3.48,0.17
+463,Washington College (Maryland),D3,-7.02,-3.48,3.54,0.00
+464,Hillsdale College,D2,-7.07,-3.50,3.57,0.04
+465,Missouri Western State University,D2,-7.09,-3.52,3.57,0.00
+466,Chapman University,D3,-7.10,-3.54,3.56,0.00
+467,William Carey University,NAIA,-7.11,-3.64,3.48,0.01
+468,"Univ. of Wisconsin, La Crosse",D3,-7.12,-3.61,3.51,0.00
+469,Coker College,D2,-7.13,-3.57,3.56,0.00
+470,Mississippi College,D2,-7.14,-3.56,3.59,0.00
+471,Washburn University,D2,-7.17,-3.57,3.59,0.00
+472,Harding University,D2,-7.21,-3.62,3.59,0.00
+473,Chowan University,D2,-7.25,-3.64,3.62,0.00
+474,"Minnesota State University, Moorhead",D2,-7.29,-3.70,3.59,0.00
+475,Wellesley College,D3,-7.29,-3.70,3.59,0.00
+476,Lee University,D2,-7.29,-3.66,3.63,0.00
+477,Merrimack College,D2,-7.30,-3.67,3.63,0.00
+478,Univ. of Southern Indiana,D2,-7.32,-3.68,3.64,0.00
+479,Cumberland (Tenn.),NAIA,-7.33,-3.70,3.64,0.00
+480,Kalamazoo College,D3,-7.39,-3.69,3.70,0.00
+481,Delta State University,D2,-7.40,-3.75,3.65,0.00
+482,University of Hartford,D1,-7.44,-3.69,3.75,0.10
+483,Lenoir-Rhyne University,D2,-7.44,-3.73,3.71,0.00
+484,UNC Pembroke,D2,-7.46,-3.71,3.74,0.01
+485,University of Sioux Falls,D2,-7.46,-3.71,3.75,0.00
+486,Carson-Newman College,D2,-7.51,-3.73,3.78,0.00
+487,Vanguard University of Southern California,NAIA,-7.51,-3.73,3.78,0.01
+488,College of Coastal Georgia,NAIA,-7.53,-3.79,3.74,0.01
+489,Lindenwood (Mo.),D2,-7.59,-3.77,3.82,0.01
+490,Lafayette College,D1,-7.60,-3.78,3.82,0.01
+491,McMurry University,D3,-7.62,-3.83,3.79,0.00
+492,William Jewell (Mo.),D2,-7.64,-3.81,3.84,0.00
+493,Bellarmine University,D2,-7.65,-3.82,3.83,0.00
+494,Middle Georgia State College,NAIA,-7.66,-3.90,3.76,0.00
+495,Bates College,D3,-7.67,-3.80,3.87,0.00
+496,Salisbury University,D3,-7.69,-3.82,3.86,0.00
+497,State University of New York at Geneseo,D3,-7.69,-3.86,3.84,0.00
+498,Univ. of the Sciences (Pa.),D2,-7.70,-3.85,3.85,0.00
+499,Adelphi University,D2,-7.70,-3.85,3.85,0.00
+500,Concordia University (Irvine),NAIA,-7.73,-3.83,3.89,0.00
+501,Gustavus Adolphus College,D3,-7.73,-3.86,3.87,0.00
+502,Univ. of Charleston (West Virginia),D2,-7.74,-3.91,3.83,0.00
+503,Slippery Rock Univ. of Pennsylvania,D2,-7.75,-3.89,3.86,0.00
+504,St. Peter's University,D1,-7.75,-3.86,3.89,0.00
+505,Western Illinois University,D1,-7.77,-3.90,3.86,0.02
+506,University of West Georgia,D2,-7.77,-3.91,3.86,0.00
+507,Colorado State University-Pueblo,D2,-7.79,-3.91,3.89,0.00
+508,Metropolitan State College of Denver,D2,-7.79,-3.88,3.91,0.00
+509,Ohio Northern University,D3,-7.80,-3.89,3.91,0.00
+510,Campbellsville University (Ky.),NAIA,-7.82,-3.91,3.91,0.00
+511,Holy Names University,D2,-7.83,-3.90,3.93,0.00
+512,Eckerd College,D2,-7.90,-3.90,3.99,0.01
+513,Birmingham-Southern College,D3,-7.90,-3.95,3.96,0.00
+514,Pacific University (Oregon),D3,-7.91,-3.94,3.97,0.00
+515,New York University,D3,-7.98,-3.99,3.99,0.00
+516,Franklin & Marshall,D3,-8.00,-3.99,4.00,0.00
+517,Wilkes University,D3,-8.01,-4.03,3.98,0.00
+518,Dalton State College,NAIA,-8.02,-4.06,3.97,0.00
+519,Milligan (Tenn.),NAIA,-8.03,-4.11,3.92,0.00
+520,"Univ. of Wisconsin, Green Bay",D1,-8.04,-4.01,4.04,0.02
+521,Augustana College (Illinois),D3,-8.05,-4.08,3.97,0.00
+522,Henderson State University,D2,-8.07,-4.06,4.01,0.00
+523,Georgetown College,NAIA,-8.08,-4.08,4.00,0.00
+524,Assumption College,D2,-8.09,-4.18,3.91,0.00
+525,University of Rochester,D3,-8.09,-4.04,4.05,0.00
+526,St. Catherine University,D3,-8.12,-4.07,4.05,0.00
+527,Coppin State College,D1,-8.12,-4.03,4.09,0.10
+528,Carthage College,D3,-8.13,-4.12,4.02,0.00
+529,Haverford College,D3,-8.16,-4.11,4.05,0.00
+530,Hanover College,D3,-8.17,-4.08,4.09,0.00
+531,St. Olaf College,D3,-8.19,-4.10,4.09,0.00
+532,Coe College,D3,-8.20,-4.08,4.11,0.00
+533,Hardin-Simmons University,D3,-8.24,-4.12,4.11,0.00
+534,La Salle University,D1,-8.24,-4.08,4.16,0.20
+535,Catawba College,D2,-8.33,-4.18,4.15,0.00
+536,California Lutheran University,D3,-8.37,-4.19,4.18,0.00
+537,Kenyon College,D3,-8.38,-4.22,4.17,0.00
+538,Hamilton College,D3,-8.39,-4.20,4.19,0.00
+539,Berry College (Ga.),D3,-8.41,-4.24,4.18,0.00
+540,Savannah College of Art & Design (Atlanta),NAIA,-8.44,-4.33,4.11,0.00
+541,Fort Hays State University,D2,-8.45,-4.20,4.25,0.00
+542,Texas Lutheran University,D3,-8.50,-4.23,4.27,0.00
+543,Cumberlands (Ky.),NAIA,-8.51,-4.24,4.27,0.01
+544,Wheaton College (Illinois),D3,-8.51,-4.29,4.22,0.00
+545,Stonehill College,D2,-8.52,-4.19,4.33,0.05
+546,Graceland University (Iowa),NAIA,-8.52,-4.29,4.23,0.00
+547,Methodist University,D3,-8.54,-4.30,4.24,0.00
+548,Centre College,D3,-8.56,-4.25,4.31,0.00
+549,West Liberty University,D2,-8.58,-4.32,4.25,0.00
+550,West Chester Univ. of Pennsylvania,D2,-8.61,-4.33,4.28,0.00
+551,McPherson College,NAIA,-8.66,-4.30,4.36,0.00
+552,Mount St. Mary's University,D1,-8.69,-4.38,4.30,0.08
+553,Montana State University-Billings,D2,-8.70,-4.39,4.32,0.01
+554,Rensselaer Polytechnic Institute,D3,-8.71,-4.34,4.37,0.00
+555,North Greenville University (S.C.),D2,-8.71,-4.34,4.37,0.00
+556,Univ. of Findlay,D2,-8.73,-4.36,4.37,0.03
+557,Dixie State University,D2,-8.75,-4.39,4.36,0.00
+558,Roberts Wesleyan (N.Y.),D2,-8.76,-4.38,4.38,0.00
+559,William Smith College,D3,-8.77,-4.38,4.39,0.00
+560,San Diego Christian College,NAIA,-8.77,-4.38,4.39,0.00
+561,Colorado College,D3,-8.80,-4.43,4.37,0.00
+562,Belhaven (Miss.),NAIA,-8.82,-4.44,4.38,0.00
+563,"Univ. of Wisconsin, Eau Claire",D3,-8.85,-4.45,4.40,0.00
+564,Edinboro University,D2,-8.86,-4.43,4.43,0.00
+565,Benedict College (S.C.),D2,-8.87,-4.43,4.44,0.00
+566,Whittier College,D3,-8.88,-4.46,4.43,0.00
+567,Cal State Stanislaus,D2,-8.90,-4.43,4.47,0.01
+568,Dominican University of California,D2,-9.03,-4.49,4.54,0.00
+569,John Carroll University,D3,-9.06,-4.56,4.49,0.00
+570,Philadelphia University,D2,-9.07,-4.59,4.47,0.00
+571,Mars Hill University,D2,-9.12,-4.53,4.58,0.00
+572,Seton Hill (Pa.),D2,-9.13,-4.60,4.53,0.00
+573,College of Idaho,NAIA,-9.13,-4.56,4.58,0.00
+574,Elizabethtown College,D3,-9.13,-4.58,4.55,0.00
+575,Bethel College (Kansas),NAIA,-9.14,-4.53,4.60,0.00
+576,Virginia State University,D2,-9.14,-4.56,4.58,0.00
+577,Millsaps College,D3,-9.15,-4.57,4.58,0.00
+578,Southwest Minnesota State University,D2,-9.15,-4.60,4.55,0.00
+579,Univ. of District of Columbia,D2,-9.16,-4.56,4.60,0.00
+580,Monmouth University,D1,-9.17,-4.55,4.62,0.04
+581,Ashland University,D2,-9.17,-4.67,4.49,0.00
+582,Connecticut College,D3,-9.17,-4.62,4.55,0.00
+583,George Fox University,D3,-9.18,-4.57,4.61,0.00
+584,Morningside College,NAIA,-9.18,-4.68,4.50,0.00
+585,St. Norbert College,D3,-9.19,-4.61,4.58,0.00
+586,Schreiner (Texas),D3,-9.19,-4.58,4.61,0.00
+587,Marian Univ. (Ind.),NAIA,-9.23,-4.64,4.59,0.00
+588,Cabrini College,D3,-9.24,-4.61,4.62,0.00
+589,Bemidji State University,D2,-9.25,-4.64,4.62,0.00
+590,St. Thomas University (Fla.),NAIA,-9.29,-4.66,4.63,0.00
+591,Mount Union College,D3,-9.31,-4.68,4.63,0.00
+592,Pacific Lutheran University,D3,-9.33,-4.64,4.68,0.00
+593,Allegheny College,D3,-9.40,-4.72,4.68,0.00
+594,Northwestern College (Minn.),D3,-9.41,-4.69,4.72,0.00
+595,Cornell College,D3,-9.41,-4.80,4.61,0.00
+596,Roanoke College,D3,-9.45,-4.75,4.70,0.00
+597,UC Santa Cruz,D3,-9.45,-4.72,4.74,0.00
+598,Holy Cross,D1,-9.48,-4.68,4.81,0.00
+599,Truman State University,D2,-9.49,-4.74,4.75,0.00
+600,Ashford University,NAIA,-9.50,-4.75,4.75,0.00
+601,St. Cloud State University,D2,-9.51,-4.79,4.72,0.00
+602,Otterbein College,D3,-9.58,-4.82,4.77,0.00
+603,Luther College,D3,-9.60,-4.89,4.72,0.00
+604,Mount Holyoke College,D3,-9.65,-4.80,4.85,0.00
+605,Michigan Technological University,D2,-9.69,-4.96,4.73,0.00
+606,Alabama A&M University,D1,-9.70,-4.86,4.84,0.35
+607,Clark Atlanta University,D2,-9.73,-4.90,4.82,0.00
+608,Rider University,D1,-9.75,-4.86,4.89,0.08
+609,Brevard College,D2,-9.80,-4.89,4.90,0.00
+610,Ursinus College,D3,-9.80,-4.90,4.90,0.00
+611,Muhlenberg College,D3,-9.83,-4.88,4.95,0.00
+612,University of Mobile (Ala.),NAIA,-9.83,-4.90,4.94,0.00
+613,Ouachita Baptist,D2,-9.83,-4.90,4.93,0.00
+614,Holy Family University,D2,-9.84,-4.87,4.97,0.00
+615,Sweet Briar College,D3,-9.87,-4.93,4.94,0.00
+616,Barton College (NC),D2,-9.88,-4.93,4.95,0.00
+617,Shaw University,D2,-9.88,-4.91,4.97,0.00
+618,Manhattan College,D1,-9.90,-4.98,4.92,0.01
+619,Martin Methodist (Tenn.),NAIA,-9.97,-5.08,4.89,0.00
+620,Swarthmore College,D3,-9.99,-5.00,4.99,0.00
+621,Rhodes College,D3,-9.99,-5.04,4.95,0.00
+622,Stockton University,D3,-10.03,-5.14,4.89,0.00
+623,Simmons College,D3,-10.03,-4.99,5.04,0.00
+624,Austin College,D3,-10.05,-5.02,5.02,0.00
+625,Southwestern University (TX),D3,-10.05,-5.02,5.03,0.00
+626,Southwestern College (Kansas),NAIA,-10.08,-5.05,5.03,0.00
+627,Georgia Southwestern State,D2,-10.09,-5.00,5.09,0.02
+628,Catholic University of America,D3,-10.11,-5.06,5.05,0.00
+629,Winona State University,D2,-10.12,-5.03,5.09,0.00
+630,Univ. of New Haven,D2,-10.15,-5.07,5.08,0.22
+631,Meredith College,D3,-10.16,-5.09,5.07,0.00
+632,Concordia College,D2,-10.22,-5.10,5.11,0.07
+633,Cedarville  University (Ohio),D2,-10.24,-5.16,5.08,0.00
+634,Le Moyne College,D2,-10.25,-5.09,5.15,0.00
+635,Ottawa University,NAIA,-10.27,-5.15,5.12,0.00
+636,University of Scranton,D3,-10.28,-5.13,5.16,0.00
+637,Minnesota State University-Moorhead,D2,-10.31,-5.23,5.09,0.00
+638,Lake Superior State University,D2,-10.32,-5.20,5.12,0.00
+639,Oglethorpe University,D3,-10.35,-5.17,5.18,0.00
+640,Baker University (Kan.),NAIA,-10.37,-5.19,5.17,0.00
+641,The University of Texas at Dallas,D3,-10.37,-5.16,5.21,0.00
+642,Carroll University (Wisconsin),D3,-10.38,-5.20,5.17,0.00
+643,College of Saint Benedict,D3,-10.44,-5.22,5.21,0.00
+644,Minnesota State University-Mankato,D2,-10.46,-5.19,5.27,0.00
+645,Agnes Scott,D3,-10.48,-5.23,5.25,0.00
+646,Purdue University Calumet,NAIA,-10.50,-5.24,5.26,0.00
+647,Univ. of Mary Hardin-Baylor,D3,-10.50,-5.24,5.26,0.00
+648,"Univ. of Minnesota, Duluth",D2,-10.54,-5.24,5.31,0.00
+649,Grinnell College,D3,-10.55,-5.33,5.22,0.00
+650,East Texas Baptist University,D3,-10.58,-5.30,5.29,0.00
+651,California Institute of Technology,D3,-10.60,-5.29,5.32,0.00
+652,Ithaca College,D3,-10.67,-5.30,5.37,0.00
+653,Christian Brothers University,D2,-10.67,-5.32,5.35,0.01
+654,Nebraska Wesleyan,NAIA,-10.69,-5.37,5.32,0.00
+655,Hendrix College,D3,-10.70,-5.33,5.37,0.00
+656,St. Mary's College of Maryland,D3,-10.74,-5.43,5.32,0.00
+657,Univ. of Puget Sound,D3,-10.75,-5.36,5.39,0.00
+658,Randolph-Macon College,D3,-10.79,-5.37,5.42,0.00
+659,Biola University,NAIA,-10.80,-5.39,5.41,0.00
+660,Covenant College,D3,-10.83,-5.42,5.41,0.00
+661,Spring Arbor (Mich.),NAIA,-10.84,-5.42,5.42,0.00
+662,Webber International University,NAIA,-10.87,-5.44,5.43,0.00
+663,Colby College,D3,-10.88,-5.43,5.44,0.00
+664,Bluefield State College,D2,-10.88,-5.42,5.47,0.00
+665,Tuskegee University,D2,-10.91,-5.48,5.43,0.00
+666,State University College at New Paltz,D3,-10.92,-5.53,5.39,0.00
+667,Warner University (Fla.),NAIA,-10.93,-5.44,5.49,0.00
+668,St. Scholastica (Minn.),D3,-10.95,-5.53,5.42,0.00
+669,Tennessee State University,D1,-10.96,-5.46,5.49,0.09
+670,Tabor College (Kan.),NAIA,-10.97,-5.44,5.53,0.00
+671,North Carolina A&T State,D1,-11.03,-5.52,5.51,0.14
+672,Bethel UMN,D3,-11.03,-5.55,5.48,0.00
+673,Tennessee Wesleyan,NAIA,-11.04,-5.55,5.49,0.00
+674,College of Wooster,D3,-11.05,-5.56,5.49,0.00
+675,Univ. of Arkansas Pine Bluff,D1,-11.05,-5.58,5.47,0.13
+676,Ohio Wesleyan University,D3,-11.08,-5.53,5.55,0.00
+677,Juniata College,D3,-11.11,-5.58,5.53,0.00
+678,Missouri Valley College,NAIA,-11.15,-5.54,5.61,0.00
+679,St. Thomas Aquinas,D2,-11.16,-5.68,5.48,0.00
+680,"Univ. of Puerto Rico, Mayaguez",D2,-11.20,-5.63,5.57,0.00
+681,Reinhardt (Ga.),NAIA,-11.20,-5.55,5.65,0.00
+682,Lincoln University of Missouri,D2,-11.21,-5.59,5.63,0.01
+683,Cornerstone University,NAIA,-11.22,-5.58,5.64,0.00
+684,Howard Payne University,D3,-11.30,-5.67,5.63,0.00
+685,Bridgewater College (Virginia),D3,-11.31,-5.66,5.65,0.00
+686,Huntingdon College(Ala.),D3,-11.35,-5.67,5.68,0.00
+687,Central College (Iowa),D3,-11.37,-5.62,5.75,0.00
+688,Farmingdale State College,D3,-11.41,-5.69,5.72,0.00
+689,Shenandoah University,D3,-11.41,-5.69,5.72,0.00
+690,Wartburg College,D3,-11.44,-5.67,5.77,0.00
+691,Kansas Wesleyan,NAIA,-11.47,-5.71,5.77,0.00
+692,St. Francis College (New York),D1,-11.48,-5.72,5.76,0.02
+693,John Brown (Ark.),NAIA,-11.54,-5.73,5.81,0.00
+694,Gordon College,D3,-11.55,-5.91,5.63,0.00
+695,Grambling State University,D1,-11.57,-5.75,5.82,0.02
+696,Calvin College,D3,-11.58,-5.88,5.70,0.00
+697,Webster University,D3,-11.59,-5.89,5.70,0.00
+698,Ramapo College,D3,-11.59,-5.78,5.81,0.00
+699,Saint Mary's College (Indiana),D3,-11.61,-5.88,5.72,0.00
+700,Occidental College,D3,-11.61,-5.79,5.82,0.00
+701,Lees-McRae College,D2,-11.63,-5.80,5.83,0.00
+702,Converse College,D2,-11.63,-5.80,5.83,0.00
+703,Johnson C. Smith University,D2,-11.64,-5.84,5.80,0.00
+704,Univ. of Mary (N.D.),D2,-11.65,-5.79,5.86,0.00
+705,Davis and Elkins College,D2,-11.67,-5.84,5.82,0.00
+706,Nichols College,D3,-11.70,-5.96,5.74,0.00
+707,Elmira College,D3,-11.73,-5.84,5.88,0.00
+708,Southwestern Christian University,NAIA,-11.73,-5.88,5.85,0.00
+709,Endicott College,D3,-11.73,-5.82,5.91,0.00
+710,Berea College (Ky.),NAIA,-11.73,-5.99,5.74,0.00
+711,Univ. of Illinois at Springfield,D2,-11.75,-5.85,5.90,0.00
+712,Western Connecticut State,D3,-11.79,-5.90,5.89,0.00
+713,"Univ. of Minnesota, Morris",D3,-11.79,-5.90,5.89,0.00
+714,Aurora University,D3,-11.79,-5.90,5.89,0.00
+715,Hunter College,D3,-11.79,-5.90,5.89,0.00
+716,Brooklyn College,D3,-11.79,-5.90,5.89,0.00
+717,Brescia University (Kentucky),NAIA,-11.83,-5.88,5.95,0.00
+718,Colorado Christian University,D2,-11.87,-5.91,5.96,0.00
+719,Gettysburg College,D3,-11.89,-5.92,5.97,0.00
+720,Huntington (Ind.),NAIA,-11.89,-5.99,5.90,0.00
+721,Indiana University Southeast,NAIA,-11.92,-6.00,5.91,0.00
+722,Trine University,D3,-11.94,-6.04,5.90,0.00
+723,Fort Valley State University,D2,-11.96,-6.00,5.96,0.00
+724,"Univ. of Hawaii, Hilo",D2,-11.99,-5.99,6.00,0.07
+725,West Virginia Wesleyan College,D2,-12.00,-6.03,5.97,0.00
+726,"University of Puerto Rico, Bayamon",D2,-12.00,-5.99,6.01,0.00
+727,Randolph College,D3,-12.01,-6.03,5.98,0.00
+728,Moravian College,D3,-12.05,-6.03,6.02,0.00
+729,"Louisiana State University, Alexandria",NAIA,-12.05,-6.01,6.04,0.10
+730,Bentley University,D2,-12.07,-6.08,5.99,0.00
+731,Smith College,D3,-12.10,-6.02,6.08,0.00
+732,Roger Williams University,D3,-12.13,-6.06,6.07,0.00
+733,Shawnee State (Ohio),NAIA,-12.14,-6.05,6.09,0.00
+734,Pratt Institute of Technology,D3,-12.17,-6.07,6.10,0.00
+735,"Univ. of Puerto Rico, Piedras",D2,-12.17,-6.06,6.11,0.00
+736,Shepherd University,D2,-12.17,-6.23,5.94,0.00
+737,Columbia College (S.C.),NAIA,-12.17,-6.07,6.10,0.00
+738,Chaminade University,D2,-12.20,-6.10,6.10,0.16
+739,Friends (Kan.),NAIA,-12.24,-6.08,6.16,0.00
+740,Pikeville (Ky.),NAIA,-12.30,-6.12,6.18,0.00
+741,Winston-Salem State,D2,-12.30,-6.13,6.16,0.00
+742,Maryville College (Tenn.),D3,-12.30,-6.12,6.18,0.00
+743,Ave Maria University,NAIA,-12.30,-6.14,6.16,0.00
+744,St. Ambrose University (Iowa),NAIA,-12.34,-6.24,6.10,0.00
+745,Taylor (Ind.),NAIA,-12.34,-6.19,6.15,0.00
+746,Clarion University of Pennsylvania,D2,-12.35,-6.17,6.18,0.00
+747,Concordia University (Neb.),NAIA,-12.44,-6.19,6.24,0.00
+748,Judson College,NAIA,-12.49,-6.32,6.17,0.00
+749,Dickinson College,D3,-12.51,-6.24,6.26,0.00
+750,Univ. of St. Francis (Ind.),NAIA,-12.51,-6.15,6.36,0.00
+751,Kingsborough Community College,D3,-12.52,-6.63,5.89,0.00
+752,Rose-Hulman Institute of Technology,D3,-12.52,-6.27,6.26,0.00
+753,"Univ. of Wisconsin, Oshkosh",D3,-12.57,-6.26,6.31,0.00
+754,Lebanon Valley College,D3,-12.58,-6.27,6.31,0.00
+755,College of the Southwest,NAIA,-12.64,-6.30,6.34,0.00
+756,LaGrange College,D3,-12.64,-6.29,6.35,0.00
+757,Univ. of St. Francis (Ill.),NAIA,-12.65,-6.38,6.28,0.00
+758,Springfield College,D3,-12.68,-6.42,6.27,0.00
+759,Grand View University,NAIA,-12.71,-6.31,6.39,0.00
+760,Indiana Tech,NAIA,-12.73,-6.35,6.38,0.00
+761,Saint Mary's University of Minnesota,D3,-12.75,-6.36,6.39,0.00
+762,Loras College,D3,-12.77,-6.33,6.43,0.00
+763,Robert Morris University (Illinois),NAIA,-12.78,-6.38,6.39,0.00
+764,Misericordia University,D3,-12.78,-6.41,6.37,0.00
+765,Sul Ross State,D3,-12.79,-6.42,6.36,0.00
+766,Piedmont College,D3,-12.83,-6.41,6.42,0.00
+767,Principia College,D3,-12.83,-6.39,6.44,0.00
+768,Goucher College,D3,-12.84,-6.42,6.42,0.00
+769,Northwestern College (Iowa),NAIA,-12.88,-6.42,6.45,0.00
+770,College of Staten Island,D3,-12.89,-6.43,6.46,0.00
+771,Hastings College,NAIA,-12.89,-6.49,6.40,0.00
+772,University of the Southwest,NAIA,-12.96,-6.46,6.51,0.00
+773,Belmont Abbey College,D2,-12.97,-6.47,6.50,0.00
+774,Franklin College,D3,-12.99,-6.45,6.54,0.00
+775,Lawrence Tech,NAIA,-13.01,-6.50,6.51,0.00
+776,York College (Pennsylvania),D3,-13.04,-6.52,6.52,0.00
+777,Daemen College,D2,-13.06,-6.59,6.47,0.00
+778,Colby-Sawyer College,D3,-13.08,-6.58,6.50,0.00
+779,East Stroudsburg University of Pennsylvania,D2,-13.12,-6.63,6.49,0.00
+780,Lake Forest College,D3,-13.13,-6.58,6.55,0.00
+781,Edgewood College,D3,-13.14,-6.61,6.53,0.00
+782,Salem College,D3,-13.15,-6.57,6.58,0.00
+783,Hamline University,D3,-13.16,-6.56,6.59,0.00
+784,Union College (New York),D3,-13.19,-6.56,6.64,0.00
+785,Westminster College (PA),D3,-13.22,-6.64,6.58,0.00
+786,Alvernia University,D3,-13.24,-6.60,6.64,0.00
+787,Fairmont State University,D2,-13.25,-6.64,6.61,0.00
+788,Messiah College,D3,-13.26,-6.65,6.62,0.00
+789,Adrian College,D3,-13.28,-6.63,6.65,0.00
+790,Rochester Institute of Technology,D3,-13.29,-6.63,6.66,0.00
+791,Doane College,NAIA,-13.29,-6.68,6.61,0.00
+792,Heidelberg College,D3,-13.31,-6.68,6.63,0.00
+793,University of the Southwest,NAIA,-13.38,-6.75,6.62,0.00
+794,Bloomsburg University of Pennsylvania,D2,-13.38,-6.79,6.59,0.00
+795,Bethany College (Kan.),NAIA,-13.42,-6.67,6.75,0.00
+796,Regis College,D3,-13.45,-6.80,6.66,0.00
+797,Marietta College,D3,-13.45,-6.79,6.66,0.00
+798,LeTourneau University,D3,-13.47,-6.72,6.76,0.00
+799,Univ. of Virginia's College at Wise,D2,-13.48,-6.72,6.75,0.00
+800,Wittenberg University,D3,-13.48,-6.70,6.78,0.00
+801,Saint Joseph's College (IN),D2,-13.52,-6.79,6.72,0.00
+802,Southern Virginia University,D3,-13.55,-6.76,6.79,0.00
+803,Asbury (Ky.),NAIA,-13.55,-6.75,6.80,0.00
+804,Stevens Institute of Technology,D3,-13.56,-6.79,6.77,0.00
+805,Wheaton College (Massachusetts),D3,-13.57,-6.76,6.81,0.00
+806,Nazareth College,D3,-13.58,-6.84,6.74,0.00
+807,Lindenwood University (Illinois),NAIA,-13.58,-6.72,6.87,0.00
+808,Alma College,D3,-13.60,-6.70,6.90,0.00
+809,Bethel University (Tenn.),NAIA,-13.61,-6.83,6.79,0.00
+810,Cheyney University,D2,-13.64,-6.78,6.86,0.00
+811,Bluefield College,NAIA,-13.67,-6.82,6.85,0.00
+812,Bethel (Ind.),NAIA,-13.68,-6.77,6.91,0.00
+813,Millikin University,D3,-13.72,-6.93,6.79,0.00
+814,Hollins University,D3,-13.74,-6.86,6.88,0.00
+815,Guilford College,D3,-13.75,-6.85,6.90,0.00
+816,Calumet-St. Joseph (Ind.),NAIA,-13.77,-6.88,6.89,0.00
+817,York College (New York),D3,-13.79,-6.89,6.90,0.00
+818,Univ. of Maryland Eastern Shore,D1,-13.81,-6.88,6.93,0.00
+819,Macalester College,D3,-13.81,-6.90,6.92,0.00
+820,State University College at Oswego,D3,-13.83,-6.90,6.93,0.00
+821,Alfred University,D3,-13.90,-6.87,7.03,0.00
+822,Bryn Mawr College,D3,-13.92,-6.96,6.96,0.00
+823,Bowie State University,D2,-13.97,-6.99,6.98,0.00
+824,Grove City College,D3,-14.00,-6.94,7.05,0.00
+825,Virginia Wesleyan College,D3,-14.01,-6.99,7.02,0.00
+826,Loyola University New Orleans,NAIA,-14.02,-7.06,6.96,0.00
+827,"Univ. of Wisconsin, Stevens Point",D3,-14.06,-7.13,6.93,0.00
+828,Missouri Baptist,NAIA,-14.20,-7.09,7.11,0.00
+829,North Central College,D3,-14.23,-7.08,7.15,0.02
+830,Susquehanna University,D3,-14.25,-7.09,7.16,0.00
+831,Indiana University East,NAIA,-14.25,-7.11,7.15,0.00
+832,Hope International University,NAIA,-14.26,-7.12,7.14,0.00
+833,Capital University,D3,-14.31,-7.12,7.19,0.00
+834,Gwynedd Mercy University,D3,-14.34,-7.16,7.19,0.00
+835,Albion College,D3,-14.37,-7.20,7.17,0.00
+836,SUNY Purchase,D3,-14.37,-7.17,7.20,0.00
+837,"Union College, Kentucky",NAIA,-14.38,-7.18,7.20,0.00
+838,Lane College,D2,-14.39,-7.21,7.18,0.00
+839,Penn State Berks,D3,-14.39,-7.25,7.15,0.00
+840,Oneonta State,D3,-14.41,-7.27,7.14,0.00
+841,Illinois Wesleyan University,D3,-14.42,-7.32,7.10,0.00
+842,St. Louis College of Pharmacy,NAIA,-14.42,-7.12,7.31,0.00
+843,King's College (Pennsylvania),D3,-14.44,-7.25,7.18,0.00
+844,"University of Minnesota, Crookston",D2,-14.44,-7.24,7.21,0.00
+845,College of Saint Mary,NAIA,-14.46,-7.28,7.18,0.00
+846,Alderson Broaddus College,D2,-14.47,-7.22,7.25,0.00
+847,Point University,NAIA,-14.48,-7.23,7.26,0.00
+848,Arcadia University,D3,-14.52,-7.20,7.32,0.00
+849,Penn State Abington,D3,-14.54,-7.27,7.27,0.00
+850,"Olivet College, MI",D3,-14.55,-7.24,7.31,0.00
+851,"Fairleigh Dickinson University, College at Florham",D3,-14.60,-7.35,7.25,0.00
+852,Drew University,D3,-14.62,-7.32,7.30,0.00
+853,Wells College,D3,-14.76,-7.34,7.42,0.00
+854,Medaille College,D3,-14.86,-7.35,7.51,0.00
+855,Baldwin-Wallace College,D3,-14.88,-7.47,7.41,0.00
+856,Concord University,D2,-14.90,-7.42,7.48,0.00
+857,Lawrence University,D3,-14.93,-7.40,7.53,0.00
+858,Concordia University (Wisconsin),D3,-14.99,-7.51,7.48,0.00
+859,Salve Regina University,D3,-15.12,-7.50,7.62,0.00
+860,North Park University,D3,-15.24,-7.59,7.65,0.00
+861,Curry College,D3,-15.25,-7.62,7.63,0.00
+862,Simpson College,D3,-15.26,-7.76,7.51,0.00
+863,Midland Lutheran (Neb.),NAIA,-15.30,-7.60,7.70,0.00
+864,"Univ. of Wisconsin, Stout",D3,-15.31,-7.67,7.64,0.00
+865,Lynchburg College,D3,-15.32,-7.64,7.68,0.00
+866,Livingstone College,D2,-15.33,-7.69,7.64,0.00
+867,Fayetteville State University,D2,-15.34,-7.63,7.71,0.00
+868,Spring Hill (Ala.),NAIA,-15.34,-7.71,7.64,0.00
+869,Emory & Henry College,D3,-15.35,-7.66,7.69,0.00
+870,King University (Tenn.),D2,-15.38,-7.67,7.70,0.00
+871,Rust College,D3,-15.39,-7.66,7.73,0.00
+872,Central Christian College,NAIA,-15.39,-7.67,7.72,0.00
+873,Mills College (Calif.),D3,-15.40,-7.68,7.72,0.00
+874,"Albany State, Georgia",D2,-15.41,-7.69,7.72,0.00
+875,"Univ. of Wisconsin, River Falls",D3,-15.43,-7.73,7.70,0.00
+876,Westminster College (Missouri),D3,-15.48,-7.70,7.78,0.00
+877,State University College at Cortland,D3,-15.50,-7.73,7.77,0.00
+878,William Peace University,D3,-15.51,-7.73,7.77,0.00
+879,Hood College,D3,-15.59,-7.78,7.81,0.00
+880,Averett University,D3,-15.60,-7.78,7.81,0.00
+881,Bard College,D3,-15.64,-7.82,7.82,0.00
+882,Le Moyne-Owen College,D2,-15.74,-7.87,7.87,0.00
+883,St. John Fisher College,D3,-15.75,-8.01,7.74,0.00
+884,McDaniel College,D3,-15.83,-7.95,7.88,0.00
+885,Southern Wesleyan University,D2,-15.87,-7.92,7.95,0.00
+886,Millersville University of Pennsylvania,D2,-15.89,-7.97,7.92,0.00
+887,Wentworth Institute of Technology,D3,-15.89,-7.86,8.03,0.00
+888,Muskingum College,D3,-15.89,-7.95,7.94,0.00
+889,Emmanuel College (Ga.),D2,-15.90,-7.93,7.97,0.00
+890,"Louisiana State University, Shreveport",NAIA,-15.90,-7.91,8.00,0.00
+891,Yeshiva University,D3,-15.93,-7.95,7.98,0.00
+892,Saint Vincent College,D3,-16.05,-8.02,8.03,0.00
+893,Albright College,D3,-16.05,-8.02,8.03,0.00
+894,Transylvania University,D3,-16.06,-8.06,8.00,0.00
+895,La Roche College,D3,-16.07,-7.96,8.11,0.00
+896,Stevenson University,D3,-16.08,-8.02,8.06,0.00
+897,Oakland City University,D2,-16.11,-8.06,8.05,0.00
+898,Washington & Jefferson College,D3,-16.11,-8.06,8.05,0.00
+899,Ripon College,D3,-16.14,-8.00,8.14,0.00
+900,"Texas A&M University, Texarkana",NAIA,-16.18,-8.12,8.06,0.00
+901,Tougaloo College,NAIA,-16.23,-8.09,8.14,0.00
+902,Ursuline College,D2,-16.28,-8.05,8.22,0.00
+903,Shippensburg University of Pennsylvania,D2,-16.31,-8.13,8.18,0.00
+904,Eastern University,D3,-16.33,-8.18,8.15,0.00
+905,Our Lady of the Lake University,NAIA,-16.49,-8.27,8.21,0.00
+906,Alverno College,D3,-16.50,-8.23,8.27,0.00
+907,Stephens College,NAIA,-16.52,-8.24,8.28,0.00
+908,Virginia Union University,D2,-16.57,-8.31,8.26,0.00
+909,Martin Luther (Minn.),D3,-16.70,-8.31,8.39,0.00
+910,Keuka College,D3,-16.70,-8.34,8.36,0.00
+911,Notre Dame de Namur,D2,-16.78,-8.37,8.40,0.00
+912,Centenary College (Louisiana),D3,-16.84,-8.43,8.42,0.00
+913,Knox College,D3,-16.94,-8.42,8.52,0.00
+914,Elizabeth City State University,D2,-16.98,-8.54,8.43,0.00
+915,Roosevelt University,NAIA,-16.98,-8.47,8.51,0.00
+916,Monmouth College,D3,-17.04,-8.52,8.52,0.00
+917,"Central State University, OH",D2,-17.09,-8.55,8.55,0.00
+918,Penn State Harrisburg,D3,-17.20,-8.57,8.63,0.00
+919,"Concordia College, Moorhead",D3,-17.25,-8.59,8.66,0.00
+920,Wisconsin Lutheran College,D3,-17.31,-8.64,8.67,0.00
+921,Benedictine University (Illinois),D3,-17.37,-8.75,8.62,0.00
+922,Manchester College,D3,-17.47,-8.74,8.72,0.00
+923,Kutztown University of Pennsylvania,D2,-17.57,-8.89,8.68,0.00
+924,"Univ. of Massachusetts, Boston",D3,-17.61,-8.77,8.84,0.00
+925,Mary Baldwin College,D3,-17.89,-8.93,8.97,0.00
+926,Beloit College,D3,-17.96,-8.97,8.99,0.00
+927,Kentucky Wesleyan College,D2,-18.02,-8.97,9.04,0.00
+928,Bethany Lutheran College,D3,-18.07,-9.06,9.01,0.00
+929,Univ. of the Ozarks (Arkansas),D3,-18.14,-9.07,9.06,0.00
+930,Trinity College (District of Columbia),D3,-18.19,-9.07,9.13,0.00
+931,Lycoming College,D3,-18.22,-9.10,9.12,0.00
+932,Worcester State University,D3,-18.29,-9.07,9.23,0.00
+933,Greenville College,D3,-18.31,-9.13,9.18,0.00
+934,North Central University (Minnesota),D3,-18.42,-9.15,9.27,0.00
+935,Frostburg State University,D3,-18.49,-9.24,9.25,0.00
+936,Lancaster Bible College,D3,-18.85,-9.40,9.44,0.00
+937,Ferrum College,D3,-18.98,-9.47,9.51,0.00
+938,Penn College of Technology,D3,-19.44,-9.73,9.72,0.00
+939,Delaware Valley College,D3,-19.69,-9.86,9.83,0.00
+940,Greensboro College,D3,-19.92,-9.94,9.98,0.00
+941,Wesleyan College (Georgia),D3,-20.08,-10.03,10.05,0.00
+942,St. Catharine College,NAIA,-20.18,-9.93,10.26,0.00
+943,Fontbonne College,D3,-20.45,-10.24,10.22,0.00
+944,Blackburn College,D3,-20.90,-10.41,10.49,0.00
+945,Louisiana College,D3,-20.96,-10.45,10.51,0.00
+946,Bryn Athyn,D3,-23.07,-11.56,11.51,0.00
+947,College of Saint Elizabeth,D3,-25.96,-12.94,13.02,0.00

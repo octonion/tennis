@@ -28,9 +28,13 @@ teams.each do |team|
 
   found = 0
 
-  league_id = team["league_id"]
+  league_id = team["league_id"].to_i
   team_id = team["team_id"]
   team_name = team["team_name"]
+
+#  if not([1,4].include?(league_id))
+#    next
+#  end
 
   url = base_url + "?did=#{league_id}&confid=0&teamid=#{team_id}&Seasonid=#{season_id}"
 

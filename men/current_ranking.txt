@@ -1,0 +1,880 @@
+BEGIN
+CREATE TABLE
+INSERT 0 871
+ rk  |                       school                       | league |  str   |  ofs   |  dfs  |  sos   
+-----+----------------------------------------------------+--------+--------+--------+-------+--------
+   1 | University of Virginia                             | D1     |   8.41 |   4.19 | -4.23 |  66.11
+   2 | University of Oklahoma                             | D1     |   8.05 |   4.00 | -4.05 | 296.75
+   3 | Baylor University                                  | D1     |   8.05 |   4.03 | -4.02 | 166.80
+   4 | University of Southern California                  | D1     |   7.45 |   3.68 | -3.77 |  89.08
+   5 | University of Illinois                             | D1     |   7.14 |   3.56 | -3.57 |  49.43
+   6 | University of Georgia                              | D1     |   6.77 |   3.38 | -3.39 |  90.22
+   7 | Texas A&M University                               | D1     |   6.74 |   3.40 | -3.34 | 104.03
+   8 | TCU                                                | D1     |   6.44 |   3.21 | -3.22 | 101.79
+   9 | UCLA                                               | D1     |   6.40 |   3.18 | -3.22 |  99.91
+  10 | Ohio State University                              | D1     |   6.30 |   3.14 | -3.16 |  28.22
+  11 | Wake Forest University                             | D1     |   6.29 |   3.16 | -3.13 |  31.38
+  12 | Duke University                                    | D1     |   6.22 |   3.10 | -3.12 |  61.79
+  13 | University of Texas                                | D1     |   6.21 |   3.10 | -3.11 | 126.14
+  14 | Virginia Tech                                      | D1     |   6.09 |   3.06 | -3.04 |  18.63
+  15 | North Carolina                                     | D1     |   6.04 |   3.02 | -3.02 |  30.33
+  16 | Columbia University                                | D1     |   5.99 |   2.95 | -3.03 |  52.00
+  17 | University of South Florida                        | D1     |   5.53 |   2.75 | -2.78 |  25.80
+  18 | Stanford University                                | D1     |   5.48 |   2.76 | -2.72 |  36.11
+  19 | University of Minnesota                            | D1     |   5.32 |   2.66 | -2.65 |  22.49
+  20 | California                                         | D1     |   5.28 |   2.61 | -2.67 |  39.62
+  21 | University of Mississippi                          | D1     |   5.09 |   2.53 | -2.56 |  52.92
+  22 | University of Florida                              | D1     |   5.05 |   2.52 | -2.53 |  98.29
+  23 | Mississippi State University                       | D1     |   5.04 |   2.51 | -2.53 |  17.56
+  24 | Florida State University                           | D1     |   5.02 |   2.52 | -2.50 |  41.80
+  25 | Northwestern University                            | D1     |   4.97 |   2.50 | -2.47 |  17.77
+  26 | Texas Tech University                              | D1     |   4.90 |   2.42 | -2.48 |  51.92
+  27 | North Carolina State                               | D1     |   4.85 |   2.42 | -2.43 |  14.51
+  28 | University of San Diego                            | D1     |   4.75 |   2.37 | -2.38 |  12.62
+  29 | LSU                                                | D1     |   4.73 |   2.37 | -2.36 |  13.36
+  30 | Vanderbilt University                              | D1     |   4.71 |   2.35 | -2.36 |  32.13
+  31 | University of Louisville                           | D1     |   4.68 |   2.36 | -2.32 |   6.86
+  32 | Oklahoma State University                          | D1     |   4.66 |   2.32 | -2.34 |  19.94
+  33 | University of Notre Dame                           | D1     |   4.48 |   2.26 | -2.21 |  45.22
+  34 | University of Tulsa                                | D1     |   4.42 |   2.23 | -2.19 |  21.78
+  35 | University of Oregon                               | D1     |   4.42 |   2.22 | -2.20 |  14.03
+  36 | Harvard University                                 | D1     |   4.29 |   2.14 | -2.15 |  13.29
+  37 | Drake University                                   | D1     |   4.05 |   2.00 | -2.05 |   8.41
+  38 | Tulane University                                  | D1     |   4.03 |   2.01 | -2.02 |   9.11
+  39 | Georgia Tech                                       | D1     |   3.99 |   2.00 | -1.98 |  26.77
+  40 | Princeton University                               | D1     |   3.95 |   1.96 | -2.00 |  11.63
+  41 | University of Tennessee                            | D1     |   3.82 |   1.91 | -1.91 |  38.29
+  42 | Cornell University                                 | D1     |   3.82 |   1.90 | -1.91 |  17.18
+  43 | University of Washington                           | D1     |   3.78 |   1.90 | -1.88 |  10.80
+  44 | San Diego State University                         | D1     |   3.69 |   1.86 | -1.83 |   9.99
+  45 | University of South Carolina                       | D1     |   3.60 |   1.81 | -1.80 |  24.45
+  46 | Dartmouth College                                  | D1     |   3.53 |   1.78 | -1.75 |  21.76
+  47 | University of Kentucky                             | D1     |   3.51 |   1.77 | -1.73 |   9.86
+  48 | SMU                                                | D1     |   3.40 |   1.72 | -1.68 |   2.25
+  49 | University of Memphis                              | D1     |   3.34 |   1.65 | -1.69 |   3.12
+  50 | Indiana University-Bloomington                     | D1     |   3.30 |   1.63 | -1.67 |  11.90
+  51 | Old Dominion University                            | D1     |   3.27 |   1.64 | -1.63 |   2.87
+  52 | Rice University                                    | D1     |   3.25 |   1.62 | -1.63 |  17.97
+  53 | Wichita State University                           | D1     |   3.22 |   1.61 | -1.61 |   1.36
+  54 | Clemson University                                 | D1     |   3.20 |   1.58 | -1.62 |  30.18
+  55 | University of Denver                               | D1     |   3.17 |   1.59 | -1.58 |   2.21
+  56 | Hawaii Pacific University                          | D2     |   3.13 |   1.50 | -1.63 |   0.30
+  57 | Auburn University                                  | D1     |   3.12 |   1.55 | -1.57 |  11.74
+  58 | Pepperdine                                         | D1     |   3.10 |   1.54 | -1.56 |  14.97
+  59 | University of Alabama                              | D1     |   3.05 |   1.51 | -1.54 |   3.84
+  60 | University of New Mexico                           | D1     |   2.99 |   1.47 | -1.51 |   9.05
+  61 | Penn State University                              | D1     |   2.94 |   1.46 | -1.48 |  14.67
+  62 | East Tennessee State University                    | D1     |   2.89 |   1.43 | -1.46 |   3.05
+  63 | Univ. of Texas at San Antonio                      | D1     |   2.79 |   1.38 | -1.41 |   5.81
+  64 | Florida Gulf Coast University                      | D1     |   2.77 |   1.39 | -1.38 |   2.00
+  65 | Texas A&M-Corpus Christi                           | D1     |   2.71 |   1.36 | -1.34 |   3.21
+  66 | University of North Florida                        | D1     |   2.62 |   1.27 | -1.35 |   3.60
+  67 | University of Iowa                                 | D1     |   2.61 |   1.33 | -1.28 |   8.30
+  68 | UC Santa Barbara                                   | D1     |   2.57 |   1.30 | -1.27 |   5.84
+  69 | Troy University                                    | D1     |   2.55 |   1.30 | -1.25 |   2.21
+  70 | Univ. of San Francisco                             | D1     |   2.43 |   1.19 | -1.24 |   5.02
+  71 | University of Michigan                             | D1     |   2.42 |   1.21 | -1.21 |  42.75
+  72 | UC Irvine                                          | D1     |   2.41 |   1.19 | -1.22 |   3.79
+  73 | Barry University                                   | D2     |   2.39 |   1.18 | -1.22 |   0.18
+  74 | Georgia Gwinnett College                           | NAIA   |   2.39 |   1.21 | -1.18 |   0.12
+  75 | University of Arkansas                             | D1     |   2.39 |   1.19 | -1.20 |   6.38
+  76 | Charlotte                                          | D1     |   2.34 |   1.17 | -1.18 |   0.80
+  77 | Michigan State University                          | D1     |   2.31 |   1.16 | -1.15 |   6.23
+  78 | Boise State University                             | D1     |   2.22 |   1.09 | -1.13 |   7.46
+  79 | Brown University                                   | D1     |   2.20 |   1.11 | -1.08 |   2.55
+  80 | St. John's University                              | D1     |   2.17 |   1.08 | -1.09 |   2.18
+  81 | UC Davis                                           | D1     |   2.16 |   1.09 | -1.07 |   1.70
+  82 | Armstrong State University                         | D2     |   2.14 |   1.03 | -1.11 |   0.25
+  83 | University of South Alabama                        | D1     |   2.14 |   1.03 | -1.11 |   2.24
+  84 | UNLV                                               | D1     |   2.13 |   1.08 | -1.04 |   5.79
+  85 | Cal Poly                                           | D1     |   2.07 |   1.03 | -1.04 |   4.70
+  86 | Loyola Marymount University                        | D1     |   2.05 |   1.04 | -1.01 |   3.65
+  87 | Fresno State                                       | D1     |   2.00 |   0.99 | -1.01 |   4.04
+  88 | University of Nebraska                             | D1     |   1.99 |   1.00 | -0.99 |   8.91
+  89 | University of Miami (Florida)                      | D1     |   1.85 |   0.93 | -0.91 |  29.78
+  90 | University of Portland                             | D1     |   1.75 |   0.87 | -0.88 |   2.05
+  91 | University of Central Florida                      | D1     |   1.74 |   0.86 | -0.88 |   3.64
+  92 | Univ. of Wisconsin, Green Bay                      | D1     |   1.73 |   0.87 | -0.86 |   1.07
+  93 | UNC Wilmington                                     | D1     |   1.68 |   0.82 | -0.87 |   2.87
+  94 | Utah State University                              | D1     |   1.66 |   0.83 | -0.83 |   1.21
+  95 | Yale University                                    | D1     |   1.65 |   0.83 | -0.81 |   4.00
+  96 | Middle Tennessee State University                  | D1     |   1.62 |   0.80 | -0.82 |   2.12
+  97 | Univ. of West Florida                              | D2     |   1.57 |   0.79 | -0.77 |   0.16
+  98 | University of Pennsylvania                         | D1     |   1.54 |   0.76 | -0.78 |   3.94
+  99 | College of William and Mary                        | D1     |   1.54 |   0.79 | -0.75 |   0.84
+ 100 | University of Utah                                 | D1     |   1.52 |   0.75 | -0.77 |   9.33
+ 101 | University of Nevada                               | D1     |   1.51 |   0.73 | -0.77 |   9.43
+ 102 | Coastal Carolina University                        | D1     |   1.49 |   0.76 | -0.74 |   1.28
+ 103 | Virginia Commonwealth University                   | D1     |   1.45 |   0.70 | -0.74 |   1.57
+ 104 | University of Arizona                              | D1     |   1.42 |   0.71 | -0.70 |  14.71
+ 105 | University of Wisconsin                            | D1     |   1.31 |   0.66 | -0.64 |  14.53
+ 106 | Florida Atlantic University                        | D1     |   1.23 |   0.63 | -0.60 |   0.70
+ 107 | University of Texas at Arlington                   | D1     |   1.19 |   0.58 | -0.61 |   6.27
+ 108 | Brigham Young University                           | D1     |   1.09 |   0.55 | -0.54 |   4.25
+ 109 | Univ. of Maryland, Baltimore County                | D1     |   1.08 |   0.55 | -0.53 |   0.40
+ 110 | University of Louisiana                            | D1     |   1.06 |   0.48 | -0.58 |   3.90
+ 111 | Claremont-Mudd-Scripps Colleges                    | D3     |   1.04 |   0.51 | -0.53 |   0.03
+ 112 | Concordia College (New York)                       | D2     |   0.98 |   0.45 | -0.52 |   0.01
+ 113 | Lamar University                                   | D1     |   0.95 |   0.49 | -0.45 |   0.99
+ 114 | Georgia State University                           | D1     |   0.94 |   0.47 | -0.47 |   4.34
+ 115 | Furman University                                  | D1     |   0.93 |   0.46 | -0.47 |   4.35
+ 116 | George Washington University                       | D1     |   0.90 |   0.43 | -0.46 |   3.44
+ 117 | University of Southern Mississippi                 | D1     |   0.88 |   0.40 | -0.48 |   0.97
+ 118 | Lander University                                  | D2     |   0.80 |   0.39 | -0.41 |   0.13
+ 119 | University of the Pacific (California)             | D1     |   0.74 |   0.40 | -0.34 |   5.36
+ 120 | South Carolina State                               | D1     |   0.70 |   0.35 | -0.35 |   0.14
+ 121 | Vanguard University of Southern California         | NAIA   |   0.67 |   0.36 | -0.31 |   0.02
+ 122 | Auburn University Montgomery                       | NAIA   |   0.64 |   0.34 | -0.30 |   0.01
+ 123 | Saint Leo University                               | D2     |   0.57 |   0.29 | -0.28 |   0.35
+ 124 | College of Charleston                              | D1     |   0.48 |   0.25 | -0.24 |   0.50
+ 125 | Stetson University                                 | D1     |   0.46 |   0.24 | -0.22 |   1.51
+ 126 | Northern Illinois University                       | D1     |   0.45 |   0.23 | -0.23 |   0.31
+ 127 | Elon University                                    | D1     |   0.42 |   0.22 | -0.20 |   0.94
+ 128 | Western Michigan University                        | D1     |   0.42 |   0.22 | -0.20 |   0.54
+ 129 | Marquette                                          | D1     |   0.35 |   0.18 | -0.17 |   1.26
+ 130 | Gonzaga University                                 | D1     |   0.28 |   0.13 | -0.15 |   1.46
+ 131 | University at Buffalo                              | D1     |   0.27 |   0.13 | -0.14 |   1.33
+ 132 | Mercer University                                  | D1     |   0.26 |   0.14 | -0.12 |   1.64
+ 133 | Samford University                                 | D1     |   0.22 |   0.10 | -0.12 |   1.19
+ 134 | Santa Clara University                             | D1     |   0.20 |   0.10 | -0.10 |   2.99
+ 135 | Binghamton University                              | D1     |   0.14 |   0.05 | -0.09 |   3.53
+ 136 | Winthrop University                                | D1     |   0.12 |   0.05 | -0.07 |   0.93
+ 137 | Illinois State University                          | D1     |   0.11 |   0.06 | -0.05 |   1.89
+ 138 | Campbell University                                | D1     |   0.10 |   0.05 | -0.05 |   0.40
+ 139 | DePaul University                                  | D1     |   0.09 |   0.02 | -0.07 |   1.00
+ 140 | Presbyterian College                               | D1     |   0.03 |   0.03 |  0.00 |   0.30
+ 141 | Lindsey Wilson (Ky.)                               | NAIA   |   0.02 |   0.02 |  0.00 |   0.00
+ 142 | Appalachian State University                       | D1     |  -0.05 |  -0.05 |  0.00 |   0.55
+ 143 | Cleveland State University                         | D1     |  -0.06 |  -0.02 |  0.04 |   0.27
+ 144 | Georgia Southern University                        | D1     |  -0.09 |  -0.05 |  0.05 |   1.71
+ 145 | Wofford                                            | D1     |  -0.10 |  -0.03 |  0.07 |   0.66
+ 146 | UAB                                                | D1     |  -0.10 |  -0.04 |  0.06 |   2.22
+ 147 | Liberty University                                 | D1     |  -0.12 |  -0.05 |  0.07 |   0.75
+ 148 | Purdue University                                  | D1     |  -0.13 |  -0.07 |  0.06 |  18.12
+ 149 | Gardner-Webb University                            | D1     |  -0.17 |  -0.07 |  0.10 |   1.12
+ 150 | Grand Canyon University                            | D1     |  -0.21 |  -0.14 |  0.06 |   0.22
+ 151 | UNC Greensboro                                     | D1     |  -0.23 |  -0.10 |  0.13 |   0.80
+ 152 | University of Richmond                             | D1     |  -0.23 |  -0.13 |  0.10 |   0.14
+ 153 | Kennesaw State University                          | D1     |  -0.25 |  -0.12 |  0.13 |   1.26
+ 154 | New Mexico State University                        | D1     |  -0.26 |  -0.18 |  0.08 |   0.97
+ 155 | Columbus State University                          | D2     |  -0.26 |  -0.12 |  0.14 |   0.07
+ 156 | Valparaiso University                              | D1     |  -0.27 |  -0.15 |  0.12 |   0.14
+ 157 | University of South Carolina, Upstate              | D1     |  -0.29 |  -0.13 |  0.16 |   1.51
+ 158 | Xavier University                                  | D1     |  -0.34 |  -0.18 |  0.16 |   0.83
+ 159 | East Carolina University                           | D1     |  -0.43 |  -0.19 |  0.23 |   0.88
+ 160 | Nicholls State University                          | D1     |  -0.46 |  -0.29 |  0.17 |   1.87
+ 161 | Lynn University                                    | D2     |  -0.47 |  -0.23 |  0.24 |   0.27
+ 162 | University of Texas-Pan American                   | D1     |  -0.48 |  -0.24 |  0.24 |   1.50
+ 163 | Northern Arizona University                        | D1     |  -0.49 |  -0.27 |  0.22 |   0.39
+ 164 | Tennessee Tech University                          | D1     |  -0.49 |  -0.24 |  0.25 |   0.56
+ 165 | Monmouth University                                | D1     |  -0.51 |  -0.25 |  0.26 |   0.11
+ 166 | Ball State University                              | D1     |  -0.61 |  -0.29 |  0.32 |   0.46
+ 167 | Emory University                                   | D3     |  -0.61 |  -0.35 |  0.26 |   0.09
+ 168 | Belmont University                                 | D1     |  -0.62 |  -0.32 |  0.30 |   0.26
+ 169 | Marist College                                     | D1     |  -0.64 |  -0.36 |  0.28 |   0.10
+ 170 | U.S. Naval Academy                                 | D1     |  -0.65 |  -0.32 |  0.33 |   0.11
+ 171 | University of Hawaii                               | D1     |  -0.65 |  -0.34 |  0.31 |   4.42
+ 172 | Montana                                            | D1     |  -0.70 |  -0.35 |  0.36 |   1.63
+ 173 | UNC Asheville                                      | D1     |  -0.72 |  -0.34 |  0.38 |   0.18
+ 174 | U.S. Military Academy                              | D1     |  -0.72 |  -0.34 |  0.38 |   0.09
+ 175 | Amherst College                                    | D3     |  -0.73 |  -0.36 |  0.37 |   0.11
+ 176 | University of Idaho                                | D1     |  -0.76 |  -0.41 |  0.35 |   0.24
+ 177 | Weber State                                        | D1     |  -0.80 |  -0.39 |  0.41 |   0.24
+ 178 | Southern Illinois, Carbondale                      | D1     |  -0.84 |  -0.43 |  0.41 |   1.47
+ 179 | Georgia College                                    | D2     |  -0.85 |  -0.45 |  0.41 |   0.13
+ 180 | UMKC                                               | D1     |  -0.88 |  -0.44 |  0.44 |   0.25
+ 181 | Eastern Kentucky University                        | D1     |  -0.89 |  -0.43 |  0.45 |   0.16
+ 182 | Mount Olive College                                | D2     |  -0.94 |  -0.47 |  0.47 |   0.00
+ 183 | University of Toledo                               | D1     |  -0.98 |  -0.47 |  0.51 |   0.83
+ 184 | Midwestern State University                        | D2     |  -1.00 |  -0.51 |  0.49 |   0.06
+ 185 | Austin Peay State University                       | D1     |  -1.04 |  -0.53 |  0.51 |   0.33
+ 186 | New York Institute of Technology                   | D2     |  -1.05 |  -0.52 |  0.52 |   0.01
+ 187 | U.S. Air Force Academy                             | D1     |  -1.05 |  -0.52 |  0.53 |   0.96
+ 188 | Saint Mary's College of California                 | D1     |  -1.06 |  -0.52 |  0.54 |   3.94
+ 189 | Rollins College                                    | D2     |  -1.07 |  -0.53 |  0.54 |   0.23
+ 190 | Butler University                                  | D1     |  -1.07 |  -0.53 |  0.54 |   0.52
+ 191 | Valdosta State University                          | D2     |  -1.07 |  -0.55 |  0.52 |   0.16
+ 192 | Davidson College                                   | D1     |  -1.09 |  -0.52 |  0.56 |   0.12
+ 193 | Univ. of Chicago                                   | D3     |  -1.09 |  -0.57 |  0.52 |   0.03
+ 194 | Middlebury College                                 | D3     |  -1.09 |  -0.53 |  0.56 |   0.04
+ 195 | Univ. of Incarnate Word                            | D1     |  -1.09 |  -0.51 |  0.58 |   6.13
+ 196 | Azusa Pacific University                           | D2     |  -1.09 |  -0.54 |  0.56 |   0.13
+ 197 | Embry-Riddle (Fla.)                                | NAIA   |  -1.11 |  -0.53 |  0.58 |   0.02
+ 198 | Washington University in St. Louis                 | D3     |  -1.12 |  -0.59 |  0.53 |   0.06
+ 199 | Radford University                                 | D1     |  -1.12 |  -0.57 |  0.56 |   0.15
+ 200 | Sacramento State                                   | D1     |  -1.15 |  -0.57 |  0.58 |   0.46
+ 201 | NJIT                                               | D1     |  -1.23 |  -0.60 |  0.63 |   0.28
+ 202 | Boston College                                     | D1     |  -1.27 |  -0.65 |  0.62 |   3.31
+ 203 | UC San Diego                                       | D2     |  -1.30 |  -0.65 |  0.65 |   0.15
+ 204 | IPFW                                               | D1     |  -1.41 |  -0.69 |  0.72 |   0.08
+ 205 | Boston University                                  | D1     |  -1.42 |  -0.75 |  0.67 |   0.12
+ 206 | Montana State University-Bozeman                   | D1     |  -1.47 |  -0.74 |  0.72 |   0.63
+ 207 | Xavier University of Louisiana                     | NAIA   |  -1.47 |  -0.75 |  0.73 |   0.02
+ 208 | Drury University                                   | D2     |  -1.50 |  -0.74 |  0.75 |   0.02
+ 209 | University of North Georgia                        | D2     |  -1.52 |  -0.75 |  0.76 |   0.03
+ 210 | Lipscomb University                                | D1     |  -1.57 |  -0.76 |  0.81 |   1.16
+ 211 | GRU Augusta                                        | D2     |  -1.70 |  -0.83 |  0.87 |   0.03
+ 212 | Stony Brook University                             | D1     |  -1.76 |  -0.91 |  0.84 |   0.15
+ 213 | Brigham Young University Hawaii                    | D2     |  -1.78 |  -0.94 |  0.84 |   0.02
+ 214 | Ouachita Baptist                                   | D2     |  -1.78 |  -0.89 |  0.89 |   0.03
+ 215 | Creighton University                               | D1     |  -1.78 |  -0.96 |  0.83 |   0.03
+ 216 | Georgetown University                              | D1     |  -1.79 |  -0.91 |  0.88 |   0.63
+ 217 | Pomona-Pitzer Colleges                             | D3     |  -1.80 |  -0.89 |  0.91 |   0.04
+ 218 | Duquesne University                                | D1     |  -1.87 |  -0.93 |  0.95 |   0.14
+ 219 | Trinity University (Texas)                         | D3     |  -1.88 |  -0.97 |  0.92 |   0.02
+ 220 | Palm Beach Atlantic (Fla.)                         | D2     |  -1.89 |  -0.96 |  0.93 |   0.01
+ 221 | Williams College                                   | D3     |  -1.93 |  -0.97 |  0.97 |   0.12
+ 222 | Univ. of Dayton                                    | D1     |  -1.97 |  -0.96 |  1.01 |   0.12
+ 223 | University of New Orleans                          | D1     |  -1.98 |  -1.04 |  0.94 |   1.72
+ 224 | Jacksonville State University                      | D1     |  -2.04 |  -1.01 |  1.03 |   0.55
+ 225 | Univ. of Redlands                                  | D3     |  -2.09 |  -1.04 |  1.05 |   0.02
+ 226 | James Madison University                           | D1     |  -2.11 |  -1.07 |  1.04 |   0.32
+ 227 | Youngstown State University                        | D1     |  -2.13 |  -1.06 |  1.07 |   0.50
+ 228 | Northwest Missouri State                           | D2     |  -2.14 |  -1.08 |  1.06 |   0.02
+ 229 | Ferris State University                            | D2     |  -2.14 |  -1.07 |  1.07 |   0.02
+ 230 | Bowdoin College                                    | D3     |  -2.18 |  -1.07 |  1.10 |   0.03
+ 231 | North Carolina Wesleyan                            | D3     |  -2.21 |  -1.16 |  1.05 |   0.00
+ 232 | Southeastern Oklahoma State                        | D2     |  -2.22 |  -1.12 |  1.11 |   0.02
+ 233 | Carnegie Mellon University                         | D3     |  -2.26 |  -1.17 |  1.09 |   0.04
+ 234 | Kenyon College                                     | D3     |  -2.28 |  -1.16 |  1.12 |   0.01
+ 235 | George Mason University                            | D1     |  -2.32 |  -1.17 |  1.15 |   0.07
+ 236 | Bucknell University                                | D1     |  -2.35 |  -1.17 |  1.17 |   0.02
+ 237 | Bluefield State College                            | D2     |  -2.36 |  -1.17 |  1.19 |   0.01
+ 238 | Oral Roberts University                            | D1     |  -2.36 |  -1.18 |  1.17 |   0.04
+ 239 | IUPUI                                              | D1     |  -2.37 |  -1.16 |  1.21 |   0.31
+ 240 | Chattanooga                                        | D1     |  -2.42 |  -1.19 |  1.23 |   0.64
+ 241 | University of Mary Washington                      | D3     |  -2.43 |  -1.18 |  1.25 |   0.00
+ 242 | Westmont College                                   | NAIA   |  -2.44 |  -1.20 |  1.24 |   0.04
+ 243 | South Dakota State                                 | D1     |  -2.47 |  -1.24 |  1.23 |   0.05
+ 244 | Wingate University                                 | D2     |  -2.47 |  -1.22 |  1.25 |   0.01
+ 245 | UC Riverside                                       | D1     |  -2.50 |  -1.24 |  1.26 |   3.11
+ 246 | Univ. of South Carolina, Aiken                     | D2     |  -2.51 |  -1.23 |  1.28 |   0.06
+ 247 | Univ. of Illinois at Chicago                       | D1     |  -2.52 |  -1.24 |  1.27 |   0.32
+ 248 | Southern Illinois, Edwardsville                    | D1     |  -2.55 |  -1.27 |  1.28 |   0.07
+ 249 | Bethune-Cookman University                         | D1     |  -2.56 |  -1.29 |  1.27 |   0.06
+ 250 | Univ. of Indianapolis                              | D2     |  -2.61 |  -1.30 |  1.31 |   0.03
+ 251 | Queens Univ. of Charlotte                          | D2     |  -2.62 |  -1.31 |  1.31 |   0.01
+ 252 | Gustavus Adolphus College                          | D3     |  -2.63 |  -1.30 |  1.32 |   0.01
+ 253 | University of Northwestern Ohio                    | NAIA   |  -2.64 |  -1.30 |  1.33 |   0.01
+ 254 | Southwest Baptist                                  | D2     |  -2.66 |  -1.36 |  1.30 |   0.02
+ 255 | Quinnipiac University                              | D1     |  -2.66 |  -1.33 |  1.33 |   0.06
+ 256 | Tufts University                                   | D3     |  -2.67 |  -1.32 |  1.35 |   0.04
+ 257 | Univ. of Nebraska at Kearney                       | D2     |  -2.70 |  -1.33 |  1.36 |   0.01
+ 258 | Bryant University                                  | D1     |  -2.70 |  -1.38 |  1.32 |   0.39
+ 259 | Northwood (Fla.)                                   | NAIA   |  -2.75 |  -1.38 |  1.37 |   0.01
+ 260 | Fairleigh Dickinson University                     | D1     |  -2.76 |  -1.41 |  1.35 |   0.07
+ 261 | Univ. of Southern Indiana                          | D2     |  -2.76 |  -1.38 |  1.39 |   0.01
+ 262 | Francis Marion University                          | D2     |  -2.76 |  -1.37 |  1.40 |   0.09
+ 263 | Whitman College                                    | D3     |  -2.80 |  -1.41 |  1.38 |   0.00
+ 264 | Lehigh University                                  | D1     |  -2.80 |  -1.39 |  1.40 |   0.07
+ 265 | Northern Kentucky University                       | D1     |  -2.80 |  -1.40 |  1.40 |   0.20
+ 266 | McKendree University (Ill.)                        | D2     |  -2.82 |  -1.39 |  1.43 |   0.00
+ 267 | Grand Valley State University                      | D2     |  -2.82 |  -1.41 |  1.41 |   0.01
+ 268 | Point Loma Nazarene University (Calif.)            | D2     |  -2.84 |  -1.40 |  1.44 |   0.21
+ 269 | Wesleyan University                                | D3     |  -2.85 |  -1.43 |  1.43 |   0.03
+ 270 | Case Western Reserve University                    | D3     |  -2.86 |  -1.45 |  1.41 |   0.02
+ 271 | Temple University                                  | D1     |  -2.93 |  -1.49 |  1.44 |   0.03
+ 272 | Trinity College (Connecticut)                      | D3     |  -2.94 |  -1.46 |  1.47 |   0.02
+ 273 | Northwood University (Mich.)                       | D2     |  -2.99 |  -1.50 |  1.49 |   0.02
+ 274 | Morehead State University                          | D1     |  -3.02 |  -1.51 |  1.51 |   0.46
+ 275 | Saint Joseph's University                          | D1     |  -3.03 |  -1.51 |  1.52 |   0.04
+ 276 | St. Edward's University                            | D2     |  -3.04 |  -1.54 |  1.50 |   0.03
+ 277 | Seattle University                                 | D1     |  -3.12 |  -1.62 |  1.50 |   0.41
+ 278 | Florida A&M University                             | D1     |  -3.13 |  -1.60 |  1.52 |   0.94
+ 279 | Cameron University                                 | D2     |  -3.13 |  -1.54 |  1.60 |   0.02
+ 280 | Johns Hopkins University                           | D3     |  -3.14 |  -1.58 |  1.56 |   0.01
+ 281 | Eastern Illinois University                        | D1     |  -3.15 |  -1.57 |  1.58 |   0.20
+ 282 | The University of Texas at Tyler                   | D3     |  -3.15 |  -1.58 |  1.57 |   0.00
+ 283 | San Diego Christian College                        | NAIA   |  -3.21 |  -1.60 |  1.61 |   0.01
+ 284 | Flagler (Fla.)                                     | D2     |  -3.23 |  -1.60 |  1.64 |   0.19
+ 285 | University of Detroit Mercy                        | D1     |  -3.24 |  -1.62 |  1.62 |   0.24
+ 286 | Stevens Institute of Technology                    | D3     |  -3.24 |  -1.63 |  1.61 |   0.00
+ 287 | North Carolina Central University                  | D1     |  -3.25 |  -1.66 |  1.58 |   0.03
+ 288 | Skidmore College                                   | D3     |  -3.25 |  -1.63 |  1.62 |   0.01
+ 289 | Tusculum College                                   | D2     |  -3.27 |  -1.64 |  1.64 |   0.00
+ 290 | Florida Southern College                           | D2     |  -3.28 |  -1.65 |  1.63 |   0.04
+ 291 | Florida Tech                                       | D2     |  -3.28 |  -1.67 |  1.62 |   0.03
+ 292 | College of New Jersey                              | D3     |  -3.32 |  -1.62 |  1.70 |   0.00
+ 293 | Drexel University                                  | D1     |  -3.34 |  -1.67 |  1.67 |   0.05
+ 294 | West Liberty University                            | D2     |  -3.35 |  -1.72 |  1.64 |   0.00
+ 295 | Wright State University                            | D1     |  -3.39 |  -1.68 |  1.72 |   0.07
+ 296 | Univ. of Wisconsin, Whitewater                     | D3     |  -3.40 |  -1.68 |  1.71 |   0.00
+ 297 | Idaho State University                             | D1     |  -3.40 |  -1.68 |  1.72 |   0.49
+ 298 | Bates College                                      | D3     |  -3.41 |  -1.69 |  1.72 |   0.04
+ 299 | Univ. of Missouri, St. Louis                       | D2     |  -3.43 |  -1.71 |  1.72 |   0.01
+ 300 | University of West Alabama                         | D2     |  -3.45 |  -1.74 |  1.72 |   0.01
+ 301 | Eastern Washington University                      | D1     |  -3.48 |  -1.73 |  1.74 |   1.14
+ 302 | Alcorn State University                            | D1     |  -3.51 |  -1.76 |  1.75 |   0.12
+ 303 | Niagara University                                 | D1     |  -3.55 |  -1.76 |  1.79 |   0.12
+ 304 | Univ. of North Alabama                             | D2     |  -3.59 |  -1.79 |  1.81 |   0.01
+ 305 | St. Francis Univ. (Pennsylvania)                   | D1     |  -3.62 |  -1.81 |  1.82 |   0.03
+ 306 | Limestone College                                  | D2     |  -3.62 |  -1.81 |  1.81 |   0.01
+ 307 | Lewis University                                   | D2     |  -3.64 |  -1.81 |  1.84 |   0.01
+ 308 | Villanova University                               | D1     |  -3.67 |  -1.85 |  1.82 |   0.35
+ 309 | College of Coastal Georgia                         | NAIA   |  -3.67 |  -1.87 |  1.80 |   0.03
+ 310 | Portland State University                          | D1     |  -3.70 |  -1.83 |  1.86 |   0.32
+ 311 | Holy Names University                              | D2     |  -3.74 |  -1.88 |  1.86 |   0.05
+ 312 | Concordia College                                  | D2     |  -3.76 |  -1.86 |  1.90 |   0.27
+ 313 | Saint Joseph's College (IN)                        | D2     |  -3.81 |  -1.93 |  1.88 |   0.00
+ 314 | Anderson University, South Carolina                | D2     |  -3.83 |  -1.91 |  1.92 |   0.01
+ 315 | St. Cloud State University                         | D2     |  -3.84 |  -1.97 |  1.86 |   0.00
+ 316 | Western New Mexico University                      | D2     |  -3.87 |  -1.98 |  1.89 |   0.02
+ 317 | Young Harris College                               | D2     |  -3.90 |  -1.93 |  1.98 |   0.07
+ 318 | Saint Louis University                             | D1     |  -3.91 |  -1.95 |  1.96 |   0.02
+ 319 | Univ. of Findlay                                   | D2     |  -3.97 |  -1.99 |  1.98 |   0.00
+ 320 | East Central University (Oklahoma)                 | D2     |  -3.99 |  -2.01 |  1.98 |   0.03
+ 321 | Colgate University                                 | D1     |  -4.00 |  -2.01 |  1.99 |   0.01
+ 322 | Norfolk State University                           | D1     |  -4.01 |  -2.03 |  1.97 |   0.08
+ 323 | Rockhurst University                               | D2     |  -4.01 |  -2.00 |  2.01 |   0.01
+ 324 | Campbellsville University (Ky.)                    | NAIA   |  -4.01 |  -2.04 |  1.98 |   0.00
+ 325 | St. Mary's University (Texas)                      | D2     |  -4.03 |  -2.03 |  2.00 |   0.02
+ 326 | Brandeis University                                | D3     |  -4.04 |  -2.03 |  2.00 |   0.02
+ 327 | Wayne State (MI)                                   | D2     |  -4.08 |  -2.03 |  2.04 |   0.01
+ 328 | Coe College                                        | D3     |  -4.09 |  -2.05 |  2.04 |   0.00
+ 329 | Concordia University (Irvine)                      | NAIA   |  -4.10 |  -2.03 |  2.07 |   0.08
+ 330 | UC Santa Cruz                                      | D3     |  -4.14 |  -2.08 |  2.06 |   0.06
+ 331 | Fairfield University                               | D1     |  -4.14 |  -2.04 |  2.10 |   0.02
+ 332 | DePauw University                                  | D3     |  -4.15 |  -2.09 |  2.06 |   0.01
+ 333 | St. Bonaventure University                         | D1     |  -4.16 |  -2.08 |  2.08 |   0.09
+ 334 | Univ. of Alabama in Huntsville                     | D2     |  -4.17 |  -2.07 |  2.11 |   0.01
+ 335 | Alabama State University                           | D1     |  -4.18 |  -2.11 |  2.07 |   0.03
+ 336 | Univ. of Northern Colorado                         | D1     |  -4.19 |  -2.05 |  2.14 |   0.29
+ 337 | Newman University                                  | D2     |  -4.21 |  -2.13 |  2.08 |   0.02
+ 338 | Longwood University                                | D1     |  -4.23 |  -2.11 |  2.11 |   0.07
+ 339 | University of Connecticut                          | D1     |  -4.24 |  -2.12 |  2.12 |   0.14
+ 340 | Queens College (New York)                          | D2     |  -4.26 |  -2.11 |  2.15 |   0.00
+ 341 | Denison University                                 | D3     |  -4.27 |  -2.16 |  2.10 |   0.01
+ 342 | Pacific University (Oregon)                        | D3     |  -4.27 |  -2.15 |  2.12 |   0.00
+ 343 | Eckerd College                                     | D2     |  -4.33 |  -2.13 |  2.20 |   0.03
+ 344 | Middle Georgia State College                       | NAIA   |  -4.33 |  -2.17 |  2.17 |   0.00
+ 345 | Delta State University                             | D2     |  -4.41 |  -2.24 |  2.18 |   0.02
+ 346 | Barton College (NC)                                | D2     |  -4.43 |  -2.20 |  2.22 |   0.00
+ 347 | California Lutheran University                     | D3     |  -4.44 |  -2.21 |  2.24 |   0.02
+ 348 | Pfeiffer University                                | D2     |  -4.45 |  -2.21 |  2.24 |   0.00
+ 349 | Ohio Dominican University                          | D2     |  -4.46 |  -2.24 |  2.22 |   0.00
+ 350 | Hofstra University                                 | D1     |  -4.48 |  -2.21 |  2.26 |   0.02
+ 351 | Olivet Nazarene (Ill.)                             | NAIA   |  -4.48 |  -2.21 |  2.27 |   0.00
+ 352 | Metropolitan State College of Denver               | D2     |  -4.53 |  -2.25 |  2.28 |   0.00
+ 353 | McPherson College                                  | NAIA   |  -4.53 |  -2.24 |  2.29 |   0.00
+ 354 | Lindenwood (Mo.)                                   | D2     |  -4.54 |  -2.26 |  2.28 |   0.03
+ 355 | Wagner College                                     | D1     |  -4.59 |  -2.28 |  2.31 |   0.02
+ 356 | Southeastern University                            | NAIA   |  -4.66 |  -2.31 |  2.35 |   0.00
+ 357 | Bellarmine University                              | D2     |  -4.66 |  -2.32 |  2.35 |   0.01
+ 358 | The Citadel                                        | D1     |  -4.67 |  -2.36 |  2.31 |   2.32
+ 359 | Harding University                                 | D2     |  -4.68 |  -2.37 |  2.31 |   0.00
+ 360 | Belhaven (Miss.)                                   | NAIA   |  -4.76 |  -2.40 |  2.36 |   0.00
+ 361 | Dalton State College                               | NAIA   |  -4.78 |  -2.50 |  2.27 |   0.04
+ 362 | Swarthmore College                                 | D3     |  -4.79 |  -2.39 |  2.40 |   0.00
+ 363 | Lincoln Memorial University                        | D2     |  -4.80 |  -2.39 |  2.41 |   0.01
+ 364 | Colorado Mesa University                           | D2     |  -4.81 |  -2.47 |  2.34 |   0.00
+ 365 | Rensselaer Polytechnic Institute                   | D3     |  -4.84 |  -2.43 |  2.40 |   0.00
+ 366 | Sonoma State University                            | D2     |  -4.85 |  -2.44 |  2.41 |   0.10
+ 367 | Chapman University                                 | D3     |  -4.86 |  -2.42 |  2.44 |   0.01
+ 368 | Washburn University                                | D2     |  -4.88 |  -2.44 |  2.43 |   0.02
+ 369 | Morgan State University                            | D1     |  -4.88 |  -2.43 |  2.45 |   0.62
+ 370 | Martin Methodist (Tenn.)                           | NAIA   |  -4.92 |  -2.51 |  2.40 |   0.01
+ 371 | University of Rochester                            | D3     |  -4.92 |  -2.47 |  2.45 |   0.01
+ 372 | William Carey University                           | NAIA   |  -4.94 |  -2.55 |  2.38 |   0.02
+ 373 | Emporia State University                           | D2     |  -4.97 |  -2.46 |  2.51 |   0.02
+ 374 | Friends (Kan.)                                     | NAIA   |  -4.99 |  -2.46 |  2.53 |   0.00
+ 375 | Univ. of the South                                 | D3     |  -5.01 |  -2.55 |  2.46 |   0.00
+ 376 | Chicago State University                           | D1     |  -5.03 |  -2.51 |  2.52 |   0.07
+ 377 | Prairie View A&M University                        | D1     |  -5.07 |  -2.58 |  2.49 |   0.23
+ 378 | MIT                                                | D3     |  -5.08 |  -2.52 |  2.56 |   0.00
+ 379 | Carleton College                                   | D3     |  -5.08 |  -2.55 |  2.53 |   0.00
+ 380 | Cardinal Strich University                         | NAIA   |  -5.09 |  -2.54 |  2.55 |   0.01
+ 381 | Babson College                                     | D3     |  -5.09 |  -2.55 |  2.55 |   0.00
+ 382 | Christopher Newport University                     | D3     |  -5.13 |  -2.57 |  2.56 |   0.00
+ 383 | Shorter University                                 | D2     |  -5.15 |  -2.56 |  2.58 |   0.11
+ 384 | Univ. of North Dakota                              | D1     |  -5.15 |  -2.56 |  2.59 |   0.04
+ 385 | Chestnut Hill College                              | D2     |  -5.17 |  -2.58 |  2.60 |   0.00
+ 386 | Mars Hill University                               | D2     |  -5.20 |  -2.57 |  2.62 |   0.01
+ 387 | Merrimack College                                  | D2     |  -5.24 |  -2.60 |  2.64 |   0.00
+ 388 | Jackson State University                           | D1     |  -5.24 |  -2.64 |  2.60 |   2.10
+ 389 | Univ. of Wisconsin, La Crosse                      | D3     |  -5.25 |  -2.69 |  2.56 |   0.00
+ 390 | Newberry College                                   | D2     |  -5.27 |  -2.65 |  2.62 |   0.00
+ 391 | Mississippi College                                | D2     |  -5.27 |  -2.63 |  2.65 |   0.01
+ 392 | Edinboro University                                | D2     |  -5.31 |  -2.71 |  2.60 |   0.00
+ 393 | Colby College                                      | D3     |  -5.31 |  -2.68 |  2.63 |   0.00
+ 394 | New York University                                | D3     |  -5.32 |  -2.67 |  2.66 |   0.01
+ 395 | Lewis and Clark College (OR)                       | D3     |  -5.34 |  -2.64 |  2.70 |   0.00
+ 396 | Kalamazoo College                                  | D3     |  -5.34 |  -2.68 |  2.67 |   0.00
+ 397 | Asbury (Ky.)                                       | NAIA   |  -5.38 |  -2.71 |  2.67 |   0.00
+ 398 | Mount St. Mary's University                        | D1     |  -5.41 |  -2.72 |  2.69 |   0.03
+ 399 | Aquinas College (Mich)                             | NAIA   |  -5.46 |  -2.76 |  2.70 |   0.01
+ 400 | Carthage College                                   | D3     |  -5.47 |  -2.79 |  2.68 |   0.00
+ 401 | Lenoir-Rhyne University                            | D2     |  -5.48 |  -2.74 |  2.74 |   0.00
+ 402 | George Fox University                              | D3     |  -5.52 |  -2.77 |  2.75 |   0.00
+ 403 | Indiana Wesleyan                                   | NAIA   |  -5.52 |  -2.74 |  2.78 |   0.00
+ 404 | University of Hartford                             | D1     |  -5.59 |  -2.77 |  2.81 |   0.08
+ 405 | University of Delaware                             | D1     |  -5.60 |  -2.79 |  2.81 |   0.11
+ 406 | Wilkes University                                  | D3     |  -5.60 |  -2.88 |  2.72 |   0.00
+ 407 | West Virginia Wesleyan College                     | D2     |  -5.62 |  -2.83 |  2.80 |   0.00
+ 408 | Missouri Valley College                            | NAIA   |  -5.65 |  -2.79 |  2.86 |   0.00
+ 409 | Univ. of St. Francis (Ill.)                        | NAIA   |  -5.65 |  -2.83 |  2.82 |   0.00
+ 410 | Catawba College                                    | D2     |  -5.66 |  -2.82 |  2.83 |   0.00
+ 411 | Loyola College (Maryland)                          | D1     |  -5.67 |  -2.82 |  2.86 |   0.09
+ 412 | Oberlin College                                    | D3     |  -5.69 |  -2.82 |  2.87 |   0.00
+ 413 | Univ. of Charleston (West Virginia)                | D2     |  -5.71 |  -2.87 |  2.84 |   0.00
+ 414 | Davenport University                               | NAIA   |  -5.72 |  -2.88 |  2.84 |   0.00
+ 415 | Lewis-Clark State College (Idaho)                  | NAIA   |  -5.75 |  -2.86 |  2.89 |   0.05
+ 416 | Sacred Heart University                            | D1     |  -5.76 |  -2.86 |  2.90 |   0.03
+ 417 | Grinnell College                                   | D3     |  -5.78 |  -2.93 |  2.85 |   0.00
+ 418 | Marian Univ. (Ind.)                                | NAIA   |  -5.78 |  -2.91 |  2.87 |   0.00
+ 419 | Coker College                                      | D2     |  -5.79 |  -2.89 |  2.89 |   0.02
+ 420 | Pikeville (Ky.)                                    | NAIA   |  -5.79 |  -2.86 |  2.93 |   0.00
+ 421 | Carson-Newman College                              | D2     |  -5.79 |  -2.88 |  2.92 |   0.01
+ 422 | Our Lady of the Lake University                    | NAIA   |  -5.80 |  -2.92 |  2.89 |   0.00
+ 423 | Allegheny College                                  | D3     |  -5.80 |  -2.93 |  2.88 |   0.00
+ 424 | Biola University                                   | NAIA   |  -5.81 |  -2.88 |  2.93 |   0.00
+ 425 | Mercyhurst University                              | D2     |  -5.83 |  -2.88 |  2.95 |   0.00
+ 426 | North Greenville University (S.C.)                 | D2     |  -5.84 |  -2.90 |  2.93 |   0.01
+ 427 | Vassar College                                     | D3     |  -5.89 |  -2.93 |  2.96 |   0.00
+ 428 | Univ. of District of Columbia                      | D2     |  -5.93 |  -2.94 |  2.99 |   0.00
+ 429 | Wabash College                                     | D3     |  -5.94 |  -3.00 |  2.94 |   0.00
+ 430 | Methodist University                               | D3     |  -5.96 |  -2.96 |  3.01 |   0.00
+ 431 | Walsh (Ohio)                                       | D2     |  -5.98 |  -2.99 |  2.99 |   0.01
+ 432 | Southwestern University (TX)                       | D3     |  -5.99 |  -2.98 |  3.01 |   0.00
+ 433 | Wheaton College (Illinois)                         | D3     |  -6.03 |  -3.05 |  2.98 |   0.00
+ 434 | Georgia Southwestern State                         | D2     |  -6.05 |  -3.00 |  3.05 |   0.13
+ 435 | Cumberlands (Ky.)                                  | NAIA   |  -6.07 |  -3.01 |  3.06 |   0.03
+ 436 | McMurry University                                 | D3     |  -6.07 |  -3.05 |  3.02 |   0.00
+ 437 | University of Arkansas, Fort Smith                 | D2     |  -6.17 |  -3.07 |  3.10 |   0.02
+ 438 | Savannah College of Art & Design                   | NAIA   |  -6.18 |  -3.06 |  3.12 |   0.02
+ 439 | University of St. Thomas                           | D3     |  -6.26 |  -3.11 |  3.15 |   0.00
+ 440 | Graceland University (Iowa)                        | NAIA   |  -6.27 |  -3.10 |  3.17 |   0.02
+ 441 | Salisbury University                               | D3     |  -6.38 |  -3.20 |  3.18 |   0.00
+ 442 | Tiffin University                                  | D2     |  -6.39 |  -3.21 |  3.18 |   0.01
+ 443 | Birmingham-Southern College                        | D3     |  -6.53 |  -3.27 |  3.25 |   0.00
+ 444 | Tennessee State University                         | D1     |  -6.54 |  -3.26 |  3.28 |   0.29
+ 445 | Penn State Abington                                | D3     |  -6.56 |  -3.27 |  3.28 |   0.00
+ 446 | Washington & Lee University                        | D3     |  -6.56 |  -3.25 |  3.31 |   0.00
+ 447 | Indiana Tech                                       | NAIA   |  -6.58 |  -3.27 |  3.31 |   0.00
+ 448 | Adelphi University                                 | D2     |  -6.59 |  -3.27 |  3.32 |   0.00
+ 449 | Howard University                                  | D1     |  -6.60 |  -3.28 |  3.33 |   0.60
+ 450 | Chowan University                                  | D2     |  -6.62 |  -3.33 |  3.29 |   0.00
+ 451 | Univ. of Hawaii, Hilo                              | D2     |  -6.64 |  -3.32 |  3.32 |   0.15
+ 452 | Belmont Abbey College                              | D2     |  -6.67 |  -3.33 |  3.34 |   0.00
+ 453 | Arizona Christian University                       | NAIA   |  -6.69 |  -3.36 |  3.33 |   0.00
+ 454 | Connecticut College                                | D3     |  -6.71 |  -3.40 |  3.32 |   0.00
+ 455 | Oglethorpe University                              | D3     |  -6.76 |  -3.39 |  3.36 |   0.00
+ 456 | Webber International University                    | NAIA   |  -6.79 |  -3.43 |  3.36 |   0.00
+ 457 | Hobart and William Smith Colleges                  | D3     |  -6.82 |  -3.42 |  3.41 |   0.00
+ 458 | Univ. of Illinois at Springfield                   | D2     |  -6.83 |  -3.40 |  3.43 |   0.00
+ 459 | St. Peter's University                             | D1     |  -6.85 |  -3.41 |  3.44 |   0.01
+ 460 | Whitworth University                               | D3     |  -6.86 |  -3.42 |  3.44 |   0.00
+ 461 | St. Lawrence University                            | D3     |  -6.86 |  -3.45 |  3.41 |   0.00
+ 462 | Lafayette College                                  | D1     |  -6.87 |  -3.42 |  3.45 |   0.02
+ 463 | Cornerstone University                             | NAIA   |  -6.97 |  -3.49 |  3.47 |   0.00
+ 464 | Stonehill College                                  | D2     |  -6.99 |  -3.51 |  3.49 |   0.00
+ 465 | Murray State University                            | D1     |  -7.00 |  -3.52 |  3.47 |   0.44
+ 466 | Millsaps College                                   | D3     |  -7.05 |  -3.55 |  3.51 |   0.00
+ 467 | Franklin & Marshall                                | D3     |  -7.06 |  -3.53 |  3.53 |   0.00
+ 468 | Erskine College                                    | D2     |  -7.08 |  -3.54 |  3.54 |   0.01
+ 469 | Ashford University                                 | NAIA   |  -7.09 |  -3.53 |  3.55 |   0.00
+ 470 | Rhodes College                                     | D3     |  -7.12 |  -3.58 |  3.55 |   0.00
+ 471 | Luther College                                     | D3     |  -7.14 |  -3.63 |  3.51 |   0.00
+ 472 | St. Thomas University (Fla.)                       | NAIA   |  -7.15 |  -3.57 |  3.58 |   0.01
+ 473 | Nichols College                                    | D3     |  -7.17 |  -3.59 |  3.59 |   0.00
+ 474 | St. Olaf College                                   | D3     |  -7.19 |  -3.57 |  3.62 |   0.00
+ 475 | Univ. of Wisconsin, Eau Claire                     | D3     |  -7.21 |  -3.61 |  3.60 |   0.00
+ 476 | King University (Tenn.)                            | D2     |  -7.23 |  -3.60 |  3.63 |   0.01
+ 477 | Brevard College                                    | D2     |  -7.25 |  -3.63 |  3.62 |   0.00
+ 478 | Nebraska, Omaha                                    | D1     |  -7.25 |  -3.60 |  3.66 |   0.25
+ 479 | Augustana College (South Dakota)                   | D2     |  -7.25 |  -3.65 |  3.60 |   0.00
+ 480 | Warner University (Fla.)                           | NAIA   |  -7.29 |  -3.62 |  3.67 |   0.01
+ 481 | Colorado State University-Pueblo                   | D2     |  -7.38 |  -3.66 |  3.72 |   0.02
+ 482 | Whittier College                                   | D3     |  -7.45 |  -3.72 |  3.73 |   0.03
+ 483 | Davis and Elkins College                           | D2     |  -7.48 |  -3.80 |  3.68 |   0.00
+ 484 | Post University                                    | D2     |  -7.49 |  -3.75 |  3.73 |   0.00
+ 485 | College of Wooster                                 | D3     |  -7.51 |  -3.79 |  3.72 |   0.00
+ 486 | Haverford College                                  | D3     |  -7.55 |  -3.75 |  3.80 |   0.00
+ 487 | West Chester Univ. of Pennsylvania                 | D2     |  -7.56 |  -3.77 |  3.79 |   0.00
+ 488 | Univ. of Mary Hardin-Baylor                        | D3     |  -7.61 |  -3.80 |  3.81 |   0.00
+ 489 | Quincy University                                  | D2     |  -7.61 |  -3.82 |  3.79 |   0.01
+ 490 | Saint Mary's University of Minnesota               | D3     |  -7.63 |  -3.79 |  3.84 |   0.00
+ 491 | Dallas Baptist (Texas)                             | D2     |  -7.63 |  -3.85 |  3.77 |   0.00
+ 492 | Macalester College                                 | D3     |  -7.63 |  -3.81 |  3.81 |   0.00
+ 493 | Hampden-Sydney College                             | D3     |  -7.64 |  -3.83 |  3.81 |   0.00
+ 494 | Occidental College                                 | D3     |  -7.66 |  -3.81 |  3.85 |   0.00
+ 495 | Roberts Wesleyan (N.Y.)                            | D2     |  -7.66 |  -3.82 |  3.84 |   0.00
+ 496 | Indiana University Southeast                       | NAIA   |  -7.67 |  -3.85 |  3.82 |   0.00
+ 497 | Milligan (Tenn.)                                   | NAIA   |  -7.68 |  -3.82 |  3.86 |   0.00
+ 498 | Bentley University                                 | D2     |  -7.69 |  -3.86 |  3.82 |   0.00
+ 499 | Savannah College of Art & Design (Atlanta)         | NAIA   |  -7.69 |  -3.81 |  3.88 |   0.05
+ 500 | Univ. of the Ozarks (Arkansas)                     | D3     |  -7.71 |  -3.87 |  3.83 |   0.00
+ 501 | Missouri Baptist                                   | NAIA   |  -7.72 |  -3.84 |  3.88 |   0.00
+ 502 | Shaw University                                    | D2     |  -7.74 |  -3.88 |  3.86 |   0.00
+ 503 | Rose-Hulman Institute of Technology                | D3     |  -7.76 |  -3.89 |  3.88 |   0.00
+ 504 | Baker University (Kan.)                            | NAIA   |  -7.77 |  -3.90 |  3.87 |   0.00
+ 505 | University of Mobile (Ala.)                        | NAIA   |  -7.77 |  -3.87 |  3.90 |   0.00
+ 506 | Virginia Wesleyan College                          | D3     |  -7.81 |  -3.88 |  3.93 |   0.00
+ 507 | North Carolina A&T State University                | D1     |  -7.82 |  -3.89 |  3.93 |   0.38
+ 508 | Lee University                                     | D2     |  -7.83 |  -3.94 |  3.89 |   0.02
+ 509 | Lees-McRae College                                 | D2     |  -7.87 |  -3.91 |  3.95 |   0.01
+ 510 | Univ. of Puerto Rico, Piedras                      | D2     |  -7.89 |  -3.92 |  3.97 |   0.00
+ 511 | Grand View University                              | NAIA   |  -7.94 |  -3.98 |  3.96 |   0.00
+ 512 | Oklahoma Baptist                                   | NAIA   |  -7.96 |  -3.98 |  3.98 |   0.03
+ 513 | Kutztown University of Pennsylvania                | D2     |  -7.96 |  -4.03 |  3.93 |   0.00
+ 514 | Augustana College (Illinois)                       | D3     |  -7.97 |  -3.98 |  4.00 |   0.00
+ 515 | Hamilton College                                   | D3     |  -7.98 |  -3.99 |  3.99 |   0.00
+ 516 | Tennessee Wesleyan                                 | NAIA   |  -7.99 |  -4.05 |  3.94 |   0.00
+ 517 | Hampton University                                 | D1     |  -8.01 |  -3.99 |  4.01 |   0.13
+ 518 | Dickinson College                                  | D3     |  -8.09 |  -4.04 |  4.04 |   0.00
+ 519 | Post University                                    | D2     |  -8.09 |  -4.10 |  4.00 |   0.01
+ 520 | St. Thomas Aquinas                                 | D2     |  -8.10 |  -4.07 |  4.03 |   0.00
+ 521 | Johnson and Wales University                       | D3     |  -8.18 |  -4.07 |  4.11 |   0.00
+ 522 | Rider University                                   | D1     |  -8.20 |  -4.08 |  4.12 |   0.07
+ 523 | Ithaca College                                     | D3     |  -8.21 |  -4.11 |  4.09 |   0.00
+ 524 | St. Francis College (New York)                     | D1     |  -8.22 |  -4.10 |  4.12 |   0.04
+ 525 | California Institute of Technology                 | D3     |  -8.25 |  -4.11 |  4.14 |   0.00
+ 526 | Bethany College (Kan.)                             | NAIA   |  -8.26 |  -4.09 |  4.17 |   0.00
+ 527 | Berry College (Ga.)                                | D3     |  -8.27 |  -4.16 |  4.11 |   0.00
+ 528 | Point University                                   | NAIA   |  -8.27 |  -4.14 |  4.13 |   0.00
+ 529 | Benedict College (S.C.)                            | D2     |  -8.28 |  -4.15 |  4.12 |   0.00
+ 530 | Assumption College                                 | D2     |  -8.28 |  -4.15 |  4.14 |   0.00
+ 531 | Union College, Kentucky                            | NAIA   |  -8.30 |  -4.12 |  4.18 |   0.00
+ 532 | Adrian College                                     | D3     |  -8.31 |  -4.18 |  4.13 |   0.00
+ 533 | Univ. of Texas, Permian Basin                      | D2     |  -8.34 |  -4.13 |  4.21 |   0.01
+ 534 | Coppin State College                               | D1     |  -8.36 |  -4.14 |  4.22 |   0.13
+ 535 | Texas Lutheran University                          | D3     |  -8.38 |  -4.19 |  4.18 |   0.00
+ 536 | Reinhardt (Ga.)                                    | NAIA   |  -8.38 |  -4.17 |  4.21 |   0.01
+ 537 | Univ. of Puerto Rico, Mayaguez                     | D2     |  -8.46 |  -4.28 |  4.18 |   0.00
+ 538 | Washington College (Maryland)                      | D3     |  -8.47 |  -4.22 |  4.25 |   0.00
+ 539 | University of Southern Maine                       | D3     |  -8.49 |  -4.25 |  4.24 |   0.00
+ 540 | Elmhurst College                                   | D3     |  -8.49 |  -4.21 |  4.28 |   0.00
+ 541 | Philadelphia University                            | D2     |  -8.54 |  -4.28 |  4.25 |   0.00
+ 542 | Bethel College (Kansas)                            | NAIA   |  -8.62 |  -4.27 |  4.35 |   0.00
+ 543 | Saint John's University (Minn.)                    | D3     |  -8.62 |  -4.32 |  4.31 |   0.00
+ 544 | Ohio Wesleyan University                           | D3     |  -8.67 |  -4.38 |  4.30 |   0.00
+ 545 | Hastings College                                   | NAIA   |  -8.70 |  -4.39 |  4.31 |   0.01
+ 546 | Yeshiva University                                 | D3     |  -8.72 |  -4.34 |  4.38 |   0.00
+ 547 | Bethel UMN                                         | D3     |  -8.72 |  -4.40 |  4.32 |   0.00
+ 548 | St. Cartharine College                             | NAIA   |  -8.72 |  -4.33 |  4.39 |   0.00
+ 549 | Clark University (Massachusetts)                   | D3     |  -8.75 |  -4.37 |  4.38 |   0.00
+ 550 | U.S. Coast Guard Academy                           | D3     |  -8.76 |  -4.37 |  4.39 |   0.00
+ 551 | Huntingdon College (Ala.)                          | D3     |  -8.78 |  -4.42 |  4.35 |   0.00
+ 552 | Southern Utah University                           | D1     |  -8.78 |  -4.41 |  4.37 |   0.32
+ 553 | Fordham University                                 | D1     |  -8.81 |  -4.40 |  4.41 |   0.03
+ 554 | Capital University                                 | D3     |  -8.83 |  -4.44 |  4.38 |   0.00
+ 555 | St. Scholastica (Minn.)                            | D3     |  -8.83 |  -4.46 |  4.37 |   0.00
+ 556 | Truman State University                            | D2     |  -8.83 |  -4.38 |  4.45 |   0.02
+ 557 | Brescia University (Kentucky)                      | NAIA   |  -8.85 |  -4.38 |  4.46 |   0.00
+ 558 | Lake Superior State University                     | D2     |  -8.85 |  -4.42 |  4.43 |   0.00
+ 559 | William Jewell (Mo.)                               | D2     |  -8.88 |  -4.46 |  4.42 |   0.03
+ 560 | University of the Southwest                        | NAIA   |  -8.93 |  -4.53 |  4.41 |   0.00
+ 561 | Principia College                                  | D3     |  -8.95 |  -4.45 |  4.50 |   0.00
+ 562 | Holy Cross                                         | D1     |  -8.95 |  -4.44 |  4.51 |   0.16
+ 563 | Guilford College                                   | D3     |  -8.95 |  -4.45 |  4.50 |   0.00
+ 564 | Roger Williams University                          | D3     |  -8.96 |  -4.51 |  4.44 |   0.00
+ 565 | Southern New Hampshire University                  | D2     |  -8.96 |  -4.46 |  4.51 |   0.01
+ 566 | LeTourneau University                              | D3     |  -8.97 |  -4.47 |  4.50 |   0.00
+ 567 | Virginia State University                          | D2     |  -8.98 |  -4.50 |  4.47 |   0.00
+ 568 | Montana State University-Billings                  | D2     |  -9.00 |  -4.56 |  4.44 |   0.02
+ 569 | Ottawa University                                  | NAIA   |  -9.00 |  -4.52 |  4.48 |   0.00
+ 570 | Cedarville University (Ohio)                       | D2     |  -9.01 |  -4.53 |  4.49 |   0.00
+ 571 | Baldwin-Wallace College                            | D3     |  -9.02 |  -4.52 |  4.50 |   0.00
+ 572 | Michigan Technological University                  | D2     |  -9.03 |  -4.50 |  4.52 |   0.01
+ 573 | John Carroll University                            | D3     |  -9.07 |  -4.57 |  4.50 |   0.00
+ 574 | Stillman College                                   | D2     |  -9.09 |  -4.57 |  4.52 |   0.00
+ 575 | Lake Forest College                                | D3     |  -9.10 |  -4.56 |  4.54 |   0.00
+ 576 | Bloomsburg University of Pennsylvania              | D2     |  -9.11 |  -4.56 |  4.54 |   0.00
+ 577 | Siena College                                      | D1     |  -9.12 |  -4.54 |  4.57 |   0.02
+ 578 | Concord University                                 | D2     |  -9.14 |  -4.56 |  4.57 |   0.00
+ 579 | Emmanuel College (Ga.)                             | D2     |  -9.14 |  -4.54 |  4.60 |   0.01
+ 580 | Hardin-Simmons University                          | D3     |  -9.15 |  -4.55 |  4.60 |   0.00
+ 581 | Monmouth College                                   | D3     |  -9.18 |  -4.63 |  4.54 |   0.00
+ 582 | Trine University                                   | D3     |  -9.20 |  -4.48 |  4.73 |   0.00
+ 583 | Centre College                                     | D3     |  -9.21 |  -4.59 |  4.62 |   0.00
+ 584 | Western Illinois University                        | D1     |  -9.22 |  -4.62 |  4.60 |   0.17
+ 585 | Cumberland (Tenn.)                                 | NAIA   |  -9.27 |  -4.65 |  4.63 |   0.00
+ 586 | Huntington (Ind.)                                  | NAIA   |  -9.28 |  -4.60 |  4.68 |   0.00
+ 587 | Carroll University (Wisconsin)                     | D3     |  -9.28 |  -4.65 |  4.63 |   0.00
+ 588 | Pacific Lutheran University                        | D3     |  -9.28 |  -4.62 |  4.66 |   0.00
+ 589 | Juniata College                                    | D3     |  -9.28 |  -4.66 |  4.63 |   0.00
+ 590 | Schreiner (Texas)                                  | D3     |  -9.29 |  -4.64 |  4.64 |   0.00
+ 591 | Bridgewater College (Virginia)                     | D3     |  -9.29 |  -4.66 |  4.63 |   0.00
+ 592 | Piedmont College                                   | D3     |  -9.29 |  -4.61 |  4.67 |   0.00
+ 593 | Ramapo College                                     | D3     |  -9.30 |  -4.69 |  4.61 |   0.00
+ 594 | Buena Vista University                             | D3     |  -9.31 |  -4.67 |  4.64 |   0.00
+ 595 | Southern Wesleyan University                       | D2     |  -9.33 |  -4.65 |  4.68 |   0.01
+ 596 | Goucher College                                    | D3     |  -9.33 |  -4.67 |  4.66 |   0.00
+ 597 | Univ. of Arkansas Pine Bluff                       | D1     |  -9.33 |  -4.67 |  4.66 |   0.42
+ 598 | Colorado College                                   | D3     |  -9.34 |  -4.70 |  4.64 |   0.00
+ 599 | Mount Union College                                | D3     |  -9.36 |  -4.69 |  4.67 |   0.00
+ 600 | Roosevelt University                               | NAIA   |  -9.39 |  -4.71 |  4.68 |   0.00
+ 601 | Grove City College                                 | D3     |  -9.41 |  -4.67 |  4.74 |   0.00
+ 602 | Oneonta State                                      | D3     |  -9.42 |  -4.73 |  4.68 |   0.00
+ 603 | Roanoke College                                    | D3     |  -9.45 |  -4.75 |  4.70 |   0.00
+ 604 | Hope International University                      | NAIA   |  -9.49 |  -4.74 |  4.75 |   0.02
+ 605 | La Salle University                                | D1     |  -9.51 |  -4.74 |  4.77 |   0.04
+ 606 | Calvin College                                     | D3     |  -9.55 |  -4.81 |  4.74 |   0.00
+ 607 | Judson University                                  | NAIA   |  -9.56 |  -4.72 |  4.83 |   0.00
+ 608 | St. Ambrose (Iowa)                                 | NAIA   |  -9.57 |  -4.81 |  4.76 |   0.00
+ 609 | Grace (Ind.)                                       | NAIA   |  -9.58 |  -4.78 |  4.81 |   0.43
+ 610 | East Texas Baptist University                      | D3     |  -9.58 |  -4.78 |  4.80 |   0.00
+ 611 | Spring Arbor (Mich.)                               | NAIA   |  -9.59 |  -4.68 |  4.91 |   0.00
+ 612 | Wheaton College (Massachusetts)                    | D3     |  -9.59 |  -4.75 |  4.84 |   0.00
+ 613 | Christian Brothers University                      | D2     |  -9.61 |  -4.78 |  4.84 |   0.02
+ 614 | Saint Anselm College                               | D2     |  -9.62 |  -4.80 |  4.82 |   0.00
+ 615 | The University of Texas at Dallas                  | D3     |  -9.63 |  -4.81 |  4.82 |   0.00
+ 616 | Gordon College                                     | D3     |  -9.63 |  -4.81 |  4.82 |   0.00
+ 617 | Georgetown College                                 | NAIA   |  -9.65 |  -4.85 |  4.79 |   0.00
+ 618 | Shepherd University                                | D2     |  -9.65 |  -4.88 |  4.78 |   0.00
+ 619 | Kingsborough Community College                     | D3     |  -9.68 |  -4.18 |  5.50 |   0.00
+ 620 | Taylor (Ind.)                                      | NAIA   |  -9.69 |  -4.94 |  4.75 |   0.00
+ 621 | Union College (New York)                           | D3     |  -9.71 |  -4.82 |  4.89 |   0.00
+ 622 | Ursinus College                                    | D3     |  -9.80 |  -4.92 |  4.88 |   0.00
+ 623 | Hunter College                                     | D3     |  -9.81 |  -4.89 |  4.92 |   0.00
+ 624 | Bluefield College                                  | NAIA   |  -9.81 |  -4.90 |  4.91 |   0.00
+ 625 | Spring Hill (Ala.)                                 | NAIA   |  -9.86 |  -4.95 |  4.91 |   0.00
+ 626 | Tuskegee University                                | D2     |  -9.87 |  -4.99 |  4.88 |   0.00
+ 627 | Judson College                                     | NAIA   |  -9.89 |  -5.02 |  4.86 |   0.00
+ 628 | Colby-Sawyer College                               | D3     |  -9.93 |  -5.05 |  4.88 |   0.00
+ 629 | Caldwell College (N.J.)                            | D2     |  -9.94 |  -4.94 |  5.00 |   0.00
+ 630 | Lawrence Tech                                      | NAIA   |  -9.97 |  -4.97 |  5.00 |   0.00
+ 631 | Univ. of St. Francis (Ind.)                        | NAIA   | -10.05 |  -5.02 |  5.04 |   0.06
+ 632 | Covenant College                                   | D3     | -10.06 |  -5.02 |  5.04 |   0.00
+ 633 | Earlham College                                    | D3     | -10.07 |  -5.05 |  5.02 |   0.00
+ 634 | Eastern Nazarene College                           | D3     | -10.07 |  -5.05 |  5.02 |   0.00
+ 635 | Otterbein College                                  | D3     | -10.11 |  -5.06 |  5.04 |   0.00
+ 636 | Franklin College                                   | D3     | -10.12 |  -5.04 |  5.09 |   0.00
+ 637 | Illinois Wesleyan University                       | D3     | -10.16 |  -5.13 |  5.02 |   0.00
+ 638 | Randolph College                                   | D3     | -10.19 |  -5.09 |  5.10 |   0.00
+ 639 | Endicott College                                   | D3     | -10.22 |  -5.11 |  5.10 |   0.00
+ 640 | Gettysburg College                                 | D3     | -10.30 |  -5.11 |  5.19 |   0.00
+ 641 | Norwich University                                 | D3     | -10.31 |  -5.11 |  5.20 |   0.00
+ 642 | Ave Maria University                               | NAIA   | -10.33 |  -5.14 |  5.19 |   0.00
+ 643 | Univ. of the Sciences (Pa.)                        | D2     | -10.33 |  -5.15 |  5.18 |   0.00
+ 644 | Farmingdale State College                          | D3     | -10.34 |  -5.15 |  5.19 |   0.00
+ 645 | Greenville College                                 | D3     | -10.36 |  -5.25 |  5.11 |   0.00
+ 646 | LaGrange College                                   | D3     | -10.39 |  -5.18 |  5.21 |   0.00
+ 647 | Lindenwood University (Illinois)                   | NAIA   | -10.42 |  -5.19 |  5.23 |   0.00
+ 648 | Southwestern College (Kansas)                      | NAIA   | -10.45 |  -5.24 |  5.22 |   0.00
+ 649 | SUNY Purchase                                      | D3     | -10.47 |  -5.21 |  5.26 |   0.00
+ 650 | Hamline University                                 | D3     | -10.52 |  -5.25 |  5.27 |   0.00
+ 651 | Kansas Wesleyan                                    | NAIA   | -10.52 |  -5.22 |  5.30 |   0.00
+ 652 | Central College (Iowa)                             | D3     | -10.52 |  -5.22 |  5.30 |   0.00
+ 653 | Bloomfield College                                 | D2     | -10.55 |  -5.25 |  5.30 |   0.00
+ 654 | Randolph-Macon College                             | D3     | -10.63 |  -5.28 |  5.34 |   0.00
+ 655 | Alma College                                       | D3     | -10.64 |  -5.27 |  5.37 |   0.00
+ 656 | Alabama A&M University                             | D1     | -10.66 |  -5.36 |  5.30 |   0.02
+ 657 | Tabor College (Kan.)                               | NAIA   | -10.73 |  -5.32 |  5.40 |   0.00
+ 658 | Hope College                                       | D3     | -10.76 |  -5.40 |  5.36 |   0.00
+ 659 | Midland Lutheran (Neb.)                            | NAIA   | -10.76 |  -5.34 |  5.42 |   0.00
+ 660 | Loyola University New Orleans                      | NAIA   | -10.79 |  -5.39 |  5.40 |   0.01
+ 661 | Franciscan University                              | D3     | -10.79 |  -5.38 |  5.41 |   0.00
+ 662 | Wittenberg University                              | D3     | -10.83 |  -5.44 |  5.40 |   0.00
+ 663 | Springfield College                                | D3     | -10.83 |  -5.44 |  5.39 |   0.00
+ 664 | Moravian College                                   | D3     | -10.84 |  -5.43 |  5.41 |   0.00
+ 665 | Edgewood College                                   | D3     | -10.84 |  -5.44 |  5.41 |   0.00
+ 666 | Rochester Institute of Technology                  | D3     | -10.96 |  -5.45 |  5.51 |   0.00
+ 667 | Montreat (N.C)                                     | NAIA   | -10.98 |  -5.46 |  5.52 |   0.00
+ 668 | Le Moyne College                                   | D2     | -10.98 |  -5.45 |  5.53 |   0.00
+ 669 | Willamette University                              | D3     | -10.99 |  -5.48 |  5.51 |   0.00
+ 670 | Univ. of Maryland Eastern Shore                    | D1     | -11.00 |  -5.49 |  5.52 |   0.01
+ 671 | Averett University                                 | D3     | -11.00 |  -5.48 |  5.52 |   0.00
+ 672 | Transylvania University                            | D3     | -11.01 |  -5.53 |  5.48 |   0.00
+ 673 | Muhlenberg College                                 | D3     | -11.01 |  -5.48 |  5.53 |   0.00
+ 674 | Morningside College                                | NAIA   | -11.09 |  -5.62 |  5.47 |   0.00
+ 675 | Univ. of Wisconsin, Oshkosh                        | D3     | -11.13 |  -5.56 |  5.57 |   0.00
+ 676 | Howard Payne University                            | D3     | -11.14 |  -5.55 |  5.58 |   0.00
+ 677 | Concordia College, Moorhead                        | D3     | -11.15 |  -5.54 |  5.61 |   0.00
+ 678 | Texas A&M University, Texarkana                    | NAIA   | -11.18 |  -5.65 |  5.53 |   0.00
+ 679 | Morehouse College                                  | D2     | -11.20 |  -5.61 |  5.58 |   0.00
+ 680 | Wartburg College                                   | D3     | -11.26 |  -5.61 |  5.64 |   0.00
+ 681 | Linfield College                                   | D3     | -11.26 |  -5.61 |  5.65 |   0.00
+ 682 | Western New England University                     | D3     | -11.28 |  -5.60 |  5.68 |   0.00
+ 683 | Regis College                                      | D3     | -11.33 |  -5.77 |  5.56 |   0.00
+ 684 | Shenandoah University                              | D3     | -11.37 |  -5.66 |  5.71 |   0.00
+ 685 | St. Anselm College                                 | D2     | -11.38 |  -5.67 |  5.71 |   0.00
+ 686 | Daemen College                                     | D2     | -11.40 |  -5.74 |  5.66 |   0.00
+ 687 | Hendrix College                                    | D3     | -11.45 |  -5.70 |  5.75 |   0.00
+ 688 | Messiah College                                    | D3     | -11.46 |  -5.73 |  5.72 |   0.00
+ 689 | Penn State Berks                                   | D3     | -11.56 |  -5.83 |  5.73 |   0.00
+ 690 | Cornell College                                    | D3     | -11.63 |  -5.81 |  5.82 |   0.00
+ 691 | McDaniel College                                   | D3     | -11.68 |  -5.83 |  5.86 |   0.00
+ 692 | Univ. of Puget Sound                               | D3     | -11.71 |  -5.84 |  5.87 |   0.00
+ 693 | St. Norbert College                                | D3     | -11.71 |  -5.83 |  5.88 |   0.00
+ 694 | Bethel University (Tenn.)                          | NAIA   | -11.74 |  -5.92 |  5.82 |   0.01
+ 695 | John Brown (Ark.)                                  | NAIA   | -11.76 |  -5.84 |  5.92 |   0.00
+ 696 | Milwaukee School of Engineering                    | D3     | -11.77 |  -5.82 |  5.95 |   0.00
+ 697 | Virginia Union University                          | D2     | -11.83 |  -5.88 |  5.95 |   0.00
+ 698 | U.S. Merchant Marine Academy, Kings Point          | D3     | -11.86 |  -5.90 |  5.96 |   0.00
+ 699 | York College (Pennsylvania)                        | D3     | -11.88 |  -6.02 |  5.86 |   0.00
+ 700 | Austin College                                     | D3     | -11.88 |  -5.93 |  5.96 |   0.00
+ 701 | Concordia University, Nebraska                     | NAIA   | -11.92 |  -5.92 |  6.00 |   0.00
+ 702 | Defiance College                                   | D3     | -12.00 |  -5.98 |  6.02 |   0.00
+ 703 | Penn State Harrisburg                              | D3     | -12.07 |  -5.96 |  6.11 |   0.00
+ 704 | Ohio Northern University                           | D3     | -12.11 |  -6.10 |  6.02 |   0.00
+ 705 | College of Staten Island                           | D3     | -12.14 |  -6.07 |  6.07 |   0.00
+ 706 | Nebraska Wesleyan                                  | NAIA   | -12.15 |  -6.12 |  6.03 |   0.00
+ 707 | Doane College                                      | NAIA   | -12.25 |  -6.15 |  6.10 |   0.00
+ 708 | Lawrence University                                | D3     | -12.26 |  -6.13 |  6.14 |   0.00
+ 709 | St. John Fisher College                            | D3     | -12.30 |  -6.15 |  6.14 |   0.00
+ 710 | University of Scranton                             | D3     | -12.31 |  -6.14 |  6.17 |   0.00
+ 711 | Johnson C. Smith University                        | D2     | -12.32 |  -6.22 |  6.10 |   0.00
+ 712 | Millersville University of Pennsylvania            | D2     | -12.33 |  -6.14 |  6.19 |   0.00
+ 713 | Maryville College (Tenn.)                          | D3     | -12.33 |  -6.16 |  6.17 |   0.00
+ 714 | King's College (Pennsylvania)                      | D3     | -12.35 |  -6.19 |  6.16 |   0.00
+ 715 | Elmira College                                     | D3     | -12.38 |  -6.17 |  6.21 |   0.00
+ 716 | Bethel (Ind.)                                      | NAIA   | -12.40 |  -6.25 |  6.15 |   0.00
+ 717 | Baruch College                                     | D3     | -12.43 |  -6.23 |  6.19 |   0.00
+ 718 | Millikin University                                | D3     | -12.53 |  -6.24 |  6.29 |   0.00
+ 719 | Nazareth College                                   | D3     | -12.58 |  -6.28 |  6.30 |   0.00
+ 720 | Emory & Henry College                              | D3     | -12.63 |  -6.36 |  6.28 |   0.00
+ 721 | Southwestern Christian University                  | NAIA   | -12.63 |  -6.33 |  6.31 |   0.00
+ 722 | Catholic University of America                     | D3     | -12.70 |  -6.35 |  6.35 |   0.00
+ 723 | North Central College                              | D3     | -12.74 |  -6.36 |  6.38 |   0.00
+ 724 | American International College                     | D2     | -12.80 |  -6.36 |  6.43 |   0.00
+ 725 | Manchester College                                 | D3     | -12.86 |  -6.42 |  6.44 |   0.00
+ 726 | Stevenson University                               | D3     | -12.87 |  -6.41 |  6.46 |   0.00
+ 727 | Univ. of Massachusetts, Dartmouth                  | D3     | -12.87 |  -6.42 |  6.46 |   0.00
+ 728 | St. Michael's College                              | D2     | -12.87 |  -6.42 |  6.45 |   0.00
+ 729 | St. Mary's College of Maryland                     | D3     | -12.90 |  -6.52 |  6.37 |   0.00
+ 730 | Wentworth Institute of Technology                  | D3     | -12.93 |  -6.44 |  6.49 |   0.00
+ 731 | Elizabethtown College                              | D3     | -12.94 |  -6.48 |  6.46 |   0.00
+ 732 | Penn State Altoona                                 | D3     | -12.96 |  -6.48 |  6.48 |   0.00
+ 733 | Univ. of Dubuque                                   | D3     | -12.96 |  -6.44 |  6.52 |   0.00
+ 734 | Houghton College                                   | D3     | -13.09 |  -6.54 |  6.55 |   0.00
+ 735 | Alfred University                                  | D3     | -13.10 |  -6.53 |  6.57 |   0.00
+ 736 | Univ. of Virginia's College at Wise                | D2     | -13.12 |  -6.53 |  6.58 |   0.00
+ 737 | Lebanon Valley College                             | D3     | -13.18 |  -6.59 |  6.59 |   0.00
+ 738 | Arcadia University                                 | D3     | -13.21 |  -6.57 |  6.65 |   0.00
+ 739 | Indiana University East                            | NAIA   | -13.23 |  -6.63 |  6.60 |   0.00
+ 740 | Bard College                                       | D3     | -13.28 |  -6.63 |  6.65 |   0.00
+ 741 | Fairmont State University                          | D2     | -13.28 |  -6.60 |  6.68 |   0.00
+ 742 | Oakland City University                            | D2     | -13.30 |  -6.60 |  6.70 |   0.00
+ 743 | Colorado Christian University                      | D2     | -13.33 |  -6.63 |  6.71 |   0.01
+ 744 | State University College at Oswego                 | D3     | -13.48 |  -6.72 |  6.76 |   0.00
+ 745 | Waynesburg University                              | D3     | -13.49 |  -6.73 |  6.76 |   0.00
+ 746 | Franklin Pierce College                            | D2     | -13.50 |  -6.73 |  6.77 |   0.00
+ 747 | Gwynedd Mercy University                           | D3     | -13.50 |  -6.73 |  6.77 |   0.00
+ 748 | University of Pittsburgh at Greensburg             | D3     | -13.52 |  -6.73 |  6.79 |   0.00
+ 749 | Fort Valley State University                       | D2     | -13.60 |  -6.90 |  6.70 |   0.00
+ 750 | Lynchburg College                                  | D3     | -13.65 |  -6.82 |  6.83 |   0.00
+ 751 | Hanover College                                    | D3     | -13.66 |  -6.79 |  6.87 |   0.00
+ 752 | Neumann University                                 | D3     | -13.69 |  -6.83 |  6.87 |   0.00
+ 753 | Rutgers University - Newark                        | D3     | -13.70 |  -6.83 |  6.87 |   0.00
+ 754 | Greensboro College                                 | D3     | -13.73 |  -6.85 |  6.88 |   0.00
+ 755 | Concordia University (Wisconsin)                   | D3     | -13.77 |  -6.85 |  6.92 |   0.00
+ 756 | Alvernia University                                | D3     | -13.79 |  -6.88 |  6.91 |   0.00
+ 757 | Albertus Magnus College                            | D3     | -13.81 |  -6.89 |  6.92 |   0.00
+ 758 | Westminster College (Missouri)                     | D3     | -13.83 |  -6.89 |  6.94 |   0.00
+ 759 | Albright College                                   | D3     | -13.85 |  -6.93 |  6.92 |   0.00
+ 760 | Univ. of Massachusetts, Boston                     | D3     | -13.86 |  -6.93 |  6.94 |   0.00
+ 761 | Bethany Lutheran College                           | D3     | -13.92 |  -6.97 |  6.95 |   0.00
+ 762 | Thomas College (Maine)                             | D3     | -13.94 |  -6.95 |  6.99 |   0.00
+ 763 | Frostburg State University                         | D3     | -13.96 |  -7.03 |  6.93 |   0.00
+ 764 | Hartwick College                                   | D3     | -14.00 |  -6.98 |  7.02 |   0.00
+ 765 | Albion College                                     | D3     | -14.03 |  -7.07 |  6.96 |   0.00
+ 766 | College of Mount St. Joseph                        | D3     | -14.04 |  -6.99 |  7.05 |   0.00
+ 767 | Knox College                                       | D3     | -14.06 |  -7.01 |  7.04 |   0.00
+ 768 | Sul Ross State                                     | D3     | -14.09 |  -7.05 |  7.03 |   0.00
+ 769 | West Virginia State University                     | D2     | -14.16 |  -7.05 |  7.11 |   0.00
+ 770 | Fairleigh Dickinson University, College at Florham | D3     | -14.20 |  -7.11 |  7.10 |   0.00
+ 771 | Drew University                                    | D3     | -14.26 |  -7.11 |  7.14 |   0.00
+ 772 | Washington & Jefferson College                     | D3     | -14.32 |  -7.16 |  7.16 |   0.00
+ 773 | Aurora University                                  | D3     | -14.35 |  -7.14 |  7.21 |   0.00
+ 774 | Northwestern College (Minn.)                       | D3     | -14.40 |  -7.21 |  7.18 |   0.00
+ 775 | Dowling College                                    | D2     | -14.48 |  -7.22 |  7.27 |   0.00
+ 776 | Ferrum College                                     | D3     | -14.54 |  -7.26 |  7.28 |   0.00
+ 777 | Wisconsin Lutheran College                         | D3     | -14.60 |  -7.30 |  7.29 |   0.00
+ 778 | Green Mountain College (Vt.)                       | D3     | -14.62 |  -7.21 |  7.41 |   0.00
+ 779 | Simpson College                                    | D3     | -14.69 |  -7.39 |  7.30 |   0.00
+ 780 | Salve Regina University                            | D3     | -14.70 |  -7.35 |  7.36 |   0.00
+ 781 | Penn College of Technology                         | D3     | -14.71 |  -7.32 |  7.39 |   0.00
+ 782 | Le Moyne-Owen College                              | D2     | -14.77 |  -7.42 |  7.35 |   0.00
+ 783 | Cabrini College                                    | D3     | -14.80 |  -7.40 |  7.40 |   0.00
+ 784 | Rhode Island College                               | D3     | -14.84 |  -7.40 |  7.44 |   0.00
+ 785 | Lane College                                       | D2     | -14.90 |  -7.45 |  7.45 |   0.00
+ 786 | Eastern University                                 | D3     | -14.99 |  -7.50 |  7.49 |   0.00
+ 787 | Rochester College                                  | NAIA   | -15.04 |  -7.52 |  7.52 |   0.00
+ 788 | Ripon College                                      | D3     | -15.05 |  -7.61 |  7.44 |   0.00
+ 789 | Rutgers University - Camden                        | D3     | -15.05 |  -7.50 |  7.55 |   0.00
+ 790 | Misericordia University                            | D3     | -15.16 |  -7.62 |  7.54 |   0.00
+ 791 | Marywood University                                | D3     | -15.19 |  -7.58 |  7.61 |   0.00
+ 792 | Suffolk University                                 | D3     | -15.26 |  -7.61 |  7.65 |   0.00
+ 793 | Alice Lloyd College                                | NAIA   | -15.29 |  -7.69 |  7.61 |   0.00
+ 794 | Hood College                                       | D3     | -15.30 |  -7.63 |  7.67 |   0.00
+ 795 | Tougaloo College                                   | NAIA   | -15.33 |  -7.68 |  7.66 |   0.00
+ 796 | Penn State Branywine                               | D3     | -15.37 |  -7.67 |  7.70 |   0.00
+ 797 | Mount St. Mary College (New York)                  | D3     | -15.39 |  -7.68 |  7.71 |   0.00
+ 798 | Webster University                                 | D3     | -15.39 |  -7.72 |  7.68 |   0.00
+ 799 | Curry College                                      | D3     | -15.40 |  -7.68 |  7.72 |   0.00
+ 800 | Calumet-St. Joseph (Ind.)                          | NAIA   | -15.45 |  -7.69 |  7.76 |   0.00
+ 801 | Cooper Union                                       | D3     | -15.52 |  -7.74 |  7.77 |   0.00
+ 802 | Salem State University                             | D3     | -15.52 |  -7.75 |  7.77 |   0.00
+ 803 | Central State University, OH                       | D2     | -15.53 |  -7.72 |  7.81 |   0.00
+ 804 | Baptist Bible College                              | D3     | -15.53 |  -7.75 |  7.78 |   0.00
+ 805 | Emerson College                                    | D3     | -15.58 |  -7.79 |  7.79 |   0.00
+ 806 | William Peace University                           | D3     | -15.59 |  -7.77 |  7.82 |   0.00
+ 807 | John Jay College of Criminal Justice               | D3     | -15.71 |  -7.84 |  7.87 |   0.00
+ 808 | Lyndon State (Vt.)                                 | D3     | -15.76 |  -7.91 |  7.85 |   0.00
+ 809 | Western Connecticut State                          | D3     | -15.86 |  -7.93 |  7.93 |   0.00
+ 810 | Loras College                                      | D3     | -15.89 |  -7.99 |  7.90 |   0.00
+ 811 | Penn State Erie, Behrend                           | D3     | -15.92 |  -7.94 |  7.98 |   0.00
+ 812 | Rust College                                       | D3     | -15.92 |  -7.92 |  8.00 |   0.00
+ 813 | Bethany College (West Virginia)                    | D3     | -15.94 |  -7.94 |  7.99 |   0.00
+ 814 | Anderson University (Indiana)                      | D3     | -15.95 |  -7.94 |  8.01 |   0.00
+ 815 | Lancaster Bible College                            | D3     | -15.97 |  -7.96 |  8.01 |   0.00
+ 816 | Johnson State College                              | D3     | -16.00 |  -7.91 |  8.08 |   0.00
+ 817 | Massachusetts College of Liberal Arts              | D3     | -16.00 |  -7.91 |  8.08 |   0.00
+ 818 | Fisk University                                    | D3     | -16.07 |  -8.03 |  8.04 |   0.00
+ 819 | Southern Virginia University                       | D3     | -16.14 |  -8.06 |  8.08 |   0.00
+ 820 | Pratt Institute of Technology                      | D3     | -16.19 |  -8.07 |  8.12 |   0.00
+ 821 | St. Louis College of Pharmacy                      | NAIA   | -16.28 |  -8.17 |  8.11 |   0.00
+ 822 | Brooklyn College                                   | D3     | -16.35 |  -8.16 |  8.19 |   0.00
+ 823 | Castleton State College                            | D3     | -16.46 |  -8.16 |  8.30 |   0.00
+ 824 | Purdue University Calumet                          | NAIA   | -16.60 |  -8.18 |  8.42 |   0.00
+ 825 | Delaware Valley College                            | D3     | -16.73 |  -8.37 |  8.36 |   0.00
+ 826 | St. Joseph's College (LI)                          | D3     | -16.82 |  -8.39 |  8.42 |   0.00
+ 827 | Thomas More College                                | D3     | -16.82 |  -8.41 |  8.41 |   0.00
+ 828 | Heidelberg College                                 | D3     | -16.84 |  -8.50 |  8.35 |   0.00
+ 829 | Univ. of Pittsburgh, Bradford                      | D3     | -16.85 |  -8.40 |  8.44 |   0.00
+ 830 | Central Christian College                          | NAIA   | -16.88 |  -8.40 |  8.48 |   0.00
+ 831 | Dominican University (Illinois)                    | D3     | -17.05 |  -8.54 |  8.51 |   0.00
+ 832 | City College of New York                           | D3     | -17.06 |  -8.51 |  8.55 |   0.00
+ 833 | Westminster College (PA)                           | D3     | -17.11 |  -8.57 |  8.54 |   0.00
+ 834 | Univ. of Minnesota, Morris                         | D3     | -17.11 |  -8.56 |  8.54 |   0.00
+ 835 | Louisiana College                                  | D3     | -17.11 |  -8.53 |  8.58 |   0.00
+ 836 | Immaculata University                              | D3     | -17.12 |  -8.54 |  8.57 |   0.00
+ 837 | Lakeland College                                   | D3     | -17.12 |  -8.53 |  8.58 |   0.00
+ 838 | Martin Luther (Minn.)                              | D3     | -17.16 |  -8.55 |  8.62 |   0.00
+ 839 | Marietta College                                   | D3     | -17.24 |  -8.63 |  8.61 |   0.00
+ 840 | Bridgewater State University                       | D3     | -17.25 |  -8.60 |  8.64 |   0.00
+ 841 | Saint Vincent College                              | D3     | -17.30 |  -8.62 |  8.68 |   0.00
+ 842 | Concordia University (Illinois)                    | D3     | -17.68 |  -8.83 |  8.85 |   0.00
+ 843 | Mitchell College                                   | D3     | -17.87 |  -8.83 |  9.04 |   0.00
+ 844 | Newbury College                                    | D3     | -17.87 |  -8.83 |  9.04 |   0.00
+ 845 | Lycoming College                                   | D3     | -18.05 |  -9.02 |  9.03 |   0.00
+ 846 | Sage Colleges                                      | D3     | -18.11 |  -9.04 |  9.07 |   0.00
+ 847 | Lehman College, City University of New York        | D3     | -18.31 |  -9.14 |  9.17 |   0.00
+ 848 | Utica College                                      | D3     | -18.35 |  -9.16 |  9.19 |   0.00
+ 849 | Culinary Institute of America                      | D3     | -18.37 |  -9.17 |  9.20 |   0.00
+ 850 | Becker College                                     | D3     | -18.43 |  -9.11 |  9.32 |   0.00
+ 851 | Keuka College                                      | D3     | -18.52 |  -9.25 |  9.27 |   0.00
+ 852 | Berea College (Ky.)                                | NAIA   | -18.59 |  -9.26 |  9.32 |   0.00
+ 853 | North Central University (Minnesota)               | D3     | -18.61 |  -9.27 |  9.34 |   0.00
+ 854 | Mount Aloysius College                             | D3     | -18.76 |  -9.35 |  9.41 |   0.00
+ 855 | Fontbonne College                                  | D3     | -18.96 |  -9.47 |  9.49 |   0.00
+ 856 | Wheelock College                                   | D3     | -18.96 |  -9.44 |  9.53 |   0.00
+ 857 | Sarah Lawrence College                             | D3     | -18.98 |  -9.48 |  9.50 |   0.00
+ 858 | D'Youville College                                 | D3     | -19.12 |  -9.53 |  9.59 |   0.00
+ 859 | Marian University (Wisconsin)                      | D3     | -19.18 |  -9.56 |  9.62 |   0.00
+ 860 | Centenary College (Louisiana)                      | D3     | -19.30 |  -9.65 |  9.64 |   0.00
+ 861 | Keystone College                                   | D3     | -19.73 |  -9.85 |  9.88 |   0.00
+ 862 | Lesley University                                  | D3     | -19.84 |  -9.86 |  9.98 |   0.00
+ 863 | Muskingum College                                  | D3     | -19.92 |  -9.93 |  9.99 |   0.00
+ 864 | Bryn Athyn                                         | D3     | -20.39 | -10.18 | 10.21 |   0.00
+ 865 | Susquehanna University                             | D3     | -20.55 | -10.25 | 10.30 |   0.00
+ 866 | York College (New York)                            | D3     | -21.00 | -10.48 | 10.51 |   0.00
+ 867 | Vaughn College                                     | D3     | -21.16 | -10.56 | 10.60 |   0.00
+ 868 | Illinois College                                   | D3     | -21.24 | -10.59 | 10.65 |   0.00
+ 869 | Thiel College                                      | D3     | -21.35 | -10.65 | 10.71 |   0.00
+ 870 | St. Joseph's College - Brooklyn Campus             | D3     | -22.13 | -11.05 | 11.08 |   0.00
+ 871 | Rosemont College                                   | D3     | -22.96 | -11.47 | 11.50 |   0.00
+(871 rows)
+
+COPY 871
+COMMIT
