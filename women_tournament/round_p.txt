@@ -1,0 +1,391 @@
+BEGIN
+ rd |        name         |   p   
+----+---------------------+-------
+  2 | Texas A&M           | 0.997
+  2 | North Carolina      | 0.996
+  2 | California          | 0.996
+  2 | USC                 | 0.993
+  2 | Florida             | 0.988
+  2 | Baylor              | 0.985
+  2 | UCLA                | 0.977
+  2 | Texas Tech          | 0.963
+  2 | Oklahoma State      | 0.947
+  2 | Michigan            | 0.944
+  2 | Georgia             | 0.943
+  2 | Stanford            | 0.943
+  2 | Alabama             | 0.932
+  2 | Miami (FL)          | 0.929
+  2 | Virginia            | 0.907
+  2 | Mississippi         | 0.876
+  2 | LSU                 | 0.847
+  2 | Clemson             | 0.840
+  2 | Arizona State       | 0.773
+  2 | Murray State        | 0.714
+  2 | Ohio State          | 0.711
+  2 | Duke                | 0.710
+  2 | South Carolina      | 0.671
+  2 | Mississippi St.     | 0.653
+  2 | Pepperdine          | 0.645
+  2 | Northwestern        | 0.635
+  2 | TCU                 | 0.634
+  2 | Kentucky            | 0.630
+  2 | Virginia Tech       | 0.623
+  2 | Georgia Tech        | 0.620
+  2 | Rice                | 0.530
+  2 | William & Mary      | 0.511
+  2 | Dartmouth           | 0.489
+  2 | Tulsa               | 0.470
+  2 | Wichita State       | 0.380
+  2 | Long Beach St.      | 0.377
+  2 | DePaul              | 0.370
+  2 | Notre Dame          | 0.366
+  2 | St. Mary's (CA)     | 0.365
+  2 | Auburn              | 0.355
+  2 | Houston             | 0.347
+  2 | Princeton           | 0.329
+  2 | Purdue              | 0.290
+  2 | Oklahoma            | 0.289
+  2 | Vanderbilt          | 0.286
+  2 | Arkansas            | 0.227
+  2 | South Alabama       | 0.160
+  2 | New Mexico          | 0.153
+  2 | Denver              | 0.124
+  2 | VCU                 | 0.093
+  2 | North Florida       | 0.071
+  2 | Samford             | 0.068
+  2 | Charleston Southern | 0.057
+  2 | Stony Brook         | 0.057
+  2 | Miami (Ohio)        | 0.056
+  2 | Boston University   | 0.053
+  2 | New Mexico St.      | 0.037
+  2 | Idaho               | 0.023
+  2 | Northwestern St.    | 0.015
+  2 | Bethune-Cookman     | 0.012
+  2 | Youngstown St.      | 0.007
+  2 | Quinnipiac          | 0.004
+  2 | Bryant              | 0.004
+  2 | Alcorn State        | 0.003
+  3 | North Carolina      | 0.894
+  3 | USC                 | 0.871
+  3 | Baylor              | 0.865
+  3 | California          | 0.837
+  3 | UCLA                | 0.832
+  3 | Florida             | 0.769
+  3 | Michigan            | 0.764
+  3 | Georgia             | 0.760
+  3 | Virginia            | 0.704
+  3 | Stanford            | 0.696
+  3 | Texas A&M           | 0.689
+  3 | Ohio State          | 0.662
+  3 | Texas Tech          | 0.661
+  3 | Miami (FL)          | 0.658
+  3 | Oklahoma State      | 0.608
+  3 | Alabama             | 0.570
+  3 | Clemson             | 0.394
+  3 | Arizona State       | 0.340
+  3 | Mississippi         | 0.318
+  3 | LSU                 | 0.318
+  3 | Oklahoma            | 0.244
+  3 | TCU                 | 0.223
+  3 | Pepperdine          | 0.215
+  3 | South Carolina      | 0.207
+  3 | Duke                | 0.187
+  3 | Georgia Tech        | 0.162
+  3 | Kentucky            | 0.160
+  3 | Mississippi St.     | 0.124
+  3 | Northwestern        | 0.120
+  3 | Virginia Tech       | 0.092
+  3 | Notre Dame          | 0.088
+  3 | Auburn              | 0.080
+  3 | Murray State        | 0.080
+  3 | Rice                | 0.074
+  3 | Wichita State       | 0.069
+  3 | DePaul              | 0.065
+  3 | Princeton           | 0.063
+  3 | Tulsa               | 0.059
+  3 | William & Mary      | 0.055
+  3 | Dartmouth           | 0.051
+  3 | Arkansas            | 0.046
+  3 | St. Mary's (CA)     | 0.045
+  3 | Purdue              | 0.041
+  3 | Houston             | 0.039
+  3 | Long Beach St.      | 0.037
+  3 | South Alabama       | 0.027
+  3 | VCU                 | 0.026
+  3 | New Mexico          | 0.017
+  3 | Vanderbilt          | 0.014
+  3 | North Florida       | 0.013
+  3 | Charleston Southern | 0.012
+  3 | Denver              | 0.012
+  3 | Miami (Ohio)        | 0.012
+  3 | Stony Brook         | 0.009
+  3 | Samford             | 0.009
+  3 | Boston University   | 0.006
+  3 | New Mexico St.      | 0.004
+  3 | Idaho               | 0.003
+  3 | Northwestern St.    | 0.001
+  3 | Bethune-Cookman     | 0.001
+  3 | Alcorn State        | 0.000
+  3 | Youngstown St.      | 0.000
+  3 | Bryant              | 0.000
+  3 | Quinnipiac          | 0.000
+  4 | USC                 | 0.661
+  4 | North Carolina      | 0.625
+  4 | Baylor              | 0.597
+  4 | UCLA                | 0.560
+  4 | California          | 0.518
+  4 | Florida             | 0.513
+  4 | Georgia             | 0.495
+  4 | Alabama             | 0.421
+  4 | Michigan            | 0.375
+  4 | Stanford            | 0.352
+  4 | Virginia            | 0.307
+  4 | Texas A&M           | 0.305
+  4 | Clemson             | 0.272
+  4 | Oklahoma State      | 0.269
+  4 | Miami (FL)          | 0.266
+  4 | Ohio State          | 0.244
+  4 | Texas Tech          | 0.223
+  4 | Arizona State       | 0.123
+  4 | Mississippi         | 0.083
+  4 | LSU                 | 0.073
+  4 | Duke                | 0.071
+  4 | TCU                 | 0.070
+  4 | Pepperdine          | 0.069
+  4 | Georgia Tech        | 0.066
+  4 | South Carolina      | 0.049
+  4 | Oklahoma            | 0.048
+  4 | Kentucky            | 0.038
+  4 | Northwestern        | 0.037
+  4 | Mississippi St.     | 0.036
+  4 | Virginia Tech       | 0.033
+  4 | Wichita State       | 0.021
+  4 | Rice                | 0.020
+  4 | Notre Dame          | 0.019
+  4 | Auburn              | 0.017
+  4 | Tulsa               | 0.015
+  4 | William & Mary      | 0.013
+  4 | Dartmouth           | 0.011
+  4 | DePaul              | 0.010
+  4 | St. Mary's (CA)     | 0.009
+  4 | South Alabama       | 0.009
+  4 | Long Beach St.      | 0.009
+  4 | Purdue              | 0.009
+  4 | Princeton           | 0.009
+  4 | Houston             | 0.007
+  4 | Arkansas            | 0.007
+  4 | Murray State        | 0.004
+  4 | Charleston Southern | 0.002
+  4 | Samford             | 0.002
+  4 | VCU                 | 0.002
+  4 | North Florida       | 0.001
+  4 | Denver              | 0.001
+  4 | New Mexico          | 0.001
+  4 | Miami (Ohio)        | 0.001
+  4 | Stony Brook         | 0.001
+  4 | Bethune-Cookman     | 0.000
+  4 | Idaho               | 0.000
+  4 | Northwestern St.    | 0.000
+  4 | Quinnipiac          | 0.000
+  4 | Youngstown St.      | 0.000
+  4 | Alcorn State        | 0.000
+  4 | Bryant              | 0.000
+  4 | Vanderbilt          | 0.000
+  4 | New Mexico St.      | 0.000
+  4 | Boston University   | 0.000
+  5 | North Carolina      | 0.379
+  5 | USC                 | 0.374
+  5 | Baylor              | 0.354
+  5 | Florida             | 0.343
+  5 | UCLA                | 0.305
+  5 | California          | 0.294
+  5 | Georgia             | 0.277
+  5 | Alabama             | 0.207
+  5 | Stanford            | 0.183
+  5 | Michigan            | 0.179
+  5 | Oklahoma State      | 0.148
+  5 | Virginia            | 0.147
+  5 | Texas A&M           | 0.130
+  5 | Miami (FL)          | 0.124
+  5 | Clemson             | 0.118
+  5 | Ohio State          | 0.080
+  5 | Texas Tech          | 0.078
+  5 | Arizona State       | 0.058
+  5 | Georgia Tech        | 0.028
+  5 | Mississippi         | 0.025
+  5 | Pepperdine          | 0.023
+  5 | Duke                | 0.020
+  5 | TCU                 | 0.020
+  5 | LSU                 | 0.017
+  5 | South Carolina      | 0.013
+  5 | Mississippi St.     | 0.009
+  5 | Kentucky            | 0.008
+  5 | Northwestern        | 0.008
+  5 | Oklahoma            | 0.008
+  5 | Wichita State       | 0.006
+  5 | Virginia Tech       | 0.006
+  5 | Rice                | 0.004
+  5 | Auburn              | 0.004
+  5 | Notre Dame          | 0.004
+  5 | Tulsa               | 0.003
+  5 | William & Mary      | 0.002
+  5 | Arkansas            | 0.002
+  5 | Dartmouth           | 0.002
+  5 | DePaul              | 0.001
+  5 | Houston             | 0.001
+  5 | St. Mary's (CA)     | 0.001
+  5 | Princeton           | 0.001
+  5 | South Alabama       | 0.001
+  5 | Long Beach St.      | 0.001
+  5 | Purdue              | 0.001
+  5 | Youngstown St.      | 0.000
+  5 | VCU                 | 0.000
+  5 | Boston University   | 0.000
+  5 | Alcorn State        | 0.000
+  5 | Quinnipiac          | 0.000
+  5 | New Mexico          | 0.000
+  5 | Idaho               | 0.000
+  5 | Stony Brook         | 0.000
+  5 | Charleston Southern | 0.000
+  5 | Vanderbilt          | 0.000
+  5 | Bethune-Cookman     | 0.000
+  5 | Bryant              | 0.000
+  5 | Denver              | 0.000
+  5 | Samford             | 0.000
+  5 | Northwestern St.    | 0.000
+  5 | Miami (Ohio)        | 0.000
+  5 | North Florida       | 0.000
+  5 | New Mexico St.      | 0.000
+  5 | Murray State        | 0.000
+  6 | USC                 | 0.239
+  6 | Baylor              | 0.228
+  6 | North Carolina      | 0.217
+  6 | Florida             | 0.175
+  6 | UCLA                | 0.166
+  6 | California          | 0.157
+  6 | Georgia             | 0.150
+  6 | Stanford            | 0.089
+  6 | Alabama             | 0.087
+  6 | Michigan            | 0.081
+  6 | Virginia            | 0.078
+  6 | Oklahoma State      | 0.058
+  6 | Texas A&M           | 0.055
+  6 | Miami (FL)          | 0.053
+  6 | Clemson             | 0.042
+  6 | Texas Tech          | 0.032
+  6 | Ohio State          | 0.021
+  6 | Arizona State       | 0.018
+  6 | Pepperdine          | 0.007
+  6 | Mississippi         | 0.007
+  6 | Georgia Tech        | 0.007
+  6 | TCU                 | 0.006
+  6 | Duke                | 0.005
+  6 | LSU                 | 0.005
+  6 | South Carolina      | 0.004
+  6 | Northwestern        | 0.002
+  6 | Virginia Tech       | 0.002
+  6 | Mississippi St.     | 0.002
+  6 | Kentucky            | 0.002
+  6 | Auburn              | 0.001
+  6 | Tulsa               | 0.001
+  6 | Notre Dame          | 0.001
+  6 | Wichita State       | 0.001
+  6 | Rice                | 0.001
+  6 | Oklahoma            | 0.001
+  6 | Bethune-Cookman     | 0.000
+  6 | Dartmouth           | 0.000
+  6 | Quinnipiac          | 0.000
+  6 | New Mexico St.      | 0.000
+  6 | DePaul              | 0.000
+  6 | Long Beach St.      | 0.000
+  6 | Vanderbilt          | 0.000
+  6 | Murray State        | 0.000
+  6 | William & Mary      | 0.000
+  6 | South Alabama       | 0.000
+  6 | VCU                 | 0.000
+  6 | Bryant              | 0.000
+  6 | St. Mary's (CA)     | 0.000
+  6 | Arkansas            | 0.000
+  6 | Boston University   | 0.000
+  6 | Denver              | 0.000
+  6 | Houston             | 0.000
+  6 | Northwestern St.    | 0.000
+  6 | New Mexico          | 0.000
+  6 | Purdue              | 0.000
+  6 | Idaho               | 0.000
+  6 | North Florida       | 0.000
+  6 | Stony Brook         | 0.000
+  6 | Miami (Ohio)        | 0.000
+  6 | Youngstown St.      | 0.000
+  6 | Princeton           | 0.000
+  6 | Samford             | 0.000
+  6 | Alcorn State        | 0.000
+  6 | Charleston Southern | 0.000
+  7 | USC                 | 0.131
+  7 | North Carolina      | 0.126
+  7 | Baylor              | 0.126
+  7 | UCLA                | 0.091
+  7 | Florida             | 0.089
+  7 | California          | 0.086
+  7 | Georgia             | 0.083
+  7 | Stanford            | 0.044
+  7 | Michigan            | 0.038
+  7 | Alabama             | 0.036
+  7 | Virginia            | 0.033
+  7 | Texas A&M           | 0.023
+  7 | Miami (FL)          | 0.023
+  7 | Oklahoma State      | 0.022
+  7 | Clemson             | 0.015
+  7 | Texas Tech          | 0.010
+  7 | Ohio State          | 0.006
+  7 | Arizona State       | 0.005
+  7 | Pepperdine          | 0.002
+  7 | Mississippi         | 0.002
+  7 | TCU                 | 0.002
+  7 | Duke                | 0.002
+  7 | Georgia Tech        | 0.002
+  7 | South Carolina      | 0.001
+  7 | LSU                 | 0.001
+  7 | Miami (Ohio)        | 0.000
+  7 | Youngstown St.      | 0.000
+  7 | Mississippi St.     | 0.000
+  7 | Purdue              | 0.000
+  7 | Northwestern        | 0.000
+  7 | Northwestern St.    | 0.000
+  7 | Dartmouth           | 0.000
+  7 | Rice                | 0.000
+  7 | New Mexico          | 0.000
+  7 | Long Beach St.      | 0.000
+  7 | Princeton           | 0.000
+  7 | Stony Brook         | 0.000
+  7 | Idaho               | 0.000
+  7 | Auburn              | 0.000
+  7 | Samford             | 0.000
+  7 | Wichita State       | 0.000
+  7 | Bethune-Cookman     | 0.000
+  7 | Tulsa               | 0.000
+  7 | Notre Dame          | 0.000
+  7 | St. Mary's (CA)     | 0.000
+  7 | Kentucky            | 0.000
+  7 | Charleston Southern | 0.000
+  7 | Quinnipiac          | 0.000
+  7 | Bryant              | 0.000
+  7 | South Alabama       | 0.000
+  7 | Alcorn State        | 0.000
+  7 | Vanderbilt          | 0.000
+  7 | Denver              | 0.000
+  7 | Arkansas            | 0.000
+  7 | DePaul              | 0.000
+  7 | New Mexico St.      | 0.000
+  7 | Houston             | 0.000
+  7 | Boston University   | 0.000
+  7 | VCU                 | 0.000
+  7 | William & Mary      | 0.000
+  7 | Murray State        | 0.000
+  7 | North Florida       | 0.000
+  7 | Oklahoma            | 0.000
+  7 | Virginia Tech       | 0.000
+(384 rows)
+
+COPY 384
+COMMIT
