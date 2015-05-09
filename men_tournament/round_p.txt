@@ -1,391 +1,167 @@
 BEGIN
- rd |       name       |   p   
-----+------------------+-------
-  2 | Baylor           | 0.996
-  2 | Mississippi      | 0.990
-  2 | Oklahoma         | 0.985
-  2 | USC              | 0.984
-  2 | Texas A&M        | 0.979
-  2 | TCU              | 0.973
-  2 | Texas            | 0.968
-  2 | Georgia          | 0.965
-  2 | Virginia         | 0.957
-  2 | Ohio State       | 0.953
-  2 | Duke             | 0.940
-  2 | Wake Forest      | 0.939
-  2 | Illinois         | 0.937
-  2 | North Carolina   | 0.903
-  2 | UCLA             | 0.858
-  2 | South Florida    | 0.841
-  2 | Virginia Tech    | 0.836
-  2 | California       | 0.777
-  2 | Florida State    | 0.773
-  2 | Texas Tech       | 0.754
-  2 | LSU              | 0.730
-  2 | Florida          | 0.726
-  2 | Columbia         | 0.721
-  2 | Mississippi St.  | 0.716
-  2 | Oklahoma State   | 0.701
-  2 | Stanford         | 0.699
-  2 | Minnesota        | 0.669
-  2 | San Diego        | 0.625
-  2 | Northwestern     | 0.589
-  2 | Louisville       | 0.588
-  2 | NC State         | 0.546
-  2 | Vanderbilt       | 0.522
-  2 | Notre Dame       | 0.478
-  2 | Tulsa            | 0.454
-  2 | Drake            | 0.412
-  2 | Harvard          | 0.411
-  2 | San Diego State  | 0.375
-  2 | Princeton        | 0.331
-  2 | Tennessee        | 0.301
-  2 | New Mexico       | 0.299
-  2 | Denver           | 0.284
-  2 | Georgia Tech     | 0.279
-  2 | Pepperdine       | 0.274
-  2 | UTSA             | 0.270
-  2 | UC Santa Barb.   | 0.246
-  2 | Troy             | 0.227
-  2 | Texas A&M-C.C.   | 0.223
-  2 | East Tenn. St.   | 0.164
-  2 | Boise State      | 0.159
-  2 | FGCU             | 0.142
-  2 | William & Mary   | 0.097
-  2 | Green Bay        | 0.063
-  2 | Geo. Washington  | 0.061
-  2 | S. Carolina St.  | 0.060
-  2 | Buffalo          | 0.047
-  2 | St. John's       | 0.043
-  2 | Winthrop         | 0.035
-  2 | Navy             | 0.032
-  2 | Marist           | 0.027
-  2 | Eastern Kentucky | 0.021
-  2 | Idaho            | 0.016
-  2 | New Mexico St.   | 0.015
-  2 | Alabama State    | 0.010
-  2 | Bryant           | 0.004
-  3 | Baylor           | 0.880
-  3 | Oklahoma         | 0.825
-  3 | Virginia         | 0.812
-  3 | USC              | 0.801
-  3 | Texas A&M        | 0.768
-  3 | Illinois         | 0.742
-  3 | Georgia          | 0.718
-  3 | TCU              | 0.687
-  3 | Ohio State       | 0.665
-  3 | Wake Forest      | 0.661
-  3 | Texas            | 0.651
-  3 | UCLA             | 0.624
-  3 | North Carolina   | 0.610
-  3 | Duke             | 0.602
-  3 | Virginia Tech    | 0.522
-  3 | Mississippi      | 0.456
-  3 | Columbia         | 0.438
-  3 | South Florida    | 0.407
-  3 | Stanford         | 0.310
-  3 | California       | 0.309
-  3 | Mississippi St.  | 0.302
-  3 | Texas Tech       | 0.285
-  3 | Florida          | 0.275
-  3 | Florida State    | 0.248
-  3 | Oklahoma State   | 0.188
-  3 | NC State         | 0.179
-  3 | Vanderbilt       | 0.177
-  3 | Louisville       | 0.158
-  3 | Notre Dame       | 0.153
-  3 | San Diego        | 0.141
-  3 | Minnesota        | 0.139
-  3 | Tulsa            | 0.132
-  3 | Northwestern     | 0.114
-  3 | Georgia Tech     | 0.105
-  3 | LSU              | 0.104
-  3 | Drake            | 0.087
-  3 | Tennessee        | 0.081
-  3 | Denver           | 0.069
-  3 | Harvard          | 0.060
-  3 | San Diego State  | 0.057
-  3 | Pepperdine       | 0.055
-  3 | FGCU             | 0.047
-  3 | East Tenn. St.   | 0.044
-  3 | UC Santa Barb.   | 0.044
-  3 | New Mexico       | 0.042
-  3 | Princeton        | 0.041
-  3 | Texas A&M-C.C.   | 0.038
-  3 | Troy             | 0.031
-  3 | Boise State      | 0.027
-  3 | William & Mary   | 0.019
-  3 | UTSA             | 0.016
-  3 | Green Bay        | 0.013
-  3 | Geo. Washington  | 0.009
-  3 | St. John's       | 0.009
-  3 | S. Carolina St.  | 0.007
-  3 | Buffalo          | 0.005
-  3 | Winthrop         | 0.004
-  3 | Eastern Kentucky | 0.002
-  3 | Marist           | 0.002
-  3 | Navy             | 0.002
-  3 | Idaho            | 0.001
-  3 | New Mexico St.   | 0.001
-  3 | Alabama State    | 0.000
-  3 | Bryant           | 0.000
-  4 | Baylor           | 0.697
-  4 | Virginia         | 0.663
-  4 | Oklahoma         | 0.622
-  4 | USC              | 0.547
-  4 | Illinois         | 0.511
-  4 | Texas A&M        | 0.482
-  4 | Georgia          | 0.443
-  4 | TCU              | 0.397
-  4 | Wake Forest      | 0.365
-  4 | Ohio State       | 0.334
-  4 | Texas            | 0.324
-  4 | North Carolina   | 0.276
-  4 | Duke             | 0.258
-  4 | UCLA             | 0.233
-  4 | Virginia Tech    | 0.155
-  4 | Columbia         | 0.132
-  4 | California       | 0.119
-  4 | Stanford         | 0.110
-  4 | Florida          | 0.110
-  4 | Mississippi      | 0.104
-  4 | Mississippi St.  | 0.104
-  4 | Florida State    | 0.102
-  4 | South Florida    | 0.098
-  4 | Oklahoma State   | 0.070
-  4 | NC State         | 0.070
-  4 | Minnesota        | 0.069
-  4 | Texas Tech       | 0.066
-  4 | Louisville       | 0.065
-  4 | Vanderbilt       | 0.058
-  4 | San Diego        | 0.053
-  4 | Northwestern     | 0.049
-  4 | Notre Dame       | 0.047
-  4 | Tulsa            | 0.046
-  4 | LSU              | 0.041
-  4 | Drake            | 0.029
-  4 | Harvard          | 0.021
-  4 | Georgia Tech     | 0.016
-  4 | Tennessee        | 0.016
-  4 | San Diego State  | 0.015
-  4 | Princeton        | 0.014
-  4 | Denver           | 0.013
-  4 | Pepperdine       | 0.011
-  4 | New Mexico       | 0.009
-  4 | Texas A&M-C.C.   | 0.006
-  4 | Troy             | 0.005
-  4 | FGCU             | 0.005
-  4 | UC Santa Barb.   | 0.004
-  4 | East Tenn. St.   | 0.004
-  4 | UTSA             | 0.003
-  4 | Green Bay        | 0.002
-  4 | Boise State      | 0.002
-  4 | William & Mary   | 0.002
-  4 | St. John's       | 0.002
-  4 | Geo. Washington  | 0.001
-  4 | Winthrop         | 0.000
-  4 | Eastern Kentucky | 0.000
-  4 | Idaho            | 0.000
-  4 | S. Carolina St.  | 0.000
-  4 | New Mexico St.   | 0.000
-  4 | Navy             | 0.000
-  4 | Bryant           | 0.000
-  4 | Marist           | 0.000
-  4 | Buffalo          | 0.000
-  4 | Alabama State    | 0.000
-  5 | Virginia         | 0.489
-  5 | Baylor           | 0.488
-  5 | Oklahoma         | 0.441
-  5 | Illinois         | 0.323
-  5 | USC              | 0.258
-  5 | Texas A&M        | 0.210
-  5 | TCU              | 0.204
-  5 | Georgia          | 0.199
-  5 | Wake Forest      | 0.183
-  5 | North Carolina   | 0.139
-  5 | Ohio State       | 0.127
-  5 | Texas            | 0.126
-  5 | UCLA             | 0.122
-  5 | Duke             | 0.090
-  5 | Virginia Tech    | 0.068
-  5 | Columbia         | 0.061
-  5 | Mississippi St.  | 0.040
-  5 | Florida          | 0.039
-  5 | Mississippi      | 0.038
-  5 | South Florida    | 0.036
-  5 | California       | 0.034
-  5 | Stanford         | 0.031
-  5 | Florida State    | 0.028
-  5 | Minnesota        | 0.027
-  5 | Louisville       | 0.023
-  5 | NC State         | 0.023
-  5 | Texas Tech       | 0.022
-  5 | Northwestern     | 0.018
-  5 | Oklahoma State   | 0.016
-  5 | Tulsa            | 0.014
-  5 | Vanderbilt       | 0.013
-  5 | LSU              | 0.012
-  5 | San Diego        | 0.011
-  5 | Notre Dame       | 0.010
-  5 | Drake            | 0.008
-  5 | Harvard          | 0.006
-  5 | Georgia Tech     | 0.004
-  5 | Princeton        | 0.003
-  5 | Denver           | 0.003
-  5 | San Diego State  | 0.002
-  5 | Pepperdine       | 0.002
-  5 | Tennessee        | 0.002
-  5 | East Tenn. St.   | 0.001
-  5 | New Mexico       | 0.001
-  5 | UC Santa Barb.   | 0.001
-  5 | Troy             | 0.001
-  5 | FGCU             | 0.001
-  5 | Texas A&M-C.C.   | 0.001
-  5 | Navy             | 0.000
-  5 | Alabama State    | 0.000
-  5 | New Mexico St.   | 0.000
-  5 | S. Carolina St.  | 0.000
-  5 | UTSA             | 0.000
-  5 | Boise State      | 0.000
-  5 | Marist           | 0.000
-  5 | Geo. Washington  | 0.000
-  5 | William & Mary   | 0.000
-  5 | Winthrop         | 0.000
-  5 | Bryant           | 0.000
-  5 | St. John's       | 0.000
-  5 | Buffalo          | 0.000
-  5 | Eastern Kentucky | 0.000
-  5 | Idaho            | 0.000
-  5 | Green Bay        | 0.000
-  6 | Baylor           | 0.306
-  6 | Oklahoma         | 0.305
-  6 | Virginia         | 0.294
-  6 | Illinois         | 0.166
-  6 | USC              | 0.132
-  6 | Georgia          | 0.110
-  6 | Texas A&M        | 0.088
-  6 | TCU              | 0.088
-  6 | Wake Forest      | 0.077
-  6 | UCLA             | 0.061
-  6 | Texas            | 0.061
-  6 | North Carolina   | 0.054
-  6 | Ohio State       | 0.046
-  6 | Duke             | 0.034
-  6 | Virginia Tech    | 0.025
-  6 | Columbia         | 0.020
-  6 | California       | 0.013
-  6 | Mississippi St.  | 0.011
-  6 | South Florida    | 0.011
-  6 | Florida          | 0.011
-  6 | Stanford         | 0.010
-  6 | Florida State    | 0.010
-  6 | Mississippi      | 0.009
-  6 | Minnesota        | 0.007
-  6 | Texas Tech       | 0.007
-  6 | Northwestern     | 0.006
-  6 | Louisville       | 0.006
-  6 | NC State         | 0.006
-  6 | San Diego        | 0.003
-  6 | LSU              | 0.003
-  6 | Tulsa            | 0.003
-  6 | Oklahoma State   | 0.003
-  6 | Vanderbilt       | 0.003
-  6 | Notre Dame       | 0.002
-  6 | Harvard          | 0.002
-  6 | Drake            | 0.002
-  6 | Georgia Tech     | 0.001
-  6 | Princeton        | 0.001
-  6 | New Mexico St.   | 0.000
-  6 | Marist           | 0.000
-  6 | Buffalo          | 0.000
-  6 | Winthrop         | 0.000
-  6 | East Tenn. St.   | 0.000
-  6 | Texas A&M-C.C.   | 0.000
-  6 | Green Bay        | 0.000
-  6 | San Diego State  | 0.000
-  6 | Geo. Washington  | 0.000
-  6 | Tennessee        | 0.000
-  6 | Pepperdine       | 0.000
-  6 | UC Santa Barb.   | 0.000
-  6 | Denver           | 0.000
-  6 | St. John's       | 0.000
-  6 | William & Mary   | 0.000
-  6 | Eastern Kentucky | 0.000
-  6 | S. Carolina St.  | 0.000
-  6 | New Mexico       | 0.000
-  6 | Idaho            | 0.000
-  6 | UTSA             | 0.000
-  6 | Boise State      | 0.000
-  6 | Troy             | 0.000
-  6 | FGCU             | 0.000
-  6 | Navy             | 0.000
-  6 | Alabama State    | 0.000
-  6 | Bryant           | 0.000
-  7 | Baylor           | 0.205
-  7 | Virginia         | 0.197
-  7 | Oklahoma         | 0.165
-  7 | USC              | 0.073
-  7 | Illinois         | 0.072
-  7 | Georgia          | 0.043
-  7 | Texas A&M        | 0.043
-  7 | TCU              | 0.031
-  7 | Wake Forest      | 0.027
-  7 | UCLA             | 0.021
-  7 | Ohio State       | 0.020
-  7 | Texas            | 0.020
-  7 | North Carolina   | 0.017
-  7 | Duke             | 0.014
-  7 | Virginia Tech    | 0.010
-  7 | Columbia         | 0.008
-  7 | South Florida    | 0.004
-  7 | Stanford         | 0.003
-  7 | Mississippi St.  | 0.003
-  7 | Mississippi      | 0.003
-  7 | California       | 0.003
-  7 | Florida          | 0.002
-  7 | Florida State    | 0.002
-  7 | Texas Tech       | 0.002
-  7 | Minnesota        | 0.002
-  7 | Tulsa            | 0.001
-  7 | Northwestern     | 0.001
-  7 | Notre Dame       | 0.001
-  7 | Louisville       | 0.001
-  7 | Vanderbilt       | 0.001
-  7 | NC State         | 0.001
-  7 | San Diego        | 0.001
-  7 | LSU              | 0.001
-  7 | Oklahoma State   | 0.001
-  7 | William & Mary   | 0.000
-  7 | Denver           | 0.000
-  7 | Idaho            | 0.000
-  7 | St. John's       | 0.000
-  7 | Marist           | 0.000
-  7 | Pepperdine       | 0.000
-  7 | UC Santa Barb.   | 0.000
-  7 | New Mexico       | 0.000
-  7 | San Diego State  | 0.000
-  7 | S. Carolina St.  | 0.000
-  7 | Geo. Washington  | 0.000
-  7 | UTSA             | 0.000
-  7 | Boise State      | 0.000
-  7 | New Mexico St.   | 0.000
-  7 | Tennessee        | 0.000
-  7 | Buffalo          | 0.000
-  7 | Harvard          | 0.000
-  7 | Texas A&M-C.C.   | 0.000
-  7 | FGCU             | 0.000
-  7 | Green Bay        | 0.000
-  7 | Georgia Tech     | 0.000
-  7 | Winthrop         | 0.000
-  7 | Troy             | 0.000
-  7 | Navy             | 0.000
-  7 | Bryant           | 0.000
-  7 | East Tenn. St.   | 0.000
-  7 | Alabama State    | 0.000
-  7 | Eastern Kentucky | 0.000
-  7 | Drake            | 0.000
-  7 | Princeton        | 0.000
-(384 rows)
+ rd |      name       |   p   
+----+-----------------+-------
+  3 | Baylor          | 0.861
+  3 | USC             | 0.860
+  3 | Wake Forest     | 0.834
+  3 | Illinois        | 0.826
+  3 | Virginia        | 0.821
+  3 | Oklahoma        | 0.818
+  3 | Texas A&M       | 0.747
+  3 | TCU             | 0.727
+  3 | Georgia         | 0.701
+  3 | Ohio State      | 0.688
+  3 | UCLA            | 0.682
+  3 | North Carolina  | 0.623
+  3 | Texas           | 0.620
+  3 | Columbia        | 0.604
+  3 | Duke            | 0.586
+  3 | Virginia Tech   | 0.576
+  3 | South Florida   | 0.424
+  3 | Stanford        | 0.414
+  3 | Mississippi     | 0.396
+  3 | California      | 0.380
+  3 | Mississippi St. | 0.377
+  3 | Texas Tech      | 0.318
+  3 | Vanderbilt      | 0.312
+  3 | Florida State   | 0.299
+  3 | Tulsa           | 0.273
+  3 | Oklahoma State  | 0.253
+  3 | Northwestern    | 0.182
+  3 | Minnesota       | 0.179
+  3 | Drake           | 0.174
+  3 | Pepperdine      | 0.166
+  3 | San Diego State | 0.140
+  3 | LSU             | 0.139
+  4 | Baylor          | 0.671
+  4 | Virginia        | 0.657
+  4 | Oklahoma        | 0.603
+  4 | USC             | 0.578
+  4 | Illinois        | 0.556
+  4 | Texas A&M       | 0.463
+  4 | Wake Forest     | 0.458
+  4 | Georgia         | 0.429
+  4 | TCU             | 0.413
+  4 | Ohio State      | 0.345
+  4 | Texas           | 0.307
+  4 | North Carolina  | 0.269
+  4 | UCLA            | 0.253
+  4 | Duke            | 0.245
+  4 | Columbia        | 0.174
+  4 | Virginia Tech   | 0.174
+  4 | California      | 0.144
+  4 | Stanford        | 0.142
+  4 | Mississippi St. | 0.122
+  4 | Florida State   | 0.121
+  4 | South Florida   | 0.104
+  4 | Vanderbilt      | 0.100
+  4 | Tulsa           | 0.095
+  4 | Oklahoma State  | 0.092
+  4 | Mississippi     | 0.085
+  4 | Minnesota       | 0.084
+  4 | Northwestern    | 0.072
+  4 | Texas Tech      | 0.072
+  4 | Drake           | 0.054
+  4 | LSU             | 0.051
+  4 | San Diego State | 0.035
+  4 | Pepperdine      | 0.034
+  5 | Virginia        | 0.485
+  5 | Baylor          | 0.465
+  5 | Oklahoma        | 0.429
+  5 | Illinois        | 0.346
+  5 | USC             | 0.277
+  5 | Wake Forest     | 0.223
+  5 | TCU             | 0.206
+  5 | Texas A&M       | 0.199
+  5 | Georgia         | 0.194
+  5 | UCLA            | 0.133
+  5 | North Carolina  | 0.132
+  5 | Ohio State      | 0.129
+  5 | Texas           | 0.119
+  5 | Duke            | 0.087
+  5 | Columbia        | 0.080
+  5 | Virginia Tech   | 0.075
+  5 | Mississippi St. | 0.045
+  5 | California      | 0.041
+  5 | Stanford        | 0.041
+  5 | South Florida   | 0.038
+  5 | Florida State   | 0.033
+  5 | Minnesota       | 0.033
+  5 | Mississippi     | 0.031
+  5 | Tulsa           | 0.027
+  5 | Northwestern    | 0.026
+  5 | Texas Tech      | 0.025
+  5 | Vanderbilt      | 0.023
+  5 | Oklahoma State  | 0.020
+  5 | LSU             | 0.014
+  5 | Drake           | 0.014
+  5 | Pepperdine      | 0.006
+  5 | San Diego State | 0.005
+  6 | Oklahoma        | 0.293
+  6 | Virginia        | 0.293
+  6 | Baylor          | 0.292
+  6 | Illinois        | 0.179
+  6 | USC             | 0.142
+  6 | Georgia         | 0.104
+  6 | Wake Forest     | 0.095
+  6 | TCU             | 0.090
+  6 | Texas A&M       | 0.084
+  6 | UCLA            | 0.065
+  6 | Texas           | 0.056
+  6 | North Carolina  | 0.052
+  6 | Ohio State      | 0.047
+  6 | Duke            | 0.033
+  6 | Virginia Tech   | 0.028
+  6 | Columbia        | 0.026
+  6 | California      | 0.015
+  6 | Stanford        | 0.013
+  6 | Mississippi St. | 0.013
+  6 | South Florida   | 0.012
+  6 | Florida State   | 0.011
+  6 | Northwestern    | 0.009
+  6 | Minnesota       | 0.009
+  6 | Texas Tech      | 0.008
+  6 | Mississippi     | 0.008
+  6 | Tulsa           | 0.006
+  6 | Vanderbilt      | 0.005
+  6 | Oklahoma State  | 0.004
+  6 | Drake           | 0.003
+  6 | LSU             | 0.003
+  6 | Pepperdine      | 0.001
+  6 | San Diego State | 0.001
+  7 | Virginia        | 0.196
+  7 | Baylor          | 0.196
+  7 | Oklahoma        | 0.159
+  7 | USC             | 0.079
+  7 | Illinois        | 0.078
+  7 | Georgia         | 0.041
+  7 | Texas A&M       | 0.041
+  7 | Wake Forest     | 0.033
+  7 | TCU             | 0.032
+  7 | UCLA            | 0.023
+  7 | Ohio State      | 0.020
+  7 | Texas           | 0.019
+  7 | North Carolina  | 0.016
+  7 | Duke            | 0.014
+  7 | Virginia Tech   | 0.011
+  7 | Columbia        | 0.010
+  7 | California      | 0.004
+  7 | South Florida   | 0.004
+  7 | Stanford        | 0.004
+  7 | Minnesota       | 0.003
+  7 | Florida State   | 0.003
+  7 | Mississippi St. | 0.003
+  7 | Northwestern    | 0.002
+  7 | Mississippi     | 0.002
+  7 | Texas Tech      | 0.002
+  7 | Tulsa           | 0.001
+  7 | Oklahoma State  | 0.001
+  7 | Vanderbilt      | 0.001
+  7 | LSU             | 0.001
+  7 | San Diego State | 0.000
+  7 | Drake           | 0.000
+  7 | Pepperdine      | 0.000
+(160 rows)
 
-COPY 384
+COPY 160
 COMMIT
