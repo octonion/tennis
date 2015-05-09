@@ -1,2237 +1,2187 @@
 player,team,str
-Axel Alvarez Llamas,University of Oklahoma,8.704
-Guillermo Nuñez,TCU,7.736
-Gonzales Austin,Vanderbilt University,7.646
-Mikelis Libietis,University of Tennessee,7.585
-Jared Hiltzik,University of Illinois,7.568
-Mackenzie McDonald,UCLA,7.474
-Collin Altamirano,University of Virginia,7.447
-Julian Lenz,Baylor University,7.175
-Mitchell Frank,University of Virginia,7.098
-Andrew Harris,University of Oklahoma,6.884
-Søren Hess-Olesen,University of Texas,6.694
-Martin Redlicki,UCLA,6.626
-Quentin Monaghan,University of Notre Dame,6.575
-Simon Stevens,University of Oregon,6.511
-Ryan Shane,University of Virginia,6.382
-Nik Scholtz,University of Mississippi,6.330
-Aleks Vukic,University of Illinois,6.323
-Sebastian Stiefelmeyer,University of Louisville,6.274
-Tim Kopinski,University of Illinois,6.051
-Diego Hidalgo,University of Florida,6.040
-Brett Clark,North Carolina,6.021
-Noah Rubin,Wake Forest University,5.971
-Eric Johnson,University of Southern California,5.947
-Nicolas Alvarez,Duke University,5.938
-Romain Bogaerts,Wake Forest University,5.852
-Dane Webb,University of Oklahoma,5.824
-Roberto Quiroz,University of Southern California,5.754
-Florin Bragusi,University of Oklahoma,5.681
-Arthur Rinderknech,Texas A&M University,5.578
-Jeremy Efferding,Texas A&M University,5.564
-Mike Vermeer,Columbia University,5.543
-Alexandru Ghilea,University of Oklahoma,5.538
-Ronnie Schneider,North Carolina,5.518
-Jack Murray,North Carolina,5.507
-Yannick Hanfmann,University of Southern California,5.459
-Winston Lin,Columbia University,5.445
-Tony Lupieri,Baylor University,5.426
-Max de Vroome,University of Southern California,5.384
-Shane Vinsant,Texas A&M University,5.359
-Nick Chappell,TCU,5.352
-Andreas Bjerrehus,Virginia Tech,5.348
-Lloyd Glasspool,University of Texas,5.341
-Dominik Koepfer,Tulane University,5.321
-Tomas Stillman,Univ. of Texas at San Antonio,5.281
-Thai-Son Kwiatkowski,University of Virginia,5.274
-Mate Zsiga,Baylor University,5.235
-Marko Lovrinovic,Belmont University,5.233
-Adrien Berkowicz,University of Texas,5.194
-Beck Pennington,University of Kentucky,5.151
-Robbie Mudge,North Carolina State,5.149
-Tin Ostojic,Wichita State University,5.133
-Raphael Hemmeler,Duke University,5.131
-Jordi Massalle Ferrer,Charlotte,5.111
-Tom Fawcett,Stanford University,5.105
-JC Aragone,University of Virginia,5.073
-Carlos Lopez Villa,Old Dominion University,5.069
-Daniel Valent,Vanderbilt University,5.055
-Peter Nagy,Texas A&M-Corpus Christi,5.047
-Clement Homs,University of Texas,5.044
-Dennis Mkrtchian,UCLA,5.021
-Naoki Takeda,University of Arizona,4.976
-Sam Shropshire,Northwestern University,4.974
-Robert Kelly,North Carolina,4.972
-Hunter Callahan,Ohio State University,4.949
-Or Ram-Harel,University of Tulsa,4.925
-Maxime Tchoutakian,Baylor University,4.925
-Chris Diaz,Ohio State University,4.923
-Leandro Toledo,University of Minnesota,4.912
-Jordi Vives,Florida Gulf Coast University,4.893
-Denis Nguyen,Harvard University,4.877
-Jordan Daigle,LSU,4.855
-Lucas Gerch,Oklahoma State University,4.839
-Mikael Torpegaard,Ohio State University,4.818
-Hunter Koontz,Virginia Tech,4.801
-Wayne Montgomery,University of Georgia,4.797
-Florian Lakat,Mississippi State University,4.787
-Benjamin Lock,Florida State University,4.775
-Roberto Cid,University of South Florida,4.771
-Bernardo Saraiva,Univ. of San Francisco,4.721
-Nick Crystal,University of Southern California,4.699
-Ace Matias,UNLV,4.691
-Matic Spec,University of Minnesota,4.681
-Jake Douglas,University of Washington,4.664
-Daniel Leitner,University of South Alabama,4.641
-Dovydas Sakinis,Dartmouth College,4.624
-Daan Maasland,University of Oregon,4.622
-Strong Kirchheimer,Northwestern University,4.620
-Chris Mengel,Duke University,4.616
-Amerigo Contini,Virginia Tech,4.605
-Daniil Gerasimov,North Carolina Central University,4.572
-Andre Goransson,California,4.558
-Aron Hiltzik,University of Illinois,4.555
-Arnau Dachs,TCU,4.544
-Jonathan Ho,Wake Forest University,4.534
-Mariano Porter,University of Central Florida,4.508
-Elliott Orkin,University of Florida,4.498
-Austin Smith,University of Georgia,4.482
-Jordan Angus,University of San Diego,4.481
-Filip Vittek,University of San Diego,4.477
-Michael Rinaldi,Florida State University,4.476
-Ralf Steinbach,Ohio State University,4.464
-Jakob Sude,Oklahoma State University,4.448
-Lukas Ollert,Auburn University,4.448
-Diego Vives,Princeton University,4.436
-AJ Catanzariti,Texas A&M University,4.421
-Filip Bergevi,California,4.419
-David Wilczynski,Stanford University,4.374
-Max Lunkin,Texas A&M University,4.364
-Beck Bond,North Carolina State,4.361
-Marko Goles-Babic,San Diego State University,4.303
-Freddy Gelbrich,San Diego State University,4.291
-Stefan Lindmark,University of Mississippi,4.273
-Jonny Wang,University of Southern California,4.270
-Alen Salibasic,Drake University,4.248
-Albert Wagner,University of Louisville,4.246
-Nathan Pasha,University of Georgia,4.236
-Nick Wood,University of Georgia,4.219
-Spencer Papa,University of Oklahoma,4.195
-Edoardo Tessaro,Virginia Tech,4.190
-John Morrissey,Stanford University,4.170
-Felipe Rios,Baylor University,4.169
-Felipe Soares,Texas Tech University,4.155
-Ben Davis,Middle Tennessee State University,4.149
-Chase Perez-Blanco,University of Florida,4.136
-Nicky Hu,Harvard University,4.132
-Michael Voscek,Virginia Commonwealth University,4.120
-Kevin Metka,Ohio State University,4.100
-Chris Simpson,LSU,4.084
-Zack McCourt,Princeton University,4.072
-Mate Cutura,Mississippi State University,4.057
-Samm Butler,SMU,4.056
-Ashok Narayana,Columbia University,4.047
-Gordon Watson,University of Florida,3.996
-Ryoto Tachi,UCLA,3.975
-Jack Findel-Hawkins,University of North Florida,3.960
-Bruno Semenzato,Duke University,3.959
-Alex Gornet,University of Louisville,3.947
-Alejandro Espejo,University of Tulsa,3.946
-Ilya Osintsev,Santa Clara University,3.943
-Uros Petronijevic,University of San Diego,3.942
-Cameron Norrie,TCU,3.939
-Alejandro Llamas,SMU,3.938
-Gregory Bayane,California,3.919
-Joao Monteiro,Virginia Tech,3.906
-Vince Schneider,Baylor University,3.903
-Connor Glennon,University of Memphis,3.853
-Giammarco Micolani,University of Arkansas,3.827
-Michael Zhu,University of Michigan,3.826
-Jason Tahir,Duke University,3.818
-Aaron Gomez,Virginia Tech,3.815
-Max Schmidt,Dartmouth College,3.809
-Gal Hakak,University of Washington,3.806
-Diogo Rocha,University of Denver,3.766
-Toshiki Matsuya,University of Illinois,3.760
-Facundo Lugones,TCU,3.731
-Tristan Meraut,Oklahoma State University,3.721
-Tito Moreiras,Univ. of Texas at San Antonio,3.720
-Stjepan Sisko,University of Toledo,3.717
-Alex Braun,Montana,3.715
-Hassan Ndayishimye,Troy University,3.688
-Randy Phillips,UNC Greensboro,3.673
-Simon Norenius,North Carolina State,3.668
-Karue Sell,UCLA,3.666
-Christopher Eubanks,Georgia Tech,3.659
-Nick Bybel,Bucknell University,3.653
-Felix Corwin,University of Minnesota,3.652
-Catalin Fifea,Virginia Commonwealth University,3.644
-Alex Galoustian,DePaul University,3.634
-Dusty Boyer,University of Nebraska,3.617
-Austin Powell,North Carolina State,3.612
-Trent Botha,Oklahoma State University,3.611
-Jake Albo,Florida State University,3.596
-Chris Simich,University of Louisville,3.596
-Ryan Peniston,University of Memphis,3.593
-Diego Galeano,Baylor University,3.592
-Henrik Wiersholm,University of Virginia,3.581
-Dragos Ignat,Columbia University,3.578
-Andrew Watson,University of Memphis,3.570
-Rishab Agarwal,Mississippi State University,3.557
-Kenny Sabacinski,University of Notre Dame,3.550
-Bernardo Casares Rosa,Cornell University,3.539
-Sasha Gozun,University of South Florida,3.531
-Mitch Stewart,University of Washington,3.530
-Thomas Colautti,Princeton University,3.529
-David Biosca,East Tennessee State University,3.501
-Constantin Schmitz,Tulane University,3.492
-Jerry Lopez,University of Kentucky,3.488
-Michael Weindl,Old Dominion University,3.482
-Max Andrews,Rice University,3.481
-Piotr Lomacki,University of Miami (Florida),3.479
-Daniel Sardu,University of Oregon,3.457
-Leonard Stakhovsky,Penn State University,3.457
-Guilherme Hadlich,Pepperdine,3.456
-Mads Engsted,California,3.445
-James Wade,UC Davis,3.441
-Kamil Khalil,Charlotte,3.438
-Jorg Van Der Vloet,Cleveland State University,3.433
-Juan Cruz Estevarena,Mississippi State University,3.430
-Farris Gosea,University of Illinois,3.424
-Moez Chargui,University of Nevada,3.422
-Maxime Hinnisdaels,Auburn University,3.408
-Boris Arias,LSU,3.407
-Marko Krickovic,Auburn University,3.402
-Brian Yeung,Harvard University,3.400
-Marco Nunez,Florida State University,3.399
-Garrett Patton,Boise State University,3.390
-Ravi Patel,Drake University,3.389
-Daniel Bednarczyk,Indiana University-Bloomington,3.388
-Srikar Alla,Rice University,3.385
-Robert Stineman,Stanford University,3.384
-Sebastian Heim,UC Irvine,3.375
-Ashot Khacharyan,Santa Clara University,3.373
-Jacob Dunbar,University of Richmond,3.360
-Hugo Dojas,Texas Tech University,3.359
-Runhao Hua,University of Michigan,3.355
-Juan Moreiras,Univ. of Texas at San Antonio,3.351
-Eric Diaz,University of Georgia,3.340
-Jolan Cailleau,Texas Tech University,3.331
-Josef Dodridge,University of Wisconsin,3.327
-Hendrik Jebens,San Diego State University,3.317
-William Bushamuka,University of Kentucky,3.306
-Alex Steinroeder,Harvard University,3.285
-Jose Antonio Salazar,University of Oklahoma,3.260
-Kyle Koch,University of South Carolina,3.242
-Kevin Farin,University of Oregon,3.230
-Carlos Bautista,University of Tulsa,3.226
-Ethan Dunbar,University of Richmond,3.224
-Jose Gracia,Florida State University,3.224
-Henry Craig,University of Denver,3.222
-Jayson Amos,University of Oregon,3.212
-Linus Erhart,University of Nebraska,3.203
-Carlos Benito,Georgia Tech,3.203
-Arjun Kadhe,Oklahoma State University,3.195
-Christian Seraphim,Wake Forest University,3.183
-Josh Hagar,University of Notre Dame,3.183
-Oliver Pramming,University of South Florida,3.171
-Ben Lott,Drake University,3.161
-Rogerio Ribeiro,East Tennessee State University,3.147
-Andres Alfonzo,Florida Gulf Coast University,3.144
-Yannick Born,Middle Tennessee State University,3.139
-Nicolas Podesta,University of Pennsylvania,3.134
-Paul Oosterbaan,University of Georgia,3.132
-Alex Sendegeya,Texas Tech University,3.131
-George Goldhoff,University of Texas,3.127
-Matt Hagan,University of Iowa,3.110
-Luis Valero,University of Tennessee,3.105
-Tim Srkala,University of South Alabama,3.086
-Justin Butsch,LSU,3.085
-Maksim Kan,Wake Forest University,3.078
-Chris Kipouras,Dartmouth College,3.074
-Korey Lovett,University of Alabama,3.059
-Luca Corinteli,University of Virginia,3.051
-Skander Mansouri,Wake Forest University,3.039
-Fedor Baev,Northwestern University,3.013
-Markus Schultz,NJIT,3.012
-Haris Poric,Wofford,3.008
-Ettore Zito,Middle Tennessee State University,3.004
-Herkko Pollanen,Ohio State University,2.998
-Van Damrongsri,University of Louisville,2.995
-Ben Wagland,University of Georgia,2.994
-Oskar Wikberg,California,2.994
-Patrick O'Keefe,Radford University,2.993
-Alex Fennell,Penn State University,2.993
-Pedro Iamachkine,Pepperdine,2.987
-Michael Tenzer,"Univ. of Wisconsin, Green Bay",2.964
-Matt Barry,Penn State University,2.962
-Sebastian Rey,Tulane University,2.959
-Zach Mueck,Xavier University,2.942
-Cristian Gonzalez Mendez,Florida State University,2.941
-Chris Vrabel,Cornell University,2.915
-Ben Donovan,Cal Poly,2.913
-Rhys Johnson,Vanderbilt University,2.909
-Sam Monette,Indiana University-Bloomington,2.896
-Steffen Dierauf,University of Portland,2.895
-James Tallman,Univ. of San Francisco,2.894
-Danny Kerznerman,University of Alabama,2.883
-Jordi Arconada,Texas A&M University,2.879
-Mac Styslinger,University of Virginia,2.877
-Kenny Tao,Harvard University,2.875
-Logan Staggs,Northwestern University,2.875
-Harry Jadun,Michigan State University,2.874
-Juan Benitez,Baylor University,2.873
-Andrew Schafer,University of South Carolina,2.871
-Morgan Mays,UC Santa Barbara,2.854
-Jannis Koeke,Georgia State University,2.848
-Nicolai Ferrigno,Oklahoma State University,2.839
-Will Stein,TCU,2.833
-Yannik James,University of Denver,2.831
-Jai Corbett,Virginia Tech,2.814
-Alex Arovin,Tennessee Tech University,2.793
-Ristomatti Lanne,Georgia Southern University,2.793
-TJ Pura,Duke University,2.782
-Harrison O'Keefe,University of South Carolina,2.778
-Jack Schipanski,University of Tennessee,2.777
-Dennis Baumgartner,Utah State University,2.774
-Nathan Ponton,University of Detroit Mercy,2.772
-Guillermo de Vilchez,Wichita State University,2.769
-Michal Kianicka,"Southern Illinois, Carbondale",2.767
-Stefan Fortmann,Elon University,2.765
-Marc Hermann,University of Nebraska,2.741
-Andrey Goryachkov,Brigham Young University,2.740
-Julian Cash,Mississippi State University,2.730
-Alexander Ritschard,University of Virginia,2.726
-Hunter Harrington,Clemson University,2.721
-Josh Silverstein,University of Iowa,2.721
-Thorsten Bertsch,San Diego State University,2.714
-Gustav Hansson,University of Mississippi,2.710
-Nate Lammons,SMU,2.706
-Cole Fiegel,Georgia Tech,2.704
-Ruben Weber,University of Minnesota,2.695
-Austin Siegel,University of Oklahoma,2.695
-Gage Brymer,UCLA,2.692
-Nikolas Papic,Fresno State,2.682
-Konrad Zieba,Northwestern University,2.671
-Landon Barlow,Weber State,2.670
-Erick Reyes,St. John's University,2.665
-Sven Lalic,Indiana University-Bloomington,2.663
-Vadym Kalyuzhnyy,University of South Florida,2.659
-Rob Galloway,Wofford,2.652
-Hunter Reese,University of Tennessee,2.650
-David Warren,Rice University,2.650
-Jonathan Gonzalez,University of Texas at Arlington,2.646
-Alex Van Cott,Tulane University,2.645
-Billy Pecor,University of Notre Dame,2.642
-Ignacio Gonzalez-Muniz,University of South Florida,2.637
-Nolan Paige,Stanford University,2.636
-Christoffer Greve,Illinois State University,2.636
-Alp Horoz,Northwestern University,2.636
-Eduardo Mena,Tennessee Tech University,2.633
-Antonio Rodriguez,Virginia Commonwealth University,2.623
-Robert Livi,St. John's University,2.622
-Mihir Kumar,Northwestern University,2.612
-Trevor Johnson,TCU,2.608
-Sam Matheson,Liberty University,2.588
-Raheel Manji,Indiana University-Bloomington,2.588
-Andrei Morin-Kougoucheff,Florida Atlantic University,2.582
-Ritchie KRUUNENBURG,Morehead State University,2.581
-Nick Naumann,University of Texas,2.577
-Oystein Steiro,North Carolina,2.574
-Jaan Kononov,"Univ. of Maryland, Baltimore County",2.570
-Garrett Auproux,Cal Poly,2.566
-Eric Schnurrenberger,University of Notre Dame,2.557
-Elijah Melendez,Georgia Tech,2.556
-Gabriel Dias,Troy University,2.553
-Adam Moundir,Old Dominion University,2.549
-Victor Cornea,Texas Tech University,2.546
-Jonny Rigby,"Southern Illinois, Carbondale",2.534
-Arvis Berzins,Fairleigh Dickinson University,2.533
-Mitch McDaniels,University of New Mexico,2.522
-Thomas Tenreiro,Boise State University,2.512
-Miguel Diaz,University of the Pacific (California),2.508
-Nikko Madregallejo,University of Alabama,2.502
-Aws Laaribi,Penn State University,2.497
-Dan Richardson,Princeton University,2.492
-Parker McGuinness,University of Utah,2.475
-Lucas Hejhal,St. John's University,2.470
-Ilija Cuic,Wichita State University,2.467
-Hayden Sabatka,University of New Mexico,2.466
-Brett Forman,Michigan State University,2.466
-Lauri Makikalli,Wright State University,2.465
-Tomas Hanzlik,Penn State University,2.461
-Luke Johnson,Clemson University,2.457
-Lucas Andersen,Ball State University,2.449
-Bert Vancura,Columbia University,2.447
-Caryl Hernandez,UC Irvine,2.447
-Forrest Edwards,Charlotte,2.437
-Robin Riethmueller,Middle Tennessee State University,2.432
-Chi-Shan Jao,Tulane University,2.430
-Lefteris Theodorou,University of Iowa,2.429
-J.T. Nishimura,California,2.425
-Arturs Kazijevs,SMU,2.423
-Ricky Ventura,Florida Gulf Coast University,2.420
-Ross Guignon,University of Illinois,2.412
-Brett Bacharach,UC Davis,2.412
-Trey Yates,University of Kentucky,2.408
-Ciro Riccardi,Dartmouth College,2.402
-Blake Bazarnik,University of Illinois,2.386
-Vasileous Stavropolous,University of Nebraska,2.380
-Dominic Patrick,University of Iowa,2.378
-Michail Pervolarakis,University of Portland,2.376
-Peter Tarwid,Brown University,2.375
-Danil Zelenkov,George Washington University,2.371
-Peter Bertran,University of Georgia,2.364
-Ryan Andrada,University of Nevada,2.357
-Sam Edwards,University of Alabama,2.352
-Shawn Hadavi,Columbia University,2.351
-Josh Pompan,University of Pennsylvania,2.351
-Oleksly Arovin,Tennessee Tech University,2.346
-Vinod Gowda,University of Mississippi,2.344
-Justin To,Brown University,2.341
-Charles Boyce,Loyola Marymount University,2.341
-Oliver Landert,University of Florida,2.340
-Vaidik Munshaw,St. John's University,2.339
-Francis Sargeant,Brigham Young University,2.334
-Alejando Augusto,Clemson University,2.332
-Greg Garcia,Brown University,2.330
-Justin Roberts,University of South Florida,2.328
-Shane Monroe,Brigham Young University,2.328
-Alex Lawson,University of Notre Dame,2.327
-Carlos Arbiza,University of Texas at Arlington,2.324
-Rakshay Thakkar,Pepperdine,2.316
-Ismael Merino,East Tennessee State University,2.307
-Thomas Weigel,North Carolina State,2.304
-Esben Hess-Olesen,North Carolina,2.290
-Denys Pume,UNLV,2.290
-Matthew Kirby,University of Tulsa,2.290
-Simon Pritchard,Kennesaw State University,2.285
-Harrison Kennedy,LSU,2.271
-Diego Acosta,Purdue University,2.266
-Alex Gasson,University of Denver,2.256
-Arkadijs Slobodkins,SMU,2.255
-Mitchell Pritchard,University of Tulsa,2.255
-Tianyu Bao,Florida Gulf Coast University,2.255
-Soufiane Mouline,South Carolina State,2.251
-Jeremy Court,University of Pennsylvania,2.238
-Dan Elston,Longwood University,2.228
-Richard Robbie,Duquesne University,2.228
-Adam Gustafsson,Rice University,2.222
-Leonard Ivic,Univ. of Incarnate Word,2.219
-Brandon Yeoh,Brown University,2.216
-Becker O'Shaughnessey,University of Alabama,2.213
-Dante Saleh,Auburn University,2.206
-Santtu Leskinnen,UNC Wilmington,2.205
-Leopold Gomez Islinger,"Univ. of Wisconsin, Green Bay",2.205
-Mauricio Antun,Belmont University,2.199
-Javier Jover Maestre,Old Dominion University,2.182
-Adrian Ortiz-Ruiz,University of Texas,2.179
-Samir Iftikhar,University of New Mexico,2.178
-Slim Hamza,University of Utah,2.170
-Howard Scott,"Univ. of Wisconsin, Green Bay",2.169
-Alvaro Nazal,Gonzaga University,2.163
-Chris Barrus,University of Central Florida,2.161
-David Herrerias,University of Arkansas,2.158
-Mikheil Khmiadashvili,Santa Clara University,2.147
-Zvonimir Podvinski,Old Dominion University,2.145
-Rob Bellamy,University of Southern California,2.132
-Vikram Hundal,Charlotte,2.131
-Nico Mertens,UC Irvine,2.129
-Josh Zeoli,Fresno State,2.124
-Sebastian Beltrame,Harvard University,2.121
-Gijs Linders,Michigan State University,2.120
-David Hsu,Stanford University,2.118
-Colin Sinclair,Cornell University,2.117
-Milen Ianakiev,San Diego State University,2.110
-Mac Roy,Michigan State University,2.104
-Tom Hill,Pepperdine,2.095
-Carter Lin,University of Michigan,2.090
-Giovani Samaha,Troy University,2.089
-Christian Harris,Clemson University,2.082
-Daniel Santos,University of Tulsa,2.081
-Lukas Finzelberg,Oklahoma State University,2.080
-Daniel Armengol,University of Texas at Arlington,2.076
-Stuart Kenyon,University of Alabama,2.076
-Kyle Barnes,U.S. Military Academy,2.071
-Kevin Bettendroffer,Texas A&M-Corpus Christi,2.063
-Francesc Aulina,University of Central Florida,2.060
-Martin Svenning,Yale University,2.052
-Arthur Weber,Saint Mary's College of California,2.048
-Patriek Wolterbeek,East Carolina University,2.045
-Adrian Legarreta,Grand Canyon University,2.035
-Tyler Lu,Yale University,2.033
-Daniel Fernandez,Marquette,2.029
-Maik Steiner,Western Michigan University,2.014
-Maxx Lipman,University of Florida,2.004
-Jeremy Lynn,University of Minnesota,2.004
-Austin Akers,Samford University,1.999
-Jabor Al-Mutawa,Coastal Carolina University,1.993
-Martin Figura,South Carolina State,1.990
-Nathan Eshmade,UC Santa Barbara,1.989
-Kai Lemke,University of Memphis,1.985
-Alex Knight,University of Michigan,1.973
-Jack Hamburg,University of Minnesota,1.970
-Eduardo Segura,Georgia Tech,1.960
-Walid Gtari,Bethune-Cookman University,1.958
-John Mee,University of Texas,1.954
-Calum MacGeoch,Drake University,1.953
-Florian Nicoud,Virginia Tech,1.947
-Andrew Nakajima,Utah State University,1.943
-Max Schnur,Columbia University,1.943
-Tobias Galskov,UC Santa Barbara,1.942
-Jurence Mendoza,Oklahoma State University,1.941
-Hayden Smith,Gonzaga University,1.938
-Matt Frost,Drake University,1.938
-Tuki Jacobs,University of South Alabama,1.935
-Christiaan Van der Burgh,UNC Wilmington,1.914
-Viktor Farkas,University of Washington,1.912
-Andrew Poustie,University of Nevada,1.906
-Cody Rakela,UC Santa Barbara,1.906
-Daffra Sanon,Clemson University,1.905
-Andrew Adams,University of South Carolina,1.902
-Jay Leelavanich,Boston University,1.899
-Simon Freund,LSU,1.893
-Jan Dernic,Marist College,1.893
-Stefan Vinti,Cornell University,1.891
-Jeffrey Schorsch,Valparaiso University,1.890
-Eddy Covalschi,University of Notre Dame,1.883
-Luis Elizondo,University of Louisville,1.880
-Michael Kay,Georgia Tech,1.879
-Michael Riechmann,University of Texas,1.874
-Emmett Egger,University of Washington,1.869
-Wilder Pimentel,Virginia Commonwealth University,1.868
-Brad Marriott,University of Southern Mississippi,1.868
-Karan Salwan,Utah State University,1.867
-Josh Levine,Duke University,1.862
-Zach Berry,Univ. of Dayton,1.858
-Tyler Pham,UC Irvine,1.854
-Brent Lett,Clemson University,1.851
-Tremayne Mitchell,Winthrop University,1.851
-Andrew Korinek,LSU,1.835
-Stefan Menichella,Pepperdine,1.835
-Johan den Toom,University of Arkansas,1.832
-João Gauer,Florida State University,1.831
-Geoffrey Fosso,University of San Diego,1.824
-Blaine Willenborg,University of Pennsylvania,1.821
-Arsav Mohanty,Mercer University,1.819
-Suresh Eswaran,Vanderbilt University,1.815
-Oliver Casey,Appalachian State University,1.806
-Alexander Day,Princeton University,1.802
-Tomislav Gregurovic,Wichita State University,1.797
-Rodney Carey,South Carolina State,1.789
-Eliott Hureau,Binghamton University,1.786
-Billy Griffith,California,1.782
-Jonathan Hannestad,University at Buffalo,1.777
-Jamie Malik,Rice University,1.769
-Marc Collado Castells,Penn State University,1.765
-Davis Crocker,University of Michigan,1.763
-Alejandro Bejar,Presbyterian College,1.760
-Jefta Kecic,Western Michigan University,1.759
-Joshua Yablon,Princeton University,1.755
-Daniel Kripak,UNC Asheville,1.754
-Cedric Willems,University of Utah,1.754
-Shamael Chaudhry,Davidson College,1.751
-Sergio de Vilchez,Wichita State University,1.745
-Henrique Tsukamoto,University of Miami (Florida),1.744
-Eric Komati,Fresno State,1.742
-Florian Kraenzler,"Univ. of Wisconsin, Green Bay",1.741
-Wilfredo Gonzalez,University of Miami (Florida),1.740
-Ricardo Jorge,University of Mississippi,1.739
-Cameron Green,Furman University,1.735
-Jaime Barajas,Utah State University,1.733
-Errol Smith,Loyola Marymount University,1.731
-Will Neuner,Florida Atlantic University,1.731
-Ricardo Mayagoitia,Texas A&M-Corpus Christi,1.715
-Zack Lewis,College of Charleston,1.714
-Frederic Cadieux,Northern Illinois University,1.714
-Kaue Pereira,Coastal Carolina University,1.709
-Euan Mcintosh,Fresno State,1.708
-Zachary Goldberg,University of North Florida,1.707
-Nikita Lis,Lamar University,1.702
-Sam O'Neill,Butler University,1.699
-Kian McLean,Florida Atlantic University,1.699
-Joe VanMeter,Cleveland State University,1.696
-Martin Figura,South Carolina State,1.693
-Jonathan Walker,Gardner-Webb University,1.692
-Nils Skajaa,Univ. of San Francisco,1.689
-Luca Marquard,Pepperdine,1.686
-Joseph Di Giulio,UCLA,1.681
-Nils Schuhmann,University of Hawaii,1.681
-Julian Bradley,University of North Florida,1.680
-Santiago Munoz,University of Arkansas,1.677
-Jeffrey Brown,University of Louisville,1.675
-Renier Moolman,Saint Joseph's University,1.670
-Ben Mullis,Drake University,1.670
-Christian Cargill,College of William and Mary,1.670
-Ryan Smith,Vanderbilt University,1.668
-Francisco Zambon,Texas Tech University,1.665
-Marko DeSomocurcio,Mount St. Mary's University,1.660
-Alex Petrone,University of Michigan,1.648
-Nikhil Jayashankar,California,1.646
-Jake Wynan,University of Louisiana,1.638
-Rafael Davidian,UC Irvine,1.637
-Loic Blanco,Stetson University,1.633
-Jeremy Nuss,Wagner College,1.627
-Thibault Forget,University of Southern California,1.624
-Jess Jones,University of Tennessee,1.621
-Sam Bertram,Santa Clara University,1.612
-Yannick Junger,Univ. of Texas at San Antonio,1.611
-Nicolas Soriano,East Carolina University,1.609
-Duk Young-Park,Morgan State University,1.598
-Luke Gamble,Princeton University,1.586
-Terrance Whitehurst,Florida State University,1.586
-Jakob Amilon,UNLV,1.585
-Matthew McCoy,Indiana University-Bloomington,1.581
-Austin Rapp,UCLA,1.579
-Thomas Takemoto,Univ. of San Francisco,1.573
-Christian Langmo,University of Miami (Florida),1.571
-Dylan McCloskey,University of Tulsa,1.570
-Tam Trinh,LSU,1.568
-Adrien Rossignon,Campbell University,1.568
-Stefan Doehler,Yale University,1.567
-Pablo Moreno,Troy University,1.566
-Ruben Greiner,Western Michigan University,1.565
-Andres Alban,NJIT,1.564
-Odon Barta,University of Idaho,1.560
-Christian Coetzee,UAB,1.555
-? Amare,The Citadel,1.553
-Jonny Cornish,University of Virginia,1.553
-Terrell Whitehurst,Florida State University,1.550
-Ruben Alberts,UNLV,1.543
-Romain Kalaydjian,University of San Diego,1.542
-Adam Steryous,Furman University,1.541
-Sam Fleck,Cornell University,1.535
-Philippe Tsangaridis,Coastal Carolina University,1.531
-Bernard Wezeman,Nicholls State University,1.518
-Dimitar Ristovski,Austin Peay State University,1.517
-Guillaume Rauseo,Texas A&M-Corpus Christi,1.517
-Michael Feucht,Lamar University,1.512
-Jordan Kaufman,Elon University,1.509
-Christian Waldron,Prairie View A&M University,1.508
-Cormac Clissold,University of Oregon,1.506
-Vukasin Teofanovic,Marquette,1.504
-Connor Thompson,UNC Greensboro,1.504
-Michael Lippens,University of Louisville,1.504
-Markus Kerner,SMU,1.500
-Zvonimir Babic,University of Mississippi,1.493
-Pablo Alvarez,University at Buffalo,1.490
-Baker Newman,Vanderbilt University,1.473
-Dylan Gee,Jacksonville State University,1.471
-Jonathan Poon,UC Irvine,1.470
-Xabier Saveedra,Drexel University,1.469
-Damon Niquet,College of William and Mary,1.465
-Shuhei Shibahara,UC Irvine,1.461
-Jordan Belga,University of Florida,1.458
-Everett Maltby,UC Davis,1.455
-Ben Stride,Drake University,1.455
-Nikita Zverkov,Gardner-Webb University,1.452
-Charles Minc,University of Kentucky,1.447
-Scott Webster,Appalachian State University,1.439
-Victor Brown,Brigham Young University,1.436
-Carlos Manzanas,Northern Illinois University,1.436
-Sumeet Shinde,University of Arizona,1.433
-Jocelyn Devilliers,Wichita State University,1.432
-Stuart Tierney,Portland State University,1.431
-Corey Pang,Cal Poly,1.430
-William Kallberg,University of Mississippi,1.428
-Wendell Watanabe,University of Washington,1.424
-Daniel McCall,Duke University,1.419
-Mathieu Garcia,University of Portland,1.417
-Ignacio Jiminez,Florida Atlantic University,1.416
-Dave Bacalla,Valparaiso University,1.411
-Michael Beiler,Florida Gulf Coast University,1.409
-Dylan Comerford,Winthrop University,1.409
-Nick Horton,North Carolina State,1.408
-Freddie McGeehan,University of Utah,1.402
-Jake Jacoby,University of Iowa,1.394
-Alexandr Rudenco,Montana,1.392
-Chao-Yu Huang,University of Southern Mississippi,1.391
-Sam Williams,UNC Wilmington,1.391
-Aaron Chaffee,College of William and Mary,1.389
-Maciek Romanowicz,Stanford University,1.385
-Jared Madison,University of Portland,1.382
-Brandon Sutter,Stanford University,1.378
-Daniel Morgan,Columbia University,1.376
-Dylan Hansel,Weber State,1.359
-Andrew Gores,North Carolina,1.352
-Nicolas Rakitin,Campbell University,1.350
-Jovan Parlic,University of Arkansas,1.345
-Francisco Dias,George Washington University,1.344
-Grant Solomon,Harvard University,1.342
-Kris Yee,Vanderbilt University,1.341
-Peter Beatty,Georgetown University,1.338
-Vasco Valverde,Univ. of San Francisco,1.333
-Pierre Garcia,University of Portland,1.324
-Erik Johnsson,UC Santa Barbara,1.323
-Fernando Sala,Clemson University,1.319
-Nico Agritelley,Abilene Christian University,1.319
-Zandrix Acob,Florida Atlantic University,1.315
-Kial Kaiser,Princeton University,1.314
-Chris Hobgarski,University of Nebraska,1.308
-Augustus Ge,University of New Mexico,1.308
-Zackery Kennedy,Georgia State University,1.306
-Blake Gregor,University of New Orleans,1.302
-Artem Khrapko,Davidson College,1.301
-Johan Jonhagen,University of Utah,1.298
-Andre Napolitana,Montana State University-Bozeman,1.295
-Ricky Medinilla,Purdue University,1.294
-Bayo Philips,Drake University,1.292
-Lars De Boer,College of William and Mary,1.287
-Jason Jaruvang,University of Arizona,1.286
-Bryce McKelvie,UC Davis,1.280
-Austin Ansari,Clemson University,1.279
-Brayden Schnur,North Carolina,1.279
-Joan Carles Alcala,Georgia Southern University,1.278
-Kevin Lai,University of Kentucky,1.272
-Felix Schueller,Grand Canyon University,1.271
-Jeff Offerdahl,Vanderbilt University,1.268
-Cristobal Rivera,Loyola Marymount University,1.267
-Jeremy Kochman,Lehigh University,1.265
-Nick Dykema,Marquette,1.265
-Alexandr Cozbinov,UNLV,1.264
-Max Fliegner,Dartmouth College,1.263
-Diego Pedraza,Dartmouth College,1.259
-Ivan Kravtchenko,Brown University,1.259
-David Fox,University of Denver,1.256
-Vladimir Mijatovic,Gonzaga University,1.256
-Rob Mitchell,Lipscomb University,1.254
-Trey Carter,Samford University,1.251
-Melker Svard,"Univ. of Maryland, Baltimore County",1.241
-Alex Croker,UNC Asheville,1.238
-Charlie Nettlefold,SMU,1.238
-Alex Araouzos,University of San Diego,1.232
-Yannick Zuern,University of North Florida,1.231
-Sebastian Yllera,East Tennessee State University,1.231
-Inaki Espindola,University of Central Florida,1.231
-Mehdi Mekaoui,Duquesne University,1.230
-Rick Delboi,Wagner College,1.218
-Brendan Tannebaum,Dartmouth College,1.215
-Rishabh Raman,University of Washington,1.213
-Ismael Dinia,Binghamton University,1.213
-Mathieu Froment,University of Minnesota,1.209
-Rodrigo Encinas,College of Charleston,1.204
-Miroslav Herzan,Wichita State University,1.202
-Steven Billington,Campbell University,1.201
-Sam Philp,Mercer University,1.198
-Gian Issa,Middle Tennessee State University,1.191
-Benny Schweizer,Lamar University,1.191
-Adam Glynn,Fresno State,1.191
-Felipe Fonseca,University of Idaho,1.190
-Xavier Gonzalez,Harvard University,1.188
-Lautaro Pane,Pepperdine,1.187
-Felix Van Kann,Loyola Marymount University,1.187
-Sofiane Chevallier,Georgia State University,1.180
-Hampton Drake,Clemson University,1.179
-Nathan Rakitt,Georgia Tech,1.175
-Thiago Pinheiro,University of South Carolina,1.162
-Vuk Velickovic,Coastal Carolina University,1.158
-Austin Jones,U.S. Naval Academy,1.151
-Nicolas Montoya,University of Notre Dame,1.149
-Matt Kuhar,Bryant University,1.147
-Jose Sangroniz,University of Central Florida,1.145
-Keivon Tabrizi,Wake Forest University,1.143
-Zach Hublitz,UNC Wilmington,1.141
-Michael Moya,Univ. of Northern Colorado,1.139
-Jeff Hawke,University of Washington,1.138
-Andres Torres,UNC Wilmington,1.133
-Daryl Monfils,Virginia Commonwealth University,1.133
-Tim Kane,Duquesne University,1.133
-Charlie Ghriskey,College of Charleston,1.131
-Jorge Escutia,University of New Mexico,1.130
-Christopher Geaslen,Elon University,1.126
-Richard Sec,Duquesne University,1.123
-Robin Haden,Mississippi State University,1.111
-"STEMPIEN, Krzystof",Idaho State University,1.103
-Tomas Pitra,University of Wisconsin,1.101
-Andrei Andrukhou,Georgia State University,1.097
-James Hignett,University of New Mexico,1.095
-Sebastian Ermicioiu,University of Texas at Arlington,1.094
-Vasily Kichigin,College of Charleston,1.092
-Donovan McSeveney,UAB,1.087
-Kert Kilumets,North Carolina Central University,1.082
-Aaron Sandberg,Brown University,1.080
-Branch Terrell,University of Arkansas,1.079
-Ramon Simonetti,"University of South Carolina, Upstate",1.079
-Fernando Sunago,University of Nevada,1.078
-Jacob Perkins,"Southern Illinois, Edwardsville",1.072
-Eli Whittle,UC Davis,1.070
-Aleksas Tverijonas,Austin Peay State University,1.068
-Norbert Nemcsek,University of North Florida,1.066
-Andranik Khachatryan,San Diego State University,1.064
-Nicky Wong,University of Toledo,1.062
-Nick Kamisar,Gonzaga University,1.051
-Eric Perez,LSU,1.046
-Jose Chamba,University of the Pacific (California),1.046
-Charlie Emhardt,Valparaiso University,1.041
-Alec Adamson,UC Davis,1.039
-Alex Gaines,U.S. Naval Academy,1.039
-Alejandro Manzanares,Lipscomb University,1.039
-Ian Dempster,North Carolina State,1.036
-Alex Van Velzer,U.S. Military Academy,1.029
-Juan Matias Gonzalez,University of Tulsa,1.026
-Caio Gomes,University of North Florida,1.021
-Axel Damiens,Cal Poly,1.014
-Robert Dula,Eastern Washington University,1.011
-Stieg Martens,University of Iowa,1.010
-Sean Kolar,Sacramento State,1.006
-Xander Veys,UNC Wilmington,1.003
-Washi Gervais,St. Francis Univ. (Pennsylvania),0.999
-Brian Page,University of Illinois,0.997
-Patrick Pfister,New Mexico State University,0.997
-William Albanese,University of Arkansas,0.996
-Daniel Casablancas,Georgia Southern University,0.994
-Diogo Casa,Univ. of Texas at San Antonio,0.991
-Alex Hamilton,University of the Pacific (California),0.987
-Michael Carella,UC Riverside,0.986
-Joat Farah,Loyola Marymount University,0.984
-Connor Curry,Texas Tech University,0.983
-Brian Foley,Boise State University,0.983
-Kieran Cronin,Nicholls State University,0.981
-Nils Ellefsen,University of Kentucky,0.980
-Joshua Wardell,University of Florida,0.975
-Mikhail Esipov,University of Southern Mississippi,0.973
-Karlyn Small,Florida A&M University,0.972
-Jacob Behal,Furman University,0.968
-Shoti Meparizde,North Carolina State,0.960
-Gustavo Gonzalez,Rice University,0.954
-David Mushayev,University of Arizona,0.953
-Sebastian Mueller,Eastern Kentucky University,0.953
-Pascal Domnik,Norfolk State University,0.953
-Bart Van Leijsen,University of New Mexico,0.952
-Albert Codina Sala,Georgia Southern University,0.950
-Will Baird,Presbyterian College,0.949
-Sten Leusink,DePaul University,0.945
-Stefan Burnett,Florida Atlantic University,0.945
-Toby Mitchell,Boise State University,0.945
-Naveen Beasley,Cal Poly,0.943
-Alberto De Meo,University of North Florida,0.940
-Calvin Mark,U.S. Naval Academy,0.940
-Jakub Gewert,Weber State,0.938
-Jorge Azuero,Liberty University,0.934
-Sebastian Schneider,Utah State University,0.934
-Dillon Segur,Liberty University,0.928
-Remi Chancerel,Youngstown State University,0.925
-Oliver Plaskett,Auburn University,0.925
-Diego Manzanas,Presbyterian College,0.924
-Daniel Alameh,University of the Pacific (California),0.918
-Cristobal Ramos Salazar,University of Idaho,0.918
-Daniel Mack,UNC Greensboro,0.915
-Niklas Brandes,Montana State University-Bozeman,0.912
-Sidhartha Hazarika,Binghamton University,0.911
-Jacob Sullivan,Brigham Young University,0.898
-Hayes Brewer,University of Alabama,0.895
-Elio Livi,St. John's University,0.894
-Gus Benson,University of Kentucky,0.890
-Tassilo Schmid,Mississippi State University,0.889
-Victor Pugliese,Monmouth University,0.887
-Josh Schramm,"Univ. of Wisconsin, Green Bay",0.884
-Lasse Muscheites,University of North Florida,0.873
-"STEMPIEN, Krzyzstof",Idaho State University,0.867
-Jonathan Hammel,UC Irvine,0.860
-Korhan Ates,Gardner-Webb University,0.860
-Rodrigo Oliveira,Illinois State University,0.856
-William East,North Carolina Central University,0.852
-Jamie Fisher,University of Portland,0.850
-Romain Lefevre,University of New Orleans,0.845
-Riley Reist,Ohio State University,0.845
-Jakub Vitek,South Carolina State,0.834
-Ben Kelley,Presbyterian College,0.834
-Sebastian Acuna,Georgia State University,0.833
-Germain Degardin,New Mexico State University,0.832
-Saxon Beuhning,San Diego State University,0.831
-Daniel Zheng,U.S. Military Academy,0.827
-Sawyer Fonda,Wagner College,0.825
-Simon Formont,Northern Illinois University,0.824
-Aries Wong,U.S. Naval Academy,0.822
-Aaron Jumonville,Austin Peay State University,0.817
-Doug Zade,Michigan State University,0.812
-Brendon Kempin,University of Notre Dame,0.812
-Lukas Shaefer,Campbell University,0.804
-Andrew Dromsky,University of Tennessee,0.803
-Eduardo Irizarry,St. Bonaventure University,0.802
-Ziqi Wang,Yale University,0.791
-Bernard Tefel,University of Miami (Florida),0.790
-Sai Kartik Nakireddi,Fresno State,0.789
-Robert Stirling,James Madison University,0.785
-Juan Cruz Soria,University of Texas-Pan American,0.783
-Dima Zyhmantovich,Middle Tennessee State University,0.775
-Alex VanVelzer,U.S. Military Academy,0.775
-Semion Branzberg,Montana,0.774
-Mateus Silva,Purdue University,0.770
-Sam Lampman,U.S. Military Academy,0.768
-Shaun Chaudhuri,Harvard University,0.765
-Matt Mendez,Ohio State University,0.764
-Calum McKinlay,Troy University,0.762
-Laurynas Antropikas,Stetson University,0.758
-Ray Leonard,Ball State University,0.756
-Jakub Eisner,Illinois State University,0.752
-Dragos Puscalau,University of Washington,0.743
-Igor Smelyanski,University of Tennessee,0.741
-Vim De Alwis,University of Pennsylvania,0.739
-Jefferson Wendler-FIlho,Jacksonville State University,0.738
-Adam Reinhart,IUPUI,0.738
-Mark Kovacs,University of Idaho,0.734
-Gerard Guell,IPFW,0.733
-Simon Julin,Stetson University,0.731
-Daniel Bustamante,Troy University,0.728
-Andres Cobos,IPFW,0.725
-Lamar Remy,University of Wisconsin,0.723
-Przemyslaw Filipek,Monmouth University,0.717
-Ari Richman,Hofstra University,0.716
-Edgar Lopez,University of Louisiana,0.716
-Juan Madrid,Elon University,0.709
-Joao Barra,University of Washington,0.709
-Muddappa Appanervanda,Illinois State University,0.704
-Jordan Gobatie,Northern Arizona University,0.695
-Mark Singnil,University of Toledo,0.694
-Vladyslav Yanchenko,South Carolina State,0.694
-Mohamed El Tonbari,Princeton University,0.693
-Mitchell Cook,Texas A&M-Corpus Christi,0.692
-Nicholas Osterling,Wake Forest University,0.692
-John Zordani,University of Wisconsin,0.692
-Daniel Yun,Georgia Tech,0.691
-Tony Miller,University at Buffalo,0.689
-Rafael Orantes,University of Detroit Mercy,0.683
-Patrick Elliott,Ball State University,0.682
-Jesse Flores,University of Central Florida,0.682
-Jacob Svensson,Virginia Commonwealth University,0.681
-Justin Ghavami,Samford University,0.676
-Ben Horst,Furman University,0.675
-Shoki Kasahara,University of Arizona,0.674
-Daniel Ginzburg,Monmouth University,0.674
-Othar Kordsachia,Loyola Marymount University,0.668
-Chris Angulo,Northern Kentucky University,0.663
-Ben Davies,U.S. Military Academy,0.660
-Tanner Smith,University of Southern California,0.660
-Dougie Barnard,University of Notre Dame,0.657
-Julian Rozenstein,Quinnipiac University,0.656
-Damian Farinola,University of Louisiana,0.655
-Sam Bloom,Wake Forest University,0.651
-Joey Swaysland,University of Oregon,0.650
-Peter Minagh-Fleming,Montana,0.640
-Harrison Adams,Texas A&M University,0.639
-Joseph Van Dooren,Auburn University,0.635
-Juan Canales,Brigham Young University,0.633
-Robert Dubuque,Florida Atlantic University,0.633
-Gabriel Ruiz,Morehead State University,0.629
-Ramon van Flymen,Eastern Kentucky University,0.624
-Eric Frueh,University of Minnesota,0.619
-Lee-Shawn Stein,Wagner College,0.618
-Manuel Bellutti,Cleveland State University,0.611
-Nash Vollenwider,Saint Mary's College of California,0.609
-Javier Martin-Morillas,Montana State University-Bozeman,0.608
-Wen-Po Tseng,University of Southern Mississippi,0.607
-Sam Todd,Dartmouth College,0.606
-Blake Anthony,University of Oregon,0.606
-Artemie Amare,The Citadel,0.605
-Sem Verbeek,University of the Pacific (California),0.601
-Justin Carter,"Univ. of Maryland, Baltimore County",0.599
-Dylan Brown,Cornell University,0.594
-Egon Samaai,Liberty University,0.593
-Grant Riechmann,U.S. Military Academy,0.592
-Eduardo Alfonzo,Florida Gulf Coast University,0.585
-Carsten Fisher,Univ. of Dayton,0.575
-Andrew Stutz,Ball State University,0.574
-Brice Allanic,College of Charleston,0.574
-Stefan Jakubov,Coastal Carolina University,0.570
-Raphael Termat,Stony Brook University,0.567
-David Ball,Brigham Young University,0.567
-Rodolfo Jauregui,University of New Mexico,0.567
-Todd Fought,Weber State,0.566
-Koby Jansen,University of Texas-Pan American,0.564
-Kristiyan Trukov,Marquette,0.561
-Rudolf Kurz,Marist College,0.560
-Vasudev Vijayaraman,Alcorn State University,0.556
-Addison Appleby,College of William and Mary,0.555
-Amar Hromic,University at Buffalo,0.551
-Ismael Kaouache,Howard University,0.549
-Julian Ruffin,UC Riverside,0.545
-Arthur Stefani,Xavier University,0.545
-Sam Swank,University of South Carolina,0.544
-Jake Bouchillon,Kennesaw State University,0.532
-Lucas Plesky,Chattanooga,0.530
-Austin Bates,Florida Gulf Coast University,0.530
-Jakhongir Jalalov,University of Wisconsin,0.528
-Alberto Esteban,Tennessee Tech University,0.525
-Alex Calott,Charlotte,0.523
-Joel Rubio,Univ. of Texas at San Antonio,0.518
-Cedric Dujacquier,Belmont University,0.517
-Nathan Debut,Stetson University,0.505
-Will George,Kennesaw State University,0.503
-Mario Muniesa,University of Texas at Arlington,0.502
-Patrick Mayer,University of Memphis,0.496
-Hasier Pastor,California,0.495
-Hugo Morth,Youngstown State University,0.493
-Christopher Clayton,Sacramento State,0.492
-Freddie McGeehan,University of Utah,0.491
-Javier Pujol,Texas A&M-Corpus Christi,0.481
-Yannick Schmidl,Montana,0.479
-Beau Wills,Hofstra University,0.478
-Abe Hewko,Boise State University,0.473
-Jeremy Schneider,Xavier University,0.470
-Garik Yedigarian,Coastal Carolina University,0.467
-Carlos Carrera,St. Peter's University,0.467
-Garret Gardner,Valparaiso University,0.467
-Matt Hamilton,Western Michigan University,0.465
-Harrison Lang,Creighton University,0.464
-Georg Lundkvist,Northern Illinois University,0.462
-Matt Browne,Furman University,0.453
-Daridge Saidi,Eastern Kentucky University,0.450
-Derrick Brown,Chattanooga,0.441
-Sebastian Salinas,James Madison University,0.439
-Bradford Zitsch,University of Nebraska,0.436
-Stephen Ong,Temple University,0.422
-Thomas Spratt,University of Pennsylvania,0.420
-Feliz Albert,University of Hawaii,0.417
-Grey Hamilton,University of Mississippi,0.416
-Luqman Ebrahim,College of William and Mary,0.415
-Roy Brandys,Sacramento State,0.414
-Nathan Roper,Oklahoma State University,0.403
-Photos Photiades,Yale University,0.393
-Alex Aleman,Duquesne University,0.393
-Eduardo Lourido-Sanchez,Samford University,0.392
-Alex Drean,"Univ. of Maryland, Baltimore County",0.392
-Teague Hamilton,UC Santa Barbara,0.390
-Robert Herrera,East Tennessee State University,0.389
-Jake Stefanik,University of Kentucky,0.385
-Miguel Alvarez-Hevia,University of Texas-Pan American,0.383
-Joey Hatala,U.S. Military Academy,0.382
-Jarred Wynan,University of Louisiana,0.378
-Zachary Morris,Bryant University,0.375
-Stuart DePaolo,North Carolina,0.375
-Alex Toliver,IUPUI,0.373
-Chad Hoskins,North Carolina,0.373
-Amar Saletovic,Oral Roberts University,0.372
-Andrew Hutchinson,Abilene Christian University,0.370
-Stathi Kyriakides,University of Richmond,0.370
-David Hager,Davidson College,0.368
-Michael Fredericka,University of Notre Dame,0.354
-Andreas Boers,Illinois State University,0.351
-Harry Walshe,Duquesne University,0.351
-Chris Schindler,University of Nebraska,0.348
-Mathieu Ounanian,Grand Canyon University,0.346
-Gerhard Gruindelingh,University of South Alabama,0.346
-Julius Tverijonas,George Washington University,0.345
-Andrew Dzulnsky,University of Nebraska,0.345
-Andy Lau,Troy University,0.340
-Charlie Shin,University of Nebraska,0.340
-Scott Hinze,Weber State,0.340
-Yale Goldberg,Stanford University,0.337
-Dylan Fletcher,Marist College,0.336
-Roman Trkulja,Penn State University,0.335
-Niranjan Ram,Sacramento State,0.331
-Alejandro Valencia,Kennesaw State University,0.331
-Arnav Mohanty,Mercer University,0.330
-Javier Restrepo,UNC Wilmington,0.326
-Aidan Carrazedo,Brigham Young University,0.323
-Grant Taylor,U.S. Air Force Academy,0.321
-Isaac Lloveras,Univ. of Illinois at Chicago,0.318
-Anthony Delcore,Wake Forest University,0.311
-Blake Wiggins,TCU,0.309
-Rick Timmerman,Coastal Carolina University,0.308
-Rakshit Rishi,University of Southern Mississippi,0.307
-Marcus Fritz,Utah State University,0.306
-Aman Agarwal,Dartmouth College,0.306
-Arthur Bedel,Texas A&M-Corpus Christi,0.298
-Airam Castellano,UMKC,0.296
-Robert Skolik,Eastern Illinois University,0.292
-Peter Sienko,U.S. Military Academy,0.292
-Matt Nardella,University of Pennsylvania,0.290
-Federico Buscarino,Jackson State University,0.287
-Andrew Goodwin,University of Alabama,0.286
-Theophile Lanthiez,Old Dominion University,0.284
-Alexandros Georgios Vakouftsis,Fresno State,0.284
-Jonathan Raa,IPFW,0.281
-Louis Ishizaka,Virginia Commonwealth University,0.275
-Noah Hajdu-Andersson,University at Buffalo,0.273
-Robin Chou,University of Arizona,0.270
-Victor Casadevall,Montana,0.267
-Thomas Mayronne,University of South Carolina,0.258
-Carlos Fernandez,Quinnipiac University,0.257
-Ramy Bekheit,Monmouth University,0.255
-Dan Wright,Bucknell University,0.255
-Paul Cisti,Charlotte,0.251
-Ciaran Fitzgerald,University of San Diego,0.249
-Joey Leto,"Univ. of Wisconsin, Green Bay",0.244
-Cameron Smith,UNC Greensboro,0.234
-Eliott Loubatie,"Univ. of Maryland, Baltimore County",0.234
-Joe Dube',Marist College,0.232
-Robert Allan,University of Nevada,0.223
-Franz Sydow,College of Charleston,0.221
-Louis-Philippe Hamel,Northern Illinois University,0.218
-Victor Hoang,Middle Tennessee State University,0.215
-Pally Ray,University of Louisville,0.215
-Lewis Roskilly,Boise State University,0.214
-Kyle Dunn,Valparaiso University,0.210
-Arnaud Holl,NJIT,0.203
-Alexandre Thirouin,Boston College,0.203
-Anthony Arocho,Brown University,0.194
-Rolando Torrellas,Illinois State University,0.194
-Alexandre Locci,Northern Arizona University,0.188
-Robin Lesage,Binghamton University,0.188
-Christopher Egan-Morriss,UAB,0.187
-Connor Farren,University of Southern California,0.184
-Robert Lindgren,Elon University,0.179
-Garrett Gordon,College of Charleston,0.178
-Tucker Saxon,University of Minnesota,0.178
-Georg Lundkvist,Northern Illinois University,0.166
-Austin Blake,Mount St. Mary's University,0.165
-Hector Ramirez,University of Texas-Pan American,0.163
-Hudson Blake,TCU,0.163
-Alec Josepher,SMU,0.163
-Cameron Tehrani,Marquette,0.162
-Kyle Hoffman,Georgia Southern University,0.161
-Chris Fletcher,George Washington University,0.160
-Michael Sinha,University of Wisconsin,0.160
-JB Gough,Davidson College,0.155
-Jack Swindells,Utah State University,0.153
-Maros Januvka,Temple University,0.153
-Vuk Subotic,Drexel University,0.153
-Jeandre Hoogenboezem,Lamar University,0.152
-Eric Rubin,Columbia University,0.152
-Olivier Gingras,University of South Alabama,0.152
-Nathan de Veer,DePaul University,0.151
-Michael Birnbaum,Chattanooga,0.150
-Grigory Trotsenko,University of Southern Mississippi,0.147
-Ron Verano,U.S. Military Academy,0.134
-Miguel Negre Fernandez,Middle Tennessee State University,0.131
-Michael Chen,Winthrop University,0.129
-David Sklar,Wofford,0.126
-Andrew DeJoy,Duke University,0.123
-Jake Norman,Creighton University,0.120
-Jonas Meinzer,San Diego State University,0.117
-Vidit Vaghela,Monmouth University,0.116
-Benjamin Kaszas,Gardner-Webb University,0.111
-Sebastian Ionescu,University at Buffalo,0.110
-Alexandre Felisa,Stony Brook University,0.110
-Matt Cowley,University of Utah,0.109
-Kent Mukai,Boston College,0.105
-Kai Wehnelt,University of Hawaii,0.105
-Everth Dzib,University of South Florida,0.104
-Brian Hickey,Valparaiso University,0.103
-Matt Sweet,Utah State University,0.096
-Amaury Navette,UMKC,0.092
-Hunter Whalen,Coastal Carolina University,0.091
-Chase Gordon,University of Tulsa,0.090
-Shakeel Manji,University of Memphis,0.088
-Carter Lam,University of Hawaii,0.088
-Jack Riazzi,Davidson College,0.086
-Kyle Chalmers,Saint Joseph's University,0.083
-Brendan Dempsey,Gardner-Webb University,0.082
-Stefan Cooper,Weber State,0.081
-Youssef Hassan,Fresno State,0.076
-Robert Dudley,Clemson University,0.070
-Juan Sheppard,Furman University,0.069
-Stefan Lugonjic,Indiana University-Bloomington,0.067
-Jose Morales,Stony Brook University,0.066
-Sam Jang-Milsten,U.S. Military Academy,0.060
-Kyle Johnson,DePaul University,0.059
-Ashwin Sharma,University of the Pacific (California),0.056
-Greg Shannon,U.S. Military Academy,0.055
-David Schenk,South Carolina State,0.054
-Austin Russell,Northern Illinois University,0.054
-Jason Brown,Yale University,0.052
-Thomas Panoulas,UNC Asheville,0.052
-Hamza Laalej,Drexel University,0.049
+Axel Alvarez Llamas,University of Oklahoma,11.267
+Julian Lenz,Baylor University,9.083
+Mackenzie McDonald,UCLA,9.033
+Quentin Monaghan,University of Notre Dame,8.923
+Stefan Lindmark,University of Mississippi,8.594
+Noah Rubin,Wake Forest University,8.523
+Farris Gosea,University of Illinois,8.484
+Søren Hess-Olesen,University of Texas,8.066
+Guillermo Nuñez,TCU,8.013
+Paul Oosterbaan,University of Georgia,7.943
+Tim Kopinski,University of Illinois,7.837
+Sebastian Stiefelmeyer,University of Louisville,7.820
+Ryan Shane,University of Virginia,7.770
+Gonzales Austin,Vanderbilt University,7.708
+Wayne Montgomery,University of Georgia,7.566
+Eric Johnson,University of Southern California,7.552
+Mikelis Libietis,University of Tennessee,7.528
+Aron Hiltzik,University of Illinois,7.527
+Nicolas Alvarez,Duke University,7.443
+Chi-Shan Jao,Tulane University,7.375
+Diego Hidalgo,University of Florida,7.353
+Andrew Harris,University of Oklahoma,7.318
+Jared Hiltzik,University of Illinois,7.311
+Romain Bogaerts,Wake Forest University,7.227
+Mike Vermeer,Columbia University,7.144
+Brett Clark,North Carolina,7.113
+Or Ram-Harel,University of Tulsa,7.083
+Jeremy Efferding,Texas A&M University,7.055
+Adrien Berkowicz,University of Texas,7.022
+Max Lunkin,Texas A&M University,6.932
+Clement Homs,University of Texas,6.930
+Andre Goransson,California,6.922
+Roberto Cid,University of South Florida,6.901
+Arthur Rinderknech,Texas A&M University,6.838
+Matic Spec,University of Minnesota,6.837
+Bernardo Saraiva,Univ. of San Francisco,6.815
+Austin Smith,University of Georgia,6.764
+Ronnie Schneider,North Carolina,6.750
+Arnau Dachs,TCU,6.736
+Benjamin Lock,Florida State University,6.656
+Mitchell Frank,University of Virginia,6.649
+Dovydas Sakinis,Dartmouth College,6.646
+JC Aragone,University of Virginia,6.580
+Thai-Son Kwiatkowski,University of Virginia,6.575
+Felipe Soares,Texas Tech University,6.574
+Beck Pennington,University of Kentucky,6.555
+Raphael Hemmeler,Duke University,6.494
+Collin Altamirano,University of Virginia,6.488
+Aleks Vukic,University of Illinois,6.430
+Robert Kelly,North Carolina,6.385
+Tomas Stillman,Univ. of Texas at San Antonio,6.353
+Filip Vittek,University of San Diego,6.323
+Dennis Mkrtchian,UCLA,6.323
+Rishab Agarwal,Mississippi State University,6.319
+Simon Stevens,University of Oregon,6.276
+Florin Bragusi,University of Oklahoma,6.276
+Roberto Quiroz,University of Southern California,6.272
+Alexandru Ghilea,University of Oklahoma,6.255
+Tom Fawcett,Stanford University,6.160
+Henry Craig,University of Denver,6.158
+Brayden Schnur,North Carolina,6.147
+Uros Petronijevic,University of San Diego,6.135
+Nick Chappell,TCU,6.129
+Cameron Norrie,TCU,6.114
+Peter Tarwid,Brown University,6.051
+Martin Redlicki,UCLA,6.018
+Winston Lin,Columbia University,6.007
+Dane Webb,University of Oklahoma,5.987
+Nick Wood,University of Georgia,5.986
+William Bushamuka,University of Kentucky,5.940
+Maxime Hinnisdaels,Auburn University,5.928
+Hunter Callahan,Ohio State University,5.907
+Chris Diaz,Ohio State University,5.885
+AJ Catanzariti,Texas A&M University,5.885
+Florian Kraenzler,"Univ. of Wisconsin, Green Bay",5.878
+Mate Zsiga,Baylor University,5.876
+Juan Cruz Estevarena,Mississippi State University,5.869
+Jordan Angus,University of San Diego,5.850
+Robbie Mudge,North Carolina State,5.847
+Edoardo Tessaro,Virginia Tech,5.838
+Alejandro Espejo,University of Tulsa,5.838
+Diogo Rocha,University of Denver,5.805
+Daan Maasland,University of Oregon,5.798
+Elliott Orkin,University of Florida,5.788
+Boris Arias,LSU,5.780
+Dan Richardson,Princeton University,5.772
+Alen Salibasic,Drake University,5.765
+Amerigo Contini,Virginia Tech,5.746
+Jordan Daigle,LSU,5.742
+John Morrissey,Stanford University,5.727
+Leandro Toledo,University of Minnesota,5.717
+Robert Livi,St. John's University,5.709
+Carlos Lopez Villa,Old Dominion University,5.693
+Luis Valero,University of Tennessee,5.683
+Facundo Lugones,TCU,5.683
+Daniel Valent,Vanderbilt University,5.655
+Erick Reyes,St. John's University,5.653
+Maxime Tchoutakian,Baylor University,5.577
+Freddy Gelbrich,San Diego State University,5.558
+Nicky Hu,Harvard University,5.558
+Adam Moundir,Old Dominion University,5.557
+Jake Douglas,University of Washington,5.539
+Felipe Rios,Baylor University,5.534
+Chase Perez-Blanco,University of Florida,5.530
+Tin Ostojic,Wichita State University,5.519
+Florian Lakat,Mississippi State University,5.516
+Ralf Steinbach,Ohio State University,5.507
+Yannick Hanfmann,University of Southern California,5.496
+Sebastian Rey,Tulane University,5.471
+Joao Monteiro,Virginia Tech,5.466
+Diego Galeano,Baylor University,5.459
+Hunter Reese,University of Tennessee,5.451
+Rogerio Ribeiro,East Tennessee State University,5.434
+Lloyd Glasspool,University of Texas,5.429
+Sam Shropshire,Northwestern University,5.426
+Daniel Leitner,University of South Alabama,5.411
+Mitchell Pritchard,University of Tulsa,5.410
+Andreas Bjerrehus,Virginia Tech,5.398
+Dominik Koepfer,Tulane University,5.351
+Zack McCourt,Princeton University,5.344
+Robin Riethmueller,Middle Tennessee State University,5.336
+Toshiki Matsuya,University of Illinois,5.319
+Tony Lupieri,Baylor University,5.304
+Ben Wagland,University of Georgia,5.276
+Haris Poric,Wofford,5.275
+Lukas Ollert,Auburn University,5.230
+Ritchie KRUUNENBURG,Morehead State University,5.203
+Slim Hamza,University of Utah,5.189
+Dusty Boyer,University of Nebraska,5.172
+Hunter Koontz,Virginia Tech,5.171
+Beck Bond,North Carolina State,5.155
+Vince Schneider,Baylor University,5.142
+Samm Butler,SMU,5.138
+Mikael Torpegaard,Ohio State University,5.137
+Christopher Eubanks,Georgia Tech,5.102
+Tyler Lu,Yale University,5.091
+Gregory Bayane,California,5.042
+Runhao Hua,University of Michigan,5.030
+Greg Garcia,Brown University,5.025
+Hendrik Jebens,San Diego State University,5.019
+Juan Moreiras,Univ. of Texas at San Antonio,5.016
+Thomas Colautti,Princeton University,4.970
+Jason Tahir,Duke University,4.948
+Miroslav Herzan,Wichita State University,4.938
+Ryoto Tachi,UCLA,4.886
+Christian Seraphim,Wake Forest University,4.886
+Jordi Massalle Ferrer,Charlotte,4.880
+Albert Wagner,University of Louisville,4.827
+Chris Barrus,University of Central Florida,4.827
+Jack Findel-Hawkins,University of North Florida,4.825
+Alex Sendegeya,Texas Tech University,4.824
+Mitch Stewart,University of Washington,4.795
+Alex Galoustian,DePaul University,4.791
+Giammarco Micolani,University of Arkansas,4.785
+Carlos Benito,Georgia Tech,4.766
+Jose Antonio Salazar,University of Oklahoma,4.764
+Jolan Cailleau,Texas Tech University,4.742
+Alejandro Llamas,SMU,4.741
+Carlos Bautista,University of Tulsa,4.730
+Vinod Gowda,University of Mississippi,4.725
+Tristan Meraut,Oklahoma State University,4.710
+Michael Voscek,Virginia Commonwealth University,4.707
+Marko Goles-Babic,San Diego State University,4.698
+Strong Kirchheimer,Northwestern University,4.689
+Bruno Semenzato,Duke University,4.663
+Josh Hagar,University of Notre Dame,4.654
+Max de Vroome,University of Southern California,4.639
+Nathan Pasha,University of Georgia,4.636
+Ben Davis,Middle Tennessee State University,4.632
+Ciro Riccardi,Dartmouth College,4.601
+Felix Corwin,University of Minnesota,4.585
+Shane Vinsant,Texas A&M University,4.567
+Hassan Ndayishimye,Troy University,4.558
+Kyle Koch,University of South Carolina,4.553
+Michael Rinaldi,Florida State University,4.547
+Bernardo Casares Rosa,Cornell University,4.544
+Jonathan Ho,Wake Forest University,4.538
+Jurence Mendoza,Oklahoma State University,4.538
+Miguel Diaz,University of the Pacific (California),4.526
+Marco Nunez,Florida State University,4.526
+Alex Gasson,University of Denver,4.524
+Tito Moreiras,Univ. of Texas at San Antonio,4.517
+Lucas Gerch,Oklahoma State University,4.491
+Karue Sell,UCLA,4.484
+Aaron Gomez,Virginia Tech,4.475
+Jonny Wang,University of Southern California,4.429
+Rhys Johnson,Vanderbilt University,4.416
+Rakshay Thakkar,Pepperdine,4.373
+Gabriel Dias,Troy University,4.366
+Chao-Yu Huang,University of Southern Mississippi,4.351
+Lucas Hejhal,St. John's University,4.344
+Henrik Wiersholm,University of Virginia,4.340
+Chris Mengel,Duke University,4.339
+Lefteris Theodorou,University of Iowa,4.312
+Gordon Watson,University of Florida,4.310
+Nick Crystal,University of Southern California,4.307
+Maksim Kan,Wake Forest University,4.301
+Jordi Vives,Florida Gulf Coast University,4.300
+Van Damrongsri,University of Louisville,4.289
+Oliver Pramming,University of South Florida,4.288
+Kevin Metka,Ohio State University,4.286
+Sebastian Ermicioiu,University of Texas at Arlington,4.286
+Ace Matias,UNLV,4.285
+David Biosca,East Tennessee State University,4.282
+Chris Vrabel,Cornell University,4.258
+Moez Chargui,University of Nevada,4.256
+Piotr Lomacki,University of Miami (Florida),4.254
+Josh Zeoli,Fresno State,4.250
+Tuki Jacobs,University of South Alabama,4.249
+Jakob Sude,Oklahoma State University,4.242
+Eduardo Segura,Georgia Tech,4.237
+Sven Lalic,Indiana University-Bloomington,4.225
+Garrett Patton,Boise State University,4.205
+Nicolas Podesta,University of Pennsylvania,4.176
+Jerry Lopez,University of Kentucky,4.174
+Zvonimir Podvinski,Old Dominion University,4.167
+Sam Matheson,Liberty University,4.153
+Shane Monroe,Brigham Young University,4.136
+Chris Kipouras,Dartmouth College,4.128
+Jayson Amos,University of Oregon,4.125
+Sasha Gozun,University of South Florida,4.104
+Tim Srkala,University of South Alabama,4.090
+David Hsu,Stanford University,4.088
+Connor Glennon,University of Memphis,4.084
+Max Andrews,Rice University,4.078
+Catalin Fifea,Virginia Commonwealth University,4.075
+Ignacio Gonzalez-Muniz,University of South Florida,4.073
+Spencer Papa,University of Oklahoma,4.071
+Dylan Steffens,Illinois State University,4.061
+Ethan Dunbar,University of Richmond,4.056
+David Wilczynski,Stanford University,4.048
+Skander Mansouri,Wake Forest University,4.038
+Patrick O'Keefe,Radford University,4.031
+Jaan Kononov,"Univ. of Maryland, Baltimore County",4.017
+Marko Krickovic,Auburn University,4.013
+Matthew Kirby,University of Tulsa,4.002
+Stuart Tierney,Portland State University,3.988
+Herkko Pollanen,Ohio State University,3.969
+Zach Mueck,Xavier University,3.964
+Diego Vives,Princeton University,3.929
+Ben Lott,Drake University,3.920
+Javier Martin-Morillas,Montana State University-Bozeman,3.905
+Daniel Sardu,University of Oregon,3.894
+Oskar Wikberg,California,3.885
+Jack Murray,North Carolina,3.880
+Philip Nelson,Boston College,3.877
+Guilherme Hadlich,Pepperdine,3.875
+Filip Bergevi,California,3.874
+Trey Yates,University of Kentucky,3.862
+Ilija Cuic,Wichita State University,3.845
+Brian Yeung,Harvard University,3.828
+Santtu Leskinnen,UNC Wilmington,3.827
+Markus Schultz,NJIT,3.827
+Nick Bybel,Bucknell University,3.797
+Suresh Eswaran,Vanderbilt University,3.781
+Nils Ellefsen,University of Kentucky,3.777
+James Wade,UC Davis,3.764
+TJ Pura,Duke University,3.761
+Stefan Doehler,Yale University,3.759
+Alex Braun,Montana,3.746
+Nick Naumann,University of Texas,3.735
+Ricardo Mayagoitia,Texas A&M-Corpus Christi,3.723
+Ryan Andrada,University of Nevada,3.716
+Sebastian Heim,UC Irvine,3.714
+Alexander Day,Princeton University,3.713
+Linus Erhart,University of Nebraska,3.704
+Zach Hublitz,UNC Wilmington,3.698
+Randy Phillips,UNC Greensboro,3.695
+David Fox,University of Denver,3.690
+Dragos Ignat,Columbia University,3.678
+Juan Benitez,Baylor University,3.669
+Alex Steinroeder,Harvard University,3.662
+Ruben Weber,University of Minnesota,3.653
+Konrad Zieba,Northwestern University,3.642
+Corey Pang,Cal Poly,3.640
+Vuk Velickovic,Coastal Carolina University,3.636
+Howard Scott,"Univ. of Wisconsin, Green Bay",3.632
+Srikar Alla,Rice University,3.630
+Francesc Aulina,University of Central Florida,3.629
+Korey Lovett,University of Alabama,3.629
+Shawn Hadavi,Columbia University,3.618
+Alp Horoz,Northwestern University,3.614
+Stefan Fortmann,Elon University,3.613
+Trevor Johnson,TCU,3.609
+Raheel Manji,Indiana University-Bloomington,3.607
+Chris Simpson,LSU,3.600
+Mauricio Antun,Belmont University,3.599
+Aleksas Tverijonas,Austin Peay State University,3.582
+Andres Alfonzo,Florida Gulf Coast University,3.574
+Jeffrey Brown,University of Louisville,3.556
+Matt Frost,Drake University,3.556
+Alec Adamson,UC Davis,3.533
+Mario Muniesa,University of Texas at Arlington,3.532
+Simon Norenius,North Carolina State,3.531
+Michael Zhu,University of Michigan,3.523
+Patriek Wolterbeek,East Carolina University,3.520
+Nate Lammons,SMU,3.519
+Jason Jaruvang,University of Arizona,3.512
+Nik Scholtz,University of Mississippi,3.505
+Stefan Vinti,Cornell University,3.502
+Alex Lawson,University of Notre Dame,3.500
+Logan Staggs,Northwestern University,3.498
+John Mee,University of Texas,3.493
+Calum MacGeoch,Drake University,3.489
+Antonio Rodriguez,Virginia Commonwealth University,3.486
+David Warren,Rice University,3.485
+Milen Ianakiev,San Diego State University,3.460
+Arturs Kazijevs,SMU,3.456
+Daniil Gerasimov,North Carolina Central University,3.424
+Andrew Korinek,LSU,3.408
+Gijs Linders,Michigan State University,3.406
+Eric Komati,Fresno State,3.405
+Austin Powell,North Carolina State,3.403
+Rob Galloway,Wofford,3.386
+Othar Kordsachia,Loyola Marymount University,3.383
+Ashok Narayana,Columbia University,3.365
+Harrison O'Keefe,University of South Carolina,3.364
+Mate Cutura,Mississippi State University,3.364
+Andrei Morin-Kougoucheff,Florida Atlantic University,3.359
+Jonathan Gonzalez,University of Texas at Arlington,3.353
+Thorsten Bertsch,San Diego State University,3.352
+Mark Singnil,University of Toledo,3.346
+Marc Hermann,University of Nebraska,3.345
+Billy Griffith,California,3.343
+Andrew Schafer,University of South Carolina,3.324
+Eduardo Mena,Tennessee Tech University,3.314
+Brett Forman,Michigan State University,3.313
+Jacob Dunbar,University of Richmond,3.286
+Morgan Mays,UC Santa Barbara,3.285
+Francisco Dias,George Washington University,3.284
+Daniel Bednarczyk,Indiana University-Bloomington,3.279
+Michael Weindl,Old Dominion University,3.279
+Jakub Gewert,Weber State,3.277
+Cristian Gonzalez Mendez,Florida State University,3.270
+Jakob Amilon,UNLV,3.260
+Freddie McGeehan,University of Utah,3.250
+Christian Langmo,University of Miami (Florida),3.249
+Nathan Eshmade,UC Santa Barbara,3.246
+Sam Edwards,University of Alabama,3.244
+Billy Pecor,University of Notre Dame,3.240
+Nikko Madregallejo,University of Alabama,3.228
+Arjun Kadhe,Oklahoma State University,3.221
+Nolan Paige,Stanford University,3.221
+Stjepan Sisko,University of Toledo,3.208
+Ravi Patel,Drake University,3.202
+Jannis Koeke,Georgia State University,3.201
+Jose Gracia,Florida State University,3.198
+Marko Lovrinovic,Belmont University,3.184
+Alex Fennell,Penn State University,3.174
+Wilfredo Gonzalez,University of Miami (Florida),3.160
+Matt Barry,Penn State University,3.139
+Yannick Born,Middle Tennessee State University,3.137
+Hayden Sabatka,University of New Mexico,3.120
+Brent Lett,Clemson University,3.109
+Michal Kianicka,"Southern Illinois, Carbondale",3.105
+Danny Kerznerman,University of Alabama,3.098
+Dan Elston,Longwood University,3.090
+Felipe Fonseca,University of Idaho,3.081
+Jared Madison,University of Portland,3.078
+Lucas Andersen,Ball State University,3.068
+Ilya Osintsev,Santa Clara University,3.053
+Cody Rakela,UC Santa Barbara,3.050
+Jack Hamburg,University of Minnesota,3.046
+Josef Dodridge,University of Wisconsin,3.032
+Alexander Ritschard,University of Virginia,3.027
+Kevin Farin,University of Oregon,3.019
+Jeffrey Schorsch,Valparaiso University,3.016
+Wilder Pimentel,Virginia Commonwealth University,3.011
+Will Stein,TCU,3.009
+Kian McLean,Florida Atlantic University,3.008
+Sebastian Beltrame,Harvard University,3.004
+Hunter Harrington,Clemson University,3.002
+Will Kneale,University of Arizona,3.001
+Adrian Ortiz-Ruiz,University of Texas,3.001
+Terrell Whitehurst,Florida State University,2.998
+Amar Saletovic,Oral Roberts University,2.994
+Santiago Munoz,University of Arkansas,2.986
+Sam Monette,Indiana University-Bloomington,2.984
+Nico Mertens,UC Irvine,2.980
+Denis Nguyen,Harvard University,2.974
+Michael Riechmann,University of Texas,2.963
+Mihir Kumar,Northwestern University,2.961
+Garrett Auproux,Cal Poly,2.960
+Pedro Iamachkine,Pepperdine,2.959
+Leopold Gomez Islinger,"Univ. of Wisconsin, Green Bay",2.953
+Arthur Weber,Saint Mary's College of California,2.953
+Forrest Edwards,Charlotte,2.950
+Xander Veys,UNC Wilmington,2.936
+Max Schmidt,Dartmouth College,2.933
+Joshua Yablon,Princeton University,2.928
+Gal Hakak,University of Washington,2.924
+Josh Pompan,University of Pennsylvania,2.916
+Shakeel Manji,University of Memphis,2.913
+Jose Sangroniz,University of Central Florida,2.889
+Trent Botha,Oklahoma State University,2.882
+Josh Silverstein,University of Iowa,2.880
+Harrison Kennedy,LSU,2.879
+Tobias Galskov,UC Santa Barbara,2.879
+Kevin Bettendroffer,Texas A&M-Corpus Christi,2.874
+Jonny Rigby,"Southern Illinois, Carbondale",2.867
+Adam Glynn,Fresno State,2.859
+Kenny Tao,Harvard University,2.853
+Sam O'Neill,Butler University,2.853
+Markus Kerner,SMU,2.834
+Fedor Baev,Northwestern University,2.833
+Hank Workman,Boston College,2.829
+Erik Johnsson,UC Santa Barbara,2.823
+Andres Torres,UNC Wilmington,2.820
+James Tallman,Univ. of San Francisco,2.819
+Tyler Pham,UC Irvine,2.810
+Robert Stineman,Stanford University,2.809
+Carlos Arbiza,University of Texas at Arlington,2.796
+Cedric Willems,University of Utah,2.796
+Rakshit Rishi,University of Southern Mississippi,2.789
+Luke Johnson,Clemson University,2.783
+Matt Begely,Rider University,2.782
+Samir Iftikhar,University of New Mexico,2.779
+Victor Pugliese,Monmouth University,2.776
+Jordi Arconada,Texas A&M University,2.770
+Joe VanMeter,Cleveland State University,2.768
+Nikolas Papic,Fresno State,2.763
+Martin Figura,South Carolina State,2.758
+Thomas Weigel,North Carolina State,2.745
+Daffra Sanon,Clemson University,2.744
+Michael Beiler,Florida Gulf Coast University,2.742
+Parker McGuinness,University of Utah,2.736
+Sai Kartik Nakireddi,Fresno State,2.706
+Austin Siegel,University of Oklahoma,2.696
+Everth Dzib,University of South Florida,2.692
+Danil Zelenkov,George Washington University,2.690
+Chris Simich,University of Louisville,2.689
+Alejando Augusto,Clemson University,2.684
+J.T. Nishimura,California,2.681
+Maxx Lipman,University of Florida,2.671
+Oystein Steiro,North Carolina,2.669
+Alex Arovin,Tennessee Tech University,2.668
+Naoki Takeda,University of Arizona,2.664
+Harrison Adams,Texas A&M University,2.662
+Daniel Armengol,University of Texas at Arlington,2.637
+Kris Yee,Vanderbilt University,2.632
+"STEMPIEN, Krzystof",Idaho State University,2.625
+Blaine Willenborg,University of Pennsylvania,2.611
+Juan Marino,University of Arkansas,2.601
+Michael Kay,Georgia Tech,2.598
+Arvis Berzins,Fairleigh Dickinson University,2.581
+Constantin Schmitz,Tulane University,2.580
+Mariano Porter,University of Central Florida,2.580
+Leonard Stakhovsky,Penn State University,2.576
+Ricky Ventura,Florida Gulf Coast University,2.575
+Peter Nagy,Texas A&M-Corpus Christi,2.572
+Fernando Sala,Clemson University,2.571
+Arkadijs Slobodkins,SMU,2.560
+Brandon Sutter,Stanford University,2.556
+Renier Moolman,Saint Joseph's University,2.555
+Becker O'Shaughnessey,University of Alabama,2.554
+Axel Damiens,Cal Poly,2.539
+Colin Sinclair,Cornell University,2.527
+Justin To,Brown University,2.525
+Stuart Kenyon,University of Alabama,2.521
+Mads Engsted,California,2.519
+Jai Corbett,Virginia Tech,2.516
+Brandon Yeoh,Brown University,2.502
+Charles Boyce,Loyola Marymount University,2.498
+Nicolas Soriano,East Carolina University,2.495
+Lamar Remy,University of Wisconsin,2.478
+Andrew Poustie,University of Nevada,2.476
+Anthony Delcore,Wake Forest University,2.463
+Ziqi Wang,Yale University,2.463
+Ismael Merino,East Tennessee State University,2.461
+Francis Sargeant,Brigham Young University,2.456
+Richard Robbie,Duquesne University,2.451
+Dan Wright,Bucknell University,2.436
+Ettore Zito,Middle Tennessee State University,2.431
+Vasileous Stavropolous,University of Nebraska,2.430
+Harry Jadun,Michigan State University,2.430
+Karan Salwan,Utah State University,2.428
+Ristomatti Lanne,Georgia Southern University,2.428
+Cormac Clissold,University of Oregon,2.410
+Steffen Dierauf,University of Portland,2.408
+Cole Fiegel,Georgia Tech,2.403
+Michael Tenzer,"Univ. of Wisconsin, Green Bay",2.401
+Nick Horton,North Carolina State,2.395
+David Herrerias,University of Arkansas,2.393
+Jack Schipanski,University of Tennessee,2.383
+Daniel Fernandez,Marquette,2.376
+Vukasin Teofanovic,Marquette,2.369
+Jeremy Kochman,Lehigh University,2.363
+Alex Van Cott,Tulane University,2.357
+Andre Napolitana,Montana State University-Bozeman,2.356
+Christian Harris,Clemson University,2.352
+Tremayne Mitchell,Winthrop University,2.349
+Jay Leelavanich,Boston University,2.347
+Thomas Tenreiro,Boise State University,2.337
+Grant Solomon,Harvard University,2.330
+Javier Jover Maestre,Old Dominion University,2.329
+Alejandro Bejar,Presbyterian College,2.320
+Jake Albo,Florida State University,2.313
+Lautaro Pane,Pepperdine,2.303
+Nils Skajaa,Univ. of San Francisco,2.302
+Alvaro Nazal,Gonzaga University,2.293
+Alejandro Manzanares,Lipscomb University,2.288
+Denys Pume,UNLV,2.286
+Brett Bacharach,UC Davis,2.271
+Christian Cargill,College of William and Mary,2.271
+Sebastian Schneider,Utah State University,2.267
+Dimitar Ristovski,Austin Peay State University,2.265
+Aries Wong,U.S. Naval Academy,2.258
+Muddappa Appanervanda,Illinois State University,2.255
+Maik Steiner,Western Michigan University,2.251
+Geoffrey Fosso,University of San Diego,2.245
+Diego Acosta,Purdue University,2.243
+Emmett Egger,University of Washington,2.237
+Matt Hagan,University of Iowa,2.236
+Alex Hagermoser,Yale University,2.230
+Henrique Tsukamoto,University of Miami (Florida),2.230
+Dennis Baumgartner,Utah State University,2.222
+Terrance Whitehurst,Florida State University,2.220
+Carter Lin,University of Michigan,2.214
+Ricardo Jorge,University of Mississippi,2.210
+Jamie Malik,Rice University,2.203
+Josh Schramm,"Univ. of Wisconsin, Green Bay",2.203
+Austin Bates,Florida Gulf Coast University,2.203
+Ryan Peniston,University of Memphis,2.202
+Remi Chancerel,Youngstown State University,2.201
+Vikram Hundal,Charlotte,2.199
+Dylan Comerford,Winthrop University,2.191
+Vadym Kalyuzhnyy,University of South Florida,2.191
+Vim De Alwis,University of Pennsylvania,2.189
+Tim Abbraciamento,Villanova University,2.187
+Hampton Drake,Clemson University,2.179
+Rudolf Kurz,Marist College,2.177
+Daniel Faierman,Yale University,2.176
+Charles Minc,University of Kentucky,2.165
+Alex Knight,University of Michigan,2.148
+Gian Issa,Middle Tennessee State University,2.140
+Rob Mitchell,Lipscomb University,2.132
+Daryl Monfils,Virginia Commonwealth University,2.124
+Lauri Makikalli,Wright State University,2.121
+Adam Gustafsson,Rice University,2.114
+Ian Van Cott,Tulane University,2.110
+Sofiane Chevallier,Georgia State University,2.106
+Alex Araouzos,University of San Diego,2.105
+Jonathan Walker,Gardner-Webb University,2.099
+Michael Sienko,U.S. Military Academy,2.098
+Bert Vancura,Columbia University,2.095
+Eduardo Alfonzo,Florida Gulf Coast University,2.093
+Michael Reilly,Penn State University,2.092
+Daniel Yun,Georgia Tech,2.092
+Giovani Samaha,Troy University,2.082
+Ismael Dinia,Binghamton University,2.069
+Kyle Dunn,Valparaiso University,2.053
+Adam Steryous,Furman University,2.051
+Will Neuner,Florida Atlantic University,2.045
+Alex Petrone,University of Michigan,2.044
+Jeff Offerdahl,Vanderbilt University,2.040
+Jonathan Hammel,UC Irvine,2.037
+Mac Styslinger,University of Virginia,2.036
+Brad Marriott,University of Southern Mississippi,2.026
+"STEMPIEN, Krzyzstof",Idaho State University,2.025
+Ramy Bekheit,Monmouth University,2.022
+Hayes Brewer,University of Alabama,2.019
+Julio Olaya,SMU,2.013
+Thomas Takemoto,Univ. of San Francisco,2.011
+Kamil Khalil,Charlotte,2.006
+Sebastian Yllera,East Tennessee State University,2.002
+Manuel Bellutti,Cleveland State University,1.999
+Naveen Beasley,Cal Poly,1.997
+Zachary Morris,Bryant University,1.993
+Jefta Kecic,Western Michigan University,1.992
+Nicolai Ferrigno,Oklahoma State University,1.986
+Nicolas Montoya,University of Notre Dame,1.977
+? Amare,The Citadel,1.972
+Will Baird,Presbyterian College,1.971
+Justin Butsch,LSU,1.967
+Walid Gtari,Bethune-Cookman University,1.962
+Yannik James,University of Denver,1.961
+Nikita Lis,Lamar University,1.958
+Toby Mitchell,Boise State University,1.949
+Justin Roberts,University of South Florida,1.949
+Jorge Escutia,University of New Mexico,1.947
+Euan Mcintosh,Fresno State,1.943
+Tom Hill,Pepperdine,1.937
+Ben Donovan,Cal Poly,1.936
+Andrew Adams,University of South Carolina,1.931
+Oliver Casey,Appalachian State University,1.922
+Sidhartha Hazarika,Binghamton University,1.913
+Sam Fleck,Cornell University,1.912
+Ryan Smith,Vanderbilt University,1.911
+Mitch McDaniels,University of New Mexico,1.906
+Hugo Dojas,Texas Tech University,1.904
+Ashot Khacharyan,Santa Clara University,1.903
+Benny Schweizer,Lamar University,1.898
+Adrian Legarreta,Grand Canyon University,1.892
+Dillon Segur,Liberty University,1.880
+Mehdi Mekaoui,Duquesne University,1.878
+Tomas Hanzlik,Penn State University,1.874
+Daniel Kripak,UNC Asheville,1.870
+Doug Zade,Michigan State University,1.866
+Jorg Van Der Vloet,Cleveland State University,1.865
+Austin Rapp,UCLA,1.859
+Jonathan Poon,UC Irvine,1.858
+Alex Van Velzer,U.S. Military Academy,1.852
+Austin Akers,Samford University,1.851
+Esben Hess-Olesen,North Carolina,1.841
+Zach Berry,Univ. of Dayton,1.840
+Artem Khrapko,Davidson College,1.835
+Stefan Menichella,Pepperdine,1.825
+Robin Haden,Mississippi State University,1.810
+Peter Beatty,Georgetown University,1.809
+Andrew Goodwin,University of Alabama,1.809
+Gage Brymer,UCLA,1.807
+Jose Carranza,University of Wisconsin,1.794
+Gonzalo Arroyo-Baudet,Stetson University,1.792
+Vasco Valverde,Univ. of San Francisco,1.791
+Ricky Medinilla,Purdue University,1.789
+Lucas Plesky,Chattanooga,1.774
+Errol Smith,Loyola Marymount University,1.773
+Diogo Casa,Univ. of Texas at San Antonio,1.772
+Zackery Kennedy,Georgia State University,1.768
+Calvin Mark,U.S. Naval Academy,1.767
+Laurynas Antropikas,Stetson University,1.764
+Christopher Egan-Morriss,UAB,1.757
+Mason Keel,Lafayette College,1.747
+George Goldhoff,University of Texas,1.744
+Baker Newman,Vanderbilt University,1.743
+Oliver Landert,University of Florida,1.738
+Xabier Saveedra,Drexel University,1.737
+Grant Riechmann,U.S. Military Academy,1.736
+Scott Huang,College of William and Mary,1.723
+Tianyu Bao,Florida Gulf Coast University,1.716
+Andrew Watson,University of Memphis,1.714
+Nathan Ponton,University of Detroit Mercy,1.710
+Michael Feucht,Lamar University,1.707
+Dante Saleh,Auburn University,1.706
+Stefan Burnett,Florida Atlantic University,1.697
+Nikhil Jayashankar,California,1.696
+Felix Schueller,Grand Canyon University,1.682
+Sam Williams,UNC Wilmington,1.673
+Yannick Junger,Univ. of Texas at San Antonio,1.672
+Luke Bohuslav,Loyola Marymount University,1.671
+Scott Webster,Appalachian State University,1.667
+Mathieu Froment,University of Minnesota,1.662
+Mac Roy,Michigan State University,1.658
+Alex Gornet,University of Louisville,1.657
+Francisco Zambon,Texas Tech University,1.657
+Aaron Chaffee,College of William and Mary,1.656
+Gustav Hansson,University of Mississippi,1.646
+Raphael Termat,Stony Brook University,1.645
+Nick Dykema,Marquette,1.641
+Simon Freund,LSU,1.638
+John Zordani,University of Wisconsin,1.635
+Martin Figura,South Carolina State,1.634
+Aws Laaribi,Penn State University,1.626
+Martin Svenning,Yale University,1.624
+Jeremy Court,University of Pennsylvania,1.621
+Romain Kalaydjian,University of San Diego,1.612
+Zachary Yablon,Rice University,1.609
+Steven Billington,Campbell University,1.609
+Nathan Rakitt,Georgia Tech,1.607
+Jordan Kaufman,Elon University,1.600
+Christian Coetzee,UAB,1.596
+Patrick Pfister,New Mexico State University,1.595
+Thiago Pinheiro,University of South Carolina,1.594
+Tomas Pitra,University of Wisconsin,1.585
+Louis Ishizaka,Virginia Commonwealth University,1.581
+Robert Stirling,James Madison University,1.577
+Julian Cash,Mississippi State University,1.573
+Charlie Nettlefold,SMU,1.569
+Michail Pervolarakis,University of Portland,1.559
+Brian Foley,Boise State University,1.556
+Ray Leonard,Ball State University,1.551
+Ben Mullis,Drake University,1.549
+Caryl Hernandez,UC Irvine,1.540
+Kaue Pereira,Coastal Carolina University,1.540
+Kenny Sabacinski,University of Notre Dame,1.538
+Jeremy Lynn,University of Minnesota,1.529
+Matthew McCoy,Indiana University-Bloomington,1.515
+Diego Pedraza,Dartmouth College,1.511
+Tomislav Gregurovic,Wichita State University,1.497
+Andrey Smirnov,UMKC,1.495
+Matt Hamilton,Western Michigan University,1.489
+Rafael Davidian,UC Irvine,1.484
+Pierre Garcia,University of Portland,1.479
+Lucas Lesoeur,Cal Poly,1.479
+Bart Van Leijsen,University of New Mexico,1.476
+Nicolas Rakitin,Campbell University,1.472
+Freddie McGeehan,University of Utah,1.460
+Christiaan Van der Burgh,UNC Wilmington,1.456
+Aaron Jumonville,Austin Peay State University,1.456
+Alberto Esteban,Tennessee Tech University,1.453
+Julian Bradley,University of North Florida,1.450
+Nathan Debut,Stetson University,1.442
+Marc Collado Castells,Penn State University,1.441
+Austin Ansari,Clemson University,1.440
+Yannick Zuern,University of North Florida,1.428
+Paul Cisti,Charlotte,1.417
+Pascal Domnik,Norfolk State University,1.417
+Daniel Ginzburg,Monmouth University,1.405
+Joseph Di Giulio,UCLA,1.401
+Ignacio Jiminez,Florida Atlantic University,1.398
+Juan Madrid,Elon University,1.396
+Dominic Patrick,University of Iowa,1.393
+Connor Thompson,UNC Greensboro,1.388
+Caio Gomes,University of North Florida,1.381
+Stefan Farrar,Eastern Washington University,1.380
+William Kallberg,University of Mississippi,1.375
+Shuhei Shibahara,UC Irvine,1.373
+Johan Jonhagen,University of Utah,1.369
+Joat Farah,Loyola Marymount University,1.368
+August Nysted,Creighton University,1.366
+Duk Young-Park,Morgan State University,1.364
+Stieg Martens,University of Iowa,1.363
+Sten Leusink,DePaul University,1.352
+Joao Barra,University of Washington,1.350
+Photos Photiades,Yale University,1.347
+Stephen Ong,Temple University,1.347
+Wen-Po Tseng,University of Southern Mississippi,1.341
+Alexandre Felisa,Stony Brook University,1.341
+Guillermo de Vilchez,Wichita State University,1.339
+Eric Perez,LSU,1.335
+Hayden Smith,Gonzaga University,1.334
+Alexandr Rudenco,Montana,1.329
+Elijah Melendez,Georgia Tech,1.328
+Christopher Geaslen,Elon University,1.327
+Norbert Nemcsek,University of North Florida,1.325
+Roy Brandys,Sacramento State,1.315
+Jakhongir Jalalov,University of Wisconsin,1.305
+Andrey Goryachkov,Brigham Young University,1.301
+Alex Bourgeois,Loyola Marymount University,1.292
+Patrick Elliott,Ball State University,1.292
+Akhil Mehta,University at Buffalo,1.290
+Daniel Morgan,Columbia University,1.276
+Jacob Svensson,Virginia Commonwealth University,1.273
+George Wall,Dartmouth College,1.260
+Pablo Moreno,Troy University,1.250
+Oliver Plaskett,Auburn University,1.246
+Washi Gervais,St. Francis Univ. (Pennsylvania),1.245
+Ruben Alberts,UNLV,1.242
+Philippe Tsangaridis,Coastal Carolina University,1.240
+Kieran Cronin,Nicholls State University,1.238
+Felix Schumann,Northern Arizona University,1.237
+Graham Ball,Stetson University,1.223
+Jonny Cornish,University of Virginia,1.222
+Teague Hamilton,UC Santa Barbara,1.215
+Lee-Shawn Stein,Wagner College,1.213
+Nikita Zverkov,Gardner-Webb University,1.194
+Lewis Roskilly,Boise State University,1.191
+Simon Pritchard,Kennesaw State University,1.190
+Michael Moe,Xavier University,1.180
+Alex Sidney,Cornell University,1.173
+Alfonso Castellano,Longwood University,1.169
+Dave Bacalla,Valparaiso University,1.165
+Eliott Hureau,Binghamton University,1.158
+Arthur Dobradin,Purdue University,1.155
+Luke Gamble,Princeton University,1.148
+Zack Lewis,College of Charleston,1.147
+Carlos Manzanas,Northern Illinois University,1.145
+Kial Kaiser,Princeton University,1.141
+Nicklas Wingord,Chattanooga,1.134
+Andrew Dzulnsky,University of Nebraska,1.131
+Mitchell Petersen,Lehigh University,1.129
+Javier Pujol,Texas A&M-Corpus Christi,1.129
+Joseph Van Dooren,Auburn University,1.126
+Alex Woldmoe,Butler University,1.101
+Dylan McCloskey,University of Tulsa,1.100
+Josh Levine,Duke University,1.089
+Sawyer Fonda,Wagner College,1.088
+Tam Trinh,LSU,1.085
+Fedor Andrienko,Yale University,1.081
+Zandrix Acob,Florida Atlantic University,1.079
+Matt Kuhar,Bryant University,1.077
+Hugo Morth,Youngstown State University,1.077
+Xavier Gonzalez,Harvard University,1.073
+Joe Motta,Marist College,1.073
+Germain Degardin,New Mexico State University,1.072
+Joan Carles Alcala,Georgia Southern University,1.067
+Christoffer Greve,Illinois State University,1.057
+Thibault Forget,University of Southern California,1.056
+Matt Cowley,University of Utah,1.054
+Keivon Tabrizi,Wake Forest University,1.044
+Jakub Eisner,Illinois State University,1.043
+Dylan Gee,Jacksonville State University,1.042
+Andres Alban,NJIT,1.040
+Kristiyan Trukov,Marquette,1.031
+Sebastian Ionescu,University at Buffalo,1.030
+Shoti Meparizde,North Carolina State,1.027
+Bryce McKelvie,UC Davis,1.022
+Brendan Tannebaum,Dartmouth College,1.017
+Juan Cruz Soria,University of Texas-Pan American,1.013
+Alex Aleman,Duquesne University,1.011
+Matt Browne,Furman University,1.011
+Will Juggins,College of William and Mary,1.007
+Ruben Greiner,Western Michigan University,0.996
+Garik Yedigarian,Coastal Carolina University,0.980
+Eli Whittle,UC Davis,0.977
+Daniel Mack,UNC Greensboro,0.965
+Rodney Carey,South Carolina State,0.964
+Ben Stride,Drake University,0.961
+Amaury Navette,UMKC,0.953
+Przemyslaw Filipek,Monmouth University,0.953
+Andranik Khachatryan,San Diego State University,0.950
+Jonathan Hannestad,University at Buffalo,0.945
+Daniel Zheng,U.S. Military Academy,0.943
+Chas Okamoto,University of Hawaii,0.943
+Justin Ghavami,Samford University,0.943
+Kevin Wong,University of Michigan,0.943
+Georg Lundkvist,Northern Illinois University,0.941
+Simon Formont,Northern Illinois University,0.937
+Everett Maltby,UC Davis,0.936
+Rick Timmerman,Coastal Carolina University,0.930
+Andres Cobos,IPFW,0.925
+Alex Hamilton,University of the Pacific (California),0.923
+Jacob Sullivan,Brigham Young University,0.922
+Blake Bazarnik,University of Illinois,0.920
+Connor Pietrak,Loyola College (Maryland),0.913
+Preston Touliatos,Eastern Illinois University,0.913
+Daniel Hernandez,Lipscomb University,0.912
+Ramon Simonetti,"University of South Carolina, Upstate",0.903
+Mathieu Ounanian,Grand Canyon University,0.902
+Todd Volmari,Loyola Marymount University,0.899
+Corey Robinson,Duquesne University,0.896
+Conor Mullins,Boston College,0.894
+Davis Crocker,University of Michigan,0.889
+Diego Manzanas,Presbyterian College,0.888
+Jaime Barajas,Utah State University,0.886
+Alexandr Cozbinov,UNLV,0.883
+Dylan Brown,Cornell University,0.882
+Olivier Gingras,University of South Alabama,0.881
+Jeremy Nuss,Wagner College,0.871
+Robin Lesage,Binghamton University,0.868
+Mathieu Garcia,University of Portland,0.868
+Riley Reist,Ohio State University,0.865
+Julian Rozenstein,Quinnipiac University,0.857
+Loic Blanco,Stetson University,0.850
+Jeremy Schneider,Xavier University,0.850
+Brandon Woods,Butler University,0.848
+Julian Ruffin,UC Riverside,0.845
+Kert Kilumets,North Carolina Central University,0.842
+Miguel Alvarez-Hevia,University of Texas-Pan American,0.842
+Zachary Goldberg,University of North Florida,0.836
+Semion Branzberg,Montana,0.833
+Florian Nicoud,Virginia Tech,0.833
+Austin Jones,U.S. Naval Academy,0.831
+Gustavo Gonzalez,Rice University,0.824
+Arsav Mohanty,Mercer University,0.819
+Miguel Cepeda,Boston University,0.814
+AJ Aziz,Boston College,0.814
+Robert Allan,University of Nevada,0.809
+Vasily Kichigin,College of Charleston,0.805
+Branch Terrell,University of Arkansas,0.805
+Carsten Fisher,Univ. of Dayton,0.802
+Blake Gregor,University of New Orleans,0.802
+Wesley Wong,George Mason University,0.794
+Cristobal Rivera,Loyola Marymount University,0.791
+Tassilo Schmid,Mississippi State University,0.786
+Thomas Spratt,University of Pennsylvania,0.785
+William Szamosszegi,Bucknell University,0.784
+Sebastian Acuna,Georgia State University,0.780
+Tony Miller,University at Buffalo,0.768
+Rick Delboi,Wagner College,0.750
+Pablo Alvarez,University at Buffalo,0.740
+Sam Philp,Mercer University,0.740
+Jonas Kuwert,Quinnipiac University,0.731
+Chris Angulo,Northern Kentucky University,0.730
+Luca Marquard,Pepperdine,0.729
+Rishabh Raman,University of Washington,0.713
+Michael Moya,Univ. of Northern Colorado,0.704
+Eliott Loubatie,"Univ. of Maryland, Baltimore County",0.703
+Ali Shabib,Cleveland State University,0.695
+Kester Black,Northern Arizona University,0.694
+Woravin Kumthonkittikul,Monmouth University,0.690
+Nicholas Osterling,Wake Forest University,0.687
+Ben Horst,Furman University,0.676
+Fares Kilani,Samford University,0.676
+Sebastian Salinas,James Madison University,0.674
+Shamael Chaudhry,Davidson College,0.671
+Andre Romanello,Marquette,0.665
+Arnav Mohanty,Mercer University,0.662
+Jabor Al-Mutawa,Coastal Carolina University,0.654
+Eric Rubin,Columbia University,0.650
+Adam Reinhart,IUPUI,0.648
+Christian Waldron,Prairie View A&M University,0.646
+Justin Carter,"Univ. of Maryland, Baltimore County",0.642
+Dylan Hansel,Weber State,0.639
+Brice Allanic,College of Charleston,0.639
+William Albanese,University of Arkansas,0.633
+Ian Dempster,North Carolina State,0.625
+Joey Swaysland,University of Oregon,0.619
+Blake Anthony,University of Oregon,0.611
+Edgar Lopez,University of Louisiana,0.604
+Matteo Giudici,Marist College,0.594
+Grant Taylor,U.S. Air Force Academy,0.588
+Austin Woldmoe,Butler University,0.584
+Inaki Espindola,University of Central Florida,0.582
+Jimmy Lange,George Mason University,0.581
+Jeffrey Melvin,Boston College,0.579
+Josh Hurd,Boston University,0.579
+Calum McKinlay,Troy University,0.574
+Ismael Kaouache,Howard University,0.572
+João Gauer,Florida State University,0.548
+Mateus Silva,Purdue University,0.548
+Alex Croker,UNC Asheville,0.547
+Damon Niquet,College of William and Mary,0.540
+Augustus Ge,University of New Mexico,0.534
+Robert Skolik,Eastern Illinois University,0.534
+Brian Kowalski,Elon University,0.532
+Jefferson Wendler-FIlho,Jacksonville State University,0.521
+Eric Schnurrenberger,University of Notre Dame,0.521
+Trey Carter,Samford University,0.500
+Sam Bertram,Santa Clara University,0.497
+Arthur Stefani,Xavier University,0.497
+Abe Hewko,Boise State University,0.490
+Michael Lippens,University of Louisville,0.490
+Sebastian Mueller,Eastern Kentucky University,0.488
+Patryk Koscielski,University of Detroit Mercy,0.487
+Carter Lam,University of Hawaii,0.480
+Melker Svard,"Univ. of Maryland, Baltimore County",0.477
+Gerard Guell,IPFW,0.470
+Yale Goldberg,Stanford University,0.469
+Nick Kamisar,Gonzaga University,0.462
+Jacob Behal,Furman University,0.454
+Lasse Muscheites,University of North Florida,0.452
+Alejandro Gomez Estrada,Monmouth University,0.442
+Benjamin Gilman,Lehigh University,0.438
+Sam Lampman,U.S. Military Academy,0.438
+Michiel Meekers,Radford University,0.433
+Brandon Fickey,University of Tennessee,0.430
+Nick Lamart,Bryant University,0.426
+Airam Castellano,UMKC,0.425
+Felix Van Kann,Loyola Marymount University,0.417
+Matt Mendez,Ohio State University,0.412
+Evan Karatzas,Nicholls State University,0.406
+Marlon Brand,University of the Pacific (California),0.405
+Silviu Mistreanu,Youngstown State University,0.404
+Daridge Saidi,Eastern Kentucky University,0.398
+Ross Guignon,University of Illinois,0.397
+Sam Meessen,Nicholls State University,0.396
+Philippe Courteau,Lipscomb University,0.395
+Koby Jansen,University of Texas-Pan American,0.394
+Eddy Covalschi,University of Notre Dame,0.392
+Mark Ginting,Univ. of Texas at San Antonio,0.385
+Tomas Hons,Northern Arizona University,0.382
+Lukas Finzelberg,Oklahoma State University,0.381
+Todd Fought,Weber State,0.380
+Andrew Nakajima,Utah State University,0.368
+Robert Lindgren,Elon University,0.366
+Felix Albert,University of Hawaii,0.357
+Austin McCasin,U.S. Military Academy,0.343
+Sam Swank,University of South Carolina,0.337
+Joey Vatanadilok,Univ. of Incarnate Word,0.332
+Andreas Boers,Illinois State University,0.328
+Paul Cook,Texas A&M-Corpus Christi,0.327
+Mikhail Esipov,University of Southern Mississippi,0.326
+Igor Smelyanski,University of Tennessee,0.322
+Damian Farinola,University of Louisiana,0.321
+Nash Vollenwider,Saint Mary's College of California,0.320
+Derrick Brown,Chattanooga,0.313
+Blest Jones,Loyola College (Maryland),0.308
+Luis Gastao,UC Riverside,0.306
+Nils Schuhmann,University of Hawaii,0.305
+Korhan Ates,Gardner-Webb University,0.304
+Pally Ray,University of Louisville,0.303
+Addison Appleby,College of William and Mary,0.301
+Sean Robles,UC Riverside,0.300
+Kevin Lai,University of Kentucky,0.298
+Kyle Hoffman,Georgia Southern University,0.296
+Jack McCullers,U.S. Air Force Academy,0.295
+Jeff Hawke,University of Washington,0.290
+Andrei Andrukhou,Georgia State University,0.287
+Jack Desse,"Southern Illinois, Edwardsville",0.283
+Daniel Santos,University of Tulsa,0.282
+Soufiane Mouline,South Carolina State,0.280
+Vlad Kramarov,University of Louisiana,0.276
+Gabriel Ruiz,Morehead State University,0.273
+Nathan Roper,Oklahoma State University,0.273
+Conner Huertas,East Tennessee State University,0.271
+Ricardo Pabon,East Tennessee State University,0.269
+Richard Meade,Florida Atlantic University,0.265
+Louis-Philippe Hamel,Northern Illinois University,0.261
+Charlie Emhardt,Valparaiso University,0.261
+Tucker Saxon,University of Minnesota,0.252
+Austin Blake,Mount St. Mary's University,0.250
+Frederic Cadieux,Northern Illinois University,0.248
+Jack Swindells,Utah State University,0.245
+Michael Sinha,University of Wisconsin,0.238
+Youssef Khalafallah,George Mason University,0.235
+Hector Ramirez,University of Texas-Pan American,0.228
+Matt Erdman,Wake Forest University,0.220
+Cedric Dujacquier,Belmont University,0.219
+Charlie Ghriskey,College of Charleston,0.218
+Jarred Wynan,University of Louisiana,0.217
+Stathi Kyriakides,University of Richmond,0.211
+Simon Julin,Stetson University,0.209
+Jac Newis,IUPUI,0.209
+Julius Tverijonas,George Washington University,0.205
+Nicolas Paulus,Temple University,0.198
+Miguel Negre Fernandez,Middle Tennessee State University,0.197
+Robert Dula,Eastern Washington University,0.194
+Ramon van Flymen,Eastern Kentucky University,0.194
+Carlos Fernandez,Quinnipiac University,0.184
+Hector Martinez,St. Bonaventure University,0.184
+Alex Koca,Creighton University,0.182
+Luqman Ebrahim,College of William and Mary,0.182
+Maciek Romanowicz,Stanford University,0.179
+Alex Calott,Charlotte,0.172
+Luis Elizondo,University of Louisville,0.169
+Cahit Kapukiran,George Washington University,0.169
+Adi Zilberstein,Northern Arizona University,0.167
+Amar Hromic,University at Buffalo,0.164
+Marcel Chan,University of Hawaii,0.164
+Marcus Fritz,Utah State University,0.163
+Vaidik Munshaw,St. John's University,0.161
+Albert Codina Sala,Georgia Southern University,0.149
+Nick Barker,George Mason University,0.149
+Blake Wiggins,TCU,0.145
+Mitchell Cook,Texas A&M-Corpus Christi,0.140
+Daniel McCall,Duke University,0.139
+Renan Hanayama,Purdue University,0.137
+Daniel Casablancas,Georgia Southern University,0.127
+Will George,Kennesaw State University,0.127
+Shaun Chaudhuri,Harvard University,0.126
+Ethan Ammon,University of Texas-Pan American,0.121
+Daniil Ivanov,St. Peter's University,0.121
+Sabastian Penalosa,Morehead State University,0.119
+Diego Nunez,East Tennessee State University,0.111
+Robert Herrera,East Tennessee State University,0.110
+Win Reynolds,Colgate University,0.109
+Alekander Stupar,South Carolina State,0.108
+Jorge Azuero,Liberty University,0.104
+Danny Bruce,Presbyterian College,0.102
+Chad Hoskins,North Carolina,0.100
+Coleman Wahlborg,University of Louisiana,0.098
+James Ponwith,University of San Diego,0.094
+Scott Hinze,Weber State,0.093
+William East,North Carolina Central University,0.090
+Alec Josepher,SMU,0.086
+Bayo Philips,Drake University,0.085
+Alejandro Valencia,Kennesaw State University,0.084
+Chris Schindler,University of Nebraska,0.084
+Andrew DeJoy,Duke University,0.083
+Jake Bouchillon,Kennesaw State University,0.080
+Korhan Ates,Gardner-Webb University,0.073
+Kai Lemke,University of Memphis,0.071
+Emilio Teran,Boston University,0.071
+Chase Gordon,University of Tulsa,0.069
+David Mushayev,University of Arizona,0.063
+Luca Corinteli,University of Virginia,0.058
+Grigory Trotsenko,University of Southern Mississippi,0.055
+Julien Hochner,Marist College,0.054
+Josh Martin,U.S. Naval Academy,0.054
+Andrew Riminton,UC Santa Barbara,0.054
+Gus Benson,University of Kentucky,0.053
+Josh Luck,Elon University,0.053
+Gabriel Chavas Araujo,Xavier University,0.053
+Jose Chamba,University of the Pacific (California),0.053
+Mikey Raymond,"Southern Illinois, Edwardsville",0.053
+Jonas Stropus,Eastern Kentucky University,0.050
+Ernest Alberch,Gardner-Webb University,0.050
+Santiago Cevallos,San Diego State University,0.049
+Charlie Shin,University of Nebraska,0.048
+Michael Birnbaum,Chattanooga,0.046
+Hudson Blake,TCU,0.045
 Julien Philippe,Fairleigh Dickinson University,0.041
-Chris Perrigan,Florida Gulf Coast University,0.040
-Daniel Faierman,Yale University,0.040
-Eric Fitz-Randolph,SMU,0.038
-Josip Smoljan,Univ. of Incarnate Word,0.035
-Reid Delaubenfels,University of Portland,0.035
-Walner Espinoza,Florida A&M University,0.032
-Jack Desse,"Southern Illinois, Edwardsville",0.020
-Tom Hjertonsson,Northern Illinois University,0.015
-Brian Kowalski,Elon University,0.013
-Chris Seitz,Villanova University,0.008
-Scott Huang,College of William and Mary,0.006
-Wyatt Lovera,University of Denver,-0.005
-Ali Shabib,Cleveland State University,-0.007
-Quinn Dippel,Creighton University,-0.007
-Max Olson,U.S. Air Force Academy,-0.007
-Arthur Dobradin,Purdue University,-0.008
-Joaquin Marquez,Sacramento State,-0.009
-Colin Roller,East Carolina University,-0.009
-Michael Dube,Michigan State University,-0.010
-Luiz Pinto,UAB,-0.018
-Jack Haworth,Brown University,-0.019
-Luke Bohuslav,Loyola Marymount University,-0.020
-Frankie Colunga,Texas A&M University,-0.023
-Conner Huertas,East Tennessee State University,-0.029
-Juuso Laitinen,Lamar University,-0.035
-Kester Black,Northern Arizona University,-0.036
-Hank Workman,Boston College,-0.038
-Austin McCasin,U.S. Military Academy,-0.045
-David Doehring,Loyola Marymount University,-0.045
-Vasili Caripi,St. John's University,-0.048
-Patryk Koscielski,University of Detroit Mercy,-0.052
-Ernest Alberch,Gardner-Webb University,-0.055
-Bradley Orban,Fairfield University,-0.057
-Lucas Lesoeur,Cal Poly,-0.066
-John Patrick Mullane,Michigan State University,-0.068
-Walker Sims,U.S. Naval Academy,-0.076
-Fares Kilani,Samford University,-0.079
-Mark Ginting,Univ. of Texas at San Antonio,-0.079
-Zachary Yablon,Rice University,-0.080
-Danny Bruce,Presbyterian College,-0.083
-Andrew Ball,Harvard University,-0.083
-Jeremy Bourgeois,Brigham Young University,-0.087
-Jacob Lagman,Saint Mary's College of California,-0.090
-Harrison McCormick,U.S. Military Academy,-0.096
-Michiel Meekers,Radford University,-0.097
-Richard Meade,Florida Atlantic University,-0.101
-Joseph Cohen,Virginia Commonwealth University,-0.106
-Gonzalo Garcia,University of New Orleans,-0.111
-Stefan Rhodes,Furman University,-0.112
-Andrew Harrington,University of Miami (Florida),-0.119
-Philippe Courteau,Lipscomb University,-0.124
-Niclas Genovese,University of Miami (Florida),-0.125
-Jack Maddocks,Appalachian State University,-0.133
-Nicklas Wingord,Chattanooga,-0.133
-Akhil Mehta,University at Buffalo,-0.133
-Chas Okamoto,University of Hawaii,-0.136
-Jacob Whalley,Fairleigh Dickinson University,-0.141
-James Markiewicz,Saint Mary's College of California,-0.144
-Greg Olesnycky,Loyola College (Maryland),-0.151
-Brandon Jackson,Univ. of Maryland Eastern Shore,-0.151
-Joao Riquelme,Univ. of Texas at San Antonio,-0.154
-Michael Nguyen,U.S. Military Academy,-0.159
-Fedor Andrienko,Yale University,-0.164
-Eduardo Landin,Georgia Southern University,-0.164
-Martin Muadi,IPFW,-0.164
-Daniil Ivanov,St. Peter's University,-0.166
-Cahit Kapukiran,George Washington University,-0.168
-Jesse Ross,UC Davis,-0.170
-Brandon Fickey,University of Tennessee,-0.172
-Ian Van Cott,Tulane University,-0.175
-Tristan Boustany,Saint Joseph's University,-0.178
-Mirko Radosevic,Cleveland State University,-0.179
-Peter Nagovnak,Winthrop University,-0.182
-Nicolas Paulus,Temple University,-0.188
-Julio Olaya,SMU,-0.190
-Mile Cilic,University of Nevada,-0.193
-Andrew Riminton,UC Santa Barbara,-0.197
-Joseph Dube,Marist College,-0.198
-Renan Hanayama,Purdue University,-0.205
-Renan Samed,Coastal Carolina University,-0.205
-Kei Ezaka,Quinnipiac University,-0.207
-Nile Clark,University of Miami (Florida),-0.210
-Jamie Yates,"University of South Carolina, Upstate",-0.216
-Tarun Surat,University of Southern Mississippi,-0.221
-Damien David,University at Buffalo,-0.229
-Jan-Willem Feilzer,DePaul University,-0.230
-Tomsz Soltyka,Montana,-0.231
-Will Juggins,College of William and Mary,-0.239
-Kyle Childree,Boston College,-0.243
-Diego Nunez,East Tennessee State University,-0.246
-Tendai Tapfuma,East Carolina University,-0.250
-Alex Alvaro,Eastern Kentucky University,-0.256
-Chester Espie,Stetson University,-0.257
-Felix Schumann,Northern Arizona University,-0.257
-Diogo Soares,Eastern Kentucky University,-0.260
-Jack Thomas,Wofford,-0.263
-Federico Ruiz,St. John's University,-0.265
-Kevin Bondar,University of Miami (Florida),-0.271
-Leonard Gerch,Oklahoma State University,-0.272
-Juan Marino,University of Arkansas,-0.273
-Andrey Smirnov,UMKC,-0.274
-Christos Hadjigeorgiou,George Washington University,-0.275
-Jasper Koenen,Michigan State University,-0.277
-Jody Maginley,Northern Kentucky University,-0.288
-Coleman Wahlborg,University of Louisiana,-0.290
-Andy Druffel,Univ. of Dayton,-0.293
-Kasey Countee,East Carolina University,-0.295
-Jac Newis,IUPUI,-0.299
-Manuel de Luis,Mercer University,-0.303
-Ramon van Flymen,Eastern Kentucky University,-0.303
-Christian Carrillo,Univ. of Texas at San Antonio,-0.307
-Christofer Goncalves,New Mexico State University,-0.314
-Michael Savaglio,Valparaiso University,-0.321
-Alexander Gitin,Florida Atlantic University,-0.324
-Partha Adovelly,Nicholls State University,-0.325
-Steven Patrick,Winthrop University,-0.327
-Adi Zilberstein,Northern Arizona University,-0.327
-Mitchell Martell,UAB,-0.327
-Alfonso Castellano,Longwood University,-0.330
-Jacob Daugherty,Colgate University,-0.333
-Dylan Steffens,Illinois State University,-0.334
-Joshua Swindler,UNC Asheville,-0.339
-Silviu Mistreanu,Youngstown State University,-0.344
-Liam Goldberg,New Mexico State University,-0.367
-Daniel Khanin,Georgetown University,-0.371
-Mateo DeSomocurcio,Mount St. Mary's University,-0.371
-Andrew Gong,UC Irvine,-0.376
-Tucker Brown,Univ. of Incarnate Word,-0.379
-Ricardo Pineda,Wright State University,-0.379
-Meidy Chazeau,Grand Canyon University,-0.384
-Stjepan Cagalj,University of Louisville,-0.385
-Alejandro Gomez Estrada,Monmouth University,-0.387
-Inaki Belloso,Niagara University,-0.388
-Felipe Jaworski,Georgia State University,-0.394
-Thomas Hunt,Saint Mary's College of California,-0.404
-Viktor Selander,"University of South Carolina, Upstate",-0.413
-Austin Woldmoe,Butler University,-0.414
-Sam Meessen,Nicholls State University,-0.418
-Jim Beckwith,Western Michigan University,-0.421
-Alexander Lykou,Presbyterian College,-0.426
-Will Huyton,University of Louisiana,-0.431
-Mario Sandoval,Boston University,-0.432
-Alex Doleac,University of Southern Mississippi,-0.434
-Anderson Scarpa,Mercer University,-0.440
-Alexander Fahnehjelm,University of Miami (Florida),-0.442
-Jacob Wilson,Illinois State University,-0.445
-Matthew Krizinger,Virginia Commonwealth University,-0.446
-Will Kneale,University of Arizona,-0.447
-Louie Theodor,Univ. of Illinois at Chicago,-0.447
-MJ Every,St. John's University,-0.448
-Josh Luck,Elon University,-0.448
-Jack Williams,Charlotte,-0.452
-Gonzalo Arroyo-Baudet,Stetson University,-0.456
-Michal Rolski,Wagner College,-0.456
-David Raymond,Niagara University,-0.466
-Mike Psarros,UMKC,-0.468
-Kevin Daun,Northern Illinois University,-0.475
-Alex Bourgeois,Loyola Marymount University,-0.475
-Andres Urrea,Saint Joseph's University,-0.482
-Jerome Kirkland,North Carolina A&T State University,-0.483
-Artur Culicovschi,UNLV,-0.488
-Hector Martinez,St. Bonaventure University,-0.490
-Eric Spence,University of the Pacific (California),-0.495
-Francesc Terns-Campius,St. Francis College (New York),-0.498
-Harry James,Montana State University-Bozeman,-0.499
-Karl Wangensten-Oye,IPFW,-0.502
-Mitchell Petersen,Lehigh University,-0.503
-Jimmy Lange,George Mason University,-0.506
-Nika Dolidze,Penn State University,-0.506
-Sergiu Muresan,Chicago State University,-0.507
-Josh Maylon,Univ. of Dayton,-0.508
-Jose Calero,IUPUI,-0.509
-Juan Troglia,University of South Alabama,-0.513
-Alan Pleat,Colgate University,-0.513
-Bartosz Sawicki,University of Tennessee,-0.517
-Evan Karatzas,Nicholls State University,-0.522
-Corey Robinson,Duquesne University,-0.523
-Will Turner,Boston College,-0.525
-Aaron Farmer,Montana State University-Bozeman,-0.526
-David Ferragut,Saint Louis University,-0.526
-Jake Faundez,Samford University,-0.528
-Trey Daniel,TCU,-0.529
-Alec Miller,College of William and Mary,-0.530
-Bernardo Oliveira,University of the Pacific (California),-0.541
-Preston Touliatos,Eastern Illinois University,-0.548
-Graham Ball,Stetson University,-0.550
-Andrey Majkic,U.S. Naval Academy,-0.559
-Philip Nelson,Boston College,-0.561
-Jean-Marc Krone,Campbell University,-0.565
-Elliott Baker,Creighton University,-0.565
-Bjorn Scheepbouwer,Idaho State University,-0.567
-Alex Roggenkamp,Grand Canyon University,-0.569
-Ethan Lopez,Portland State University,-0.573
-Vlad Kramarov,University of Louisiana,-0.576
-Josh Kliger,Bryant University,-0.577
-Tanner Baine,George Mason University,-0.577
-Sean Bacha,Florida Atlantic University,-0.577
-Will Drumwright,University of Hartford,-0.578
-Ignacio Garrido,"University of South Carolina, Upstate",-0.579
-Mark Kite,U.S. Air Force Academy,-0.580
-David Ogan,Coppin State College,-0.585
-Sam Kellett,Jacksonville State University,-0.585
-Chris Reynolds,George Washington University,-0.589
-Jeffrey Melvin,Boston College,-0.589
-Courage Okungbowa,Florida A&M University,-0.589
-Andrew Parks,U.S. Air Force Academy,-0.598
-Toni Battle,Virginia Commonwealth University,-0.603
-Myles Harris,Wright State University,-0.606
-Strahinja Trecakov,New Mexico State University,-0.611
-Alexander Chepik,Bethune-Cookman University,-0.613
-Greg Almeida,Bethune-Cookman University,-0.615
-Alex Koca,Creighton University,-0.615
-Lucas Fumagalli,U.S. Air Force Academy,-0.618
-Woravin Kumthonkittikul,Monmouth University,-0.622
-Porter Myrick,North Carolina A&T State University,-0.622
-Ulrick Boyoguena,Prairie View A&M University,-0.623
-Sergio Chip,Gonzaga University,-0.625
-Philip Kuehnen,Grand Canyon University,-0.627
-R.J. Del Nunzio,St. John's University,-0.635
-Robin Demasse,Belmont University,-0.639
-Kyle Alper,Quinnipiac University,-0.644
-Colin Wong,University of Delaware,-0.645
-Stefan Farrar,Eastern Washington University,-0.645
-Jose Carranza,University of Wisconsin,-0.645
-Parker Lawley,South Dakota State,-0.650
-Peter Greteman,"Nebraska, Omaha",-0.657
-Christian Vieira,Monmouth University,-0.661
-Juan Calero,Saint Louis University,-0.665
-Robert Margitfalvi,University of Nevada,-0.667
-Korhan Ates,Gardner-Webb University,-0.668
-Nicolas Vincent,"Southern Illinois, Edwardsville",-0.673
-Justin Chanthalangsy,Marist College,-0.673
-Lukas Clemens,Nicholls State University,-0.676
-Marlon Brand,University of the Pacific (California),-0.686
-Yaroslav Prostakov,Gardner-Webb University,-0.687
-Will Kwok,Boston University,-0.699
-Canyon Teague,University of Richmond,-0.700
-Pedro Leme,Coastal Carolina University,-0.701
-Caison Best,U.S. Military Academy,-0.702
-Timo Tanzer,Marist College,-0.705
-William Albright,UNC Greensboro,-0.708
-Mikko Rajamaki,Lamar University,-0.715
-Karl Enander,Cal Poly,-0.722
-Nico De Groof,Georgia Southern University,-0.734
-Reece Acree,University of Central Florida,-0.734
-Andrea Boglic,South Dakota State,-0.737
-Jorge Alfonzo,Tennessee Tech University,-0.740
-John Giakoumakis,"University of South Carolina, Upstate",-0.740
-Joao Almeida,Bethune-Cookman University,-0.745
-Matt Lynch,Northern Illinois University,-0.746
-Joel Roberts,Presbyterian College,-0.749
-Collin Rigney,Ball State University,-0.755
-Jonas Kuwert,Quinnipiac University,-0.761
-Adrian Isache,Northern Kentucky University,-0.761
-Nicholas Carpenter,U.S. Air Force Academy,-0.761
-Khalil Naji,Wright State University,-0.762
-Jan Penhec,Oral Roberts University,-0.763
-Gabriel Chavas Araujo,Xavier University,-0.765
-Stephen Payne,Western Michigan University,-0.767
-James Ponwith,University of San Diego,-0.770
-Marek Marksoo,Sacramento State,-0.775
-Santiago Cevallos,San Diego State University,-0.778
-Tyler Hansen,Lehigh University,-0.779
-Brandon Woods,Butler University,-0.783
-Brett Moorhead,James Madison University,-0.805
-Aaron Capitel,George Mason University,-0.805
-Antonio Pajic,Norfolk State University,-0.807
-Andre Romanello,Marquette,-0.820
-Nikita Kostikov,Alcorn State University,-0.821
-Marcos Rocca,Virginia Commonwealth University,-0.822
-Drew Blair,St. Bonaventure University,-0.829
-Pablo Colvee,University of Texas at Arlington,-0.830
+Tucker Massie,U.S. Naval Academy,0.040
+Rui Silva,University of New Orleans,0.034
+Jan Dernic,Marist College,0.032
+Hunter Whalen,Coastal Carolina University,0.031
+Eric Fitz-Randolph,SMU,0.029
+Austin Russell,Northern Illinois University,0.027
+Brandon Harris,Saint Louis University,0.027
+Connor Curry,Texas Tech University,0.023
+David Schenk,South Carolina State,0.023
+Ross Nigro,East Carolina University,0.022
+Marthinus Visser,Campbell University,0.022
+Strahinja Trecakov,New Mexico State University,0.021
+Jack Riazzi,Davidson College,0.021
+Leonard Gerch,Oklahoma State University,0.015
+Ben Kelley,Presbyterian College,0.012
+Alex Pozo,"Southern Illinois, Carbondale",0.012
+Grey Hamilton,University of Mississippi,0.011
+Daniel Khanin,Georgetown University,0.010
+Jasper Koenen,Michigan State University,0.008
+Adrien Rossignon,Campbell University,0.008
+Vuk Subotic,Drexel University,0.005
+Vladimir Mijatovic,Gonzaga University,-0.001
+Caison Best,U.S. Military Academy,-0.005
+Luke Adamus,Monmouth University,-0.011
+Bernard Tefel,University of Miami (Florida),-0.016
+Jesse Ross,UC Davis,-0.021
+Cameron Tehrani,Marquette,-0.024
+Aidan Carrazedo,Brigham Young University,-0.028
+Peter Nagovnak,Winthrop University,-0.029
+Alexander Chepik,Bethune-Cookman University,-0.031
+Vasili Caripi,St. John's University,-0.034
+Jake Jacoby,University of Iowa,-0.034
+Kevin Gonzalez,Stetson University,-0.037
+Cristobal Ramos Salazar,University of Idaho,-0.040
+David Doehring,Loyola Marymount University,-0.041
+Chris Reynolds,George Washington University,-0.042
+Mackenzie Stearns,Marquette,-0.044
+Marco Lam,Georgetown University,-0.045
+Victor Cornea,Texas Tech University,-0.046
+Mathias Chaim,Jacksonville State University,-0.046
+Stuart DePaolo,North Carolina,-0.049
+Aaron Sandberg,Brown University,-0.050
+Walner Espinoza,Florida A&M University,-0.050
+Alex Toliver,IUPUI,-0.051
+Odon Barta,University of Idaho,-0.054
+Daniel Gray,"Univ. of Maryland, Baltimore County",-0.071
+Egon Samaai,Liberty University,-0.071
+Bernardo Oliveira,University of the Pacific (California),-0.081
+Joao Riquelme,Univ. of Texas at San Antonio,-0.085
+Alexandre Locci,Northern Arizona University,-0.094
+Andrew Gong,UC Irvine,-0.101
+TJ Desanto,St. Bonaventure University,-0.101
+Alex Roggenkamp,Grand Canyon University,-0.101
+Max Schnur,Columbia University,-0.104
+Roman Trkulja,Penn State University,-0.110
+Theophile Lanthiez,Old Dominion University,-0.111
+Michal Rolski,Wagner College,-0.111
+Chris Hobgarski,University of Nebraska,-0.114
+Arnaud Holl,NJIT,-0.115
+Oliver Dufour-Coursol,Niagara University,-0.125
+Jacob Whalley,Fairleigh Dickinson University,-0.125
+Victor Blasco,St. Francis College (New York),-0.127
+Brian Page,University of Illinois,-0.130
+Kyle Chalmers,Saint Joseph's University,-0.132
+Robert Dudley,Clemson University,-0.136
+Sem Verbeek,University of the Pacific (California),-0.143
+Cameron Smith,UNC Greensboro,-0.147
+Joseph Dube,Marist College,-0.149
+Willem van Biezen,Quinnipiac University,-0.150
+Bernard Wezeman,Nicholls State University,-0.153
+James Hignett,University of New Mexico,-0.154
+Vasudev Vijayaraman,Alcorn State University,-0.155
+Joseph Cohen,Virginia Commonwealth University,-0.158
+Sean Kolar,Sacramento State,-0.164
+Juan Matias Gonzalez,University of Tulsa,-0.164
+Max Fliegner,Dartmouth College,-0.165
+Sam Todd,Dartmouth College,-0.182
+Alexander Fahnehjelm,University of Miami (Florida),-0.188
+Matt Nardella,University of Pennsylvania,-0.189
+Jovan Parlic,University of Arkansas,-0.190
+Manuel Castellanos,Kennesaw State University,-0.191
+Vladyslav Yanchenko,South Carolina State,-0.192
+Meidy Chazeau,Grand Canyon University,-0.194
+Andrea Boglic,South Dakota State,-0.194
+Niko Vulinovich,Hofstra University,-0.195
+Stephen Washuta,"Southern Illinois, Edwardsville",-0.199
+Jack Maddocks,Appalachian State University,-0.199
+Pedro Leme,Coastal Carolina University,-0.200
+Chris Fletcher,George Washington University,-0.204
+Max Olson,U.S. Air Force Academy,-0.210
+Pablo Colvee,University of Texas at Arlington,-0.213
+James Markiewicz,Saint Mary's College of California,-0.213
+Mile Cilic,University of Nevada,-0.219
+Manuel de Luis,Mercer University,-0.220
+Jacob Wilson,Illinois State University,-0.220
+Matt Lynch,Northern Illinois University,-0.222
+Carlos Carrera,St. Peter's University,-0.230
+Robert Dubuque,Florida Atlantic University,-0.230
+Wyatt Lovera,University of Denver,-0.237
+Louie Theodor,Univ. of Illinois at Chicago,-0.241
+Artemie Amare,The Citadel,-0.243
+David Hager,Davidson College,-0.243
+Brandon Jackson,Univ. of Maryland Eastern Shore,-0.247
+Josh Maylon,Univ. of Dayton,-0.251
+Connor Finerty,Univ. of Northern Colorado,-0.251
+Ari Richman,Hofstra University,-0.251
+Daniel Alameh,University of the Pacific (California),-0.252
+Kai Wehnelt,University of Hawaii,-0.253
+Cameron Green,Furman University,-0.253
+Christopher Clayton,Sacramento State,-0.255
+Frankie Colunga,Texas A&M University,-0.260
+Landon Barlow,Weber State,-0.262
+Joshua Swindler,UNC Asheville,-0.269
+Jacob Lagman,Saint Mary's College of California,-0.271
+Federico Ruiz,St. John's University,-0.273
+Benjamin Kaszas,Gardner-Webb University,-0.274
+Alec Miller,College of William and Mary,-0.275
+Jamie Yates,"University of South Carolina, Upstate",-0.277
+Rodrigo Oliveira,Illinois State University,-0.279
+Jake Faundez,Samford University,-0.285
+Guillaume Rauseo,Texas A&M-Corpus Christi,-0.286
+Juan Sheppard,Furman University,-0.290
+Bartosz Sawicki,University of Tennessee,-0.291
+Evan Ward,Morgan State University,-0.296
+Tom Miller,Sacramento State,-0.298
+Jorge Ortiz-Garcia,Bryant University,-0.301
+Alex Drean,"Univ. of Maryland, Baltimore County",-0.302
+Yannick Schmidl,Montana,-0.305
+Oliver Snaider,Mercer University,-0.308
+Jim Beckwith,Western Michigan University,-0.316
+Courage Okungbowa,Florida A&M University,-0.319
+Will Huyton,University of Louisiana,-0.327
+Peter Minagh-Fleming,Montana,-0.328
+Yaroslav Prostakov,Gardner-Webb University,-0.329
+Nico De Groof,Georgia Southern University,-0.329
+Omar Espinosa,University of Toledo,-0.336
+Michael Elortegui,Niagara University,-0.341
+Elliot Johnstone,University of Texas-Pan American,-0.345
+Khalil Naji,Wright State University,-0.346
+Vidit Vaghela,Monmouth University,-0.347
+Pol Giraldez,Fordham University,-0.348
+Blake Daniel,U.S. Naval Academy,-0.350
+Jack Haworth,Brown University,-0.352
+Damien David,University at Buffalo,-0.352
+Isaac Lloveras,Univ. of Illinois at Chicago,-0.359
+Kevin Daun,Northern Illinois University,-0.360
+Jordan Gobatie,Northern Arizona University,-0.361
+Sam Bloom,Wake Forest University,-0.365
+Scott Elsass,University of Nebraska,-0.365
+Joel Roberts,Presbyterian College,-0.374
+Leonard Ivic,Univ. of Incarnate Word,-0.386
+Eric Frueh,University of Minnesota,-0.390
+Eduardo Lourido-Sanchez,Samford University,-0.396
+Manuel Montenegro,Austin Peay State University,-0.397
+Jacob Daugherty,Colgate University,-0.405
+Sean Bacha,Florida Atlantic University,-0.408
+August Waitman,Florida A&M University,-0.418
+Greg Olesnycky,Loyola College (Maryland),-0.418
+Javier Restrepo,UNC Wilmington,-0.420
+Jerome Kirkland,North Carolina A&T State University,-0.429
+Walker Sims,U.S. Naval Academy,-0.437
+John Patrick Mullane,Michigan State University,-0.447
+Kyle Johnson,DePaul University,-0.448
+Jody Maginley,Northern Kentucky University,-0.452
+Lukas Shaefer,Campbell University,-0.462
+Karlyn Small,Florida A&M University,-0.464
+Viktor Selander,"University of South Carolina, Upstate",-0.469
+Steven Patrick,Winthrop University,-0.483
+Jesse Flores,University of Central Florida,-0.485
+Dima Zyhmantovich,Middle Tennessee State University,-0.487
+Carlos Waitman,Florida A&M University,-0.489
+Brendan Dempsey,Gardner-Webb University,-0.490
+Marko DeSomocurcio,Mount St. Mary's University,-0.490
+Pierre Brondeau,Saint Joseph's University,-0.503
+David Sklar,Wofford,-0.512
+Stefan Lugonjic,Indiana University-Bloomington,-0.515
+Chris Humphreys,Elon University,-0.517
+Matt Alderson,Seattle University,-0.524
+David Raymond,Niagara University,-0.530
+Thomas Mayronne,University of South Carolina,-0.532
+Alex Doleac,University of Southern Mississippi,-0.537
+Aaron Capitel,George Mason University,-0.542
+Partha Adovelly,Nicholls State University,-0.543
+Nicholas Sharwarko,University of Hartford,-0.545
+Garrett Gordon,College of Charleston,-0.546
+Thomas Panoulas,UNC Asheville,-0.547
+Michael Dube,Michigan State University,-0.550
+Jack Thomas,Wofford,-0.559
+Dylan Harvala,Montana State University-Bozeman,-0.562
+Alexander Lykou,Presbyterian College,-0.566
+Andy Lau,Troy University,-0.571
+Niklas Brandes,Montana State University-Bozeman,-0.578
+Grant Thompson,Eastern Illinois University,-0.579
+Timo Tanzer,Marist College,-0.579
+Nathan de Veer,DePaul University,-0.584
+Matt Sweet,Utah State University,-0.585
+Lars De Boer,College of William and Mary,-0.585
+Eduardo Landin,Georgia Southern University,-0.586
+Alex Woldmoe,Butler University,-0.590
+Philip Kuehnen,Grand Canyon University,-0.595
+Will Topp,Seattle University,-0.596
+Aidan Talcott,University of Denver,-0.604
+Andre Baldo,Troy University,-0.606
+Rolando Torrellas,Illinois State University,-0.609
+Alex Pasareanu,Northwestern University,-0.612
+Alan Pleat,Colgate University,-0.617
+Antonio Pajic,Norfolk State University,-0.622
+David Vieyra,DePaul University,-0.628
+Ciaran Fitzgerald,University of San Diego,-0.631
+Thomas Hulme,IUPUI,-0.631
+Alexander Santiago,Univ. of San Francisco,-0.633
+Aidan Koross,Univ. of Dayton,-0.634
+Hou-en Chen,Weber State,-0.635
+Anderson Scarpa,Mercer University,-0.638
+Tendai Tapfuma,East Carolina University,-0.642
+Robin Demasse,Belmont University,-0.649
+Petar Tomic,Auburn University,-0.649
+Georg Lundkvist,Northern Illinois University,-0.651
+No Player,Rider University,-0.652
+Hamza Laalej,Drexel University,-0.656
+Rodolfo Jauregui,University of New Mexico,-0.657
+Janken Thoen,Radford University,-0.663
+Drew Blair,St. Bonaventure University,-0.667
+Toni Battle,Virginia Commonwealth University,-0.668
+Ethan Bogard,Lehigh University,-0.673
+Martin Muadi,IPFW,-0.676
+Ashwin Sharma,University of the Pacific (California),-0.679
+Takura Mlambo,Alabama State University,-0.682
+Christian Vieira,Monmouth University,-0.682
+Ricardo Pineda,Wright State University,-0.684
+Riley Newman,Seattle University,-0.693
+Alex Hahn,University of Richmond,-0.695
+Jocelyn Devilliers,Wichita State University,-0.699
+Parker Lawley,South Dakota State,-0.716
+Alexander Gitin,Florida Atlantic University,-0.720
+Greg Almeida,Bethune-Cookman University,-0.728
+Youssef Sherif,Youngstown State University,-0.730
+Josip Smoljan,Univ. of Incarnate Word,-0.730
+Reid Delaubenfels,University of Portland,-0.744
+Jess Jones,University of Tennessee,-0.746
+Alex Alvaro,Eastern Kentucky University,-0.751
+Thomas Pecor,U.S. Naval Academy,-0.752
+Matt Bishop,Xavier University,-0.752
+Zvonimir Babic,University of Mississippi,-0.755
+Alon Faiman,College of Charleston,-0.757
+Sergiu Muresan,Chicago State University,-0.757
+Trevor Gotkowski,Wofford,-0.761
+Trey Daniel,TCU,-0.762
+Johan den Toom,University of Arkansas,-0.771
+Mitchell Martell,UAB,-0.780
+Tarun Surat,University of Southern Mississippi,-0.783
+Bradford Zitsch,University of Nebraska,-0.793
+Peter Greteman,"Nebraska, Omaha",-0.794
+Franz Sydow,College of Charleston,-0.795
+Ofir Solomon,Fairfield University,-0.798
+Jack Petersen,Lehigh University,-0.806
+Maurizio Feoli,Univ. of Illinois at Chicago,-0.806
+Will Drumwright,University of Hartford,-0.809
+Harrison Lang,Creighton University,-0.827
+Alec Dylan Foo-Kune,St. Francis Univ. (Pennsylvania),-0.828
 Ernesto Santillan,Alcorn State University,-0.830
-Wil Martin,Saint Mary's College of California,-0.837
-Stefan Williams,University of Texas at Arlington,-0.847
-Taylor Cramer,UNC Wilmington,-0.848
-Nick Bradley,The Citadel,-0.853
-Lukas Luckemeier,Presbyterian College,-0.855
-Daniel Echeverry,University of Texas at Arlington,-0.857
-Jan-Willem Kleynhans,Appalachian State University,-0.857
-Kevin Gonzalez,Stetson University,-0.858
-Jonathan O'Neal,Campbell University,-0.858
-Jonas Stropus,Eastern Kentucky University,-0.859
-Alex Hagermoser,Yale University,-0.861
-Alejandro Capdequi,Oral Roberts University,-0.865
-Daniel Hernandez,Lipscomb University,-0.868
-Janken Thoen,Radford University,-0.870
-Alexander Santiago,Univ. of San Francisco,-0.870
-Carl Jedlinski,NJIT,-0.871
-Connor Pietrak,Loyola College (Maryland),-0.872
-Sergio Arevalillo,University at Buffalo,-0.880
-Alex Pozo,"Southern Illinois, Carbondale",-0.881
-Ofir Solomon,Fairfield University,-0.882
-Steve Murray,Rider University,-0.883
-Gagan Jain,Tennessee Tech University,-0.885
-Gaston Murray,UNC Greensboro,-0.885
-Dutin Britton,Univ. of North Dakota,-0.894
-Louis Asser,University of Memphis,-0.895
-Mathias Chaim,Jacksonville State University,-0.899
-Hou-en Chen,Weber State,-0.899
-Luke Adamus,Monmouth University,-0.900
-Parks Schoen,Wofford,-0.901
-Benjamin Gilman,Lehigh University,-0.904
-Simon Jayaram,Univ. of Dayton,-0.905
-Blake Daniel,U.S. Naval Academy,-0.905
-Adam Gage-Brown,UNLV,-0.906
-Zachary Bost,Appalachian State University,-0.907
-Brian Nguyen,Seattle University,-0.913
-Urh Krajnc Domiter,Illinois State University,-0.913
-Jorge Gonzalez Soler,"Univ. of Wisconsin, Green Bay",-0.914
-Thomas Pecor,U.S. Naval Academy,-0.917
-Conner Edwards,UMKC,-0.917
-Ben Gendron,Univ. of Northern Colorado,-0.918
-Brent Chin,University of Oregon,-0.930
-Alvaro Cintas,Tennessee Tech University,-0.934
-Gleb Skylr,Marquette,-0.937
-Nic Wilson,Chattanooga,-0.937
-Trevor James,University of Arizona,-0.941
-Treajh Ferguson,Morgan State University,-0.941
-Andrew Ong,Duquesne University,-0.941
-Jose Moreno Manzano,Radford University,-0.942
-Drew Wendel,Kennesaw State University,-0.948
-Matt Bishop,Xavier University,-0.949
-Semion Branzburg,Montana,-0.952
-Manuel Montenegro,Austin Peay State University,-0.952
-Luke Saunders,Chattanooga,-0.956
-Aidan Saggers,"Southern Illinois, Carbondale",-0.960
-Alon Faiman,College of Charleston,-0.965
-Damien Brenard,East Carolina University,-0.967
-Tom Wittiveen,Montana,-0.968
-Fredric Lehfeldt,East Carolina University,-0.969
-Arnaud Valentin,Fairleigh Dickinson University,-0.979
-Edgar Diaz,South Carolina State,-0.981
-Elmar Lutz,Holy Cross,-0.985
-Joel Jones,Florida A&M University,-0.986
-Giacomo Adoncecchi,University of New Orleans,-0.987
-Uldis Gaismins,UMKC,-0.995
-Nate Chart,Portland State University,-0.998
-Ricardo Pabon,East Tennessee State University,-0.998
-Dimitris Stavropoulos,University of Louisiana,-1.002
-Alec Dylan Foo-Kune,St. Francis Univ. (Pennsylvania),-1.003
-Alex Pasareanu,Northwestern University,-1.007
-Cyprian Owczarz,Troy University,-1.008
-Hawkins Owens,Howard University,-1.013
-Santiago Canete,Temple University,-1.016
-Sean Robles,UC Riverside,-1.016
-Jordan Szabo,Texas A&M University,-1.022
-Chris Humphreys,Elon University,-1.023
-Quoc-Daniel Nguyen,Cornell University,-1.031
-Colin Nardella,Lehigh University,-1.036
-Connor LaFavre,Xavier University,-1.041
-Michael Sosnowski,Oral Roberts University,-1.045
-Santiago Sierra,University of Utah,-1.047
-Daniel Cardenas,IPFW,-1.048
-Garrett Mandrell,Morehead State University,-1.052
-Warren Bryan,UNC Greensboro,-1.052
-Marshall Sharp,University of Pennsylvania,-1.056
-Steven McMullan,Lamar University,-1.064
-Tomas Hons,Northern Arizona University,-1.066
-Matthew Campana,Saint Mary's College of California,-1.078
-Adam Levi,Rider University,-1.079
-Tyler Pate,University of Central Florida,-1.088
-Marcel Chan,University of Hawaii,-1.089
-Stephen Washuta,"Southern Illinois, Edwardsville",-1.097
-Shao-Po Yin,Weber State,-1.100
-Marco Bensley,Abilene Christian University,-1.106
-Ethan Bogard,Lehigh University,-1.107
-Zach Fryer,University of Denver,-1.109
-Samuel Bloore,Saint Mary's College of California,-1.116
-Oliver Welsh,Bryant University,-1.123
-Alekander Stupar,South Carolina State,-1.126
-Eldred Stephens,North Carolina A&T State University,-1.126
-Marco Lam,Georgetown University,-1.136
-Aaron Chalstrom,Creighton University,-1.136
-Aidan Koross,Univ. of Dayton,-1.138
-Carl Hedstrom,Univ. of Illinois at Chicago,-1.141
-Jakob Keppelmann,Fresno State,-1.142
-Henrique Pereira,South Dakota State,-1.144
-Josh Martin,U.S. Naval Academy,-1.145
-Kellen Bates,Montana State University-Bozeman,-1.155
-Ayman Abdulwahab,Sacramento State,-1.156
-Trey Morris,Appalachian State University,-1.156
-Mitch Maroscher,Grand Canyon University,-1.171
-Adam Zaorski,Loyola Marymount University,-1.171
-Connor Andrews,IPFW,-1.173
-Parker Goldstein,University of Connecticut,-1.176
-Kevin Deligny,Bethune-Cookman University,-1.180
-Luke Roser,Quinnipiac University,-1.182
-Marthinus Visser,Campbell University,-1.182
-Riley Newman,Seattle University,-1.183
-Dylan Harvala,Montana State University-Bozeman,-1.189
-Biyik Akinshemoyin,"Univ. of Maryland, Baltimore County",-1.193
-Brandon Mills,Presbyterian College,-1.194
-Max Sinn,Nicholls State University,-1.197
-Daniel Strawn,Clemson University,-1.198
-Shane Korber,Georgetown University,-1.201
-Ruben Franzanti,Winthrop University,-1.201
-Juanjo de la Llera,Eastern Kentucky University,-1.206
-David Vieyra,DePaul University,-1.209
-Tyler Hoffman,Stony Brook University,-1.212
-Richard Rangga,NJIT,-1.216
-Samuel Taylor,Radford University,-1.216
-Ryan Foster,Fairleigh Dickinson University,-1.221
-Stanislav Baco,South Carolina State,-1.225
-Ransom Braaten,"Southern Illinois, Carbondale",-1.226
-Tucker Massie,U.S. Naval Academy,-1.228
-Alex Hahn,University of Richmond,-1.229
-Florian Graskamp,Eastern Kentucky University,-1.234
-Oliver Snaider,Mercer University,-1.240
-Jake Hirschberg,Colgate University,-1.241
-Nico Kuehn,"Southern Illinois, Edwardsville",-1.242
-Stepan Vancurik,UAB,-1.243
-Alexander Kokorev,University of Wisconsin,-1.245
-Ozzy Abraham,UNLV,-1.259
-Conor Mullins,Boston College,-1.263
-Connor Finerty,Univ. of Northern Colorado,-1.263
-Dan Koehler,Drexel University,-1.265
-Kacper Stelmaszak,University of Detroit Mercy,-1.266
-Ricky Hendler,Hofstra University,-1.274
-Oliver Dufour-Coursol,Niagara University,-1.275
-Ryan Khan,Wagner College,-1.283
-Victor Blasco,St. Francis College (New York),-1.286
-David Beasley,IUPUI,-1.286
-Christian Kerrigan,Georgia Southern University,-1.296
-Alvaro Barrera,Bethune-Cookman University,-1.298
-Tom Miller,Sacramento State,-1.305
-Alex Giannini,University of the Pacific (California),-1.307
-Sebastian Penalosa,Morehead State University,-1.307
-Kelvin Lam,Harvard University,-1.308
-Gavin Lewis,Coppin State College,-1.313
-A. Rahman,Univ. of Arkansas Pine Bluff,-1.314
-Chris Essick,Indiana University-Bloomington,-1.315
-Oleg Drobysh,Austin Peay State University,-1.316
-Brett Landau,UNC Asheville,-1.317
-Justin Agbayani,UC Irvine,-1.318
-Cody Miller,Idaho State University,-1.320
-Alex Pavel,Lipscomb University,-1.329
-Nick Lamart,Bryant University,-1.329
-Michael Moe,Xavier University,-1.336
-Mitchel Knight,Univ. of Northern Colorado,-1.338
-Daniel Gilbert,Wright State University,-1.345
-Sabastian Penalosa,Morehead State University,-1.350
-Eric Ambrosio,Quinnipiac University,-1.363
-Felix Andre,Morgan State University,-1.373
-Jonathan Quenard,University of Richmond,-1.375
-Felipe Diaz,Jacksonville State University,-1.376
-Alex Fioravante,Drexel University,-1.381
-Aidan McNulty,Boston College,-1.382
-Ryan Kum,Univ. of Maryland Eastern Shore,-1.382
-Lucas Waak,Valparaiso University,-1.384
-Omar Espinosa,University of Toledo,-1.387
-Marten Jonsson,"Southern Illinois, Edwardsville",-1.390
-Blest Jones,Loyola College (Maryland),-1.390
-Pulok Bhattacharya,Butler University,-1.393
-Elliott Yee,Indiana University-Bloomington,-1.401
-Colton Buffington,Cleveland State University,-1.406
-Jan Cimrman,NJIT,-1.406
-Pablo Mora,Western Michigan University,-1.410
-Joe Lee,Univ. of North Dakota,-1.411
-Jesse Ruder-Hook,University of Denver,-1.411
-Manuel Castellanos,Kennesaw State University,-1.414
-Victor Pereira,Youngstown State University,-1.415
-Chance Conley,University of Detroit Mercy,-1.416
-Vineet Naran,Temple University,-1.420
-Takura Mlambo,Alabama State University,-1.420
-Matteo Giudici,Marist College,-1.423
-Eden Peleg,Northern Arizona University,-1.426
-Diego Garavito,Bethune-Cookman University,-1.426
-K. Davis,Alabama A&M University,-1.436
-Christoph Haertel,Western Illinois University,-1.449
-Nick Mercer,Morehead State University,-1.454
-Joe Hill,George Mason University,-1.454
-Kula Companion,University of Hawaii,-1.461
-Lovro Curcija,South Dakota State,-1.464
-Jack Petersen,Lehigh University,-1.466
-Nicholas Gonzalez,Univ. of Arkansas Pine Bluff,-1.470
-Will Topp,Seattle University,-1.472
-Ryan Hoverson,Univ. of Incarnate Word,-1.472
-Matt Bennion,"University of South Carolina, Upstate",-1.477
-Dylan Trent,University of Richmond,-1.481
-Andrew Connolly,Wright State University,-1.484
-Mac Rechan,Georgetown University,-1.485
-Adam Coyne,Alabama State University,-1.499
-Dillon Launius,U.S. Air Force Academy,-1.504
-Tristan Houle,"Southern Illinois, Edwardsville",-1.510
-Joseph Bishop,Georgia State University,-1.515
-Kijontray McClay,Univ. of Maryland Eastern Shore,-1.515
-Daniel Merker,University of Southern Mississippi,-1.524
-Stefan Lemire,Boston University,-1.527
-Luke Lorenz,Bryant University,-1.531
-Artem Tarasov,Tennessee Tech University,-1.532
-Jaryd Reese,Jacksonville State University,-1.533
-Petar Tomic,Auburn University,-1.536
-Ziad Sultan,UC Santa Barbara,-1.547
-Gino Delavalle,Chattanooga,-1.555
-Dawoud Kabli,Youngstown State University,-1.556
-Arjun Watane,University of Central Florida,-1.560
-Carlos do Val,IPFW,-1.563
-Andrew Cahn,Western Michigan University,-1.565
-Felipe Wenzel,Jacksonville State University,-1.576
-TJ De Santo,St. Bonaventure University,-1.582
-Alex Woldmoe,Butler University,-1.585
-Thomas Gans,IUPUI,-1.585
-John Tougher,Lipscomb University,-1.591
-Peter Dewitt,Saint Joseph's University,-1.593
-Tyler Edin,Morehead State University,-1.593
-Jake De Vries,Boston University,-1.594
-Badr Ouabdelmoumen,Drexel University,-1.594
-Zach Lessen,University of Pennsylvania,-1.597
-Ian Clare,Seattle University,-1.597
-Michael Elortegui,Niagara University,-1.601
-Michael Sienko,U.S. Military Academy,-1.604
-Akshay Verma,IUPUI,-1.610
-Santiago Salazar,University of Louisville,-1.611
-Sanjay Goswamy,Weber State,-1.612
-Caio Niel,Belmont University,-1.614
-T.J. Morgan,Lafayette College,-1.630
-Nate Shanok,Charlotte,-1.638
-Bernardo Sanson,Univ. of Dayton,-1.639
-Trevor Gotkowski,Wofford,-1.642
-Daniel Gray,"Univ. of Maryland, Baltimore County",-1.646
-Ricky Saad,Davidson College,-1.648
-Kasparas Zemaitelis,Sacramento State,-1.652
-Tony Russell,SMU,-1.654
-Mario Noboa,Chicago State University,-1.655
-Cory Seltman,Sacred Heart University,-1.656
-Thomas Caputo,Binghamton University,-1.656
-Gabe Pansera,Jacksonville State University,-1.662
-Darius Mackenzie,University of Wisconsin,-1.677
-Joey Vatanadilok,Univ. of Incarnate Word,-1.683
-Ismael Lahlou,University of Pennsylvania,-1.692
-Roberto Meza,University of Toledo,-1.694
-Diego Castano,Liberty University,-1.699
-Anthony Tsodikov,Stanford University,-1.701
-Ben Wood,Drake University,-1.709
-Nick Lang,Northern Kentucky University,-1.711
-Adam Blasinsky,Duquesne University,-1.711
-Jason Proctor,Abilene Christian University,-1.713
-Maxi Branth,James Madison University,-1.721
-Patrik Cvik,Alabama State University,-1.731
-Ryan Templet,The Citadel,-1.742
-Rajanvir Dharni,"University of South Carolina, Upstate",-1.744
-Christian Brockstedt,Univ. of San Francisco,-1.744
-Pol Giraldez,Fordham University,-1.747
-Adam Chan,Fairleigh Dickinson University,-1.747
-Ryan Swanier,Jackson State University,-1.751
-Thomas Hulme,IUPUI,-1.754
-Jorge Wilton,Kennesaw State University,-1.760
-Pierre Brondeau,Saint Joseph's University,-1.762
-Kenzo Kauffmann,Stony Brook University,-1.767
-Pat O'Neill,IUPUI,-1.771
-James Aronson,University of Richmond,-1.772
-Lucas Bombonatti,Boston University,-1.785
-Gilbert Rotich,Bethune-Cookman University,-1.788
-Ming Lao,Holy Cross,-1.792
-Alex Tropiano,Georgetown University,-1.795
-Mischa Koran,Fordham University,-1.810
-Max Phipps,"Southern Illinois, Carbondale",-1.814
-Sean Donohue,University of Alabama,-1.820
-Patrick Gaffigan,"Southern Illinois, Edwardsville",-1.823
-Simon Cote,Wright State University,-1.829
-Luis Albuquerque,University of New Orleans,-1.833
-Parks Thompson,Wofford,-1.835
-Henry Adams,Abilene Christian University,-1.839
-Elliot Johnstone,University of Texas-Pan American,-1.840
-Charlie Parry,Saint Louis University,-1.843
-Grant Thompson,Eastern Illinois University,-1.847
-Joshua Baily,North Carolina A&T State University,-1.848
-Paul Cook,Texas A&M-Corpus Christi,-1.854
-Caleb Troy,University of Richmond,-1.858
-Alberto Tintoré,Eastern Kentucky University,-1.866
-August Waitman,Florida A&M University,-1.871
-Christian Gonzalez,Chicago State University,-1.875
-Mitch Granger,Univ. of Illinois at Chicago,-1.877
-Nicholas Mitric,Murray State University,-1.878
-Alec Wagner,Saint Mary's College of California,-1.881
-Sergio Avella,Prairie View A&M University,-1.883
-Enrique Samudio,Morehead State University,-1.885
-Matthew Dean,Sacred Heart University,-1.885
-Louis-Philippe Gascon,University of Utah,-1.887
-David Bergstrom,Univ. of North Dakota,-1.891
-Peter Molloy,"Southern Illinois, Carbondale",-1.892
-David Durham,Kennesaw State University,-1.894
-Yehia El Sallaly,Saint Louis University,-1.895
-Szymon Opieczonek,"Southern Illinois, Carbondale",-1.898
-Vicente Varas,Gonzaga University,-1.899
-Drew Dawson,University of Notre Dame,-1.901
-Billy Weldon,Butler University,-1.914
-Richard Sipala,Bryant University,-1.918
-Mateus Moreira,South Dakota State,-1.920
-Evan Watkins,Davidson College,-1.920
-Jordan Kuchta,Loyola College (Maryland),-1.936
-Plamen Avuski,St. Francis Univ. (Pennsylvania),-1.942
-Tommy Marx,Butler University,-1.944
-Gus Orlando,Seattle University,-1.945
-Matt Helm,Ball State University,-1.956
-Mason Keel,Lafayette College,-1.964
-Xabier Saavedra,Drexel University,-1.965
-Joakim Pinola,University of Hawaii,-1.971
-Luke Ness,Eastern Washington University,-1.971
-Rodrigo Tico,St. Francis Univ. (Pennsylvania),-1.973
-Ty Misialek,Univ. of North Dakota,-1.976
-Mackenzie Stearns,Marquette,-1.977
-John Schubel,UNC Asheville,-1.977
-Ian Glessing,Temple University,-1.985
-Ryan Henderson,Eastern Illinois University,-1.990
-Connor Oberle,Univ. of North Dakota,-1.995
-Kevin Wong,University of Michigan,-2.003
-Marko Minic,"Nebraska, Omaha",-2.005
-Jake Lazer,Lafayette College,-2.010
-Carlos Waitman,Florida A&M University,-2.015
-Nils Hallestrand,University of Iowa,-2.017
-Walker Hefferon,Wofford,-2.017
-Eric Schuemans,Univ. of Northern Colorado,-2.018
-Trey Crysel,Lamar University,-2.019
-Patrick Downs,Ball State University,-2.021
-Adam Levie,UC Davis,-2.025
-Jordan Hart,Davidson College,-2.026
-Eduardo Bringold,Eastern Washington University,-2.034
-Chris Matturri,Lafayette College,-2.037
-Matt Alderson,Seattle University,-2.040
-Nicholas Sharwarko,University of Hartford,-2.044
-Milos Vukicevic,St. Francis College (New York),-2.046
-Adam Schmidt,Gardner-Webb University,-2.049
-Max Kane,Bucknell University,-2.069
-James Jackson,Prairie View A&M University,-2.071
-Neal Port,Elon University,-2.071
-Daniel Grauel,Norfolk State University,-2.071
-Phillip Raikovic,Univ. of Incarnate Word,-2.077
-Rares Ispas,Niagara University,-2.077
-Joshua Rubinstein,Bryant University,-2.081
-Guilherme Gesser,Abilene Christian University,-2.087
-Kelly Donaldson,Villanova University,-2.102
-Timo Kranz,University of New Orleans,-2.104
-Miljan Ruzic,James Madison University,-2.111
-Francisco Del Valle,Sacred Heart University,-2.116
-Marcus Vizcarra,UC Riverside,-2.121
-Colin Buckley,"Nebraska, Omaha",-2.128
-Jack McCullers,U.S. Air Force Academy,-2.128
-Jackson Varney,University of Idaho,-2.132
-Aaron Madaris,Wright State University,-2.144
-Hans Baumstark,UC Riverside,-2.153
-Matt Wagner,Boston College,-2.160
-Andrew Graham,Wofford,-2.167
-Niko Vulinovich,Hofstra University,-2.172
-Jett Cash,Texas A&M University,-2.175
-Matthew Hutchinson,"Southern Illinois, Edwardsville",-2.188
-Shane Jeffray,University of Delaware,-2.193
-Matt Phelps,Villanova University,-2.197
-Paul Denele,New Mexico State University,-2.205
-Eli Cerdan,St. Francis Univ. (Pennsylvania),-2.206
-Ben Gerber,Bucknell University,-2.206
-Iago Seffrin,Austin Peay State University,-2.208
-James Mitchell,Austin Peay State University,-2.212
-Adam Salam,Mount St. Mary's University,-2.212
-Alex Woldmoe,Butler University,-2.213
-Greg Olesnycky,Loyola College (Maryland),-2.215
-Nolan Marks,Cleveland State University,-2.223
-Jan Jirus,Ball State University,-2.244
-Krishna Jana,U.S. Naval Academy,-2.247
-Matt Dunn,University of Arizona,-2.247
-Nikola Crvelin,University of Texas-Pan American,-2.254
-Balint Zsidai,Northern Kentucky University,-2.254
-Marcus Nalley,IUPUI,-2.255
-Lorenz Schwab,Campbell University,-2.258
-Tim Abbraciamento,Villanova University,-2.260
-Peter Bleach,The Citadel,-2.266
-Rui Silva,University of New Orleans,-2.278
-Ross Nigro,East Carolina University,-2.284
-Stephen Goldman,James Madison University,-2.288
-Chris Jimenez,St. Francis Univ. (Pennsylvania),-2.291
-Y. Dingles,Alabama A&M University,-2.294
-Luke Thompson,Eastern Washington University,-2.296
-Gonzalo Quintana,Fairleigh Dickinson University,-2.298
-Alex Howard,Davidson College,-2.301
-Ronald Mataba,Alabama State University,-2.304
-Tyler Burnett,U.S. Naval Academy,-2.308
-Rok Sitar,University of Louisiana,-2.315
-Rhys Richardson,University of Idaho,-2.318
-N/A Albuerquerque,University of New Orleans,-2.318
-Morgan White,University of Hartford,-2.324
-Reid Burch,Loyola College (Maryland),-2.327
-Maurizio Feoli,Univ. of Illinois at Chicago,-2.329
-Justin Burrus,Villanova University,-2.335
-Youssef Sherif,Youngstown State University,-2.337
-Carlos Martinez,Jackson State University,-2.343
-Nacor Ibanez,Portland State University,-2.346
-Jordan Loughnan,Univ. of Northern Colorado,-2.347
-Thais Minet,Lipscomb University,-2.349
-Luis Gastao,UC Riverside,-2.361
-Jacob Rother,Univ. of Texas at San Antonio,-2.365
-William Szamosszegi,Bucknell University,-2.367
-Paul Domanski,Abilene Christian University,-2.368
-Willem van Biezen,Quinnipiac University,-2.374
-Iago Seffrin,Austin Peay State University,-2.385
-Oliver Poysti,UAB,-2.389
-Ethan Ammon,University of Texas-Pan American,-2.392
-Tyler Tossavainen,U.S. Naval Academy,-2.395
-Bruno Russo,Belmont University,-2.398
-Jacob Spreyer,University of Connecticut,-2.408
-David Bush,Liberty University,-2.411
-Emilio Teran,Boston University,-2.414
-Bradley Noyes,Villanova University,-2.414
-Jose Zurro,Morehead State University,-2.417
-Robert Jenkins,Appalachian State University,-2.418
-Jack Carney,Northern Kentucky University,-2.421
-Daniel Bernal,Tennessee State University,-2.441
-No Player,Univ. of Arkansas Pine Bluff,-2.445
-Charlton Boyd,Wagner College,-2.452
-Hari Rohan,Stony Brook University,-2.453
-Valentin Horvat,Georgia State University,-2.457
-Henrik Munch,Rice University,-2.460
-Win Reynolds,Colgate University,-2.471
-Kevin Gates,Saint Joseph's University,-2.479
-Luke Synn,Furman University,-2.492
-Will True,Murray State University,-2.493
-Nicholai Westergaard,University of Pennsylvania,-2.494
-Andre Baldo,Troy University,-2.507
-Victor Blanco,St. Bonaventure University,-2.509
-William Goldberg,UNC Asheville,-2.521
-Daniel Populus,University of New Orleans,-2.524
-Frenk Kote,Binghamton University,-2.525
-Jonathan Edwards,University of Connecticut,-2.534
-Jamey Swiggart,University of Utah,-2.536
-Karim Arem,Cornell University,-2.541
-Luka Kaic,NJIT,-2.544
-Kyle Hairston,North Carolina Central University,-2.544
-Bassem El Makawi,Youngstown State University,-2.552
-Todd Volmari,Loyola Marymount University,-2.552
-Brody Rodriguez,Univ. of Incarnate Word,-2.573
-Mathieu Pilote-Schraenen,Sacred Heart University,-2.574
-Ruben Vanoppen,Mercer University,-2.574
-Jack Haffey,Florida State University,-2.576
-Peter Collins,Siena College,-2.580
-Kauai Linardi,Lipscomb University,-2.581
-Justin Pagan,Sacred Heart University,-2.582
-Felix Ewers,"University of South Carolina, Upstate",-2.592
-Doug Notaris,Binghamton University,-2.598
-Michael Rosengren,Villanova University,-2.602
-Max Vogt,Bryant University,-2.616
-Fredrik Bjerke,Marist College,-2.620
-Jordan Portner,Georgetown University,-2.621
-Octavio Canibe,Bucknell University,-2.621
-Danny Moyer,Boise State University,-2.626
-Charles Baron,New Mexico State University,-2.629
-Rob Buetti,Holy Cross,-2.630
-Fabian Woehrl,University of Hawaii,-2.646
-Mike Standifer,Santa Clara University,-2.646
-Christoffer Appelgren,University of New Orleans,-2.664
-Braxton Bates,Oral Roberts University,-2.670
-Nikola Pavlovic,Western Illinois University,-2.676
-James Chung,St. Francis College (New York),-2.678
-Max Renke,DePaul University,-2.684
-Marc Adams,St. Francis College (New York),-2.690
-John Stormans,Seattle University,-2.693
-Ismail Kadyrov,University of Detroit Mercy,-2.693
-Rui Silva,Eastern Illinois University,-2.693
-Trevor Haskell,St. Bonaventure University,-2.698
-David Hess,Murray State University,-2.706
-Pablo Lopez,Bethune-Cookman University,-2.712
-Cassell King,Univ. of Northern Colorado,-2.712
-Jack Murphy,Georgetown University,-2.714
-Jalen Evans,Florida A&M University,-2.726
-Ciaran Lavers,Oral Roberts University,-2.728
-Aidan Talcott,University of Denver,-2.728
-Eric Sumanaru,Siena College,-2.733
-Jonny Higham,South Dakota State,-2.740
-Grant Maddox,Tennessee State University,-2.747
-Chris Toner,University of Connecticut,-2.749
-Hicham Belkssir,Temple University,-2.760
-Logan Walker,UNC Greensboro,-2.766
-Alberto Sanz-Fernandez,University of Idaho,-2.766
-No Player,Norfolk State University,-2.772
-Brett Cabon,North Carolina A&T State University,-2.781
-Diogo Garnel,Fairleigh Dickinson University,-2.782
-Andres Estenssoro,University of Iowa,-2.786
-De'Sean Fennell,La Salle University,-2.791
-Connor Leahy,Seattle University,-2.795
-Ben Spencer,Southern Utah University,-2.801
-Francis Nadeau,Niagara University,-2.826
-Tanner Berkabile,Seattle University,-2.828
-Daniel Loebel,Idaho State University,-2.845
-Andrew O'Connell,La Salle University,-2.849
-Austin Kaplan,University of Pennsylvania,-2.855
-Camilo Patino,Jackson State University,-2.877
-Daniel Martinez,"Southern Illinois, Carbondale",-2.879
-Joe Smithyman,Niagara University,-2.879
-Ondre Cargill,Temple University,-2.882
-Nicholas Ramirez,Univ. of Incarnate Word,-2.894
-Evan Alexander,Lafayette College,-2.895
-Josh Ryan,Winthrop University,-2.908
-TJ Desanto,St. Bonaventure University,-2.910
-Bruno Snyder,Prairie View A&M University,-2.914
-A. Greig,Univ. of Arkansas Pine Bluff,-2.915
-Kyle Burton,Tennessee State University,-2.919
-Max Heerinckx,Santa Clara University,-2.931
-Jarred Thompson,Alabama State University,-2.932
-Diego Venegas,Wright State University,-2.940
-Will Cochrane,Portland State University,-2.954
-Bryan Adams,Bucknell University,-2.954
-Nikhil Mannepalli,Radford University,-2.959
-Kashyap Ashok,Drexel University,-2.988
-Ahmed Al-Shawafi,Rider University,-2.994
-Peter Salomon,Mount St. Mary's University,-2.998
-Brett Shriver,Loyola College (Maryland),-3.003
-Brooks Kendall,Creighton University,-3.004
-Cameron Amyot,Fairfield University,-3.004
-Ryan Miller,Presbyterian College,-3.005
-Mate Virag,Northern Kentucky University,-3.005
-John Nogalski,Saint Louis University,-3.009
-Nischay Rawal,Alcorn State University,-3.013
-Nick Laub,Colgate University,-3.022
-Laguna Foster,Howard University,-3.024
-Brian Power,Sacred Heart University,-3.053
-Jared Vigen,Univ. of North Dakota,-3.058
-David Constantinescu,Eastern Illinois University,-3.059
-Mike Furr,University of Delaware,-3.067
-James Gray,UNC Greensboro,-3.074
-Sina Sharifi,UC Riverside,-3.079
-Lucas Vaz,Florida Gulf Coast University,-3.081
-Jose Pestana,Wright State University,-3.081
-Jay Joshi,University of Detroit Mercy,-3.087
-Erik Anderson,"Nebraska, Omaha",-3.088
-Erick Ward,Morgan State University,-3.089
-Martin Bedecarratz,St. Francis College (New York),-3.094
-Sajid Rahman,Univ. of Arkansas Pine Bluff,-3.094
-Gabriel Tolesani,Youngstown State University,-3.097
-Vinh Pham,UMKC,-3.102
-Fateh Singh,Norfolk State University,-3.106
-Eric Pontow,Univ. of Illinois at Chicago,-3.118
-Dan Rombola,University of Hartford,-3.120
-Rob Alter,Colgate University,-3.132
-Filip Stipcic,Temple University,-3.138
-Karlo Skvorc,Alabama State University,-3.146
-Chris Popso,Rider University,-3.163
-S Gonkstaris,Jackson State University,-3.170
-Manuel Belda,University of South Alabama,-3.190
-Max McLean,Murray State University,-3.193
-Orin Duffin,Idaho State University,-3.204
-Luke Thompson,Hampton University,-3.208
-Ernesto Arguello,Bryant University,-3.214
-Max Montague,Texas A&M University,-3.216
-Daniel Gutierrez,George Mason University,-3.218
-Max Peara,Fordham University,-3.221
-Timber Erskine,Bucknell University,-3.238
-Jackson Lee,Northern Arizona University,-3.240
-Stephen Miller,University of Toledo,-3.242
-Alex Bosch,St. Francis College (New York),-3.247
-George Tioutine,Fairfield University,-3.256
-Wacil Bendjelti,Eastern Washington University,-3.286
-Colin Hart,Eastern Kentucky University,-3.297
-Malik Norris,Prairie View A&M University,-3.301
-Nicholas Whitehead,North Carolina A&T State University,-3.320
-Diego Asis,Eastern Kentucky University,-3.321
-No Player,Howard University,-3.326
-Zac McEntee,University of Connecticut,-3.326
-Peter O'Donovan,University of Nevada,-3.332
-Daniel Hansen,Drexel University,-3.336
-Cooper Bridge,UC Riverside,-3.337
-Dylan Karchere-Sun,Lehigh University,-3.339
-Tamina Kienka,North Carolina Central University,-3.353
-Igor Braga,Norfolk State University,-3.353
-Carlos Tejas,Tennessee Tech University,-3.354
-Terey Hackney,Norfolk State University,-3.359
-Lawson Barter,St. Francis Univ. (Pennsylvania),-3.361
-Andre Buchanan-Dempsey,Univ. of Incarnate Word,-3.376
-Romain Boudaroua,University of Arizona,-3.381
-Dylan Appel,Fairfield University,-3.383
-Steed Johnson,Longwood University,-3.391
-Nicolas Butler,Univ. of Arkansas Pine Bluff,-3.396
-Brian Balico,La Salle University,-3.407
-Reginald Robinson,Coppin State College,-3.419
-Pavels Grigorjevs,Chattanooga,-3.423
-Jason Burgess,Liberty University,-3.425
-Sebastien Mathieu,Santa Clara University,-3.439
-William Jay,Morgan State University,-3.449
-Jackson Pride,The Citadel,-3.451
-Peter Surovic,University of Connecticut,-3.459
-Florian Uffer,Longwood University,-3.461
-Calvin Ngo,UC Riverside,-3.471
-William Jones,Howard University,-3.474
-Daniel Bernal,Tennessee State University,-3.475
-Devin Barber,Cal Poly,-3.476
-James McManus,"Nebraska, Omaha",-3.485
-Brian Pinkard,Lafayette College,-3.492
-Charlie Volkwein,Holy Cross,-3.495
-Jabari Stafford,George Washington University,-3.502
-Gabriel Pamich,Fairfield University,-3.505
-Vuk Vukovic,Eastern Washington University,-3.506
-Francese Terns,St. Francis College (New York),-3.512
-Tim Puterio,University of Delaware,-3.524
-Garry Amor,Alcorn State University,-3.525
-Conor Haughey,Harvard University,-3.529
-Anthony Savio,Sacred Heart University,-3.534
-L. Sanchez,Alabama A&M University,-3.542
-Sam Flaxman,Wagner College,-3.549
-Simon Jackermeier,St. Peter's University,-3.568
-Othen Lima,Tennessee Tech University,-3.580
-Thomas Persico,North Carolina Central University,-3.588
-Paul John,DePaul University,-3.595
-Evan Ward,Morgan State University,-3.597
-Digvijay Naruka,Alabama State University,-3.620
-Dreshaun Jarmon,North Carolina A&T State University,-3.620
-Freddy Quintero,Prairie View A&M University,-3.630
-Leonardo Vieira,Univ. of Arkansas Pine Bluff,-3.633
-Leo Pires,Hofstra University,-3.639
-Karan Narula,Sacred Heart University,-3.670
-Oliver Dedding,The Citadel,-3.672
-Austin Racine,Troy University,-3.674
-Jan Dernic,Marist College,-3.689
-Rendelle Burghart,Eastern Washington University,-3.699
-Jorge Rodriguez,St. Peter's University,-3.708
-Tom Haile,Colgate University,-3.724
-Johan Samuelsson,Univ. of San Francisco,-3.731
-Rohan Wattley,Chicago State University,-3.743
-William Jou,University of Texas,-3.759
-Tim Corwin,DePaul University,-3.774
-Troy Benson,Southern Utah University,-3.779
-Jared Woodson,Eastern Illinois University,-3.780
-William Elmore,Villanova University,-3.783
-Kiran Mani,Fairleigh Dickinson University,-3.784
-Diego Lebron,Siena College,-3.785
-Vishu Prasad,Jackson State University,-3.787
-Luke Lemieux,Fairfield University,-3.791
-Brian Stefanowicz,Lafayette College,-3.807
-Sunay Bhat,University of Tennessee,-3.809
-Anirudh Yadav,Prairie View A&M University,-3.809
-Jacob Mishkin,St. Bonaventure University,-3.814
-Alex Romaine,University of Hartford,-3.815
-Stuart Macleod,Hofstra University,-3.826
-Brent Wheeler,Portland State University,-3.841
-Matt Renzi,University of Delaware,-3.859
-Paarth Dodhiawala,Saint Louis University,-3.860
-Fedor Shirin,Hampton University,-3.865
-James McQueen,Hampton University,-3.865
-M. Monray,Alabama A&M University,-3.866
-John Wilson IV,North Carolina A&T State University,-3.873
-Jonathan Dingle,Prairie View A&M University,-3.874
-John Peacey,Chattanooga,-3.878
-Nico De Fraia,University of Central Florida,-3.897
-Stefan Vojnic,Alabama State University,-3.898
-Pedro Wagner,Jacksonville State University,-3.904
-Daryl Hale,Tennessee State University,-3.904
-Chris Cole,Univ. of Illinois at Chicago,-3.907
-Brandon Goldstein,Lafayette College,-3.912
-Matt Pronesti,Portland State University,-3.917
-Sean Frebes,Holy Cross,-3.920
-Gary Faulcon,Hampton University,-3.926
-JJ Tauil,Fordham University,-3.932
-Dario Rios,Southern Utah University,-3.940
-Juan Alanis,Wagner College,-3.959
-Austin Mayo,Univ. of Northern Colorado,-3.969
-Gary Notkin,South Dakota State,-3.971
-Josh Goodwin,Idaho State University,-3.992
-Jose Zamorano,University of Arizona,-3.996
-Eduardo Martinez,Eastern Washington University,-3.996
-Grant Reiman,Eastern Illinois University,-4.005
-A. Wade,Alabama A&M University,-4.030
-Brandon Stone,Stony Brook University,-4.032
-Ben Tso,Princeton University,-4.036
-Miguel Flores,Saint Louis University,-4.041
-David Ogon,Coppin State College,-4.053
-Lukas Vanzura,"Nebraska, Omaha",-4.067
-Dale Fetterman,La Salle University,-4.072
-Austin Miller,Idaho State University,-4.076
-Carlos De La Cruz,St. Bonaventure University,-4.096
-Gavin Studner,Lafayette College,-4.098
-Conor Moran,George Mason University,-4.107
-Vihar Shah,Binghamton University,-4.109
-Branden Olcott,Southern Utah University,-4.109
-Patrick Thomas,Coppin State College,-4.117
-Ian Risenhoover,Portland State University,-4.121
-Liam Rodriguez,La Salle University,-4.148
-Connor Grady,The Citadel,-4.152
-Nathan Greteman,"Nebraska, Omaha",-4.153
-Scott Christian,Marquette,-4.162
-Garrett Cona,University of Toledo,-4.169
-Anjan Kashyab,Murray State University,-4.169
-Alex Killam,Norfolk State University,-4.176
-Kamal Patel,"Univ. of Maryland, Baltimore County",-4.178
-Joe Diorio,Siena College,-4.178
-Alex Berdnikoff,James Madison University,-4.179
-Ignace Warson,"Nebraska, Omaha",-4.185
-Tanguy Crosnier,University of Detroit Mercy,-4.188
-Kilian Salgado,Alcorn State University,-4.192
-Peter Colliard,Fairfield University,-4.200
-Joshua Bailey,North Carolina A&T State University,-4.214
-Brandon Harris,Saint Louis University,-4.245
-Allen Wang,Wagner College,-4.249
-Devin James,Coppin State College,-4.255
-D. Johnson,Alabama A&M University,-4.256
-Sam Jankovich,University of Idaho,-4.265
-Darren Reisch,Siena College,-4.266
-Ryoma Haraguchi,Quinnipiac University,-4.267
-Nico Sorrell,Howard University,-4.293
-Mark Miller,Villanova University,-4.295
-Agaazi Berhane,Rider University,-4.303
-Matt Bennion,"University of South Carolina, Upstate",-4.304
-Viboosh Chandrasekar,Auburn University,-4.318
-Jorge Ortiz-Garcia,Bryant University,-4.327
-Jordan Dingle,Alabama A&M University,-4.328
-Taylor Wilko,Southern Utah University,-4.329
-Rich DeGregoris,Holy Cross,-4.332
-Rory Samuels,Illinois State University,-4.356
-Lakshamana Satchihananthan,Hampton University,-4.356
-Marc Sodini,Wright State University,-4.359
-Jacob Sheldon,Univ. of Northern Colorado,-4.382
-Mark Robinson,La Salle University,-4.403
-Rosen Ilchev,Longwood University,-4.408
-Lachlan Manser,Longwood University,-4.418
-Pat O`Shea,Holy Cross,-4.434
-Myron Davis,Howard University,-4.450
-Lucas Dages,Purdue University,-4.458
-Joe Daniels,Tennessee State University,-4.467
-Simon Danyluk,Univ. of North Dakota,-4.469
-Dan Sablik,Elon University,-4.477
-Andrew Dottino,Georgetown University,-4.483
-Ryan Lugtu,University of Hartford,-4.486
-Freddy Abunku,Xavier University,-4.500
-Joseph Journey,Univ. of Maryland Eastern Shore,-4.512
-Alvaro Santamaria,Oral Roberts University,-4.523
-Richie Agarwal,Jackson State University,-4.538
-M. Winroy,Alabama A&M University,-4.543
-Darren Mast,Mount St. Mary's University,-4.553
-Joshua Palmer,University of Connecticut,-4.554
-Jake Mostyn-Kolb,Wagner College,-4.556
-Jualon Greig,Univ. of Arkansas Pine Bluff,-4.562
-Lucas Whaley,St. Peter's University,-4.584
-Luis Ulloa,Chicago State University,-4.592
-Sergio Carvajal,St. Francis Univ. (Pennsylvania),-4.611
-John Ellis,"Nebraska, Omaha",-4.629
-M Suarez,Hampton University,-4.637
-Evan Holvoet,Kennesaw State University,-4.644
-Parker Goldstien,University of Connecticut,-4.682
-Harold Fowler,Univ. of Maryland Eastern Shore,-4.698
-Matt Funiciello,Siena College,-4.699
-Juan Molina,University of Hartford,-4.706
-Sacha Singh,St. Francis College (New York),-4.717
-Edward Butler,Univ. of Arkansas Pine Bluff,-4.724
-Alex Castro,Loyola College (Maryland),-4.730
-Joe Bove,The Citadel,-4.732
-Peter Odeghami,Hampton University,-4.753
-Julian Chavez,Chicago State University,-4.767
-Alex Sweet,University of Delaware,-4.775
-Keiston France,North Carolina A&T State University,-4.799
-Fabrice George,North Carolina Central University,-4.809
-Aldred Carroll,Univ. of Arkansas Pine Bluff,-4.821
-Jimmy Ye,Holy Cross,-4.846
-Evan Borowski,Austin Peay State University,-4.866
-Andrew Proto,St. Francis College (New York),-4.889
-Gregoire Balenci,Grand Canyon University,-4.894
-Trent Reiman,Eastern Illinois University,-4.899
-Alex Burbine,Siena College,-4.904
-Oliver Bellomi,St. Peter's University,-4.911
-Thomas MacLeod,La Salle University,-4.960
-Bharani Sankar,Longwood University,-4.967
-Matt Bouggy,Purdue University,-4.983
-Federico Mendletta,Jackson State University,-4.983
-Pedro Alonso,Fordham University,-5.004
-Sagar Sathyanarayaman,Morgan State University,-5.049
-Lucas Krusinski,Morgan State University,-5.135
-Geoff Tulloch,Belmont University,-5.157
-Zack Niklaus,University of Delaware,-5.160
-Matthew Begley,Rider University,-5.188
-Chris Bunch,Western Illinois University,-5.218
-Chan Ton Phan,Rider University,-5.235
-A. Butler,Univ. of Arkansas Pine Bluff,-5.264
-Jeremy Van Herwarde,Rider University,-5.270
-Kyle Scott,North Carolina A&T State University,-5.287
-Ben Teicher,Quinnipiac University,-5.327
-Vincius Degani,Stony Brook University,-5.332
-Milos Vukicevic,St. Francis College (New York),-5.357
-No Player,Tennessee State University,-5.383
-Spencer Nielsen,Southern Utah University,-5.397
-Sebastian Barbero,Quinnipiac University,-5.506
-Jorge Rodriguez,St. Peter's University,-5.527
-Miguel Martin,Jackson State University,-5.529
-Jorge Del Rey Rojas,St. Peter's University,-5.541
-Ryan Templet,The Citadel,-5.562
-Jamal Hoyte,North Carolina Central University,-5.590
-Jason Ulacio,Florida A&M University,-5.606
-Hernan Geria,Jackson State University,-5.631
-Louis Tonon,Mount St. Mary's University,-5.661
-A. Carroll,Univ. of Arkansas Pine Bluff,-5.668
-Rashley Yeremia,Chicago State University,-5.673
-Joseph Kavalovski,Fordham University,-5.691
-Sebastian Rojas,St. Peter's University,-5.700
-Hawkins Owens,Howard University,-5.751
-Joey Brander,Fordham University,-5.756
-Aleks Mitric,Murray State University,-5.762
-Zach Wilder,University of Mississippi,-5.865
-Srdjan Troscic,Murray State University,-5.999
-Jonathan Paredes,St. Peter's University,-6.111
-Andrew Ginzberg,University of Connecticut,-6.224
-Tyler Flematti,University of Delaware,-6.244
-Anthony Timberlake,Western Illinois University,-6.327
-Alessandro Saglia,Siena College,-6.341
-Shaheed Mourillon,Norfolk State University,-6.373
-Ross Smith,Western Illinois University,-6.905
-Surya Sawhney,Western Illinois University,-6.968
-Jacob Sanders,Western Illinois University,-7.079
+Braxton Bates,Oral Roberts University,-0.835
+Santiago Sierra,University of Utah,-0.835
+Jake Wynan,University of Louisiana,-0.842
+William Albright,UNC Greensboro,-0.845
+Thomas Hunt,Saint Mary's College of California,-0.846
+Bradley Orban,Fairfield University,-0.851
+Semion Branzburg,Montana,-0.852
+Jake Norman,Creighton University,-0.859
+Marcos Rocca,Virginia Commonwealth University,-0.870
+Lukas Clemens,Nicholls State University,-0.871
+Kei Ezaka,Quinnipiac University,-0.877
+Luis Albuquerque,University of New Orleans,-0.885
+Stefan Cooper,Weber State,-0.885
+Michael Chen,Winthrop University,-0.897
+Zach Fryer,University of Denver,-0.900
+Aidan Saggers,"Southern Illinois, Carbondale",-0.912
+Alberto De Meo,University of North Florida,-0.914
+Joe Hill,George Mason University,-0.914
+Patrick Mayer,University of Memphis,-0.920
+Kasey Countee,East Carolina University,-0.925
+Jeremy Bourgeois,Brigham Young University,-0.945
+Sergio Chip,Gonzaga University,-0.955
+Garrett Gardner,Valparaiso University,-0.959
+Roberto Meza,University of Toledo,-0.963
+Wil Martin,Saint Mary's College of California,-0.964
+No Player 1,St. Peter's University,-0.964
+Tom Wittiveen,Montana,-0.969
+Diego Castano,Liberty University,-0.973
+Jonas Meinzer,San Diego State University,-0.977
+Daniel Hernandez,Lipscomb University,-0.977
+Nick Mercer,Morehead State University,-0.979
+Will Kwok,Boston University,-0.985
+Gonzalo Garcia,University of New Orleans,-0.988
+Peter Surovic,University of Connecticut,-0.994
+Jake Hirschberg,Colgate University,-0.994
+Joseph Bishop,Georgia State University,-0.996
+Canyon Teague,University of Richmond,-1.011
+Jorge Alfonzo,Tennessee Tech University,-1.013
+Colton Buffington,Cleveland State University,-1.014
+Cyprian Owczarz,Troy University,-1.022
+Mark Kovacs,University of Idaho,-1.027
+Troy Benson,Southern Utah University,-1.028
+Will Cochrane,Portland State University,-1.028
+John Stormans,Seattle University,-1.032
+Pat O'Neill,IUPUI,-1.032
+Federico Buscarino,Jackson State University,-1.033
+James Aronson,University of Richmond,-1.035
+Niclas Genovese,University of Miami (Florida),-1.045
+Harrison McCormick,U.S. Military Academy,-1.045
+Gerhard Gruindelingh,University of South Alabama,-1.046
+Krishna Jana,U.S. Naval Academy,-1.047
+Viktor Farkas,University of Washington,-1.048
+Akshay Verma,IUPUI,-1.051
+Steven McMullan,Lamar University,-1.062
+Jordan Belga,University of Florida,-1.063
+Mikko Rajamaki,Lamar University,-1.063
+Andrew Ball,Harvard University,-1.067
+Chris Essick,Indiana University-Bloomington,-1.072
+Jan Dernic,Marist College,-1.073
+Peter Galante,Siena College,-1.073
+Andrew Dromsky,University of Tennessee,-1.087
+Jorge Gonzalez Soler,"Univ. of Wisconsin, Green Bay",-1.102
+Kevin Bondar,University of Miami (Florida),-1.105
+Brent Chin,University of Oregon,-1.106
+JB Gough,Davidson College,-1.107
+Quinn Dippel,Creighton University,-1.107
+Jeandre Hoogenboezem,Lamar University,-1.108
+Elio Livi,St. John's University,-1.108
+Mate Virag,Northern Kentucky University,-1.110
+Dan Koehler,Drexel University,-1.123
+Beau Wills,Hofstra University,-1.129
+Connor Arend,Gonzaga University,-1.133
+Chris Seitz,Villanova University,-1.133
+Ben Spencer,Southern Utah University,-1.136
+Ethan Lopez,Portland State University,-1.136
+Collin Rigney,Ball State University,-1.140
+David Ball,Brigham Young University,-1.157
+Charlie Parry,Saint Louis University,-1.158
+Luke Saunders,Chattanooga,-1.159
+Santiago Canete,Temple University,-1.161
+Fredrik Bjerke,Marist College,-1.163
+Charlie Volkwein,Holy Cross,-1.164
+Juan Troglia,University of South Alabama,-1.165
+Lovro Curcija,South Dakota State,-1.167
+Kellen Bates,Montana State University-Bozeman,-1.168
+David Beasley,IUPUI,-1.171
+Thomas Caputo,Binghamton University,-1.175
+Carlos do Val,IPFW,-1.181
+Ben Gendron,Univ. of Northern Colorado,-1.186
+Elliott Baker,Creighton University,-1.190
+Ryan Kum,Univ. of Maryland Eastern Shore,-1.191
+Jose Moreno Manzano,Radford University,-1.193
+Giacomo Adoncecchi,University of New Orleans,-1.197
+Jack Williams,Charlotte,-1.199
+Daniel Bustamante,Troy University,-1.200
+Marten Jonsson,"Southern Illinois, Edwardsville",-1.209
+Pulok Bhattacharya,Butler University,-1.212
+Rafael Orantes,University of Detroit Mercy,-1.213
+Patrick Gaffigan,"Southern Illinois, Edwardsville",-1.213
+Gus Orlando,Seattle University,-1.220
+Andres Urrea,Saint Joseph's University,-1.227
+Nick Bradley,The Citadel,-1.232
+Adam Gage-Brown,UNLV,-1.238
+Alex Howard,Davidson College,-1.248
+Shane Jeffray,University of Delaware,-1.254
+Trey Morris,Appalachian State University,-1.258
+Conner Edwards,UMKC,-1.258
+Fredric Lehfeldt,East Carolina University,-1.259
+MJ Every,St. John's University,-1.259
+Pedro Wagner,Jacksonville State University,-1.269
+Justin Burrus,Villanova University,-1.272
+Tomsz Soltyka,Montana,-1.277
+Alvaro Cintas,Tennessee Tech University,-1.281
+No Player 2,St. Peter's University,-1.284
+Joaquin Marquez,Sacramento State,-1.285
+Marshall Sharp,University of Pennsylvania,-1.287
+Dutin Britton,Univ. of North Dakota,-1.287
+Colin Roller,East Carolina University,-1.288
+Ryan Hoverson,Univ. of Incarnate Word,-1.289
+Juuso Laitinen,Lamar University,-1.290
+Arnaud Valentin,Fairleigh Dickinson University,-1.293
+Louis Asser,University of Memphis,-1.305
+Michael Carella,UC Riverside,-1.308
+Daniel Gilbert,Wright State University,-1.308
+Justin Chanthalangsy,Marist College,-1.313
+Jordan Szabo,Texas A&M University,-1.320
+Eldred Stephens,North Carolina A&T State University,-1.327
+Chris Cole,Univ. of Illinois at Chicago,-1.329
+Shoki Kasahara,University of Arizona,-1.343
+Lucas Bombonatti,Boston University,-1.348
+Bjorn Scheepbouwer,Idaho State University,-1.351
+Michael Sosnowski,Oral Roberts University,-1.352
+Ryan Foster,Fairleigh Dickinson University,-1.356
+Alex Pavel,Lipscomb University,-1.359
+Chris Matturri,Lafayette College,-1.359
+Eric Ambrosio,Quinnipiac University,-1.360
+Peter Dewitt,Saint Joseph's University,-1.362
+Victor Casadevall,Montana,-1.364
+Stefano Blatt,South Dakota State,-1.366
+Parks Schoen,Wofford,-1.369
+Nikita Kostikov,Alcorn State University,-1.370
+Sina Sharifi,UC Riverside,-1.374
+Tim Kane,Duquesne University,-1.375
+Danny Moyer,Boise State University,-1.375
+Joao Almeida,Bethune-Cookman University,-1.378
+Fernando Sunago,University of Nevada,-1.382
+Jose Morales,Stony Brook University,-1.390
+Adam Blasinsky,Duquesne University,-1.395
+Eden Peleg,Northern Arizona University,-1.398
+Daniel Bernal,Tennessee State University,-1.406
+Bradley Noyes,Villanova University,-1.408
+Warren Bryan,UNC Greensboro,-1.433
+Kula Companion,University of Hawaii,-1.435
+Matthew Campana,Saint Mary's College of California,-1.435
+Felipe Jaworski,Georgia State University,-1.436
+Urh Krajnc Domiter,Illinois State University,-1.438
+Sam Kellett,Jacksonville State University,-1.444
+Max Phipps,"Southern Illinois, Carbondale",-1.445
+David Durham,Kennesaw State University,-1.454
+Vineet Naran,Temple University,-1.462
+Andy Druffel,Univ. of Dayton,-1.467
+Jan Cimrman,NJIT,-1.469
+Myles Harris,Wright State University,-1.474
+Gabriel Pamich,Fairfield University,-1.475
+Martin Bedecarratz,St. Francis College (New York),-1.481
+Juan Canales,Brigham Young University,-1.486
+Ayman Abdulwahab,Sacramento State,-1.488
+Christofer Goncalves,New Mexico State University,-1.492
+Joel Rubio,Univ. of Texas at San Antonio,-1.497
+Porter Myrick,North Carolina A&T State University,-1.500
+Dawoud Kabli,Youngstown State University,-1.512
+Ziad Sultan,UC Santa Barbara,-1.517
+Andrew Harrington,University of Miami (Florida),-1.517
+Kacper Stelmaszak,University of Detroit Mercy,-1.520
+Simon Jayaram,Univ. of Dayton,-1.527
+Caio Niel,Belmont University,-1.530
+Shao-Po Yin,Weber State,-1.533
+Brandon Mills,Presbyterian College,-1.537
+Carl Hedstrom,Univ. of Illinois at Chicago,-1.549
+Richard Rangga,NJIT,-1.557
+Jake Lazer,Lafayette College,-1.559
+Mirko Radosevic,Cleveland State University,-1.562
+Jakub Vitek,South Carolina State,-1.562
+Mitch Maroscher,Grand Canyon University,-1.565
+Andrew Connolly,Wright State University,-1.567
+Harry James,Montana State University-Bozeman,-1.568
+Ian Risenhoover,Portland State University,-1.574
+Branden Olcott,Southern Utah University,-1.574
+Anthony Savio,Sacred Heart University,-1.589
+Andrew Stutz,Ball State University,-1.591
+Devin Outten,Univ. of Maryland Eastern Shore,-1.593
+Florian Graskamp,Eastern Kentucky University,-1.594
+Bernardo Sanson,Univ. of Dayton,-1.596
+Sebastian Penalosa,Morehead State University,-1.601
+Alexander Kokorev,University of Wisconsin,-1.610
+Kijontray McClay,Univ. of Maryland Eastern Shore,-1.611
+Jonathan Quenard,University of Richmond,-1.623
+Ozzy Abraham,UNLV,-1.626
+Elmar Lutz,Holy Cross,-1.627
+Joshua Rubinstein,Bryant University,-1.630
+Thomas Gans,IUPUI,-1.635
+Ryan Khan,Wagner College,-1.662
+Gino Delavalle,Chattanooga,-1.664
+Stjepan Cagalj,University of Louisville,-1.669
+Andrew Cahn,Western Michigan University,-1.669
+Brendon Kempin,University of Notre Dame,-1.673
+Gabriel Tolesani,Youngstown State University,-1.678
+Artur Culicovschi,UNLV,-1.680
+Daniel Cardenas,IPFW,-1.696
+Zack Niklaus,University of Delaware,-1.706
+Juan Molina,University of Hartford,-1.706
+Stepan Vancurik,UAB,-1.706
+Cooper Bridge,UC Riverside,-1.714
+Austin Kaplan,University of Pennsylvania,-1.716
+Brett Moorhead,James Madison University,-1.724
+Max Sinn,Nicholls State University,-1.730
+Rares Ispas,Niagara University,-1.734
+Oliver Welsh,Bryant University,-1.734
+Daniel Loebel,Idaho State University,-1.735
+Andrew O'Connell,La Salle University,-1.740
+Adam Coyne,Alabama State University,-1.743
+Sumeet Shinde,University of Arizona,-1.749
+Renan Samed,Coastal Carolina University,-1.757
+Arthur Bedel,Texas A&M-Corpus Christi,-1.757
+Jan-Willem Kleynhans,Appalachian State University,-1.758
+Francesc Terns-Campius,St. Francis College (New York),-1.773
+Jordan Kuchta,Loyola College (Maryland),-1.774
+David Ferragut,Saint Louis University,-1.776
+Sergio Arevalillo,University at Buffalo,-1.778
+Juanjo de la Llera,Eastern Kentucky University,-1.779
+Alberto Tintoré,Eastern Kentucky University,-1.780
+S Gonkstaris,Jackson State University,-1.783
+Jean-Marc Krone,Campbell University,-1.785
+Diego Garavito,Bethune-Cookman University,-1.787
+Christoph Haertel,Western Illinois University,-1.791
+Will Turner,Boston College,-1.792
+Ivan Kravtchenko,Brown University,-1.795
+Robert Margitfalvi,University of Nevada,-1.797
+Jose Zamorano,University of Arizona,-1.803
+Joshua Wardell,University of Florida,-1.804
+Jonathan O'Neal,Campbell University,-1.807
+Tom Hjertonsson,Northern Illinois University,-1.807
+Inaki Belloso,Niagara University,-1.812
+Edgar Diaz,South Carolina State,-1.820
+Albert Fontova,Stony Brook University,-1.820
+Aaron Chalstrom,Creighton University,-1.826
+Matt Bennion,"University of South Carolina, Upstate",-1.841
+Ahmed Al-Shawafi,Rider University,-1.841
+Christos Hadjigeorgiou,George Washington University,-1.846
+John Tougher,Lipscomb University,-1.853
+Rob Buetti,Holy Cross,-1.857
+Samuel Taylor,Radford University,-1.857
+Zachary Bost,Appalachian State University,-1.861
+Henrique Pereira,South Dakota State,-1.862
+Alec Wagner,Saint Mary's College of California,-1.868
+Kyle Alper,Quinnipiac University,-1.868
+Mac Rechan,Georgetown University,-1.868
+Jan Jirus,Ball State University,-1.869
+Samuel Bloore,Saint Mary's College of California,-1.872
+Gaston Murray,UNC Greensboro,-1.878
+Andrew Graham,Wofford,-1.887
+Nile Clark,University of Miami (Florida),-1.892
+John Giakoumakis,"University of South Carolina, Upstate",-1.898
+Richard Sec,Duquesne University,-1.901
+Elliott Yee,Indiana University-Bloomington,-1.904
+Carl Jedlinski,NJIT,-1.909
+Stephen Payne,Western Michigan University,-1.915
+Dillon Launius,U.S. Air Force Academy,-1.915
+Romain Lefevre,University of New Orleans,-1.934
+Darius Mackenzie,University of Wisconsin,-1.934
+Stephen Miller,University of Toledo,-1.935
+Felix Andre,Morgan State University,-1.939
+Maxi Branth,James Madison University,-1.941
+Alejandro Capdequi,Oral Roberts University,-1.943
+Eduardo Irizarry,St. Bonaventure University,-1.947
+Eduardo Martinez,Eastern Washington University,-1.981
+Gavin Lewis,Coppin State College,-1.999
+Joey Leto,"Univ. of Wisconsin, Green Bay",-2.004
+Artem Tarasov,Tennessee Tech University,-2.004
+Paul Denele,New Mexico State University,-2.015
+Rok Sitar,University of Louisiana,-2.022
+Mario Sandoval,Boston University,-2.024
+Frenk Kote,Binghamton University,-2.026
+Chance Conley,University of Detroit Mercy,-2.028
+A. Rahman,Univ. of Arkansas Pine Bluff,-2.028
+Zach Lessen,University of Pennsylvania,-2.030
+Lucas Waak,Valparaiso University,-2.037
+Tyler Tossavainen,U.S. Naval Academy,-2.044
+Fabian Woehrl,University of Hawaii,-2.056
+Alex Tropiano,Georgetown University,-2.061
+Tristan Boustany,Saint Joseph's University,-2.062
+Nicholas Carpenter,U.S. Air Force Academy,-2.063
+Donovan McSeveney,UAB,-2.069
+Connor LaFavre,Xavier University,-2.070
+Trevor James,University of Arizona,-2.071
+Mischa Koran,Fordham University,-2.071
+Ronald Mataba,Alabama State University,-2.074
+Lucas Fumagalli,U.S. Air Force Academy,-2.076
+Christian Carrillo,Univ. of Texas at San Antonio,-2.080
+Brett Shriver,Loyola College (Maryland),-2.086
+Matt Phelps,Villanova University,-2.087
+Lukas Luckemeier,Presbyterian College,-2.088
+Neal Port,Elon University,-2.095
+Gleb Skylr,Marquette,-2.099
+Sanjay Goswamy,Weber State,-2.102
+Jose Calero,IUPUI,-2.105
+Jacob Perkins,"Southern Illinois, Edwardsville",-2.107
+Joel Jones,Florida A&M University,-2.107
+Ruben Franzanti,Winthrop University,-2.109
+Kamal Patel,"Univ. of Maryland, Baltimore County",-2.116
+Evan Watkins,Davidson College,-2.118
+Marcus Vizcarra,UC Riverside,-2.120
+Hasier Pastor,California,-2.123
+Luke Thompson,Eastern Washington University,-2.130
+Carlos Tajes,Tennessee Tech University,-2.133
+Saxon Beuhning,San Diego State University,-2.135
+Phillip Raikovic,Univ. of Incarnate Word,-2.141
+Rui Silva,Eastern Illinois University,-2.151
+Sergio de Vilchez,Wichita State University,-2.155
+Treajh Ferguson,Morgan State University,-2.159
+Jan Penhec,Oral Roberts University,-2.166
+Niranjan Ram,Sacramento State,-2.171
+Nicholas Ramirez,Univ. of Incarnate Word,-2.177
+Reid Burch,Loyola College (Maryland),-2.179
+Victor Hoang,Middle Tennessee State University,-2.179
+Camilo Patino,Jackson State University,-2.182
+Brett Landau,UNC Asheville,-2.185
+Jan-Willem Feilzer,DePaul University,-2.186
+Juan Calero,Saint Louis University,-2.191
+Matt Dunn,University of Arizona,-2.192
+Nicolas Vincent,"Southern Illinois, Edwardsville",-2.199
+Drew Wendel,Kennesaw State University,-2.207
+Diogo Soares,Eastern Kentucky University,-2.207
+Mark Kite,U.S. Air Force Academy,-2.213
+Dario Rios,Southern Utah University,-2.213
+James Mitchell,Austin Peay State University,-2.214
+Kashyap Ashok,Drexel University,-2.215
+Reece Acree,University of Central Florida,-2.216
+Ming Lao,Holy Cross,-2.218
+Rodrigo Encinas,College of Charleston,-2.221
+Kevin Deligny,Bethune-Cookman University,-2.222
+Hicham Belkssir,Temple University,-2.222
+Felipe Diaz,Jacksonville State University,-2.225
+Jose Zurro,Morehead State University,-2.238
+William Jones,Howard University,-2.242
+Tommy Marx,Butler University,-2.249
+K. Davis,Alabama A&M University,-2.250
+Calvin Ngo,UC Riverside,-2.250
+Tony Russell,SMU,-2.251
+Nate Shanok,Charlotte,-2.254
+Christian Kerrigan,Georgia Southern University,-2.257
+Colin Buckley,"Nebraska, Omaha",-2.261
+Gonzalo Quintana,Fairleigh Dickinson University,-2.264
+Stephen Goldman,James Madison University,-2.265
+Gagan Jain,Tennessee Tech University,-2.273
+Taylor Wilko,Southern Utah University,-2.276
+Brent Wheeler,Portland State University,-2.276
+Rajanvir Dharni,"University of South Carolina, Upstate",-2.277
+Victor Blanco,St. Bonaventure University,-2.280
+Shane Korber,Georgetown University,-2.281
+Mitch Granger,Univ. of Illinois at Chicago,-2.285
+Peter Collins,Siena College,-2.290
+Luke Lorenz,Bryant University,-2.319
+Gabe Pansera,Jacksonville State University,-2.320
+Louis-Philippe Gascon,University of Utah,-2.332
+Parks Thompson,Wofford,-2.336
+Dimitris Stavropoulos,University of Louisiana,-2.336
+Rodrigo Tico,St. Francis Univ. (Pennsylvania),-2.343
+Chester Espie,Stetson University,-2.347
+Ismael Lahlou,University of Pennsylvania,-2.349
+Ricky Hendler,Hofstra University,-2.356
+Ignacio Garrido,"University of South Carolina, Upstate",-2.358
+Pablo Mora,Western Michigan University,-2.367
+Stefan Lemire,Boston University,-2.368
+Logan Walker,UNC Greensboro,-2.368
+Octavio Canibe,Bucknell University,-2.369
+Adam Chan,Fairleigh Dickinson University,-2.371
+Jake De Vries,Boston University,-2.373
+Jack Carney,Northern Kentucky University,-2.378
+Alvaro Barrera,Bethune-Cookman University,-2.379
+Greg Olesnycky,Loyola College (Maryland),-2.380
+Patrick Downs,Ball State University,-2.391
+Vicente Varas,Gonzaga University,-2.398
+Iago Seffrin,Austin Peay State University,-2.400
+Tim Puterio,University of Delaware,-2.408
+Tucker Brown,Univ. of Incarnate Word,-2.412
+Sergio Avella,Prairie View A&M University,-2.415
+Harry Walshe,Duquesne University,-2.417
+Adrian Isache,Northern Kentucky University,-2.419
+Sebastien Mathieu,Santa Clara University,-2.419
+Patrik Cvik,Alabama State University,-2.422
+Ryan Swanier,Jackson State University,-2.431
+Andrew Gores,North Carolina,-2.436
+Matthew Hutchinson,"Southern Illinois, Edwardsville",-2.437
+Stanislav Baco,South Carolina State,-2.440
+Ismail Kadyrov,University of Detroit Mercy,-2.447
+Tyler Hoffman,Stony Brook University,-2.455
+Nic Wilson,Chattanooga,-2.470
+Jonny Higham,South Dakota State,-2.488
+Matt Helm,Ball State University,-2.488
+Nicky Wong,University of Toledo,-2.494
+Nika Dolidze,Penn State University,-2.499
+Jesse Ruder-Hook,University of Denver,-2.506
+Jacob Spreyer,University of Connecticut,-2.512
+Sean Donohue,University of Alabama,-2.522
+Daniel Populus,University of New Orleans,-2.527
+Connor Oberle,Univ. of North Dakota,-2.529
+No Player,Univ. of Arkansas Pine Bluff,-2.530
+Carlos Martinez,Jackson State University,-2.535
+Tyler Edin,Morehead State University,-2.537
+Andrew Parks,U.S. Air Force Academy,-2.550
+Matt Pronesti,Portland State University,-2.553
+Kenzo Kauffmann,Stony Brook University,-2.557
+Eduardo Bringold,Eastern Washington University,-2.558
+Michael Nguyen,U.S. Military Academy,-2.580
+Joshua Baily,North Carolina A&T State University,-2.580
+Kelvin Lam,Harvard University,-2.581
+Oleg Drobysh,Austin Peay State University,-2.584
+Rhys Richardson,University of Idaho,-2.603
+Peter O'Donovan,University of Nevada,-2.618
+Jordan Loughnan,Univ. of Northern Colorado,-2.618
+Peter Bleach,The Citadel,-2.620
+Ruben Vanoppen,Mercer University,-2.632
+Ryan Henderson,Eastern Illinois University,-2.639
+Vuk Vukovic,Eastern Washington University,-2.649
+Mario Noboa,Chicago State University,-2.651
+Jason Burgess,Liberty University,-2.657
+Justin Pagan,Sacred Heart University,-2.679
+Aidan McNulty,Boston College,-2.689
+Hari Rohan,Stony Brook University,-2.692
+Nico Kuehn,"Southern Illinois, Edwardsville",-2.698
+Tyler Gardiner,University of Michigan,-2.699
+Szymon Opieczonek,"Southern Illinois, Carbondale",-2.722
+Peter Molloy,"Southern Illinois, Carbondale",-2.724
+Nick Lang,Northern Kentucky University,-2.730
+Badr Ouabdelmoumen,Drexel University,-2.733
+Bryan Adams,Bucknell University,-2.735
+Youssef Hassan,Fresno State,-2.737
+Jackson Varney,University of Idaho,-2.738
+Karl Wangensten-Oye,IPFW,-2.754
+Joe Lee,Univ. of North Dakota,-2.755
+Mitchel Knight,Univ. of Northern Colorado,-2.764
+Liam Goldberg,New Mexico State University,-2.781
+Nicholas Gonzalez,Univ. of Arkansas Pine Bluff,-2.782
+Victor Pereira,Youngstown State University,-2.787
+Karim Arem,Cornell University,-2.792
+Mateus Moreira,South Dakota State,-2.793
+Walker Hefferon,Wofford,-2.793
+Kyle Childree,Boston College,-2.794
+Dylan Appel,Fairfield University,-2.799
+Brian Pinkard,Lafayette College,-2.800
+Matthew Dean,Sacred Heart University,-2.804
+Gilbert Rotich,Bethune-Cookman University,-2.810
+Mikheil Khmiadashvili,Santa Clara University,-2.817
+Daniel Strawn,Clemson University,-2.834
+Francese Terns,St. Francis College (New York),-2.835
+Ty Misialek,Univ. of North Dakota,-2.843
+Connor Leahy,Seattle University,-2.844
+Kasparas Zemaitelis,Sacramento State,-2.859
+Stefan Williams,University of Texas at Arlington,-2.864
+Bruno Russo,Belmont University,-2.869
+Adam Levie,UC Davis,-2.870
+Trey Crysel,Lamar University,-2.879
+John Nogalski,Saint Louis University,-2.881
+Max McLean,Murray State University,-2.885
+Anthony Arocho,Brown University,-2.886
+Luka Kaic,NJIT,-2.903
+Luis Miguel Flores,Saint Louis University,-2.912
+Andrew Ong,Duquesne University,-2.926
+Lorenz Schwab,Campbell University,-2.932
+Jordan Hart,Davidson College,-2.932
+Pedro Alonso,Fordham University,-2.934
+Matt Wagner,Boston College,-2.935
+Filip Stipcic,Temple University,-2.936
+Luke Roser,Quinnipiac University,-2.950
+Mike Psarros,UMKC,-2.958
+Garrett Cona,University of Toledo,-2.961
+Dan Rombola,University of Hartford,-2.961
+Nikhil Mannepalli,Radford University,-2.978
+Jaryd Reese,Jacksonville State University,-2.981
+Daniel Grauel,Norfolk State University,-2.991
+Pavels Grigorjevs,Chattanooga,-2.993
+Conor Moran,George Mason University,-3.001
+Biyik Akinshemoyin,"Univ. of Maryland, Baltimore County",-3.015
+Eric Schuemans,Univ. of Northern Colorado,-3.024
+Steed Johnson,Longwood University,-3.028
+Max Vogt,Bryant University,-3.030
+Ransom Braaten,"Southern Illinois, Carbondale",-3.035
+Vinh Pham,UMKC,-3.035
+Jett Cash,Texas A&M University,-3.050
+De'Sean Fennell,La Salle University,-3.061
+Anthony Tsodikov,Stanford University,-3.063
+Mike Standifer,Santa Clara University,-3.069
+Garrett Mandrell,Morehead State University,-3.073
+Tristan Houle,"Southern Illinois, Edwardsville",-3.076
+Jose Pestana,Wright State University,-3.079
+Jarred Thompson,Alabama State University,-3.080
+Iago Seffrin,Austin Peay State University,-3.080
+Nikola Crvelin,University of Texas-Pan American,-3.087
+Miljan Ruzic,James Madison University,-3.089
+Caleb Troy,University of Richmond,-3.090
+Alexandros Georgios Vakouftsis,Fresno State,-3.092
+Pablo Lopez,Bethune-Cookman University,-3.108
+Y. Dingles,Alabama A&M University,-3.110
+Timo Kranz,University of New Orleans,-3.113
+Max Renke,DePaul University,-3.114
+Tanner Baine,George Mason University,-3.117
+Austin Mayo,Univ. of Northern Colorado,-3.118
+Jackson Lee,Northern Arizona University,-3.119
+Matthew Krizinger,Virginia Commonwealth University,-3.120
+Nick Laub,Colgate University,-3.124
+Adam Salam,Mount St. Mary's University,-3.130
+Charlton Boyd,Wagner College,-3.151
+Francisco Del Valle,Sacred Heart University,-3.152
+Jordan Portner,Georgetown University,-3.153
+Balint Zsidai,Northern Kentucky University,-3.159
+Andrey Majkic,U.S. Naval Academy,-3.159
+Nicholas Mitric,Murray State University,-3.166
+Jalen Evans,Florida A&M University,-3.167
+Uldis Gaismins,UMKC,-3.167
+Marcus Nalley,IUPUI,-3.172
+Mike Furr,University of Delaware,-3.178
+Jorge Wilton,Kennesaw State University,-3.187
+Santiago Salazar,University of Louisville,-3.202
+Ian Glessing,Temple University,-3.206
+Wacil Bendjelti,Eastern Washington University,-3.208
+Jake Stefanik,University of Kentucky,-3.209
+No Player,Norfolk State University,-3.229
+Florian Uffer,Longwood University,-3.232
+Tyler Pate,University of Central Florida,-3.234
+Chris Jimenez,St. Francis Univ. (Pennsylvania),-3.240
+Matt Bennion,"University of South Carolina, Upstate",-3.249
+Luke Thompson,Hampton University,-3.256
+Tanguy Crosnier,University of Detroit Mercy,-3.262
+Joey Brandt,Gonzaga University,-3.276
+Daniel Gutierrez,George Mason University,-3.278
+Simon Cote,Wright State University,-3.284
+A. Greig,Univ. of Arkansas Pine Bluff,-3.296
+Chris Popso,Rider University,-3.314
+Mateo DeSomocurcio,Mount St. Mary's University,-3.326
+Thais Minet,Lipscomb University,-3.328
+Diogo Garnel,Fairleigh Dickinson University,-3.330
+Luiz Pinto,UAB,-3.332
+Brandon Goldstein,Lafayette College,-3.352
+Dylan Fletcher,Marist College,-3.356
+William Goldberg,UNC Asheville,-3.358
+John Schubel,UNC Asheville,-3.386
+Ryan Lugtu,University of Hartford,-3.392
+Cody Miller,Idaho State University,-3.398
+Dylan Trent,University of Richmond,-3.398
+Luke Synn,Furman University,-3.401
+Orin Duffin,Idaho State University,-3.413
+Jonathan Edwards,University of Connecticut,-3.418
+Colin Nardella,Lehigh University,-3.438
+Brian Power,Sacred Heart University,-3.454
+Charles Baron,New Mexico State University,-3.461
+Karl Enander,Cal Poly,-3.466
+Gary Faulcon,Hampton University,-3.473
+Ricky Saad,Davidson College,-3.488
+Brian Balico,La Salle University,-3.489
+Chris Toner,University of Connecticut,-3.491
+Devin Barber,Cal Poly,-3.495
+Adam Schmidt,Gardner-Webb University,-3.499
+Rendelle Burghart,Eastern Washington University,-3.501
+Nicholas Whitehead,North Carolina A&T State University,-3.508
+Jake Rother,Univ. of Texas at San Antonio,-3.509
+Jose Calero,IUPUI,-3.520
+Alex Fioravante,Drexel University,-3.538
+Luke Lemieux,Fairfield University,-3.538
+Freddy Abunku,Xavier University,-3.544
+Damien Brenard,East Carolina University,-3.548
+Juan Alanis,Wagner College,-3.550
+Jay Joshi,University of Detroit Mercy,-3.554
+TJ De Santo,St. Bonaventure University,-3.562
+Liam Rodriguez,La Salle University,-3.562
+Christoffer Appelgren,University of New Orleans,-3.575
+George Tioutine,Fairfield University,-3.575
+Sajid Rahman,Univ. of Arkansas Pine Bluff,-3.579
+Tyler Burnett,U.S. Naval Academy,-3.580
+David Bergstrom,Univ. of North Dakota,-3.585
+Jack Murphy,Georgetown University,-3.588
+Stefan Rhodes,Furman University,-3.592
+Cassell King,Univ. of Northern Colorado,-3.592
+James Gray,UNC Greensboro,-3.593
+Ben Gerber,Bucknell University,-3.615
+Marko Minic,"Nebraska, Omaha",-3.617
+Bruno Snyder,Prairie View A&M University,-3.622
+Terey Hackney,Norfolk State University,-3.622
+Cory Seltman,Sacred Heart University,-3.634
+Eli Cerdan,St. Francis Univ. (Pennsylvania),-3.636
+Jamey Swiggart,University of Utah,-3.637
+Ben Wood,Drake University,-3.641
+Johan Samuelsson,Univ. of San Francisco,-3.646
+Daniel Martinez,"Southern Illinois, Carbondale",-3.654
+Simon Jackermeier,St. Peter's University,-3.672
+Max Peara,Fordham University,-3.685
+Josh Ryan,Winthrop University,-3.689
+Jabari Stafford,George Washington University,-3.689
+Kent Mukai,Boston College,-3.719
+Kyle Burton,Tennessee State University,-3.723
+Jacob Sheldon,Univ. of Northern Colorado,-3.727
+N/A Albuerquerque,University of New Orleans,-3.741
+David Ogan,Coppin State College,-3.745
+Enrique Samudio,Morehead State University,-3.749
+Michael Savaglio,Valparaiso University,-3.756
+Malik Norris,Prairie View A&M University,-3.764
+Nicolas Butler,Univ. of Arkansas Pine Bluff,-3.767
+Xabier Saavedra,Drexel University,-3.770
+Andres Estenssoro,University of Iowa,-3.771
+John Peacey,Chattanooga,-3.790
+Ryoma Haraguchi,Quinnipiac University,-3.795
+Felipe Wenzel,Jacksonville State University,-3.798
+Scott Christian,Marquette,-3.798
+James Chung,St. Francis College (New York),-3.817
+Peter Salomon,Mount St. Mary's University,-3.833
+Nicholai Westergaard,University of Pennsylvania,-3.843
+Karlo Skvorc,Alabama State University,-3.850
+Trevor Haskell,St. Bonaventure University,-3.852
+L. Sanchez,Alabama A&M University,-3.871
+Connor Andrews,IPFW,-3.876
+Parker Goldstien,University of Connecticut,-3.877
+Tanner Berkabile,Seattle University,-3.911
+Hawkins Owens,Howard University,-3.915
+Igor Braga,Norfolk State University,-3.927
+Leo Pires,Hofstra University,-3.988
+Christian Brockstedt,Univ. of San Francisco,-4.000
+Fateh Singh,Norfolk State University,-4.004
+Felix Ewers,"University of South Carolina, Upstate",-4.008
+Ciaran Lavers,Oral Roberts University,-4.018
+Kyle Hairston,North Carolina Central University,-4.022
+Tamina Kienka,North Carolina Central University,-4.033
+Daniel Merker,University of Southern Mississippi,-4.040
+Viboosh Chandrasekar,Auburn University,-4.057
+Jack Haffey,Florida State University,-4.060
+Brody Rodriguez,Univ. of Incarnate Word,-4.064
+Mathieu Pilote-Schraenen,Sacred Heart University,-4.082
+Tim Corwin,DePaul University,-4.089
+Nikola Pavlovic,Western Illinois University,-4.096
+Hans Baumstark,UC Riverside,-4.101
+James Jackson,Prairie View A&M University,-4.108
+Colin Hart,Eastern Kentucky University,-4.125
+Max Heerinckx,Santa Clara University,-4.133
+James McManus,"Nebraska, Omaha",-4.142
+Sunay Bhat,University of Tennessee,-4.143
+Rob Alter,Colgate University,-4.156
+Eric Sumanaru,Siena College,-4.174
+Evan Holvoet,Kennesaw State University,-4.188
+JJ Tauil,Fordham University,-4.190
+Diego Asis,Eastern Kentucky University,-4.224
+Sam Flaxman,Wagner College,-4.235
+Billy Weldon,Butler University,-4.255
+Doug Notaris,Binghamton University,-4.260
+Grant Reiman,Eastern Illinois University,-4.286
+Robert Jenkins,Appalachian State University,-4.288
+Jake Mostyn-Kolb,Wagner College,-4.299
+Garry Amor,Alcorn State University,-4.308
+Kevin Gates,Saint Joseph's University,-4.324
+Cameron Amyot,Fairfield University,-4.325
+Erick Ward,Morgan State University,-4.339
+Carlos De La Cruz,St. Bonaventure University,-4.342
+Christian Gonzalez,Chicago State University,-4.353
+Plamen Avuski,St. Francis Univ. (Pennsylvania),-4.382
+Brett Cabon,North Carolina A&T State University,-4.396
+Ulrick Boyoguena,Prairie View A&M University,-4.405
+Nischay Rawal,Alcorn State University,-4.409
+Colin Wong,University of Delaware,-4.410
+Joshua Palmer,University of Connecticut,-4.441
+Reginald Robinson,Coppin State College,-4.444
+Dreshaun Jarmon,North Carolina A&T State University,-4.455
+Thomas Persico,North Carolina Central University,-4.458
+Andrew Dottino,Georgetown University,-4.468
+Joseph Journey,Univ. of Maryland Eastern Shore,-4.473
+Michael Cha,Univ. of Maryland Eastern Shore,-4.475
+Ondre Cargill,Temple University,-4.475
+Francis Nadeau,Niagara University,-4.485
+Tom Haile,Colgate University,-4.486
+Leonardo Vieira,Univ. of Arkansas Pine Bluff,-4.491
+Karan Narula,Sacred Heart University,-4.493
+Joe Smithyman,Niagara University,-4.507
+Gary Notkin,South Dakota State,-4.508
+Diego Lebron,Siena College,-4.510
+Aaron Madaris,Wright State University,-4.510
+David Bush,Liberty University,-4.517
+Miguel Flores,Saint Louis University,-4.524
+Kevin Devine,Hofstra University,-4.525
+Yehia El Sallaly,Saint Louis University,-4.540
+David Hess,Murray State University,-4.542
+Paarth Dodhiawala,Saint Louis University,-4.543
+Alex Sweet,University of Delaware,-4.544
+Joakim Pinola,University of Hawaii,-4.545
+Diego Venegas,Wright State University,-4.546
+Sean Frebes,Holy Cross,-4.547
+Jared Vigen,Univ. of North Dakota,-4.558
+Fedor Shirin,Hampton University,-4.567
+Jacob Mishkin,St. Bonaventure University,-4.580
+Louis Tonon,Mount St. Mary's University,-4.582
+Darren Reisch,Siena College,-4.590
+Sergio Carvajal,St. Francis Univ. (Pennsylvania),-4.600
+Valentin Horvat,Georgia State University,-4.606
+Rohan Wattley,Chicago State University,-4.614
+Alex Bosch,St. Francis College (New York),-4.617
+Marc Adams,St. Francis College (New York),-4.617
+Will True,Murray State University,-4.622
+Vishu Prasad,Jackson State University,-4.643
+Luis Ulloa,Chicago State University,-4.647
+Lakshamana Satchihananthan,Hampton University,-4.648
+Alex Killam,Norfolk State University,-4.650
+A. Wade,Alabama A&M University,-4.651
+Sam Jankovich,University of Idaho,-4.662
+Oliver Poysti,UAB,-4.688
+Ian Clare,Seattle University,-4.703
+Federico Mendletta,Jackson State University,-4.713
+Morgan White,University of Hartford,-4.717
+Max Kane,Bucknell University,-4.728
+Allen Wang,Wagner College,-4.734
+Alvaro Santamaria,Oral Roberts University,-4.734
+No Player,Howard University,-4.737
+Austin Miller,Idaho State University,-4.745
+Alexander Reed,Siena College,-4.783
+Harold Fowler,Univ. of Maryland Eastern Shore,-4.797
+Ryan Miller,Presbyterian College,-4.803
+Gavin Studner,Lafayette College,-4.818
+Ryan Templet,The Citadel,-4.819
+Kiran Mani,Fairleigh Dickinson University,-4.821
+Daniel Bernal,Tennessee State University,-4.841
+Ben Teicher,Quinnipiac University,-4.848
+Pat O`Shea,Holy Cross,-4.861
+Dale Fetterman,La Salle University,-4.863
+Henrik Munch,Rice University,-4.881
+Vihar Shah,Binghamton University,-4.881
+Freddy Quintero,Prairie View A&M University,-4.889
+Jorge Rodriguez,St. Peter's University,-4.890
+Adam Levi,Rider University,-4.898
+M Suarez,Hampton University,-4.918
+James McQueen,Hampton University,-4.920
+Zac McEntee,University of Connecticut,-4.922
+Rosen Ilchev,Longwood University,-4.925
+John Wilson IV,North Carolina A&T State University,-4.947
+Brian Stefanowicz,Lafayette College,-4.980
+Lachlan Manser,Longwood University,-4.980
+Rory Samuels,Illinois State University,-5.011
+Erik Anderson,"Nebraska, Omaha",-5.032
+Digvijay Naruka,Alabama State University,-5.071
+Jared Woodson,Eastern Illinois University,-5.073
+Lucas Whaley,St. Peter's University,-5.074
+Agaazi Berhane,Rider University,-5.100
+Lucas Dages,Purdue University,-5.108
+Alex Castro,Loyola College (Maryland),-5.108
+Alex Berdnikoff,James Madison University,-5.109
+A. Butler,Univ. of Arkansas Pine Bluff,-5.110
+Peter Colliard,Fairfield University,-5.117
+Tyler Flematti,University of Delaware,-5.130
+Kilian Salgado,Alcorn State University,-5.140
+Peter Odeghami,Hampton University,-5.158
+Matt Bouggy,Purdue University,-5.163
+David Ogon,Coppin State College,-5.173
+Othen Lima,Tennessee Tech University,-5.175
+Laguna Foster,Howard University,-5.181
+Josh Goodwin,Idaho State University,-5.209
+Lucas Krusinski,Morgan State University,-5.217
+Grant Maddox,Tennessee State University,-5.233
+Marc Sodini,Wright State University,-5.327
+Trent Reiman,Eastern Illinois University,-5.333
+Andre Buchanan-Dempsey,Univ. of Incarnate Word,-5.346
+Edwin Kanu,Univ. of Maryland Eastern Shore,-5.347
+Alex Romaine,University of Hartford,-5.361
+Fabrice George,North Carolina Central University,-5.389
+Joe Diorio,Siena College,-5.391
+Nicholas Brobst,Univ. of Maryland Eastern Shore,-5.399
+Devin James,Coppin State College,-5.399
+Abdullah Abdulmohsen,Bryant University,-5.399
+D. Johnson,Alabama A&M University,-5.406
+Anirudh Yadav,Prairie View A&M University,-5.435
+Joseph Kavalovski,Fordham University,-5.436
+Matthew Begley,Rider University,-5.486
+M. Monray,Alabama A&M University,-5.488
+Nathan Greteman,"Nebraska, Omaha",-5.529
+Oliver Dedding,The Citadel,-5.535
+Julian Chavez,Chicago State University,-5.541
+Joe Daniels,Tennessee State University,-5.549
+Mason Bourbon,Wright State University,-5.601
+Geoff Tulloch,Belmont University,-5.606
+Mark Robinson,La Salle University,-5.609
+David Constantinescu,Eastern Illinois University,-5.623
+Joshua Bailey,North Carolina A&T State University,-5.637
+Simon Danyluk,Univ. of North Dakota,-5.662
+Jonathan Dingle,Prairie View A&M University,-5.662
+Manuel Belda,University of South Alabama,-5.672
+Matt Renzi,University of Delaware,-5.688
+Bassem El Makawi,Youngstown State University,-5.695
+Harris Durkovic,Fordham University,-5.723
+Sebastian Barbero,Quinnipiac University,-5.734
+Oliver Bellomi,St. Peter's University,-5.750
+Patrick Thomas,Coppin State College,-5.757
+Myron Davis,Howard University,-5.783
+Rich DeGregoris,Holy Cross,-5.822
+Dylan Karchere-Sun,Lehigh University,-5.827
+Bharani Sankar,Longwood University,-5.873
+Jackson Pride,The Citadel,-5.884
+Jeremy Van Herwarde,Rider University,-5.906
+Ernesto Arguello,Bryant University,-5.915
+Lukas Vanzura,"Nebraska, Omaha",-5.915
+Jorge Del Rey Rojas,St. Peter's University,-5.920
+Jason Ulacio,Florida A&M University,-5.921
+Chan Ton Phan,Rider University,-5.935
+Darren Mast,Mount St. Mary's University,-5.937
+Jualon Greig,Univ. of Arkansas Pine Bluff,-5.950
+Thomas MacLeod,La Salle University,-5.989
+Anjan Kashyab,Murray State University,-6.011
+Daryl Hale,Tennessee State University,-6.015
+William Jay,Morgan State University,-6.016
+Jordan Dingle,Alabama A&M University,-6.033
+Stefan Vojnic,Alabama State University,-6.057
+Kyle Scott,North Carolina A&T State University,-6.059
+Edward Butler,Univ. of Arkansas Pine Bluff,-6.061
+Richie Agarwal,Jackson State University,-6.111
+Ignace Warson,"Nebraska, Omaha",-6.115
+Keiston France,North Carolina A&T State University,-6.134
+Andrew Proto,St. Francis College (New York),-6.137
+Sagar Sathyanarayaman,Morgan State University,-6.172
+Dan Sablik,Elon University,-6.177
+Alex Burbine,Siena College,-6.192
+Jimmy Ye,Holy Cross,-6.213
+Connor Grady,The Citadel,-6.222
+Gregoire Balenci,Grand Canyon University,-6.248
+Nico Sorrell,Howard University,-6.251
+Aldred Carroll,Univ. of Arkansas Pine Bluff,-6.258
+Sacha Singh,St. Francis College (New York),-6.263
+Alessandro Saglia,Siena College,-6.309
+Jorge Rodriguez,St. Peter's University,-6.387
+Marco Paulo Castro,South Dakota State,-6.414
+Alberto Sanz-Fernandez,University of Idaho,-6.449
+Matt Funiciello,Siena College,-6.495
+A. Carroll,Univ. of Arkansas Pine Bluff,-6.499
+Andrew Ginzberg,University of Connecticut,-6.600
+Sebastian Rojas,St. Peter's University,-6.609
+Anthony Timberlake,Western Illinois University,-6.715
+Rashley Yeremia,Chicago State University,-6.743
+Zach Wilder,University of Mississippi,-6.747
+Miguel Martin,Jackson State University,-6.748
+Hernan Geria,Jackson State University,-6.820
+M. Winroy,Alabama A&M University,-6.857
+Evan Borowski,Austin Peay State University,-6.858
+Steve Murray,Rider University,-6.871
+Joey Brander,Fordham University,-6.912
+No Player,Tennessee State University,-6.974
+Chris Bunch,Western Illinois University,-6.995
+Hawkins Owens,Howard University,-7.016
+Spencer Nielsen,Southern Utah University,-7.018
+Stuart Macleod,Hofstra University,-7.114
+Joe Bove,The Citadel,-7.124
+John Ellis,"Nebraska, Omaha",-7.189
+Aleks Mitric,Murray State University,-7.361
+Jonathan Paredes,St. Peter's University,-7.513
+Milos Vukicevic,St. Francis College (New York),-7.566
+Surya Sawhney,Western Illinois University,-7.656
+Jamal Hoyte,North Carolina Central University,-7.797
+Shaheed Mourillon,Norfolk State University,-8.039
+Jacob Sanders,Western Illinois University,-8.185
+Ryan Templet,The Citadel,-8.322
+Srdjan Troscic,Murray State University,-8.584
+Ross Smith,Western Illinois University,-8.619
