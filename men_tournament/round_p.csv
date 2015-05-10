@@ -1,161 +1,65 @@
 rd,name,p
-3,Baylor,0.861
-3,USC,0.860
-3,Wake Forest,0.834
-3,Illinois,0.826
-3,Virginia,0.821
-3,Oklahoma,0.818
-3,Texas A&M,0.747
-3,TCU,0.727
-3,Georgia,0.701
-3,Ohio State,0.688
-3,UCLA,0.682
-3,North Carolina,0.623
-3,Texas,0.620
-3,Columbia,0.604
-3,Duke,0.586
-3,Virginia Tech,0.576
-3,South Florida,0.424
-3,Stanford,0.414
-3,Mississippi,0.396
-3,California,0.380
-3,Mississippi St.,0.377
-3,Texas Tech,0.318
-3,Vanderbilt,0.312
-3,Florida State,0.299
-3,Tulsa,0.273
-3,Oklahoma State,0.253
-3,Northwestern,0.182
-3,Minnesota,0.179
-3,Drake,0.174
-3,Pepperdine,0.166
-3,San Diego State,0.140
-3,LSU,0.139
-4,Baylor,0.671
-4,Virginia,0.657
-4,Oklahoma,0.603
-4,USC,0.578
-4,Illinois,0.556
-4,Texas A&M,0.463
-4,Wake Forest,0.458
-4,Georgia,0.429
-4,TCU,0.413
-4,Ohio State,0.345
-4,Texas,0.307
-4,North Carolina,0.269
-4,UCLA,0.253
-4,Duke,0.245
-4,Columbia,0.174
-4,Virginia Tech,0.174
-4,California,0.144
-4,Stanford,0.142
-4,Mississippi St.,0.122
-4,Florida State,0.121
-4,South Florida,0.104
-4,Vanderbilt,0.100
-4,Tulsa,0.095
-4,Oklahoma State,0.092
-4,Mississippi,0.085
-4,Minnesota,0.084
-4,Northwestern,0.072
-4,Texas Tech,0.072
-4,Drake,0.054
-4,LSU,0.051
-4,San Diego State,0.035
-4,Pepperdine,0.034
-5,Virginia,0.485
-5,Baylor,0.465
-5,Oklahoma,0.429
-5,Illinois,0.346
-5,USC,0.277
-5,Wake Forest,0.223
-5,TCU,0.206
-5,Texas A&M,0.199
-5,Georgia,0.194
-5,UCLA,0.133
-5,North Carolina,0.132
-5,Ohio State,0.129
-5,Texas,0.119
-5,Duke,0.087
-5,Columbia,0.080
-5,Virginia Tech,0.075
-5,Mississippi St.,0.045
-5,California,0.041
-5,Stanford,0.041
-5,South Florida,0.038
-5,Florida State,0.033
-5,Minnesota,0.033
-5,Mississippi,0.031
-5,Tulsa,0.027
-5,Northwestern,0.026
-5,Texas Tech,0.025
-5,Vanderbilt,0.023
-5,Oklahoma State,0.020
-5,LSU,0.014
-5,Drake,0.014
-5,Pepperdine,0.006
-5,San Diego State,0.005
-6,Oklahoma,0.293
-6,Virginia,0.293
-6,Baylor,0.292
-6,Illinois,0.179
-6,USC,0.142
-6,Georgia,0.104
-6,Wake Forest,0.095
-6,TCU,0.090
-6,Texas A&M,0.084
-6,UCLA,0.065
-6,Texas,0.056
-6,North Carolina,0.052
-6,Ohio State,0.047
-6,Duke,0.033
-6,Virginia Tech,0.028
-6,Columbia,0.026
-6,California,0.015
-6,Stanford,0.013
-6,Mississippi St.,0.013
-6,South Florida,0.012
-6,Florida State,0.011
-6,Northwestern,0.009
-6,Minnesota,0.009
-6,Texas Tech,0.008
-6,Mississippi,0.008
-6,Tulsa,0.006
-6,Vanderbilt,0.005
-6,Oklahoma State,0.004
-6,Drake,0.003
-6,LSU,0.003
-6,Pepperdine,0.001
-6,San Diego State,0.001
-7,Virginia,0.196
-7,Baylor,0.196
-7,Oklahoma,0.159
-7,USC,0.079
-7,Illinois,0.078
-7,Georgia,0.041
-7,Texas A&M,0.041
-7,Wake Forest,0.033
-7,TCU,0.032
+4,Baylor,0.809
+4,Virginia,0.774
+4,Oklahoma,0.694
+4,USC,0.640
+4,Illinois,0.633
+4,Georgia,0.568
+4,Texas A&M,0.565
+4,TCU,0.513
+4,Wake Forest,0.487
+4,Ohio State,0.435
+4,Texas,0.432
+4,North Carolina,0.367
+4,Duke,0.360
+4,UCLA,0.306
+4,Columbia,0.226
+4,South Florida,0.191
+5,Virginia,0.549
+5,Baylor,0.542
+5,Oklahoma,0.471
+5,Illinois,0.375
+5,USC,0.281
+5,TCU,0.238
+5,Georgia,0.232
+5,Wake Forest,0.219
+5,Texas A&M,0.215
+5,North Carolina,0.168
+5,Texas,0.150
+5,UCLA,0.147
+5,Ohio State,0.142
+5,Duke,0.114
+5,Columbia,0.094
+5,South Florida,0.063
+6,Baylor,0.327
+6,Virginia,0.319
+6,Oklahoma,0.314
+6,Illinois,0.184
+6,USC,0.135
+6,Georgia,0.121
+6,TCU,0.097
+6,Wake Forest,0.086
+6,Texas A&M,0.086
+6,UCLA,0.069
+6,Texas,0.068
+6,North Carolina,0.061
+6,Ohio State,0.048
+6,Duke,0.040
+6,Columbia,0.028
+6,South Florida,0.018
+7,Baylor,0.215
+7,Virginia,0.209
+7,Oklahoma,0.164
+7,Illinois,0.077
+7,USC,0.073
+7,Georgia,0.045
+7,Texas A&M,0.040
+7,TCU,0.033
+7,Wake Forest,0.028
 7,UCLA,0.023
+7,Texas,0.021
 7,Ohio State,0.020
-7,Texas,0.019
-7,North Carolina,0.016
-7,Duke,0.014
-7,Virginia Tech,0.011
+7,North Carolina,0.018
+7,Duke,0.016
 7,Columbia,0.010
-7,California,0.004
-7,South Florida,0.004
-7,Stanford,0.004
-7,Minnesota,0.003
-7,Florida State,0.003
-7,Mississippi St.,0.003
-7,Northwestern,0.002
-7,Mississippi,0.002
-7,Texas Tech,0.002
-7,Tulsa,0.001
-7,Oklahoma State,0.001
-7,Vanderbilt,0.001
-7,LSU,0.001
-7,San Diego State,0.000
-7,Drake,0.000
-7,Pepperdine,0.000
+7,South Florida,0.006
