@@ -1,71 +1,31 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  4 | Baylor         | 0.809
-  4 | Virginia       | 0.774
-  4 | Oklahoma       | 0.694
-  4 | USC            | 0.640
-  4 | Illinois       | 0.633
-  4 | Georgia        | 0.568
-  4 | Texas A&M      | 0.565
-  4 | TCU            | 0.513
-  4 | Wake Forest    | 0.487
-  4 | Ohio State     | 0.435
-  4 | Texas          | 0.432
-  4 | North Carolina | 0.367
-  4 | Duke           | 0.360
-  4 | UCLA           | 0.306
-  4 | Columbia       | 0.226
-  4 | South Florida  | 0.191
-  5 | Virginia       | 0.549
-  5 | Baylor         | 0.542
-  5 | Oklahoma       | 0.471
-  5 | Illinois       | 0.375
-  5 | USC            | 0.281
-  5 | TCU            | 0.238
-  5 | Georgia        | 0.232
-  5 | Wake Forest    | 0.219
-  5 | Texas A&M      | 0.215
-  5 | North Carolina | 0.168
-  5 | Texas          | 0.150
-  5 | UCLA           | 0.147
-  5 | Ohio State     | 0.142
-  5 | Duke           | 0.114
-  5 | Columbia       | 0.094
-  5 | South Florida  | 0.063
-  6 | Baylor         | 0.327
-  6 | Virginia       | 0.319
-  6 | Oklahoma       | 0.314
-  6 | Illinois       | 0.184
-  6 | USC            | 0.135
-  6 | Georgia        | 0.121
-  6 | TCU            | 0.097
-  6 | Wake Forest    | 0.086
-  6 | Texas A&M      | 0.086
-  6 | UCLA           | 0.069
-  6 | Texas          | 0.068
-  6 | North Carolina | 0.061
-  6 | Ohio State     | 0.048
-  6 | Duke           | 0.040
-  6 | Columbia       | 0.028
-  6 | South Florida  | 0.018
-  7 | Baylor         | 0.215
-  7 | Virginia       | 0.209
-  7 | Oklahoma       | 0.164
-  7 | Illinois       | 0.077
-  7 | USC            | 0.073
-  7 | Georgia        | 0.045
-  7 | Texas A&M      | 0.040
-  7 | TCU            | 0.033
-  7 | Wake Forest    | 0.028
-  7 | UCLA           | 0.023
-  7 | Texas          | 0.021
-  7 | Ohio State     | 0.020
-  7 | North Carolina | 0.018
-  7 | Duke           | 0.016
-  7 | Columbia       | 0.010
-  7 | South Florida  | 0.006
-(64 rows)
+  5 | Virginia       | 0.686
+  5 | Oklahoma       | 0.652
+  5 | Baylor         | 0.626
+  5 | TCU            | 0.549
+  5 | North Carolina | 0.451
+  5 | USC            | 0.374
+  5 | Georgia        | 0.348
+  5 | Texas A&M      | 0.314
+  6 | Oklahoma       | 0.461
+  6 | Virginia       | 0.373
+  6 | Baylor         | 0.351
+  6 | TCU            | 0.199
+  6 | Georgia        | 0.196
+  6 | USC            | 0.163
+  6 | North Carolina | 0.144
+  6 | Texas A&M      | 0.112
+  7 | Virginia       | 0.239
+  7 | Oklahoma       | 0.228
+  7 | Baylor         | 0.226
+  7 | USC            | 0.086
+  7 | Georgia        | 0.068
+  7 | TCU            | 0.062
+  7 | Texas A&M      | 0.051
+  7 | North Carolina | 0.039
+(24 rows)
 
-COPY 64
+COPY 24
 COMMIT

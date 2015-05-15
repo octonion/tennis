@@ -1,23 +1,15 @@
 BEGIN
    team_name    |   p   
 ----------------+-------
- Baylor         | 0.215
- Virginia       | 0.209
- Oklahoma       | 0.164
- Illinois       | 0.077
- USC            | 0.073
- Georgia        | 0.045
- Texas A&M      | 0.040
- TCU            | 0.033
- Wake Forest    | 0.028
- UCLA           | 0.023
- Texas          | 0.021
- Ohio State     | 0.020
- North Carolina | 0.018
- Duke           | 0.016
- Columbia       | 0.010
- South Florida  | 0.006
-(16 rows)
+ Virginia       | 0.239
+ Oklahoma       | 0.228
+ Baylor         | 0.226
+ USC            | 0.086
+ Georgia        | 0.068
+ TCU            | 0.062
+ Texas A&M      | 0.051
+ North Carolina | 0.039
+(8 rows)
 
-COPY 16
+COPY 8
 COMMIT
