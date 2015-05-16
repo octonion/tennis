@@ -1,7 +1,7 @@
 rd,name,p
-4,Clemson,0.978
 4,USC,0.720
 4,North Carolina,0.645
+4,Vanderbilt,0.639
 4,Florida,0.626
 4,UCLA,0.624
 4,Baylor,0.622
@@ -12,54 +12,54 @@ rd,name,p
 4,Virginia,0.378
 4,Texas A&M,0.376
 4,Oklahoma State,0.374
+4,Clemson,0.361
 4,Miami (FL),0.355
 4,Texas Tech,0.280
-4,Vanderbilt,0.022
-5,Florida,0.415
 5,USC,0.390
-5,Clemson,0.382
 5,North Carolina,0.371
+5,Florida,0.355
 5,Baylor,0.353
+5,Vanderbilt,0.339
 5,UCLA,0.326
 5,Georgia,0.311
 5,California,0.292
 5,Stanford,0.215
-5,Oklahoma State,0.202
 5,Michigan,0.182
 5,Virginia,0.169
+5,Oklahoma State,0.165
 5,Miami (FL),0.152
 5,Texas A&M,0.150
+5,Clemson,0.141
 5,Texas Tech,0.089
-5,Vanderbilt,0.000
-6,USC,0.243
-6,Baylor,0.221
+6,USC,0.229
+6,Baylor,0.209
 6,North Carolina,0.207
-6,Florida,0.207
+6,Florida,0.177
 6,UCLA,0.172
 6,Georgia,0.164
+6,Vanderbilt,0.163
 6,California,0.153
-6,Clemson,0.133
 6,Stanford,0.101
-6,Virginia,0.086
 6,Michigan,0.081
-6,Oklahoma State,0.076
+6,Virginia,0.079
 6,Miami (FL),0.062
+6,Oklahoma State,0.062
 6,Texas A&M,0.060
-6,Texas Tech,0.035
-6,Vanderbilt,0.000
-7,USC,0.131
-7,Baylor,0.120
-7,North Carolina,0.118
-7,Florida,0.104
-7,UCLA,0.094
-7,Georgia,0.090
-7,California,0.083
-7,Stanford,0.050
-7,Clemson,0.046
-7,Michigan,0.037
-7,Virginia,0.036
-7,Oklahoma State,0.028
-7,Miami (FL),0.027
+6,Clemson,0.049
+6,Texas Tech,0.032
+7,USC,0.124
+7,North Carolina,0.116
+7,Baylor,0.114
+7,UCLA,0.092
+7,Florida,0.089
+7,Georgia,0.088
+7,California,0.081
+7,Vanderbilt,0.079
+7,Stanford,0.049
+7,Michigan,0.036
+7,Virginia,0.034
+7,Miami (FL),0.026
 7,Texas A&M,0.025
-7,Texas Tech,0.011
-7,Vanderbilt,0.000
+7,Oklahoma State,0.023
+7,Clemson,0.017
+7,Texas Tech,0.010
