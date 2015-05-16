@@ -2,70 +2,50 @@ BEGIN
  rd |      name      |   p   
 ----+----------------+-------
   4 | USC            | 0.720
-  4 | North Carolina | 0.645
   4 | Vanderbilt     | 0.639
   4 | Florida        | 0.626
-  4 | UCLA           | 0.624
   4 | Baylor         | 0.622
-  4 | Georgia        | 0.587
-  4 | California     | 0.551
-  4 | Stanford       | 0.449
-  4 | Michigan       | 0.413
   4 | Virginia       | 0.378
-  4 | Texas A&M      | 0.376
   4 | Oklahoma State | 0.374
   4 | Clemson        | 0.361
-  4 | Miami (FL)     | 0.355
   4 | Texas Tech     | 0.280
+  5 | Georgia        | 0.557
+  5 | North Carolina | 0.530
+  5 | UCLA           | 0.470
+  5 | Stanford       | 0.443
   5 | USC            | 0.390
-  5 | North Carolina | 0.371
   5 | Florida        | 0.355
   5 | Baylor         | 0.353
   5 | Vanderbilt     | 0.339
-  5 | UCLA           | 0.326
-  5 | Georgia        | 0.311
-  5 | California     | 0.292
-  5 | Stanford       | 0.215
-  5 | Michigan       | 0.182
   5 | Virginia       | 0.169
   5 | Oklahoma State | 0.165
-  5 | Miami (FL)     | 0.152
-  5 | Texas A&M      | 0.150
   5 | Clemson        | 0.141
   5 | Texas Tech     | 0.089
+  6 | North Carolina | 0.292
+  6 | Georgia        | 0.271
+  6 | UCLA           | 0.246
   6 | USC            | 0.229
   6 | Baylor         | 0.209
-  6 | North Carolina | 0.207
+  6 | Stanford       | 0.190
   6 | Florida        | 0.177
-  6 | UCLA           | 0.172
-  6 | Georgia        | 0.164
   6 | Vanderbilt     | 0.163
-  6 | California     | 0.153
-  6 | Stanford       | 0.101
-  6 | Michigan       | 0.081
   6 | Virginia       | 0.079
-  6 | Miami (FL)     | 0.062
   6 | Oklahoma State | 0.062
-  6 | Texas A&M      | 0.060
   6 | Clemson        | 0.049
   6 | Texas Tech     | 0.032
-  7 | USC            | 0.124
-  7 | North Carolina | 0.116
-  7 | Baylor         | 0.114
-  7 | UCLA           | 0.092
-  7 | Florida        | 0.089
-  7 | Georgia        | 0.088
-  7 | California     | 0.081
-  7 | Vanderbilt     | 0.079
-  7 | Stanford       | 0.049
-  7 | Michigan       | 0.036
-  7 | Virginia       | 0.034
-  7 | Miami (FL)     | 0.026
-  7 | Texas A&M      | 0.025
-  7 | Oklahoma State | 0.023
-  7 | Clemson        | 0.017
-  7 | Texas Tech     | 0.010
-(64 rows)
+  7 | North Carolina | 0.164
+  7 | Georgia        | 0.145
+  7 | UCLA           | 0.131
+  7 | USC            | 0.119
+  7 | Baylor         | 0.110
+  7 | Stanford       | 0.091
+  7 | Florida        | 0.085
+  7 | Vanderbilt     | 0.075
+  7 | Virginia       | 0.032
+  7 | Oklahoma State | 0.022
+  7 | Clemson        | 0.016
+  7 | Texas Tech     | 0.009
+(44 rows)
 
-COPY 64
+COPY 44
 COMMIT
