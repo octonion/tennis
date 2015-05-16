@@ -1,45 +1,25 @@
 rd,name,p
-4,USC,0.720
-4,Vanderbilt,0.639
-4,Florida,0.626
-4,Baylor,0.622
-4,Virginia,0.378
-4,Oklahoma State,0.374
-4,Clemson,0.361
-4,Texas Tech,0.280
 5,Georgia,0.557
 5,North Carolina,0.530
+5,Florida,0.518
+5,Baylor,0.505
+5,USC,0.495
+5,Vanderbilt,0.482
 5,UCLA,0.470
 5,Stanford,0.443
-5,USC,0.390
-5,Florida,0.355
-5,Baylor,0.353
-5,Vanderbilt,0.339
-5,Virginia,0.169
-5,Oklahoma State,0.165
-5,Clemson,0.141
-5,Texas Tech,0.089
 6,North Carolina,0.292
+6,Baylor,0.279
 6,Georgia,0.271
+6,USC,0.271
 6,UCLA,0.246
-6,USC,0.229
-6,Baylor,0.209
+6,Florida,0.237
+6,Vanderbilt,0.212
 6,Stanford,0.190
-6,Florida,0.177
-6,Vanderbilt,0.163
-6,Virginia,0.079
-6,Oklahoma State,0.062
-6,Clemson,0.049
-6,Texas Tech,0.032
-7,North Carolina,0.164
-7,Georgia,0.145
-7,UCLA,0.131
-7,USC,0.119
-7,Baylor,0.110
-7,Stanford,0.091
-7,Florida,0.085
-7,Vanderbilt,0.075
-7,Virginia,0.032
-7,Oklahoma State,0.022
-7,Clemson,0.016
-7,Texas Tech,0.009
+7,North Carolina,0.155
+7,Baylor,0.147
+7,USC,0.141
+7,Georgia,0.137
+7,UCLA,0.123
+7,Florida,0.114
+7,Vanderbilt,0.098
+7,Stanford,0.085
