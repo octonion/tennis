@@ -1,25 +1,9 @@
 rd,name,p
-5,Georgia,0.557
-5,North Carolina,0.530
-5,Florida,0.518
-5,Baylor,0.505
-5,USC,0.495
-5,Vanderbilt,0.482
-5,UCLA,0.470
-5,Stanford,0.443
-6,North Carolina,0.292
-6,Baylor,0.279
-6,Georgia,0.271
-6,USC,0.271
-6,UCLA,0.246
-6,Florida,0.237
-6,Vanderbilt,0.212
-6,Stanford,0.190
-7,North Carolina,0.155
-7,Baylor,0.147
-7,USC,0.141
-7,Georgia,0.137
-7,UCLA,0.123
-7,Florida,0.114
-7,Vanderbilt,0.098
-7,Stanford,0.085
+6,USC,0.558
+6,Georgia,0.503
+6,UCLA,0.497
+6,Vanderbilt,0.442
+7,USC,0.289
+7,Georgia,0.256
+7,UCLA,0.252
+7,Vanderbilt,0.204
