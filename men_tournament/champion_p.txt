@@ -1,11 +1,9 @@
 BEGIN
  team_name |   p   
 -----------+-------
- Oklahoma  | 0.312
- Baylor    | 0.304
- Virginia  | 0.299
- TCU       | 0.085
-(4 rows)
+ Virginia  | 0.545
+ Oklahoma  | 0.455
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT

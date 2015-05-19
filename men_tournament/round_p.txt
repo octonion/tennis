@@ -1,15 +1,9 @@
 BEGIN
  rd |   name   |   p   
 ----+----------+-------
-  6 | Oklahoma | 0.688
-  6 | Baylor   | 0.503
-  6 | Virginia | 0.497
-  6 | TCU      | 0.312
-  7 | Oklahoma | 0.312
-  7 | Baylor   | 0.304
-  7 | Virginia | 0.299
-  7 | TCU      | 0.085
-(8 rows)
+  7 | Virginia | 0.545
+  7 | Oklahoma | 0.455
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT
