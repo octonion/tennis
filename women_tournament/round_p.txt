@@ -1,15 +1,9 @@
 BEGIN
  rd |    name    |   p   
 ----+------------+-------
-  6 | USC        | 0.558
-  6 | Georgia    | 0.503
-  6 | UCLA       | 0.497
-  6 | Vanderbilt | 0.442
-  7 | USC        | 0.289
-  7 | Georgia    | 0.256
-  7 | UCLA       | 0.252
-  7 | Vanderbilt | 0.204
-(8 rows)
+  7 | UCLA       | 0.538
+  7 | Vanderbilt | 0.462
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT

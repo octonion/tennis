@@ -1,11 +1,9 @@
 BEGIN
  team_name  |   p   
 ------------+-------
- USC        | 0.289
- Georgia    | 0.256
- UCLA       | 0.252
- Vanderbilt | 0.204
-(4 rows)
+ UCLA       | 0.538
+ Vanderbilt | 0.462
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT
