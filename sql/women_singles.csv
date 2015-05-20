@@ -1,0 +1,2563 @@
+rk,player,team,str
+1,Robin Anderson,UCLA,6881.78
+2,Carol Zhao,Stanford,4659.46
+3,Brooke Austin,University of Florida,3217.83
+4,Jamie Loeb,North Carolina,2633.11
+5,Julia Elbaba,University of Virginia,2596.59
+6,Maegan Manasse,California,2335.29
+7,Lauren Herring,University of Georgia,1637.48
+8,Lorraine Guillermo,Pepperdine,1385.74
+9,Caroline Doyle,Stanford,1279.41
+10,Stephanie Wagner,University of Miami (Florida),1208.25
+11,Joana Eidukonyte,Clemson University,1181.15
+12,Danielle Collins,University of Virginia,1125.42
+13,Josie Kuhlman,University of Florida,1108.17
+14,Hayley Carter,North Carolina,992.17
+15,Emina Bektas,University of Michigan,963.67
+16,Viktoriya Lushkova,Oklahoma State University,958.05
+17,Caroline Price,North Carolina,919.37
+18,Sydney Campbell,Vanderbilt University,896.35
+19,Blair Shankle,Baylor University,880.01
+20,Sabrina Santamaria,University of Southern California,860.21
+21,Jennifer Brady,UCLA,853.23
+22,Giuliana Olmos,University of Southern California,852.22
+23,Taylor Davidson,Stanford,840.58
+24,Klara Fabikova,California,832.77
+25,Julia Jones,University of Mississippi,786.56
+26,Chanelle Van Nguyen,UCLA,727.53
+27,Ema Burgic,Baylor University,700.24
+28,Leeza Nemchinov,College of William and Mary,690.65
+29,Sinead Lohan,University of Miami (Florida),689.72
+30,Maya Jansen,University of Alabama,668.22
+31,Cindy Chala,Virginia Commonwealth University,660.63
+32,Natalie Beazant,Rice University,654.09
+33,Astra Sharma,Vanderbilt University,637.00
+34,Ronit Yurovsky,University of Michigan,634.42
+35,Brianna Morgan,University of Florida,548.80
+36,Simona Parajova,TCU,541.57
+37,Kennedy Shaffer,University of Georgia,515.32
+38,Catherine Harrison,UCLA,513.68
+39,Taylor Ng,Dartmouth College,489.93
+40,Stephanie Nauta,University of Virginia,457.96
+41,Lynn Chi,California,456.98
+42,Joana Vale Costa,LSU,438.03
+43,Denise Starr,California,423.98
+44,Romy Köelzer,Clemson University,416.29
+45,Jasmine Lee,Mississippi State University,413.61
+46,Kourtney Keegan,University of Florida,408.18
+47,Zsofi Susanyi,California,407.74
+48,Desirae Krawczyk,Arizona State University,400.00
+49,Zoë Scandalis,University of Southern California,387.59
+50,Beatrice Gumulya,Clemson University,385.34
+51,Kyle McPhillips,UCLA,365.07
+52,Ester Goldfeld,Duke University,356.27
+53,Erin Routliffe,University of Alabama,347.88
+54,Rachel Pierson,Texas A&M University,343.89
+55,Skylar Kuykendall,LSU,336.58
+56,Borislava Botusharova,Old Dominion University,331.26
+57,Beatrice Capra,Duke University,330.89
+58,Breaunna Addison,University of Texas at Austin,325.97
+59,Alizee Michaud,Stetson University,324.59
+60,Frances Altick,Vanderbilt University,321.88
+61,Despoina Vogasari,University of Houston,320.43
+62,Sophie Watts,Fresno State,315.36
+63,Lauren Marker,University of Arizona,313.46
+64,Hannah King,University of Georgia,313.34
+65,Leolia JeanJean,Baylor University,310.54
+66,Francesca Fusinato,Virginia Tech,306.98
+67,Sarah Lee,University of Michigan,301.17
+68,Ellen Perez,University of Georgia,292.39
+69,Tereza Bekerova,University of Utah,269.92
+70,Belinda Woolcock,University of Florida,266.61
+71,Paige Hourigan,Georgia Tech,265.84
+72,Lucia Butkovska,University of Portland,264.51
+73,Danielle Spielmann,University of Alabama,260.83
+74,Caroline Brinson,University of Georgia,259.22
+75,Ellen Tsay,Stanford,255.61
+76,Gabby Smith,University of Southern California,250.42
+77,Vladica Babic,Oklahoma State University,248.72
+78,Saska Gavrilovska,Texas A&M University,245.62
+79,Samantha Harris,Duke University,243.68
+80,Courtney Colton,Vanderbilt University,243.06
+81,Yuliya Lysa,University of Arkansas,242.60
+82,Lindsay Graff,Princeton University,240.06
+83,Karla Popovic,California,237.04
+84,Meredith Xepoleas,University of Southern California,231.62
+85,Elixane Lechemia,University of South Carolina,231.03
+86,Whitney Kay,North Carolina,228.91
+87,Tess Bernard-Feigenbaum,Purdue University,226.34
+88,Lynn Kiro,Texas Tech University,225.27
+89,Arianne Hartono,University of Mississippi,219.12
+90,Andrea Ka,Univ. of San Francisco,208.39
+91,Gabriela Talaba,Texas Tech University,206.08
+92,Madison Westby,University of Southern California,191.45
+93,Lina Lileikite,University of Miami (Florida),191.11
+94,Pleun Burgmans,Auburn University,187.11
+95,Rutuja Bhosale,Texas A&M University,183.51
+96,Daneika Borthwick,Florida State University,173.39
+97,Nikki Kallenberg,Harvard University,171.71
+98,Yana Koroleva,Florida International University (FIU),169.79
+99,Kiah Generette,Baylor University,169.54
+100,Elena Kordolaimi,University of Houston,168.92
+101,Marie Casares,Vanderbilt University,168.63
+102,Katarina Adamovic,Oklahoma State University,168.54
+103,Stefanie Tan,TCU,164.02
+104,Kenna Kilgo,Texas Tech University,160.67
+105,Yulia Shupenia,DePaul University,160.10
+106,Alex Najarian,University of Michigan,158.96
+107,Lexi Borr,Boston College,158.78
+108,Maiar Sherif Ahmed,Fresno State,157.65
+109,Ilinca Stoica,Virginia Tech,153.45
+110,Gabriella Castaneda,Florida State University,152.68
+111,Sarah Dvorak,Texas Tech University,150.78
+112,Kaitlin Ray,UCLA,149.74
+113,Jessy Rompies,Clemson University,147.47
+114,Skylar Morton,University of Virginia,142.26
+115,Sandy Niehaus,Ohio State University,141.74
+116,Aldila Sutjiadi,University of Kentucky,132.20
+117,Mai El Kamash,University of Mississippi,129.63
+118,Ashleigh Antal,Vanderbilt University,128.04
+119,Monique Albuquerque,University of Miami (Florida),127.47
+120,Johnnise Renaud,Georgia Tech,127.06
+121,Clementina Riobueno,University of Miami (Florida),125.01
+122,Terri Fleming,UCLA,124.12
+123,Mariana Gould,University of Georgia,123.52
+124,Gabriella De Santis,Ohio State University,122.63
+125,Elena Cerezo-Codina,Virginia Tech,121.47
+126,Ines Deheza,Texas A&M University,121.34
+127,Cindy Nguyen,"Univ. of Hawaii, Manoa",120.96
+128,Krista Hardebeck,Stanford,116.63
+129,Peggy Porter,University of Florida,116.59
+130,Shannon Hudson,University of Arkansas,115.99
+131,Jeltje Loomans,College of William and Mary,115.34
+132,Mami Adachi,University of Kentucky,114.85
+133,Maeva Razakasoa,Long Beach State University,114.48
+134,Rasheeda McAdoo,Georgia Tech,114.32
+135,Silvia Garcia,University of Georgia,113.88
+136,Kanika Vaidya,Columbia University,112.78
+137,Wendy Zhang,University of Miami (Florida),112.76
+138,Lily Miyazaki,University of Oklahoma,112.68
+139,Sabrina Federici,Texas Tech University,110.25
+140,Asiya Dair,Boston College,110.16
+141,Quinn Gleason,University of Notre Dame,108.28
+142,Shelby Talcott,University of Iowa,108.12
+143,Nelle Youel,Northern Illinois University,107.66
+144,Rachel Kahan,Duke University,106.80
+145,Georgiana Patrasc,Mississippi State University,105.36
+146,Hanna Yu,Yale University,105.03
+147,Laura Gulbe,Pepperdine,103.65
+148,Stefani Stojic,University of Florida,101.61
+149,Dayna Lord,Brown University,101.55
+150,Jessica Wacnik,Boston College,100.81
+151,Kimmy Guerin,Wake Forest University,100.42
+152,Erin Larner,Northwestern University,99.91
+153,Maci Epstein,University of Virginia,99.58
+154,Miho Kowase,Ohio State University,98.50
+155,Patricia Fargas,DePaul University,97.88
+156,Luicelena Perez,University of Alabama,95.68
+157,Leighann Sahagun,Arizona State University,94.11
+158,Alex Chatt,Northwestern University,93.19
+159,Alicia Barnett,Northwestern University,92.96
+160,Abigail Owens,LSU,92.55
+161,Joanna Henderson,University of Tennessee,92.17
+162,Maja Mladenovic,University of Portland,90.19
+163,Julija Lukac,University of Washington,88.83
+164,Kassidy Jump,Arizona State University,87.49
+165,Kate Vialle,North Carolina,86.18
+166,Stefania Hristov,Texas A&M University,86.10
+167,Neda Koprcina,University of Texas at Austin,85.79
+168,Meghan Blevins,University of South Carolina,85.72
+169,Lok Sze Leung,Northwestern University,84.71
+170,Anki Wind,University of Memphis,83.91
+171,Katherine Ip,Rice University,83.13
+172,Monica Robinson,University of Notre Dame,83.06
+173,Rachael James-Baker,Baylor University,82.84
+174,Caroline Daxhelet,Virginia Tech,82.84
+175,Augustina Eskenazi,University of Pennsylvania,82.43
+176,Daniela Vidal,Purdue University,81.14
+177,Natalia Maynetto,University of Alabama,80.31
+178,Kelley Anderson,Baylor University,79.99
+179,Carla Tur Mari,Oklahoma State University,79.58
+180,Natalie Suk,University of Mississippi,78.64
+181,Kelsey Laurente,Oklahoma State University,76.85
+182,Nadia Ravita,University of Kentucky,76.65
+183,Kareena Manji,Saint Mary's College of California,76.41
+184,Yukako Noi,Florida State University,74.27
+185,Rebecca Pedrazzi,Wichita State University,73.52
+186,McKenzie Davis,Utah State University,72.04
+187,Gabriela Porubin,Wichita State University,72.01
+188,Julyette Steur,University of Colorado,69.64
+189,Lina Padegimaite,University of Texas at Austin,69.62
+190,Apichaya Runglerdkriangkrai,Pepperdine,69.33
+191,Anna Mamalat,Texas A&M University,69.23
+192,Sara Castellano,Kansas State,67.84
+193,Caroline Dailey,University of South Carolina,67.26
+194,Madeleine Hamilton,Yale University,66.94
+195,Katie Klyczek,Indiana University-Bloomington,66.79
+196,Emily Zabor,University of Alabama,66.73
+197,Alexandra Stanova,"University of Maryland, College Park",65.02
+198,Caitlyn Williams,University of Tennessee,64.94
+199,Johanna Hyoty,Boston University,64.84
+200,Lauren Chypyha,"University of Wisconsin, Madison",64.44
+201,Zoë Katz,University of Southern California,63.18
+202,Marcelina Cichon,University of Tulsa,62.72
+203,Miriam Rosell-Canudas,Univ. of Texas at San Antonio,62.54
+204,Lyn Yee Choo,East Tennessee State University,61.82
+205,Theresa Van Zyl,Baylor University,60.79
+206,Cassandra Vazquez,North Carolina,60.64
+207,Maria Biryukova,Washington State University,60.58
+208,Manuela Velasquez,University of Louisville,60.44
+209,Renee Villarreal,Southeastern Louisiana University,60.03
+210,Stephanie Vlad,Arizona State University,59.83
+211,Savannah Durkin,Rice University,59.57
+212,Ebony Panoho,Arizona State University,59.31
+213,Rebeca Mitrea,DePaul University,59.25
+214,Marika Akkerman,North Carolina,59.08
+215,Silvia Fuentes,University of Miami (Florida),58.97
+216,Kimberly Surin,Penn State University,58.67
+217,Sydney Liggins,Xavier University,58.48
+218,Kerrie Cartwright,Florida State University,58.38
+219,Maria Alvarez,Oklahoma State University,58.12
+220,Tiffany William,Middle Tennessee State University,57.53
+221,Valeria Salazar Garza,Syracuse University,56.81
+222,Ryann Foster,University of Texas at Austin,56.02
+223,Tina Jiang,Columbia University,55.75
+224,Jasmin Kling,DePaul University,55.53
+225,Amanda Muliawan,Princeton University,54.85
+226,Briar Preston,University of Arizona,53.49
+227,Anna Sanford,Ohio State University,53.05
+228,Marketa Placha,Charleston Southern University,52.93
+229,Eve Repic,University of Tennessee,52.65
+230,Megan Kurey,Georgia Tech,52.25
+231,Andrea Eskauriatza,Murray State University,52.10
+232,Kristina Mathis,Dartmouth College,52.09
+233,Abby Stevens,Wichita State University,51.60
+234,Tamitha Nguyen,San Diego State University,51.47
+235,Ratnika Batra,University of Texas at Austin,51.25
+236,Gabriella DeSimone,University of Southern California,51.11
+237,Eva Paalma,Texas A&M University,50.98
+238,Julie Gerard,Long Beach State University,50.94
+239,Yolimar Ogando,University of Miami (Florida),50.89
+240,Giulia Guidetti,Wichita State University,50.60
+241,Mary Closs,University of Notre Dame,50.39
+242,Kendal Woodard,Georgia Tech,48.91
+243,Hannah Camhi,Brown University,48.46
+244,Alyza Benotto,Brown University,47.76
+245,Amanda Rodgers,Syracuse University,47.47
+246,Alexis Casati,University of Illinois,47.34
+247,Ashley Dai,North Carolina,47.06
+248,Victoria Olivarez,University of Tennessee,46.95
+249,Jennifer Brown,Mississippi State University,46.50
+250,Darya Shulzhanok,Middle Tennessee State University,45.21
+251,Lexi Baylis,Michigan State University,45.03
+252,Samantha Asch,Wake Forest University,44.71
+253,Amandine Faouzi,Eastern Kentucky University,44.55
+254,Erin Stephens,University of Mississippi,44.43
+255,Ximena Siles Luna,University of South Carolina,44.41
+256,Derya Turhan,Marshall University,44.33
+257,Alexandra Starkova,Louisiana Tech University,44.08
+258,Carlotta Orlando,Florida International University (FIU),43.79
+259,Spencer Liang,University of Florida,43.43
+260,Elianne Douglas-Miron,University of Washington,43.33
+261,Ingrid Vojcinakova,Old Dominion University,43.10
+262,Danielle Flores,Saint Mary's College of California,42.85
+263,Melissa Kopinski,University of Illinois,42.34
+264,Kelli Hine,"Univ. of Missouri, Columbia",42.21
+265,Simran Sethi,University of Oklahoma,42.15
+266,Brigit Folland,University of South Carolina,42.00
+267,Marie Faure,University of Virginia,41.97
+268,Mayci Jones,Brigham Young University,41.77
+269,Abbi Melrose,University of Oklahoma,41.50
+270,Michala Kucharova,Auburn University,41.38
+271,Rongrong Leenabanchong,University of Tulsa,41.31
+272,Palina Dubavets,TCU,41.30
+273,Elizabeth Thoms,University of Texas at Arlington,40.76
+274,Nikol Hristova,Old Dominion University,40.65
+275,Joanna Nalborska,North Carolina State,40.48
+276,Hana Ritterova,University of the Pacific (California),40.40
+277,Lolade Ogungbesan,Univ. of Pittsburgh,40.37
+278,Ella Taylor,LSU,39.87
+279,Marika Cusick,Cornell University,39.43
+280,Andie Dikosavljevic,Auburn University,39.18
+281,Welma Luus,"University of Maryland, College Park",38.86
+282,Martina Frantova,Mississippi State University,38.84
+283,Tristen Dewar,Clemson University,38.83
+284,Oleksandra Shkorupeieva,University of Arkansas,38.76
+285,Salome Kvitashvili,Virginia Commonwealth University,38.60
+286,Sofiko Kadzhaya,TCU,38.60
+287,Karolina Rozenberg,Long Beach State University,38.59
+288,Victoria Kisialeva,Penn State University,38.51
+289,Mia Vriens,Florida State University,38.37
+290,Nika Khmolovska,Old Dominion University,37.84
+291,Kat Facey,UC Irvine,37.82
+292,Alyssa Tobita,University of Oregon,37.52
+293,Julia Schiller,Wichita State University,37.16
+294,Ekaterina Tour,"University of Maryland, College Park",37.13
+295,Kennedy Davis,San Diego State University,37.00
+296,Olaya Garrido-Rivas,University of South Florida,36.91
+297,Alexis Pereira,TCU,36.86
+298,Allison Miller,University of Notre Dame,36.72
+299,Katya Vasilyev,Boston College,36.61
+300,Manon Peri,Northwestern University,36.48
+301,Hadley Berg,University of South Carolina,36.15
+302,Louise Kwong,University of Illinois,35.73
+303,Priscilla Annoual,Grand Canyon University,35.72
+304,Kristin Wiley,UCLA,35.38
+305,Angeles de los Rios,University of Texas at Arlington,35.26
+306,Patricia Lancranjan,DePaul University,35.09
+307,Ansley Speaks,Furman University,34.72
+308,Sybille Gauvain,San Jose State University,34.39
+309,Rhiann Newborn,Syracuse University,34.29
+310,Yuilynn Miao,Clemson University,34.20
+311,Nia Rose,University of Oregon,33.97
+312,Galina Bykova,University of Idaho,33.93
+313,Seda Arantekin,TCU,33.74
+314,Jamie Pawid,Saint Mary's College of California,33.69
+315,Mira Ruder-Hook,University of Michigan,33.61
+316,Smith Hinton,University of Kansas,33.44
+317,Krisztina Kapitany,Purdue University,33.37
+318,Ksenia Pronina,Iowa State University,33.22
+319,Saana Saarteinen,University of Tulsa,33.20
+320,Samanatha Czarniak Rego,Texas Tech University,33.16
+321,Katrine Steffensen,Princeton University,33.14
+322,Yelena Nemchen,University of Tulsa,32.99
+323,Alex D'Ascenzo,Cornell University,32.89
+324,Anna Pomyatinskaya,Marshall University,32.76
+325,Hristina Dishkova,SMU,32.28
+326,Aleksandra Trifunovic,Wichita State University,32.17
+327,Maddie Silver,Marshall University,32.00
+328,Kelsey Dieters,University of Kentucky,31.86
+329,Monica Lin,Harvard University,31.65
+330,Ferny Angeles Paz,Ohio State University,31.49
+331,Daniela Schippers,Florida State University,31.44
+332,Lindsey Hodge,Rice University,30.58
+333,Michaela Capannolo,Pepperdine,30.43
+334,Joanna Smith,Arizona State University,30.41
+335,Christine Maddox,Pepperdine,30.36
+336,Kayla Jones,Chattanooga,30.02
+337,Tina Rupert,University of Houston,29.88
+338,Erin Faulkner,Michigan State University,29.80
+339,Emily Fanning,Florida State University,29.61
+340,Olga Barshchevskaya,Virginia Commonwealth University,29.51
+341,Marlou Kluiving,University of Oregon,29.42
+342,Malena Gordo,Stephen F. Austin,29.17
+343,Paula de Man,Auburn University,29.14
+344,Srna Stosljevic,University of Connecticut,29.05
+345,Jacqueline Crawford,Dartmouth College,28.97
+346,Tina Bokhua,University of Colorado,28.77
+347,Ksenia Laskutova,University of Tulsa,28.71
+348,Caroline Ryba,University of Minnesota,28.70
+349,Gussie O'Sullivan,Arizona State University,28.43
+350,Liza Tymchenko,University of Memphis,28.43
+351,Matea Cutura,Pepperdine,28.31
+352,Dena Tanenbaum,Cornell University,28.22
+353,Alecia Kauss,Indiana University-Bloomington,28.13
+354,Jana McCord,Saint Mary's College of California,28.04
+355,Nicole Martinez,North Carolina State,27.95
+356,Natalie Da Silveira,UC Santa Barbara,27.82
+357,Anastasiya Shestakova,University of North Texas,27.57
+358,Paola Artiga,UNLV,27.49
+359,Elizaveta Luzina,Washington State University,27.32
+360,Makenzie Craft,University of Arkansas,27.22
+361,Ashvarya Shrivastava,New Mexico State University,27.09
+362,Mina Matsuba,Bethune-Cookman University,27.04
+363,Dasha Sapogova,Penn State University,27.01
+364,Olivia Thaler,College of William and Mary,26.96
+365,Rima Asatrian,Columbia University,26.90
+366,Savannah Ware,Brigham Young University,26.81
+367,Kirsten Lewis,University of Kentucky,26.76
+368,Sophie Rufyikiri,ULM (Univ. of Louisiana at Monroe),26.72
+369,Sarah Gong,UC Irvine,26.62
+370,Chalena Scholl,Duke University,26.60
+371,Katie Edwards,Gonzaga University,26.23
+372,Ana Vladutu,DePaul University,26.20
+373,Lou Adler,UC Santa Barbara,25.96
+374,Lynda Xepoleas,Purdue University,25.90
+375,Ellie Yates,Vanderbilt University,25.84
+376,Linn Timmermann,Georgia State University,25.70
+377,Kelly Poggensee-Wei,University of Cincinnati,25.64
+378,June Lee,Harvard University,25.60
+379,Thyra Taune,Univ. of San Francisco,25.30
+380,Rebecca Smaller,Duke University,25.17
+381,Skylar Holloway,LSU,25.02
+382,Annika Ringblom,Harvard University,24.71
+383,Nataly Yoo,Univ. of Central Arkansas,24.56
+384,Trang Huynh,Troy University,24.49
+385,Kana Daniel,University of Pennsylvania,24.19
+386,Cecilia Estlander,California,24.15
+387,Caroline Eberhart,University of Central Florida,24.01
+388,Noel Scott,LSU,23.96
+389,Jennifer Ciotti,Bucknell University,23.95
+390,Nuria Ormeno Ruiz,University of Colorado,23.88
+391,Marta Morga,University of Memphis,23.61
+392,Aspen Cervin,Saint Louis University,23.59
+393,Teodora Radosavljevic,George Washington University,23.51
+394,Ana Yrazusta Acosta,"Univ. of Massachusetts, Amherst",23.49
+395,Nataliya Bredikhina,"University of Maryland, College Park",23.41
+396,Natasha Prokhnevska,Georgia Tech,23.35
+397,Mahitha Dadireddy,University of Tulsa,23.33
+398,Petra Horakova,ULM (Univ. of Louisiana at Monroe),23.20
+399,Laura Valkova,University of South Alabama,23.18
+400,Natasha Smith,University of New Mexico,23.17
+401,Capucine Gregoire,University of Washington,23.16
+402,Olga Martinez,University of South Florida,23.13
+403,Cristina Di Lorenzo,Xavier University,23.07
+404,Sarah Richter,University of Utah,22.72
+405,Naz Karagoz,Tulane University,22.70
+406,Louise Ronaldson,Mississippi State University,22.56
+407,Tereza Brichacova,University of Minnesota,22.53
+408,Celia Rodriguez Delgado,Texas A&M Corpus-Christi,22.51
+409,Delphine Rouvillios,Santa Clara University,22.44
+410,Johanna Sterkel,Florida Gulf Coast University,22.41
+411,Karyn Guttormsen,Oklahoma State University,22.30
+412,Julie Vrabel,University of Notre Dame,22.18
+413,Ellen Jang-Milsten,Harvard University,21.98
+414,Maria Belen Ludueña,University of Kansas,21.89
+415,Rana Sherif Ahmed,Fresno State,21.85
+416,Ola Mally,University of Louisville,21.77
+417,Alina Abdurakhimova,Temple University,21.71
+418,Ebba Unden,Long Beach State University,21.70
+419,Anna Morozova,St. John's University,21.50
+420,Annie Mulholland,Duke University,21.40
+421,Lauren Golick,Cleveland State University,21.39
+422,Grainne O'Neill,Ohio State University,21.37
+423,Alina Soltanici,Sacramento State,21.35
+424,Komal Safdar,Syracuse University,21.35
+425,Viktoria Malova,"Univ. of Hawaii, Manoa",21.34
+426,Katelyn Jackson,Texas Tech University,21.02
+427,Natalie Vavulina,St. John's University,21.00
+428,Palma Juhasz,Kansas State,20.95
+429,Jessica Perez,Loyola Marymount University,20.94
+430,Danielle Wagland,University of Texas at Austin,20.92
+431,Christie Brigante,University of Oklahoma,20.89
+432,Sara Remynse,University of Michigan,20.87
+433,Samantha Wood,Samford University,20.79
+434,Gaelle Rey,San Jose State University,20.73
+435,Alexis Prokopuik,Georgia Tech,20.65
+436,Cassie Mercer,University of Virginia,20.58
+437,Lizzie Stewart,Cornell University,20.45
+438,Monica Mitta,University of South Alabama,20.42
+439,Olivia Sneed,Ohio State University,20.36
+440,Esther Zuniga,University of North Florida,20.26
+441,Ree Ree Li,Yale University,20.26
+442,Jaimee Gilbertson,UC Santa Barbara,20.24
+443,Madison Harrison,University of Kansas,20.04
+444,Zalina Khairudinova,University of Mississippi,20.00
+445,Maggy Lehmicke,University of Nebraska,19.63
+446,Shelia Morales-Hidalgo,University of Nevada,19.61
+447,Emily Flickinger,Auburn University,19.56
+448,Jazmin Britos,Louisiana Tech University,19.51
+449,Kristina Labeja,Eastern Kentucky University,19.44
+450,Natalya Krutova,Northwestern State University,19.38
+451,Dasha Sharapova,SMU,19.28
+452,Brooke Rischbieth,Northwestern University,19.13
+453,Alexa Anton-Ohlmeyer,Georgia Tech,19.13
+454,Stephanie Barnett,Nicholls State University,19.07
+455,Crystal Leung,Columbia University,19.06
+456,Renata Kurikova,University of Tulsa,19.02
+457,Paula Gutierrez,Indiana University-Bloomington,18.79
+458,Catherine Leduc,Saint Mary's College of California,18.78
+459,Cassidy Spearman,"Univ. of Missouri, Columbia",18.66
+460,Alice Garcia,Winthrop University,18.46
+461,Alix Thurman,Miami University (Ohio),18.38
+462,Monica Matias,University of Central Florida,18.08
+463,Sonya Latycheva,University of Pennsylvania,17.85
+464,Lucia Kovalova,Wichita State University,17.84
+465,Vivienne Kulicke,Stephen F. Austin,17.81
+466,Kseniya Bardabush,University of North Texas,17.64
+467,Alexis Valenzuela,Cal State Fullerton,17.27
+468,Nayara Moraes,Middle Tennessee State University,17.26
+469,Olga Bredikhina,"University of Maryland, College Park",17.22
+470,Olivia Lucas,Elon University,17.22
+471,Alexandra Solovyev,Columbia University,17.20
+472,Hayley Thompson,Long Beach State University,17.08
+473,Jen Pfeifler,Auburn University,17.01
+474,Reka Muller,Auburn University,16.82
+475,Malin Cubucku,San Jose State University,16.79
+476,Alison Ho,Rice University,16.63
+477,Ipek Birol,Tulane University,16.62
+478,Kely Putri,Baylor University,16.61
+479,Marta Stojanovic,University of San Diego,16.55
+480,Nina Nagode,Florida International University (FIU),16.49
+481,Maddie Stearns,Brown University,16.41
+482,Kennan Johnson,University of Central Florida,16.37
+483,Katherine Butler,Virginia Tech,16.35
+484,Susana Alcaraz,New Mexico State University,16.33
+485,Dorothy Tang,Princeton University,16.27
+486,Mayu Sato,IPFW,16.26
+487,Carolina Costamagna,Kansas State,15.85
+488,Yvonne Hubler,Charleston Southern University,15.75
+489,Tanya Stojanovska,University at Buffalo,15.70
+490,Sarah Jurakova,McNeese State University,15.66
+491,Kylie Isaacs,Duquesne University,15.62
+492,Magdalena Stencel,Univ. of Wyoming,15.57
+493,Marie Klocker,San Jose State University,15.55
+494,Polina Movchan,Stony Brook University,15.54
+495,Andrea Ivanovic,Lamar University,15.53
+496,Iveta Masarova,University of the Pacific (California),15.50
+497,Beatriz Machado Santos,"Univ. of Missouri, Columbia",15.49
+498,Maria Cardenas,University of Houston,15.42
+499,Klaudia Gawlik,McNeese State University,15.41
+500,Alexandra Aiello,University of Colorado,15.40
+501,Alanna Wolff,Princeton University,15.34
+502,Isabel Von Stryk,"University of South Carolina, Upstate",15.23
+503,Nicole Long,University of Oregon,15.20
+504,Alyssa Ritchie,UNC Wilmington,15.18
+505,Pippa Horn,University of Texas at Austin,15.16
+506,Mina Markovic,University of Houston,14.99
+507,Vaszilisza Bulgakova,SMU,14.90
+508,Luisa Fernandez,Wake Forest University,14.79
+509,Emily Olivier,University of New Mexico,14.78
+510,Andreea Badileanu,Miami University (Ohio),14.75
+511,Madie Baillon,University of Illinois,14.69
+512,Kristin Rehse,Georgia State University,14.58
+513,Maddie Johnson,Drake University,14.51
+514,Yana Erkeeva,SMU,14.44
+515,Guilia Squadrin,Middle Tennessee State University,14.43
+516,Akiko Okuda,Dartmouth College,14.29
+517,Alyssa Smith,Duke University,14.27
+518,Nerma Caluk,Florida International University (FIU),14.26
+519,Nicole Robinson,Purdue University,14.24
+520,Xue Zhang,Wake Forest University,14.15
+521,Elle Stokes,University of Louisville,14.15
+522,Emily Safron,Boston College,14.10
+523,Timea Guibe,Mississippi State University,14.08
+524,Melanie Roy,College of William and Mary,14.04
+525,Marta Burak,Youngstown State University,14.03
+526,Lexi Aranda,"Southern Illinois, Edwardsville",14.01
+527,Sierra Stone,Charlotte,13.94
+528,Marijana Novakovic,Old Dominion University,13.89
+529,Jessie Lynn Paul,University of Louisville,13.87
+530,Naomi Tran,Mississippi State University,13.86
+531,Jena Cheng,University of Utah,13.75
+532,Maureen Slattery,University of Denver,13.72
+533,Grace Ysidora,University of Washington,13.69
+534,Klara Supejova,Eastern Michigan University,13.67
+535,Donika Bashota,Washington State University,13.55
+536,Kelly Drew,University of Louisiana,13.49
+537,Augustina Serio,University of Texas at Arlington,13.48
+538,Flavia Araujo,University of Arkansas,13.48
+539,Iryna Kostirko,Boston University,13.46
+540,Dominique Dulski,University of New Mexico,13.45
+541,Audrey Ann Blakely,Univ. of Pittsburgh,13.45
+542,Meghan Cassens,Iowa State University,13.41
+543,Kristin Buth,San Diego State University,13.40
+544,Niriantsa Rasolomalala,Georgia State University,13.39
+545,Juliette Legendre,University of Nevada,13.17
+546,Yang Pang,University of Arkansas,13.16
+547,Julia Kral,McNeese State University,13.11
+548,Maria Avgerinos,"University of Wisconsin, Madison",13.05
+549,Teal Vosburgh,Boise State University,12.99
+550,Katherine Yau,Dartmouth College,12.92
+551,Sasha Carter,Montana,12.89
+552,Anna Woosley,"Univ. of Massachusetts, Amherst",12.81
+553,Sherry Li,Yale University,12.75
+554,Jerricka Boone,University of Illinois,12.64
+555,Emilia Granstrom,Western Kentucky University,12.58
+556,Kathryn Hughes,University of Memphis,12.55
+557,Marta Sramkova,Louisiana Tech University,12.47
+558,Marie Aubert,Nicholls State University,12.47
+559,Morven McCulloch,University of Iowa,12.43
+560,Nicole Shakhnazarova,Towson University,12.40
+561,Aria Lambert,University of Minnesota,12.29
+562,Morgan Chumney,University of Oklahoma,12.25
+563,Tamara Slijepcevic,Arkansas State University,12.19
+564,Sansitha Nandakumar,Virginia Tech,12.19
+565,Rocio Martin,University of Houston,12.17
+566,Karen Forman,Wake Forest University,12.12
+567,Megen Cochran,University of South Carolina,12.10
+568,Alexandra Clark,"Univ. of Missouri, Columbia",12.10
+569,Davina Meza,UTEP,11.99
+570,Maria Groener,College of William and Mary,11.93
+571,Katia Blik,Penn State University,11.91
+572,Julia Schroeder,Dartmouth College,11.90
+573,Toby Miclat,Brigham Young University,11.83
+574,Astrid Gehre,University of Texas at Arlington,11.79
+575,Cortney Cesarini,University of Central Florida,11.72
+576,Luca Pump,Wichita State University,11.63
+577,Maider Martin,Texas A&M Corpus-Christi,11.55
+578,Breanna Bachini,Syracuse University,11.53
+579,Aishwarya Agrawal,Fresno State,11.43
+580,Courtney Meredith,Wake Forest University,11.37
+581,Chelby Cooke,Santa Clara University,11.36
+582,Gina Li,Rutgers University,11.31
+583,Shannon Murdy,Indiana University-Bloomington,11.28
+584,Criss Rodriguez,Cal State Northridge,11.28
+585,Dorottya Jonas,Univ. of Wyoming,11.26
+586,Rachana Bhat,University of New Mexico,11.26
+587,Jessika Mozia,University of Minnesota,11.22
+588,Stephanie N'tcha,Samford University,11.18
+589,Julia O'Loughlin,University of Denver,11.16
+590,Alex Bourguignon,Gonzaga University,11.15
+591,Emily Newton,University of South Alabama,11.15
+592,Riko Shimizu,University of Washington,11.07
+593,Rachael Morales,Marshall University,11.02
+594,Andjela Djokovic,Purdue University,10.94
+595,Andrea LeBlanc,Morehead State University,10.91
+596,Miki kobayashi,University of Washington,10.70
+597,Charlotte Phillips,University of Houston,10.64
+598,Courtney Earnest,Ball State University,10.62
+599,Erin Patton,Murray State University,10.51
+600,Jane Marushko,Southern Utah University,10.42
+601,Lyn Yuen Choo,West Virginia University,10.41
+602,Kristina Vozniak,Stony Brook University,10.37
+603,Sarah Dalton,Boston College,10.35
+604,Caroline Joyce,Princeton University,10.31
+605,Georgina Sellyn,Vanderbilt University,10.16
+606,Samantha Budai,Iowa State University,10.16
+607,Zoe Douglas,University of Iowa,10.10
+608,Deborah Suarez,Purdue University,10.05
+609,Carolina Lewis,West Virginia University,10.02
+610,Erica Braschi,Elon University,10.00
+611,Adreanna Christopoulou,Western Kentucky University,9.97
+612,Stephanie Smith,Indiana University-Bloomington,9.96
+613,Rheeya Doshi,Northwestern University,9.91
+614,Ariana Rodriguez,University of Louisville,9.89
+615,Zita Engbroks,University of Oklahoma,9.87
+616,Morgan Anderson-Littlewood,Brigham Young University,9.86
+617,Quetzali Vazquez,University of North Florida,9.86
+618,Angela Lorenzo,University of Houston,9.85
+619,Alex Moreno-Kaste,Furman University,9.83
+620,Spurti Shivalingaiah,University of Nebraska,9.82
+621,Tatiana Larina,Northwestern State University,9.75
+622,Lina Qostal,University of Pennsylvania,9.74
+623,Jesse Grace,Middle Tennessee State University,9.65
+624,Sanae Ohta,Troy University,9.63
+625,Nicole Laduca,East Carolina University,9.53
+626,Erin Gebes,Marquette,9.52
+627,Amina Ismail,Xavier University,9.49
+628,Sonja Radosevic,University of Denver,9.43
+629,Meredith Maltby,Tulane University,9.39
+630,Jillian Rooney,Northwestern University,9.32
+631,Taylor Lefridge,Prairie View A&M University,9.30
+632,Jana Duhanova,ULM (Univ. of Louisiana at Monroe),9.29
+633,Maria Jose Cardona,University of Kansas,9.26
+634,Jiayuan Xue,Troy University,9.25
+635,Aurora Davis,Saint Joseph's University,9.16
+636,Jeannez Daniel,UTEP,9.15
+637,Julia Courter,University of Minnesota,9.13
+638,Carol Finke,Yale University,9.06
+639,Amina St. Hill,Kansas State,9.02
+640,Taylor Shukow,Penn State University,8.98
+641,Olivia Boesing,University of Louisville,8.96
+642,Solo Zinko,Rice University,8.95
+643,Katherine Whiteaway,Penn State University,8.95
+644,Pardis Kianoush,UAB,8.89
+645,Carolyn Pitman,U.S. Military Academy,8.89
+646,Paula Rincon Otero,University of Minnesota,8.88
+647,Michelle Valdez,University of North Florida,8.87
+648,Jacqui Katz,Tulane University,8.81
+649,Marija Milutinovic,University of Mississippi,8.81
+650,Paulina Petriskova,"Univ. of Hawaii, Manoa",8.81
+651,Nelli Ponomareva,Miami University (Ohio),8.76
+652,Gracia Mboko,University of Denver,8.76
+653,Kaja Mrgole,West Virginia University,8.76
+654,Abbie Pahz,San Jose State University,8.75
+655,Catherine Parenteau,Michigan State University,8.66
+656,Livia Cirnu,Kansas State,8.65
+657,Chloe Forlini,U.S. Air Force Academy,8.61
+658,Camille De Leon,Cal State Fullerton,8.60
+659,Zaina Sufi,DePaul University,8.60
+660,Alejandra Galvis,Iowa State University,8.59
+661,Anna Feaster,Davidson College,8.49
+662,Cassie Pough,University of Louisville,8.46
+663,Laurence Guevremont,University of Tennessee,8.42
+664,Sheila Smiley,University of Nevada,8.42
+665,Alex Brinker,Xavier University,8.41
+666,Izabella Zgierska,University of Nebraska,8.41
+667,Sammie Watson,Boise State University,8.41
+668,Drew Spinosa,University of San Diego,8.39
+669,Olivia Myers,Western Michigan University,8.38
+670,Lexxi Kiven,Dartmouth College,8.30
+671,Lauren Burich,"University of Wisconsin, Madison",8.26
+672,Gaby Rosales,University of Richmond,8.23
+673,Hailey Johnson,San Diego State University,8.22
+674,Courtney Wild,Ball State University,8.21
+675,Emily Hahn,Princeton University,8.16
+676,Kasey Gardiner,Wake Forest University,8.10
+677,Laura Oldham,University of Arizona,8.09
+678,Madison Stevens,Cornell University,8.08
+679,Ria Vaidya,University of Pennsylvania,8.07
+680,Maria Khval,Liberty University,8.05
+681,Vanessa Nommensen,Tulane University,8.01
+682,Jessica Northcutt,Samford University,7.97
+683,Ekin Gunaysu,Winthrop University,7.97
+684,Aslina Chua,Michigan State University,7.95
+685,Devan McCluskey,Penn State University,7.94
+686,Sophie van den Aarrsen,University of Portland,7.92
+687,Sarah Means,Florida Gulf Coast University,7.92
+688,Jordan Eggleston,Drake University,7.89
+689,Stephane Lin,California,7.86
+690,Honami Yazawa,Coastal Carolina University,7.85
+691,Libby Scott,Coastal Carolina University,7.84
+692,Tereza Hejlova,Western Kentucky University,7.82
+693,Clare Cox,Appalachian State University,7.82
+694,Marina Nikolic,Univ. of San Francisco,7.80
+695,Devin Chypyha,University of Arizona,7.80
+696,Yasmeen Ebada,Samford University,7.80
+697,Vivian Lin,Cal State Northridge,7.74
+698,Rachel Daniell,UAB,7.73
+699,Brittany Huxley,Middle Tennessee State University,7.71
+700,Nell Boyd,Drake University,7.70
+701,Victoire Saperstein,Georgetown University,7.68
+702,Lea Kozulic,Drake University,7.68
+703,Anne Kurzweil,Georgia Southern University,7.61
+704,Valerie Shklover,Yale University,7.60
+705,Lize Leenknecht,Washington State University,7.57
+706,Ali Miller,University of Cincinnati,7.54
+707,Raluca Mita,Virginia Tech,7.52
+708,Belen Rivera,Liberty University,7.51
+709,Melissa Baker,UC Santa Barbara,7.51
+710,Brooke McAmis,College of Charleston,7.49
+711,Sarah Baron,Indiana University-Bloomington,7.49
+712,Kamilla Galieva,University of North Texas,7.43
+713,Nabila Farah,Santa Clara University,7.38
+714,Juliana Cardoso,University of South Florida,7.38
+715,Dominika Lackova,Youngstown State University,7.36
+716,Christine Guerrazzi,Miami University (Ohio),7.36
+717,Carita Moolman,Samford University,7.34
+718,Arisha Ladhani,UC Irvine,7.34
+719,Vera Bessonova,University of South Florida,7.33
+720,Lauren Davis,Boston University,7.33
+721,Iris Verboven,University of Mississippi,7.28
+722,Eleonore Tchakarova,Murray State University,7.28
+723,Summer Brills,Drake University,7.23
+724,Kaylene Chadwell,Chattanooga,7.23
+725,Mickey Hsu,Cal State Northridge,7.19
+726,Julianna Bacelar,San Jose State University,7.15
+727,Dana Oppinger,University of San Diego,7.09
+728,Elizabeth Tsvetkov,Stony Brook University,7.05
+729,Carolin Drescher,University of Southern Mississippi,7.03
+730,Mary Hanna,University of Nebraska,7.03
+731,Nastassia Rubel,University of Arkansas,7.03
+732,Virginie Stein,Kennesaw State University,7.01
+733,Mariely Hassey,Liberty University,6.99
+734,Precious Gbadamosi,Montana,6.99
+735,Anne Susdorf,Fresno State,6.96
+736,Nadia Smergut,Stony Brook University,6.96
+737,Samantha Tutelman,Penn State University,6.94
+738,Ana Pimienta,Marquette,6.90
+739,Evangeline Crist,Liberty University,6.89
+740,Linsey Verstrepen,Wright State University,6.88
+741,Liza Fieldsend,North Carolina State,6.86
+742,Kim Schmider,Indiana University-Bloomington,6.86
+743,Laura Matuskova,University of South Alabama,6.78
+744,Kaysie Hermsdorf,Abilene Christian University,6.74
+745,Iva Bago,Kansas State,6.74
+746,Chaimaa Roudami,Georgia State University,6.68
+747,Adrienne Jensen,Drake University,6.63
+748,Courtney Amos,Yale University,6.63
+749,Emma Alderman,University of Connecticut,6.62
+750,Jacobea Junger,Univ. of Texas at San Antonio,6.60
+751,Taylor Pinchoff,James Madison University,6.59
+752,Shayne Austin,University of Arizona,6.54
+753,Rimpledeep Kaur,New Mexico State University,6.50
+754,Blaga Delic,University of Nevada,6.46
+755,Agustina Valenzuela,University of North Texas,6.45
+756,Grace Tapak,University of Illinois,6.44
+757,Anastasia Polyakova,St. John's University,6.43
+758,Clare Raley,"Univ. of Missouri, Columbia",6.43
+759,Luisa Rosa,University of Utah,6.42
+760,Victoria Matejevic,Washington State University,6.41
+761,Jade Hilton,University of Illinois,6.35
+762,Ali Foster,Eastern Illinois University,6.33
+763,Whitney Williams,Abilene Christian University,6.33
+764,Marine Dans,Long Island University (Brooklyn),6.32
+765,Lisa Andersson,University of Nebraska,6.32
+766,Carolyn Chupa,Indiana University-Bloomington,6.32
+767,Regina Nychytailova,East Tennessee State University,6.30
+768,Anna Segarra Rius,University of New Orleans,6.30
+769,Liat Zimmermann,Rice University,6.29
+770,Lexi Petrovic,University of Utah,6.27
+771,Athena Trouillot,Michigan State University,6.23
+772,Callie Frey,Univ. of Pittsburgh,6.21
+773,Natasha Rizvi,U.S. Air Force Academy,6.20
+774,Erica Medlin,Univ. of Northern Iowa,6.17
+775,Brianna Lashway,"Univ. of Missouri, Columbia",6.17
+776,Amanda Lin,Harvard University,6.14
+777,Tracy Landram,U.S. Air Force Academy,6.14
+778,Judit Vives,Texas A&M Corpus-Christi,6.13
+779,Aissa Muamba,North Carolina Central University,6.12
+780,Habiba Shaker,West Virginia University,6.11
+781,Nada Marjanovic,Abilene Christian University,6.11
+782,Louise Oxnevad,Cal Poly,6.09
+783,Belen Barcenilla,University of Idaho,6.04
+784,Taylor Hollander,University of North Florida,6.01
+785,Malene Stripp,University of Oklahoma,6.00
+786,Sydney Rider,"University of Wisconsin, Madison",6.00
+787,Nikita Uberoi,Brown University,5.99
+788,Deimante Bulatovaite,Sacramento State,5.96
+789,Laura Kent,Lipscomb University,5.90
+790,Priyanka Shah,Cornell University,5.85
+791,Samantha Maddox,College of Charleston,5.84
+792,Kirsten Ward,Elon University,5.82
+793,Margo Pletcher,University of Utah,5.80
+794,Ivana Vukovic,Old Dominion University,5.75
+795,Mary Angela Martin,University of South Alabama,5.73
+796,Eveline Lepinay,Stetson University,5.72
+797,Hannah Brett,McNeese State University,5.70
+798,Edmée Morin-Kougoucheff,University of Kentucky,5.66
+799,Elisha Hande,North Carolina State,5.65
+800,Lana Robins,George Washington University,5.62
+801,Parminder Kaur,Saint Mary's College of California,5.62
+802,Katie Goepel,Princeton University,5.61
+803,Nini Guensler,Utah State University,5.59
+804,Barbara Rodriguez,Boston University,5.56
+805,Ava Todd,Davidson College,5.56
+806,Sophie Cloessner,Charleston Southern University,5.55
+807,Kai Broomfield,Marshall University,5.53
+808,Yelyzaveta Pletnyeva,University of Connecticut,5.52
+809,Alexandra Osborne,Arizona State University,5.52
+810,Agata Bachanek,Weber State,5.51
+811,Jane Stewart,Cornell University,5.50
+812,Vivien Dvali,UC Irvine,5.46
+813,Kelly Williford,Virginia Tech,5.44
+814,Valerie Thong,Liberty University,5.43
+815,Lucile Pothier,Abilene Christian University,5.42
+816,Michaela Meszarosova,University of South Alabama,5.37
+817,Julia Jamieson,University of Illinois,5.35
+818,Taylor Lederman,University of Kentucky,5.35
+819,Anna Romeka,Loyola Marymount University,5.30
+820,Klara Skopac,Nicholls State University,5.30
+821,Adi Milstein,Columbia University,5.30
+822,Tess Herder,Drake University,5.26
+823,Duda Santos,UTEP,5.25
+824,Verginie Tchakarova,Murray State University,5.25
+825,Gisela Kemper,Univ. of Northern Iowa,5.21
+826,Alex Corder,Mississippi State University,5.19
+827,Kelsey Williams,Univ. of Central Arkansas,5.18
+828,Mariel Ante,Drake University,5.16
+829,Jenny Falcone,College of Charleston,5.14
+830,Bobbi Oshiro,Boise State University,5.14
+831,Meghan Sheehan-Dizon,Brigham Young University,5.13
+832,Mazy Watrous,UC Irvine,5.13
+833,Lea Krajcovicova,Univ. of Northern Colorado,5.12
+834,Sofia Hager,University of Oregon,5.09
+835,Iren Kotseva,UNLV,5.09
+836,Jessica Brumit,East Tennessee State University,5.08
+837,Rachel Nelson,James Madison University,5.07
+838,Daniela Ruiz,Clemson University,5.07
+839,Ekaterina Stepanova,"University of Wisconsin, Madison",5.06
+840,Nancy Karaky,Murray State University,5.04
+841,Rebeca Pereira,University of North Florida,5.01
+842,Nicolette Tran,Brigham Young University,5.00
+843,Anneka Watts,Fresno State,4.99
+844,Intissar Rassif,South Carolina State,4.98
+845,Jane Fennelly,University of Notre Dame,4.98
+846,Kelsey Coots,Chattanooga,4.98
+847,Katya Lapayeva,Lamar University,4.97
+848,Daria Savchenko,Sacramento State,4.97
+849,Mia Frogner,"Southern Illinois, Edwardsville",4.93
+850,Jana Buth,San Diego State University,4.93
+851,Brittany Lashway,"Univ. of Missouri, Columbia",4.93
+852,Caitlin Cridland,Winthrop University,4.91
+853,Jieke Stroobant,Univ. of Northern Iowa,4.89
+854,Meagan Monaghan,"Southern Illinois, Carbondale",4.87
+855,Annika Sillanpaa,UNC Wilmington,4.87
+856,Lauren Bellinger,University of Cincinnati,4.83
+857,Katherine Schofield,College of Charleston,4.80
+858,Carol Benito,"Univ. of Massachusetts, Amherst",4.78
+859,Hannah Shteyn,Miami University (Ohio),4.73
+860,Lauren Ghidotti,Xavier University,4.72
+861,Ioanna Markesini,East Tennessee State University,4.72
+862,Kristen Poei,Cal State Northridge,4.72
+863,Emmie Marx,University of Idaho,4.71
+864,Mariana Humberg,Winthrop University,4.69
+865,Anna Kate Anderson,SMU,4.67
+866,Megan LaLone,Boise State University,4.65
+867,Masa Grgan,Georgia State University,4.65
+868,Valeria Koussenkova,Charleston Southern University,4.62
+869,Ashley Dean,Stetson University,4.59
+870,Tayla Stenta,North Carolina State,4.52
+871,Rebecca Faltusz,"Univ. of Hawaii, Manoa",4.51
+872,Rebecca Harris,James Madison University,4.50
+873,Meika Ashby,Western Michigan University,4.50
+874,Alexis Thoma,University of North Texas,4.46
+875,Polina Ivanova,Northwestern State University,4.44
+876,Hailey Barrett,West Virginia University,4.44
+877,Jordana Klein,Georgia Southern University,4.43
+878,Emily Gibbens,Cal Poly,4.42
+879,Kyla Klier,Tulane University,4.41
+880,Angelica Sidorenko,Charleston Southern University,4.40
+881,Katia Stavroulaki,University of Texas-Pan American,4.40
+882,Danielle Silva,Santa Clara University,4.39
+883,Chloe Pham,UC Riverside,4.39
+884,Laura Eales,Long Beach State University,4.38
+885,Kylie Peek,Gonzaga University,4.34
+886,Sofia Baptista,University of Central Florida,4.34
+887,Mi'Kola Cooper,Charleston Southern University,4.33
+888,Sanne Louwers,Long Island University (Brooklyn),4.32
+889,Dany Quevedo,Stephen F. Austin,4.30
+890,Christina Auyeung,Lehigh University,4.29
+891,Katie Zordani,University of Iowa,4.29
+892,Lindsey Kostas,Stanford,4.25
+893,Annette Dohanics,University of Iowa,4.25
+894,Caterina Brunamonti,University of Kentucky,4.22
+895,Amy He,Harvard University,4.22
+896,Nastya Tokareva,Univ. of Wyoming,4.21
+897,Katerina Matysova,University of Nebraska,4.17
+898,Anna Abadias Morales,University of Richmond,4.17
+899,Andrea Retolaza Andrade,Wake Forest University,4.17
+900,Valeria Terentyeva,Stephen F. Austin,4.15
+901,Zofia Stanisz,St. John's University,4.13
+902,Jelena Dzinic,Texas A&M Corpus-Christi,4.10
+903,Fleur Holtkamp,Charlotte,4.10
+904,Milica Hadzi Tanovic,Univ. of San Francisco,4.08
+905,Emma Critser,Saint Mary's College of California,4.07
+906,Ammu Mandalap,Brown University,4.06
+907,Mariami Dolashvili,"Univ. of Maryland, Baltimore County",4.04
+908,Paola Diaz de Regules,San Diego State University,4.02
+909,Anna Davydova,University of Detroit Mercy,3.97
+910,Kelsey Grambeau,"University of Wisconsin, Madison",3.97
+911,Maja Vujic,University of Minnesota,3.95
+912,Natasha James,Univ. of Evansville,3.95
+913,Yana Khon,Temple University,3.94
+914,Evgenia Marushko,Southern Utah University,3.93
+915,Luisa Ortiz-Candido,UC Santa Barbara,3.92
+916,Kiryang Kim,Cal State Northridge,3.92
+917,Anastasia Reimchen,University of Iowa,3.91
+918,Olga Shkundina,Akron,3.90
+919,Burcu Tari,University of Tennessee at Martin,3.89
+920,Sarah Candeloro,University of Tennessee at Martin,3.87
+921,Krizia Buck,Univ. of Central Arkansas,3.86
+922,Georgina Pons Cano,University of Richmond,3.86
+923,Dajana Cvjetkovic,Norfolk State University,3.84
+924,Pia Rygh,University of Toledo,3.84
+925,Tatum Prudhomme,Grand Canyon University,3.83
+926,Katie DeRienzo,Sacred Heart University,3.81
+927,Madison Rhyner,"Univ. of Missouri, Columbia",3.76
+928,Nicole Karaklis,Univ. of Texas at San Antonio,3.75
+929,Tiffany Tavares,University of Tennessee,3.74
+930,Lisa Schneider,University of Southern Mississippi,3.73
+931,Denise Maxl,Stephen F. Austin,3.73
+932,Elpida Malamou,Western Kentucky University,3.70
+933,Jessica Cortes Chaves,University of South Florida,3.68
+934,Mia Jurasic,University of Arkansas,3.68
+935,Megan McLinden,Western Carolina University,3.67
+936,Michelle Lo,"Nebraska, Omaha",3.67
+937,Jessica Parizher,Univ. of Wyoming,3.65
+938,Adey Osabouhien,Stony Brook University,3.64
+939,Marina Cunningham,University of North Florida,3.62
+940,Molly Reed,Cal Poly,3.61
+941,Darya Berezhnaya,Virginia Commonwealth University,3.61
+942,Fabienne Gettwart,Sam Houston State University,3.61
+943,Arielle Griffin,"Univ. of Massachusetts, Amherst",3.60
+944,Yana Nikolaeva,Stony Brook University,3.60
+945,Ariel Dechter,Bradley University,3.58
+946,Kristina Hovseepyan,"University of Maryland, College Park",3.56
+947,Jennie Hartjes,Creighton University,3.55
+948,Samantha Polayes,Gonzaga University,3.53
+949,Estelle Wong,Fordham University,3.51
+950,Meredith Hopson,University of New Mexico,3.51
+951,Julianna Curtis,Florida Gulf Coast University,3.50
+952,Yuliya Sidenko,University of South Dakota,3.49
+953,Ali Facey,UC Irvine,3.49
+954,Stephanie Falcon,UNC Greensboro,3.49
+955,Margarita Kotok,University at Buffalo,3.48
+956,Ella Monsey,Long Beach State University,3.47
+957,Cinta Maria Papke,University of South Alabama,3.47
+958,Astrid Santos,Univ. of Northern Iowa,3.47
+959,Soledad Calderon Arroyo,University of New Orleans,3.46
+960,Vivian Cheng,Columbia University,3.45
+961,Layla Sanders,UC Davis,3.43
+962,Monet Stuckey-Willis,Temple University,3.43
+963,Kaitlin Brozovich,Florida International University (FIU),3.41
+964,Amanda Keller,U.S. Naval Academy,3.41
+965,April Scatliffe,UC Santa Barbara,3.41
+966,Inge Hendrikx,University of Arizona,3.40
+967,Veronika Golanova,Georgia State University,3.39
+968,Chloe Lee,Rutgers University,3.38
+969,Johanna Vang,Northern Arizona University,3.37
+970,Savannah Wood,Samford University,3.36
+971,Erin Walker,Abilene Christian University,3.35
+972,Sylvia Li,Harvard University,3.35
+973,Sara Kohtz,Binghamton University,3.34
+974,Lana Rush,Florida State University,3.33
+975,Clare Mendell,University of Central Florida,3.30
+976,Kristin Quill,Cornell University,3.30
+977,Kyra Wojcik,University of Colorado,3.28
+978,Rokia Sacko,Gardner-Webb University,3.23
+979,Nicole Flower,Ohio State University,3.22
+980,Kayla Gammie,UNC Greensboro,3.17
+981,Alyssa Hibberd,University of Memphis,3.16
+982,Ludivine Burguiere,Virginia Commonwealth University,3.16
+983,Ani Gogvadze,Eastern Michigan University,3.16
+984,Narizanne Bouwer,Oral Roberts University,3.15
+985,Tracy Dong,Portland State University,3.14
+986,Kimberly Herrock,James Madison University,3.14
+987,Ana Laura Gutierrez,Texas State University,3.14
+988,Julia Casselbury,College of William and Mary,3.14
+989,Louise Badoche,Stony Brook University,3.13
+990,Victoria Robertson,University of Utah,3.13
+991,Christine Foote,University of Texas at Arlington,3.10
+992,Keti Mebuke,Univ. of Illinois at Chicago,3.10
+993,Martina Kostalova,"Univ. of Hawaii, Manoa",3.09
+994,Emma Devine,University of Oklahoma,3.09
+995,Ana Loaiza Esquivias,Sacramento State,3.08
+996,Alma Espinosa,Univ. of Wyoming,3.08
+997,Ana Sofia Cordero,University of North Texas,3.06
+998,Madara Straume,LSU,3.06
+999,Alex Huie,James Madison University,3.05
+1000,Ariadna Blinova,Akron,3.05
+1001,Lexy Pitt,University of Toledo,3.01
+1002,Emily McNall,UNC Asheville,3.00
+1003,Katie Fitt,Brigham Young University,2.99
+1004,Cecily Wuenscher,College of William and Mary,2.98
+1005,Kristen Realista,St. Peter's University,2.97
+1006,Summer Collins,University of Kansas,2.97
+1007,Romane Delay,Coastal Carolina University,2.95
+1008,Andrea Crespo,Loyola Marymount University,2.93
+1009,Dylan Owens,James Madison University,2.93
+1010,Ana Gerbasi,East Tennessee State University,2.93
+1011,Tijana Uzelac,Winthrop University,2.90
+1012,Amber Washington,Univ. of Pittsburgh,2.90
+1013,Alena Shichkova,Univ. of Texas at San Antonio,2.89
+1014,Jessica Birowski,University of Texas at Arlington,2.89
+1015,Daniella Patton,Xavier University,2.89
+1016,Mary Wright,SMU,2.88
+1017,Nicole Pivonka,Drexel University,2.87
+1018,Michelle Castro,East Carolina University,2.85
+1019,Barbora Lazarova,Elon University,2.85
+1020,Vanessa Foltinger,Marquette,2.84
+1021,Ellen Folkers,Cleveland State University,2.84
+1022,Breana Stampfli,Florida Gulf Coast University,2.84
+1023,Kristine Kouyoumjian,Loyola Marymount University,2.84
+1024,Veronika Rogova,Southern Utah University,2.84
+1025,Marie-Louise Decamps,George Washington University,2.84
+1026,Natasha Tomishima,"Southern Illinois, Carbondale",2.82
+1027,Silviya Zhelyazkova,Univ. of Wyoming,2.79
+1028,Carolina Meregalli,Stetson University,2.79
+1029,Erin Rodriguez,Miami University (Ohio),2.79
+1030,Athena Chrysanthou,"Southern Illinois, Carbondale",2.77
+1031,Sofya Malysheva,Fresno State,2.75
+1032,Shea Flanagan,University of Connecticut,2.74
+1033,Natalie Heffron,Colorado State University,2.73
+1034,Angela Chen,University of Washington,2.73
+1035,Shreya Pasricha,Fairleigh Dickinson University,2.72
+1036,Sarah Ali,Fordham University,2.72
+1037,Irina Preotescu,St. John's University,2.72
+1038,Carolina Maso,Lamar University,2.71
+1039,Barbare Eristavi,Western Michigan University,2.70
+1040,Caitlin Herb,ULM (Univ. of Louisiana at Monroe),2.70
+1041,Amanda Atanasson,LSU,2.68
+1042,Rachel Sadiq,Univ. of Incarnate Word,2.67
+1043,Jackie Kawamoto,Univ. of Dayton,2.67
+1044,Lera Terentyeva,Stephen F. Austin,2.66
+1045,Elizabeth Zordani,Yale University,2.66
+1046,Allison Murphy,Univ. of Central Arkansas,2.66
+1047,Bailey Padgett,Butler University,2.65
+1048,Janaya Smith,Eastern Washington University,2.65
+1049,Emily Meyers,Michigan State University,2.65
+1050,Chloe Willetts,University of Louisville,2.64
+1051,Santa Shumilina,UNLV,2.64
+1052,Danielle Thompson,Morgan State University,2.63
+1053,Clary Rodriguez Cruz,Drexel University,2.62
+1054,Tyler Baker,Charlotte,2.62
+1055,Georgina Segarra,Campbell University,2.62
+1056,Elizabeth Means,Florida Gulf Coast University,2.61
+1057,Frederique Sleiffer,UC Davis,2.59
+1058,Siobhan Ryan-Bovey,Alcorn State University,2.59
+1059,Alejandra DeLasa,Virginia Commonwealth University,2.58
+1060,Mariam Zein,Rutgers University,2.58
+1061,Lana Groenvynck,University of Texas at Austin,2.58
+1062,Candela Munoz Giron,Florida Gulf Coast University,2.55
+1063,Sophie Nelson,North Carolina State,2.54
+1064,Chanel Glasper,"Univ. of Massachusetts, Amherst",2.54
+1065,Ellie Gerlach,University of Louisville,2.53
+1066,Irina Slizovskaya,University of Detroit Mercy,2.53
+1067,Natalie Looney,University of South Carolina,2.51
+1068,Jacqueline Raynor,Quinnipiac University,2.51
+1069,Luise Intert,University of North Florida,2.51
+1070,Rosie Bird,Bryant University,2.50
+1071,Macie Elliott,SMU,2.50
+1072,Alex Kitchen,University of Southern Mississippi,2.50
+1073,Caroline Lynch,Yale University,2.49
+1074,Alexa Brandt,Bradley University,2.48
+1075,Brittany Lindl,University of Tennessee,2.48
+1076,Karolina Maksimova,Akron,2.46
+1077,Tamara Stanic,Campbell University,2.45
+1078,Marian Tangarife,Idaho State University,2.45
+1079,Tracy Kuhle,Western Michigan University,2.45
+1080,Stacy Yam,UC Santa Barbara,2.44
+1081,Ramona Costea,Miami University (Ohio),2.44
+1082,Emelia Box,Northern Arizona University,2.44
+1083,Pippa Carr,Texas State University,2.42
+1084,Natalia Janowicz,North Carolina State,2.41
+1085,Natsuko Takayanagi,Charlotte,2.39
+1086,Kristina Horsikyan,Univ. of Central Arkansas,2.38
+1087,Alison Storie,Chattanooga,2.37
+1088,Jarret Fisher,DePaul University,2.37
+1089,Tori Troesch,University of Portland,2.36
+1090,Anais Nussaume,Temple University,2.36
+1091,Lucy Williams,Towson University,2.35
+1092,Amy Olivier,ULM (Univ. of Louisiana at Monroe),2.35
+1093,Olivia Boija,Sacramento State,2.34
+1094,Adriana Rajkovic,Old Dominion University,2.33
+1095,Sarah Gealer,"Univ. of Hawaii, Manoa",2.32
+1096,Justine Deleval,San Jose State University,2.31
+1097,Christa Gecheva,Univ. of Wyoming,2.30
+1098,Ellen Silver,University of Iowa,2.28
+1099,Laina Cummer,Davidson College,2.28
+1100,Jennifer Ren,Boston College,2.25
+1101,Anja Cosovic,Troy University,2.24
+1102,Dané Vorster,Portland State University,2.23
+1103,Annat Rabinovich,University of Texas at Austin,2.22
+1104,Dana Gray,East Carolina University,2.21
+1105,Marie Babayan,Coastal Carolina University,2.20
+1106,Michelle Lui,Seattle University,2.19
+1107,Grace Summers,Eastern Illinois University,2.18
+1108,Holly Verner,SMU,2.18
+1109,Sivan Krems,Princeton University,2.17
+1110,Shannon Beckett,Texas State University,2.17
+1111,Marisa Ruiz,Florida Atlantic University,2.15
+1112,Isabella Fernandez,Stetson University,2.14
+1113,Lindsey Kayati,Rutgers University,2.14
+1114,Catalina Ene,Florida Atlantic University,2.14
+1115,Neena Wanko,East Carolina University,2.14
+1116,Victoria Pahlett,Charlotte,2.14
+1117,Arianna Paules Aldrey,Boise State University,2.13
+1118,Kelli Woodman,Seattle University,2.13
+1119,Nicky Stracar,Tulane University,2.13
+1120,Maria Gomez,East Carolina University,2.13
+1121,Jade Kawamoto,Univ. of Dayton,2.10
+1122,Charlotte Derbyshire,University of Denver,2.10
+1123,Nicolin Luecke,Charleston Southern University,2.09
+1124,Cristina Saenz de Buruaga Ruiz,University of the Pacific (California),2.09
+1125,Francis Dean,University of the Pacific (California),2.09
+1126,Sophie Vickers,University of Idaho,2.08
+1127,Romey Dodd-Stephens,Weber State,2.08
+1128,Wan-Yi Sweeting,Boston College,2.08
+1129,Milou Pietersz,Nicholls State University,2.07
+1130,Stephanie Nguyen,Rice University,2.06
+1131,Jackie Altansarnai,Univ. of Illinois at Chicago,2.06
+1132,Jessie Lee,UC Davis,2.06
+1133,Annina Brendel,Youngstown State University,2.06
+1134,Marcia Tere-Apisah,Georgia State University,2.04
+1135,Ikttesh Chahal,West Virginia University,2.00
+1136,Amy Lowther,UAB,2.00
+1137,Lyann Hoang,California,2.00
+1138,Sara Bondar,Coastal Carolina University,1.99
+1139,Kendall Heitzner,University of Minnesota,1.98
+1140,aida kelic,Alcorn State University,1.98
+1141,Dajana Ognjenovic,University at Albany,1.98
+1142,Kelsey Williams,University of Richmond,1.98
+1143,Macy Vonderschmidt,Charlotte,1.96
+1144,Diana Tokar,Marquette,1.96
+1145,Maria Camara Ruiz,Elon University,1.95
+1146,Mary Beth King,Indiana University-Bloomington,1.94
+1147,Zeina El Tawil,Santa Clara University,1.93
+1148,Marketa Trousilova,Univ. of Evansville,1.93
+1149,Andrea Ivanovic,Lamar University,1.93
+1150,Iasmin Rosa,South Dakota State,1.93
+1151,Julie Gaugery,Arkansas State University,1.92
+1152,Jessica Warren,Cal State Northridge,1.92
+1153,Blair Martin,Furman University,1.92
+1154,Johanna Hyoty,Boston University,1.91
+1155,Kristy Jorgensen,UC Davis,1.91
+1156,Ana Rajkovic,Miami University (Ohio),1.91
+1157,Jordan Denesik,Northern Arizona University,1.91
+1158,Victoria Bensimon,Cleveland State University,1.91
+1159,Paula Tormos,Marquette,1.91
+1160,Saroop Dhatt,University of Portland,1.88
+1161,Kelly Mengel,Penn State University,1.88
+1162,Isla Brock,Nicholls State University,1.86
+1163,Sharon Coone,University of New Mexico,1.86
+1164,Tarani Kamoe,Georgia State University,1.86
+1165,Anastasiia Zviahintesva,Jackson State University,1.85
+1166,Samantha Caswell,Chattanooga,1.85
+1167,Mehvish Safdar,University of Minnesota,1.83
+1168,Ksenija Tihomirova,Fairleigh Dickinson University,1.82
+1169,Karoline Haller,Wright State University,1.82
+1170,Aimee Tarun,University of Iowa,1.81
+1171,Jacqueline Zuhse,Penn State University,1.79
+1172,Nicola Wellman,Liberty University,1.78
+1173,Kadi Ilves,Illinois State University,1.78
+1174,Ryan Brown,Bryant University,1.77
+1175,Ana Gasparovic,Iowa State University,1.76
+1176,Luba Vazhenina,University of Pennsylvania,1.76
+1177,Marion Boullin,Bryant University,1.76
+1178,Stephanie Fox,University of Kentucky,1.72
+1179,Greer Ransom,Presbyterian College,1.72
+1180,Emily Groeneveld,Liberty University,1.71
+1181,Maria Cioffi,Bucknell University,1.71
+1182,Franziska Sprinkmeyer,University of North Texas,1.69
+1183,Cassandra Dix,Stony Brook University,1.68
+1184,Lauren Pickens,University of Kansas,1.67
+1185,kamelia dimitrova,Savannah State University,1.65
+1186,Bianca Biglione,Florida Atlantic University,1.65
+1187,Aida Kelic,Alcorn State University,1.64
+1188,Alba Sala,University at Albany,1.64
+1189,Liselot Koenen,Georgetown University,1.63
+1190,Jayde Viccars,East Tennessee State University,1.61
+1191,Monique Krutak,"Southern Illinois, Edwardsville",1.61
+1192,Hannah Liljkevist,Seton Hall University,1.60
+1193,Nicole Mitchell,Syracuse University,1.60
+1194,Aliona Ladutska,Northwestern State University,1.59
+1195,Mary Meyers,U.S. Air Force Academy,1.58
+1196,Masey DeMoss,UNC Greensboro,1.58
+1197,Isabel Aldunate,"Univ. of Maryland, Baltimore County",1.57
+1198,Paula Sanchez,University of South Alabama,1.57
+1199,Reegan Greenwood,University of Texas-Pan American,1.56
+1200,Hitomi Naito,University of Tennessee at Martin,1.56
+1201,Mari Taslagyan,Cal State Northridge,1.55
+1202,Amanda Wickman,Univ. of Pittsburgh,1.55
+1203,Ashlee Boles,University of Tennessee,1.55
+1204,Maryls Bridgham,Univ. of Dayton,1.55
+1205,Sofia Holmberg,Univ. of San Francisco,1.54
+1206,Maria Goraz-Moreno,Bethune-Cookman University,1.54
+1207,Cassandre Thebault,"University of Maryland, College Park",1.54
+1208,Catherine Ragon,UAB,1.54
+1209,Maria Sablina,Bethune-Cookman University,1.54
+1210,Mila Milanovic,Sam Houston State University,1.53
+1211,Brooke Urzendowski,Saint Louis University,1.52
+1212,Alena Vasileva,Murray State University,1.51
+1213,Shannon Cleary,"Univ. of Maryland, Baltimore County",1.51
+1214,Anja Luethi,University of New Orleans,1.51
+1215,Marta Lewandoska,Northern Arizona University,1.51
+1216,Monica Aguado,Winthrop University,1.51
+1217,Lindsay Balsamo,Rutgers University,1.51
+1218,Kelly Shaffer,UCLA,1.50
+1219,Brittany Yang,Liberty University,1.50
+1220,Lisa Grosselius,Charlotte,1.50
+1221,Natalia Tomaszewicz,Florida Atlantic University,1.50
+1222,Brittney Reed,Abilene Christian University,1.49
+1223,Shani Blecher,University of San Diego,1.49
+1224,Natalie Sayer,Radford University,1.49
+1225,Arielle Shuren,University of Delaware,1.48
+1226,Mercedes Lopez Velez,UNLV,1.47
+1227,Elena Roca,University of Southern Mississippi,1.46
+1228,Tiffany Pham,UC Davis,1.46
+1229,Callie Ronkowski,Univ. of North Dakota,1.46
+1230,Evy Van Genechten,University of Denver,1.45
+1231,Katie Hoch,East Carolina University,1.43
+1232,Elaine Simon,UAB,1.42
+1233,Kerry Galhos,Texas A&M Corpus-Christi,1.42
+1234,Jennifer Leib,Florida Atlantic University,1.41
+1235,Brittany Collens,"Univ. of Massachusetts, Amherst",1.40
+1236,Catherine White,Gardner-Webb University,1.40
+1237,Annie Wierda,University of Michigan,1.39
+1238,Hannah Wille,University of Cincinnati,1.38
+1239,Julie Leong,Fordham University,1.38
+1240,Mariya Krachok,Fairleigh Dickinson University,1.38
+1241,Anna-Maria Nau,Sacramento State,1.38
+1242,Hailey Rochin,Northern Arizona University,1.38
+1243,Nathalie Lorenco,Alabama State University,1.37
+1244,Claire Mulyadi,Chattanooga,1.37
+1245,Summer Walker,University of Connecticut,1.37
+1246,Alex Jones,Long Beach State University,1.36
+1247,Morgan Barnhill,University of Denver,1.36
+1248,Daphne Friedrichs,Eastern Michigan University,1.35
+1249,Erica Valimaki,Brigham Young University,1.35
+1250,Megan Miller,Bowling Green State University,1.34
+1251,Danea Jonjic',University of Delaware,1.32
+1252,Karlee Bryde,Furman University,1.32
+1253,Allie Robbins,University of Mississippi,1.32
+1254,Nan Porter,U.S. Military Academy,1.32
+1255,Ana Batiri,Virginia Commonwealth University,1.32
+1256,Annie DiMuro,Binghamton University,1.31
+1257,Silvia Tumova,Grand Canyon University,1.31
+1258,Megan Blue,Murray State University,1.30
+1259,Erika Castillo Lopez,New Mexico State University,1.30
+1260,Luize Strike,Seton Hall University,1.30
+1261,Sarah Sediri,Middle Tennessee State University,1.30
+1262,Claudia Mackenzie,U.S. Naval Academy,1.30
+1263,Suzy Tan,Dartmouth College,1.29
+1264,Heini Salonen,Boston College,1.29
+1265,Antonella Santeusanio,University of the Pacific (California),1.29
+1266,Anett Ferenczi-Bako,UNLV,1.28
+1267,Darnesha Moore,"Southern University, Baton Rouge",1.27
+1268,Siena Peri,Portland State University,1.27
+1269,Katherine White,University of Notre Dame,1.26
+1270,Chinatsu Kajiwara,Bethune-Cookman University,1.26
+1271,Laura Middel,Montana State University-Bozeman,1.26
+1272,Rachel McNeely,University of Kansas,1.25
+1273,Lea Winkler,Drexel University,1.25
+1274,Taylor Holden,University of Rhode Island,1.24
+1275,Rozel Hernandez,U.S. Naval Academy,1.24
+1276,Melissa Kandinata,University of Richmond,1.24
+1277,Sarah Khan,James Madison University,1.23
+1278,Valeriia Lavrenchuk,IUPUI,1.23
+1279,Jelena Lazarevic,University of Portland,1.23
+1280,Molly Wickman,Univ. of Pittsburgh,1.23
+1281,Caroline Aleck,Western Michigan University,1.23
+1282,Eva Dench,Texas State University,1.22
+1283,Denise Van Der Ben,New Mexico State University,1.22
+1284,Kelly Iden,Eastern Illinois University,1.21
+1285,Marcela Jimenez,Eastern Kentucky University,1.21
+1286,Karly Pang,Marist College,1.21
+1287,Chelsea Horan,Texas A&M Corpus-Christi,1.20
+1288,Jennifer Ong,Sacramento State,1.19
+1289,Alexis Garrett,UNLV,1.19
+1290,Ali Dawson,Marquette,1.18
+1291,Kelsey King,Saint Louis University,1.18
+1292,Logan Antill,U.S. Naval Academy,1.17
+1293,Jamie Grinberg,UNC Greensboro,1.17
+1294,Olivia Gaudreault,"University of Maryland, College Park",1.17
+1295,Ema Turudija,Missouri State University,1.17
+1296,Malin Allgurin,Longwood University,1.16
+1297,Ariadna Cairo Baza,"Southern Illinois, Carbondale",1.16
+1298,Paulina Bajet,Villanova University,1.16
+1299,Peyton Jennings,University of Arkansas,1.16
+1300,Irina Karangozishvili,Campbell University,1.16
+1301,Casey Marx,Georgetown University,1.15
+1302,Destiny Grunin,Fordham University,1.15
+1303,Sidnay Huck,University of Toledo,1.15
+1304,Mireille Hermans,University at Albany,1.15
+1305,Laura Syori,"Southern University, Baton Rouge",1.14
+1306,Toni Ormond,Ball State University,1.14
+1307,Sarah Sarjoo,East Carolina University,1.13
+1308,Alex Martin,University of South Carolina,1.13
+1309,Madison Craft,Boston University,1.13
+1310,Mary Malkin,Northern Illinois University,1.13
+1311,Zaina Zaki,University of Connecticut,1.12
+1312,Alzbeta Veverkova,Virginia Commonwealth University,1.12
+1313,Maria Panaite,Kansas State,1.11
+1314,Elif Gabb,South Dakota State,1.10
+1315,Lina Åkesson,University of Oregon,1.10
+1316,Aarzoo Malik,"Univ. of Massachusetts, Amherst",1.10
+1317,Caroline Ferrari,Presbyterian College,1.10
+1318,Sarah Jane Jones,College of Charleston,1.10
+1319,Alexandra Ion,University of Pennsylvania,1.09
+1320,Alexa Miller,Duquesne University,1.09
+1321,Megan Smith,Charlotte,1.09
+1322,Rosalinda Calderon,Ball State University,1.08
+1323,Ekaterina Nekrasova,North Carolina Central University,1.08
+1324,Helena Nyikos,College of Charleston,1.07
+1325,Claire Minnoe,Saint Joseph's University,1.07
+1326,Iva Parapunova,Samford University,1.07
+1327,Sunday Swett,Yale University,1.07
+1328,Grace Baker,College of Charleston,1.06
+1329,Madeline Schulte,UMKC,1.06
+1330,Betsy Zurawel,East Carolina University,1.06
+1331,Lyndsey Boos,Florida Atlantic University,1.06
+1332,AnnMarie Lyon,Samford University,1.05
+1333,Ana Glumac,University at Albany,1.05
+1334,Allyson Hayley,U.S. Military Academy,1.04
+1335,Christiana Ferrari,University of the Pacific (California),1.04
+1336,Lana Macukat,Grand Canyon University,1.03
+1337,Sophie Barnard,Georgetown University,1.03
+1338,Katherine Castro,Univ. of Pittsburgh,1.03
+1339,Nicole Breaux,University of Arkansas,1.03
+1340,Mackenna Maddox,University of Nebraska,1.02
+1341,Irene Gandara Gonzalez,Univ. of Texas at San Antonio,1.02
+1342,Smaranda Petreanv,South Carolina State,1.02
+1343,Sara Brown,Northern Arizona University,1.02
+1344,Adel Musina,Bethune-Cookman University,1.01
+1345,Paulina Torres,University at Albany,1.01
+1346,Katherine Medianik,Binghamton University,1.01
+1347,Shannon Newnes,Akron,1.01
+1348,Yana Golovkina,"Southern Illinois, Carbondale",1.01
+1349,Alexis Czapinski,University of Kansas,1.00
+1350,Sasha Nionova,University of Detroit Mercy,1.00
+1351,Taylor Casey,Elon University,0.99
+1352,Maggie Kane,North Carolina,0.99
+1353,Natalia Yacaman,Saint Louis University,0.99
+1354,Erin Bowsher,Drexel University,0.98
+1355,Julia Sbircea,University of North Florida,0.98
+1356,Arantza De La Torre,Northern Illinois University,0.98
+1357,Lucia Bustamante,Southeastern Louisiana University,0.97
+1358,Tanya Murtagh,Fresno State,0.97
+1359,Laurence Pelchat,Montana,0.96
+1360,Ashley Noyes,Brown University,0.96
+1361,Mariana Ranzahuer,University of Texas-Pan American,0.96
+1362,Manoela Chiacchio,Louisiana Tech University,0.95
+1363,Christine Kharkevitch,UNC Wilmington,0.95
+1364,Sabina Jeresic,Arkansas State University,0.95
+1365,Samantha Droop,U.S. Naval Academy,0.95
+1366,Spencer Caravaggio,Duquesne University,0.95
+1367,Katya Salas,University of Richmond,0.94
+1368,Letha Gaigher,ULM (Univ. of Louisiana at Monroe),0.94
+1369,Vivien Borbely,McNeese State University,0.94
+1370,Maud Mrad,Campbell University,0.94
+1371,Anelisse Torrico,Missouri State University,0.94
+1372,Arijana Korac,Stetson University,0.93
+1373,Marizanne Bouwer,Oral Roberts University,0.93
+1374,Aina Hernandez Soler,Colorado State University,0.93
+1375,Lisa Jouravleva,Bucknell University,0.93
+1376,Yvon Martinez,West Virginia University,0.91
+1377,Natalie Allen,University of Washington,0.91
+1378,Maxene Weinberg,University of Connecticut,0.91
+1379,Alexandra Way,University of Louisiana,0.91
+1380,Nelo Phiri,University of Louisiana,0.90
+1381,Sophia Geier,Akron,0.90
+1382,Hannah Dahlem,U.S. Military Academy,0.90
+1383,Katelyn Nguyen,University of Toledo,0.90
+1384,Mara Argyriou,College of Charleston,0.90
+1385,Aimee Manfredo,Bradley University,0.89
+1386,Alana Prinos,Providence College,0.89
+1387,Alix Theodossiou,UNC Wilmington,0.89
+1388,Lauren Thai,University of Toledo,0.88
+1389,Mary Katherine Lewis,Auburn University,0.88
+1390,Gisela Kemper,Univ. of Northern Iowa,0.87
+1391,Danielle Pham,Cal State Fullerton,0.87
+1392,Marine Cartier,Alabama State University,0.87
+1393,Lucia Badillos,University of Idaho,0.86
+1394,Katie Kim,Seton Hall University,0.86
+1395,Milena Toseva,Boise State University,0.86
+1396,Kim McCallum,Boston University,0.85
+1397,Alexandra Peterzalkova,Grand Canyon University,0.85
+1398,Kateryna Piatakova,Northwestern State University,0.85
+1399,Raquel Montalvo,Eastern Kentucky University,0.85
+1400,Isabelle Hoorn,San Diego State University,0.85
+1401,Sara Sherif,IPFW,0.85
+1402,Ornella Di Salvo,Austin Peay State University,0.85
+1403,Ashanti Campfield,Bryant University,0.85
+1404,Claudia Escribens,Purdue University,0.85
+1405,Becky Shtilkind,Stony Brook University,0.85
+1406,Elena Najera-Salas,University of Utah,0.84
+1407,Laia Charles,Nicholls State University,0.84
+1408,Tori Trylovich,Sacramento State,0.84
+1409,Taylor Newman,Radford University,0.84
+1410,Gisela Castany,Fairleigh Dickinson University,0.84
+1411,Sophie Lesage,Towson University,0.84
+1412,Cari Berry,Coastal Carolina University,0.83
+1413,Caroline Faught,UAB,0.82
+1414,Samantha Schafer,Villanova University,0.82
+1415,Ashley Tiefel,University of Colorado,0.82
+1416,Iris Lin,Boston University,0.82
+1417,Hanna Victorsson,"Univ. of Maryland, Baltimore County",0.81
+1418,Rita Bermudez,University of Idaho,0.81
+1419,Sara McBride,Presbyterian College,0.81
+1420,Mathilde Orange,Cleveland State University,0.80
+1421,Marta Sans,University of New Orleans,0.79
+1422,Zoe Oedekerk,Cal Poly,0.79
+1423,Bethany Moore,Ball State University,0.79
+1424,Emily Mazzola,University of Toledo,0.79
+1425,Megan Sandford,Cal State Fullerton,0.79
+1426,Alex Tachovsky,Morehead State University,0.78
+1427,Cristina Alvarez,Northern Illinois University,0.78
+1428,Stephanie Elgegren,St. John's University,0.78
+1429,Xandra Fougner,Mercer University,0.78
+1430,Laura Hopton,Kansas State,0.78
+1431,Gabrielle Moore,"Southern University, Baton Rouge",0.78
+1432,Jenna Brunner,Davidson College,0.78
+1433,A.J. Gomer,Towson University,0.78
+1434,Lina Hallgren,Univ. of Texas at San Antonio,0.77
+1435,Mariella Calderon,University of North Florida,0.76
+1436,Andrea Duva,UC Irvine,0.76
+1437,Kylie Haviland,Butler University,0.76
+1438,Celine Voss,Colorado State University,0.76
+1439,Hamilton Lovett,UNC Wilmington,0.76
+1440,Kamilla Beisenova,Elon University,0.76
+1441,Kristi Elmer,Weber State,0.76
+1442,Maria Marti,Eastern Kentucky University,0.76
+1443,Milica pavlovic,University of South Dakota,0.75
+1444,Mackenzie Lasure,Appalachian State University,0.75
+1445,Martina Zerbola,Akron,0.75
+1446,Gemma Valls,Radford University,0.74
+1447,Gisela Cairo Baza,"Southern Illinois, Carbondale",0.74
+1448,Daniela Raygadas,Southeastern Louisiana University,0.74
+1449,Deahna Welcher,Lipscomb University,0.74
+1450,Alexis Tashiro,Binghamton University,0.74
+1451,Karina Gurgenyan,University of Southern Mississippi,0.74
+1452,Melanie Yates,Gonzaga University,0.74
+1453,Jaide Collins,St. John's University,0.74
+1454,Miller Hales,UNC Wilmington,0.74
+1455,Isabell Klingert,Seton Hall University,0.74
+1456,Elaine Chesoni,Santa Clara University,0.74
+1457,Dina Karina,Temple University,0.74
+1458,Siobhan Ryan-Bovey,Alcorn State University,0.73
+1459,Marina Moreno,Univ. of Evansville,0.73
+1460,Linnea Skymberg,Troy University,0.73
+1461,Katya Nakonechnaya,Nicholls State University,0.72
+1462,Rachel Swindell,Eastern Washington University,0.72
+1463,Madison Cook,Saint Louis University,0.72
+1464,Kalli Karas,Wofford,0.72
+1465,Jocelle Rudico,U.S. Air Force Academy,0.72
+1466,Marija Bogicevic,Marshall University,0.72
+1467,Catherine Martin,Wofford,0.72
+1468,Stina Magnusson,Gardner-Webb University,0.71
+1469,Allie Baer,Michigan State University,0.71
+1470,Anna Bryukhova,Southeastern Louisiana University,0.71
+1471,Chelsea Bailey,"Univ. of Wisconsin, Milwaukee",0.70
+1472,Elanor Grossman,Loyola Marymount University,0.70
+1473,Dora Somoracz,San Diego State University,0.70
+1474,Kennedy Craig,Univ. of Evansville,0.70
+1475,Monica Pieratt,Texas State University,0.69
+1476,Andrea Martinovska,Eastern Michigan University,0.69
+1477,Gergana Boncheva,University of the Pacific (California),0.69
+1478,Alexandria Young,Prairie View A&M University,0.69
+1479,Lily Forlini,U.S. Air Force Academy,0.69
+1480,Olivia King,Appalachian State University,0.68
+1481,Emma Kranendonk,Nicholls State University,0.68
+1482,Marian Tangarife,Idaho State University,0.68
+1483,Molly O'Koniewski,University of Notre Dame,0.68
+1484,Mikayla Morkel-Brink,University of San Diego,0.68
+1485,Alejandra Vidal,Bethune-Cookman University,0.67
+1486,Kristin Godau,Lehigh University,0.67
+1487,Mikaela Carlson,U.S. Naval Academy,0.67
+1488,Maria Storozheva,East Carolina University,0.67
+1489,Talisa Merchiers,Iowa State University,0.67
+1490,Laia Hernandez Soler,Colorado State University,0.67
+1491,Meg Napolitano,Radford University,0.67
+1492,Elina Geut,University of Tennessee at Martin,0.67
+1493,Dimitra Stavrianakou,UMKC,0.67
+1494,Maureen Devlin,Saint Joseph's University,0.67
+1495,Gabrielle Wreder,Appalachian State University,0.66
+1496,Jamie Campisi,Lehigh University,0.65
+1497,Denny Lamachia,University of Delaware,0.65
+1498,Fatya Amiri,St. Bonaventure University,0.65
+1499,Hannah Wich,"Southern Illinois, Carbondale",0.65
+1500,Sarah Stein,Davidson College,0.65
+1501,Sarah Bowen,Hofstra University,0.65
+1502,Bobbi Modesto,IUPUI,0.64
+1503,Grace Egger,George Washington University,0.64
+1504,Yuriko Ono,Western Michigan University,0.64
+1505,Daphne De Chatellus,Georgetown University,0.64
+1506,Mary Phillips Smith,Georgia Southern University,0.63
+1507,Harper Caswell,Furman University,0.63
+1508,Emily Bradshaw,James Madison University,0.63
+1509,Sophia Dzulynsky,Quinnipiac University,0.63
+1510,Audrey Channell,U.S. Naval Academy,0.63
+1511,Gabriela Srodowski,Charleston Southern University,0.63
+1512,Klara Pribylova,"Univ. of Hawaii, Manoa",0.63
+1513,Audrey Coventry,Wofford,0.62
+1514,Gaby Chinchilla,Bethune-Cookman University,0.62
+1515,Marisa Brossard,St. Bonaventure University,0.62
+1516,Elvia Galeva,Delaware State University,0.62
+1517,Rebecca Wood,North Carolina Central University,0.62
+1518,Sephora Boulbahaiem,Eastern Illinois University,0.62
+1519,Emily Gould,University of Portland,0.62
+1520,Elena Sava,University of Louisiana,0.62
+1521,Laura Fernandez,University at Buffalo,0.61
+1522,Sydney Young,Quinnipiac University,0.61
+1523,Alice Taylor,"Univ. of Maryland, Baltimore County",0.61
+1524,Ashlyn Rang,Ball State University,0.60
+1525,Carlota Trevino,IPFW,0.60
+1526,Camila Valencia,Campbell University,0.60
+1527,Elvira Lopez,Univ. of Northern Iowa,0.60
+1528,Liza Gordeeva,Norfolk State University,0.60
+1529,Kendra Bunch,Drexel University,0.60
+1530,Jessica Josiah,Howard University,0.59
+1531,Roxy Bartz,Mercer University,0.59
+1532,Sabina Preda,Portland State University,0.59
+1533,Ann-Sophie Hahn,Univ. of Illinois at Chicago,0.59
+1534,Dayana Agasieva,University at Buffalo,0.59
+1535,Melissa Machado,Appalachian State University,0.59
+1536,Soumeya Anane,UNC Greensboro,0.59
+1537,Lani-Rae Green,UC Davis,0.59
+1538,Laura Holterbosch,University at Buffalo,0.58
+1539,Colleen O'Brien,Michigan State University,0.58
+1540,Jenny Borck,Lipscomb University,0.58
+1541,Amy Ellis,UNC Greensboro,0.58
+1542,Nona Ruppert,"University of South Carolina, Upstate",0.58
+1543,Vitaliya Alkhovik,University of Colorado,0.57
+1544,Alexandra Mercado,Kennesaw State University,0.57
+1545,Beth Coton,Univ. of Northern Colorado,0.57
+1546,Olga Gaistruk,"University of Maryland, College Park",0.57
+1547,Carli Knezevich,Abilene Christian University,0.57
+1548,Cierra Plummer,Morgan State University,0.57
+1549,Jessica Willett,San Jose State University,0.57
+1550,Giulia Riepe,Georgia Southern University,0.57
+1551,Tori Smyth,Villanova University,0.56
+1552,Ryshena Providence,Drexel University,0.56
+1553,Marina Albert,UMKC,0.56
+1554,Taly Merker,Louisiana Tech University,0.56
+1555,Amanda Zuidema,University of Portland,0.56
+1556,Ayaka Terashi,Morehead State University,0.56
+1557,Ashley Thai,Bradley University,0.55
+1558,Louise Lopez,Hofstra University,0.55
+1559,Caroline DeLoach,Presbyterian College,0.55
+1560,Marijke Boers,George Mason University,0.55
+1561,Kali Donner,"Southern Illinois, Edwardsville",0.54
+1562,Naomi Holopainen,Montana State University-Bozeman,0.54
+1563,Julian Mok,U.S. Military Academy,0.54
+1564,Anne Gulsrud,Marshall University,0.54
+1565,Gen Ulanday,Jacksonville State University,0.54
+1566,Matea Zemunink,Univ. of Incarnate Word,0.54
+1567,Abby Johnson,University of Louisiana,0.53
+1568,Hafsa Laraibi,University of New Orleans,0.53
+1569,Sitilia Rencheli,Quinnipiac University,0.52
+1570,Julia Keenan,Seton Hall University,0.52
+1571,Scarlett Walston,George Mason University,0.52
+1572,Ayana Dow,Towson University,0.52
+1573,Hailey Grillo,University of South Florida,0.51
+1574,Bianca Zuzu,Univ. of Illinois at Chicago,0.51
+1575,Amalie Davidson,UNC Asheville,0.51
+1576,Allison Pavlansky,U.S. Naval Academy,0.50
+1577,Madina Vorotnikova,Southeastern Louisiana University,0.50
+1578,Maja Salibasic,Stetson University,0.50
+1579,Catherine Shulman,Illinois State University,0.50
+1580,emma burgess,Providence College,0.50
+1581,Hannah Sulz,Montana,0.50
+1582,Devi Hasan,Weber State,0.50
+1583,Dominique Esparza,University of Texas-Pan American,0.50
+1584,Nancy Menjivar,Boise State University,0.50
+1585,Aliza Deming,Univ. of North Dakota,0.50
+1586,Paulette Wolak,Stanford,0.50
+1587,Lacey Sprinkel,Univ. of North Dakota,0.49
+1588,Hayley Wild,Morehead State University,0.49
+1589,Nastia Vasyukhina,Washington State University,0.49
+1590,Morgan Yang,George Mason University,0.49
+1591,Laura Van Eeckhoudt,Belmont University,0.49
+1592,Alexis Turley,Utah State University,0.49
+1593,Meghan Lyall,Utah State University,0.49
+1594,Karlene Pang,Marist College,0.48
+1595,Alexandra Bergman,University of Minnesota,0.48
+1596,Kallie Sperry,Utah State University,0.48
+1597,Princess Gbadamosi,Cleveland State University,0.48
+1598,Valentina Briceno,Florida International University (FIU),0.48
+1599,Wanda Holopainen,Montana State University-Bozeman,0.48
+1600,Emilia Borkowski,Cal State Fullerton,0.48
+1601,Katya Bure,University of Cincinnati,0.48
+1602,Sarah Bessen,Dartmouth College,0.48
+1603,Stephanie Cardullo,Florida Atlantic University,0.48
+1604,Nicki Neal,"Southern University, Baton Rouge",0.47
+1605,Kristine Rojo,U.S. Naval Academy,0.47
+1606,Wiebke Boeckmann,Idaho State University,0.47
+1607,Kamila Kecki,UC Davis,0.47
+1608,Sofia Macias Mendoza,Youngstown State University,0.47
+1609,Barbora Vasilkova,Towson University,0.47
+1610,Labina Petrovska,Western Michigan University,0.47
+1611,Aleksandra Golawska,Cleveland State University,0.47
+1612,Tegan Louw,Kansas State,0.46
+1613,Shannon Bettiol,Western Carolina University,0.46
+1614,Brittany Plaszewski,Bowling Green State University,0.46
+1615,Dalina Dahlmans,University of New Mexico,0.45
+1616,Alison Radde,Fairfield University,0.45
+1617,Kathleen Hebble,Valparaiso University,0.45
+1618,Julia Lorca,Stephen F. Austin,0.45
+1619,Mason Thomas,Longwood University,0.45
+1620,Anandi Botha,ULM (Univ. of Louisiana at Monroe),0.45
+1621,Anna Spengler,Lamar University,0.45
+1622,Hannah Stone,Cal Poly,0.45
+1623,Petya Simeonova,Oral Roberts University,0.45
+1624,Blaine Boaz,UNC Greensboro,0.45
+1625,Alex Zachem,Saint Joseph's University,0.44
+1626,Leslie Chang,Cal State Northridge,0.44
+1627,Tarrannum Handa,Louisiana Tech University,0.44
+1628,Vitoria Beirao,"Southern Illinois, Carbondale",0.44
+1629,Julie Angermann,Jackson State University,0.44
+1630,Kendall Warren,Belmont University,0.44
+1631,Danielle Feneridis,Pepperdine,0.44
+1632,Marizanne Bouwer,Oral Roberts University,0.44
+1633,Amanda Materre,"Southern University, Baton Rouge",0.44
+1634,Umarah Mughee,Howard University,0.44
+1635,Irina Cvijovic,Alabama State University,0.43
+1636,Zoe Bizinos,Jacksonville State University,0.43
+1637,Alexandria Garrity,Siena College,0.43
+1638,Michele Urbinati,Bucknell University,0.43
+1639,Samantha Russell,Wofford,0.43
+1640,Madison Maloney,Seattle University,0.42
+1641,Christina Colarossi,"Univ. of Wisconsin, Milwaukee",0.42
+1642,Nino Sujashvili,University of Detroit Mercy,0.42
+1643,Madeleine Mortimore,Sam Houston State University,0.42
+1644,Franziska Koehler,Gonzaga University,0.42
+1645,Rachele Gazzola,Chattanooga,0.42
+1646,Sayaka Tsugai,Cal Poly,0.42
+1647,Cam Sabourin,Oakland University,0.41
+1648,Brittany Boys,University of Richmond,0.41
+1649,Kasey Bacon,Idaho State University,0.41
+1650,Olivia Large,Ball State University,0.41
+1651,Cassidy Shell,Davidson College,0.41
+1652,Carmen Pestano,Hofstra University,0.41
+1653,Karen Martinez,Sam Houston State University,0.41
+1654,Ekaterina Tugarinova,University of Texas at Arlington,0.41
+1655,Elizabeth Sutherland,George Mason University,0.41
+1656,Carola Pederzani,Clemson University,0.41
+1657,Gen McCloskey,Univ. of San Francisco,0.40
+1658,Rafaela Panizza,St. Francis Univ. (Pennsylvania),0.40
+1659,Claire-Mitchell Andrews,Presbyterian College,0.40
+1660,Ansley Boarman,Abilene Christian University,0.40
+1661,Konstantina Adami,Butler University,0.40
+1662,Bryn Bacharach,Cal Poly,0.40
+1663,Maria Toro Moreno,Saint Louis University,0.40
+1664,Karine Celis,Oakland University,0.39
+1665,Sabrina Demerath,Utah State University,0.39
+1666,Alex Landert,Florida Gulf Coast University,0.39
+1667,Anna Veleva,Eastern Michigan University,0.39
+1668,Lucy Jasso,St. Francis Univ. (Pennsylvania),0.39
+1669,Taylor Carlson,Wofford,0.39
+1670,Dane Joubert,Cal Poly,0.39
+1671,Katy Collins,Texas State University,0.39
+1672,Anna Guryanova,Seton Hall University,0.39
+1673,Dominique Henry,Florida A&M University,0.39
+1674,Kalika Slevcove,Cal State Fullerton,0.39
+1675,Sophie Panarese,Georgetown University,0.38
+1676,Stacey Roheman,Howard University,0.38
+1677,Breezy Maravich,Lehigh University,0.38
+1678,Rachel Horton,Quinnipiac University,0.38
+1679,Minami Okajima,Temple University,0.38
+1680,Dragana Brankovic,University of South Dakota,0.38
+1681,Demi Henshcel,Presbyterian College,0.38
+1682,Lauren Mabe,Liberty University,0.37
+1683,Monika Magusiak,University of Nevada,0.37
+1684,Megan Wasson,Duquesne University,0.37
+1685,Maria Paula Ribero,Eastern Michigan University,0.37
+1686,Rachel Swartwood,IUPUI,0.37
+1687,Beatriz Souza,South Dakota State,0.36
+1688,Hayley Marshall,"Univ. of Wisconsin, Milwaukee",0.36
+1689,Margaux Kaltenbacher,Southeastern Louisiana University,0.36
+1690,Paulina Velasquez,Niagara University,0.36
+1691,Nathalie Habegger,NJIT,0.36
+1692,Katherine Nelsen,Creighton University,0.36
+1693,Samantha Judan,Cal State Northridge,0.36
+1694,Madlena Kurasz,"Univ. of Maryland, Baltimore County",0.36
+1695,Melissa Kromer,Lipscomb University,0.36
+1696,Miranda Poile,Missouri State University,0.36
+1697,Jessica Brycki,Montana State University-Bozeman,0.36
+1698,Brittanie Eraso,Brigham Young University,0.36
+1699,Shivani Patel,St. Francis Univ. (Pennsylvania),0.36
+1700,Mariana Bedon,Temple University,0.35
+1701,Livia Hollosy,Northern Arizona University,0.35
+1702,Rina Sakai,Siena College,0.35
+1703,Megan Hahn,Loyola College (Maryland),0.35
+1704,Paula Castro,UAB,0.35
+1705,Bojana Petrovic,UNLV,0.35
+1706,Olivia Larsson,San Diego State University,0.35
+1707,Kate Lanier,University of Kentucky,0.35
+1708,Mackenzie Bowman,University of Toledo,0.35
+1709,Nicole Nielly,Western Carolina University,0.34
+1710,Lana Rinaldi,Grand Canyon University,0.34
+1711,Ally Sexton,Davidson College,0.34
+1712,Natalie Wall,Coastal Carolina University,0.34
+1713,Anna Zoske,"University of South Carolina, Upstate",0.34
+1714,Elaine Cloern,Wright State University,0.34
+1715,Jovana Bocinovic,St. Francis College (New York),0.34
+1716,Taylor Wingo,University of Virginia,0.34
+1717,Agatha Ambrozy,Binghamton University,0.34
+1718,Oleksandra Filippova,South Carolina State,0.34
+1719,Brianna Armellino,Appalachian State University,0.33
+1720,Michelle McFerran,Butler University,0.33
+1721,Laura Argente Escamilla,University of South Florida,0.33
+1722,Christina Harrington,University of Delaware,0.33
+1723,Nehel Sahni,Youngstown State University,0.33
+1724,Hanna Elfving,Lamar University,0.33
+1725,Danielle Kinnen,Lipscomb University,0.33
+1726,Karen Ramirez,Providence College,0.33
+1727,S findley,Prairie View A&M University,0.33
+1728,Maya Parker,U.S. Military Academy,0.32
+1729,Madeline Foley,Georgetown University,0.32
+1730,Katie Porter,U.S. Naval Academy,0.32
+1731,Allie Hueffner,University of Oregon,0.32
+1732,claire schmitz,Marist College,0.32
+1733,Marcy Huck,IPFW,0.32
+1734,Claudia Castella,University of Southern Mississippi,0.32
+1735,Carynne Lloyd,Chicago State University,0.31
+1736,Viktoria Laskutova,University of Detroit Mercy,0.31
+1737,Daria Vasekina,Georgia Southern University,0.31
+1738,Mariam Kurasbediani,UMKC,0.31
+1739,Hilary Walters-West,Univ. of Northern Colorado,0.31
+1740,Lois Wagenvoort,UTEP,0.31
+1741,Hayley Marshall,"Univ. of Wisconsin, Milwaukee",0.30
+1742,Ericka Rivero,UNC Asheville,0.30
+1743,Hanna Elfving,Lamar University,0.30
+1744,McKayla Zupan,Appalachian State University,0.30
+1745,Stephanie Marchena,Lamar University,0.30
+1746,Paloma Alatorre,Longwood University,0.30
+1747,Valeryia Kulikovskaya,University of Detroit Mercy,0.29
+1748,Victoria Pasani,Arkansas State University,0.29
+1749,Sofia Sorokina,IPFW,0.29
+1750,Corinne Blythe,UNC Greensboro,0.29
+1751,Summer Ralston,U.S. Naval Academy,0.29
+1752,Alex Sachs,St. Francis Univ. (Pennsylvania),0.29
+1753,Erdenesuren Erdenbat,George Mason University,0.29
+1754,Brittany Nuttall,Presbyterian College,0.29
+1755,Marketa Marcanikova,South Carolina State,0.29
+1756,Alex Townsend,Univ. of Dayton,0.29
+1757,Kristen Renz,Campbell University,0.29
+1758,Hannah Zangari,Providence College,0.29
+1759,Lorena Djuknic,Lipscomb University,0.29
+1760,Fiorella Coria,Drexel University,0.28
+1761,Ally Miller,Duquesne University,0.28
+1762,Arianne Polatnick,Saint Joseph's University,0.28
+1763,Victoria Martinez,Villanova University,0.28
+1764,Ellie Ball,Fordham University,0.28
+1765,Mardee Merar,"Univ. of Wisconsin, Milwaukee",0.28
+1766,Sabina Jeresic,Arkansas State University,0.28
+1767,Hannah Gamage,Lipscomb University,0.28
+1768,Marisa Anthony,Appalachian State University,0.28
+1769,Cam Kincaid,Montana,0.28
+1770,Maddie Buxton,Colorado State University,0.28
+1771,Kayla Price,Morgan State University,0.28
+1772,Tara McElroy,University of Memphis,0.28
+1773,Lindsey Post,Sacred Heart University,0.28
+1774,Nynke Van Der Goot,University of Detroit Mercy,0.27
+1775,Maggie O'Meara,Utah State University,0.27
+1776,Yasmin Doost,Gardner-Webb University,0.27
+1777,Sophia Bott,University of Washington,0.27
+1778,Elle Taylor,U.S. Military Academy,0.27
+1779,Taylor Nederlander,George Washington University,0.27
+1780,Shea Brodsky,Binghamton University,0.27
+1781,Ana Ortiz,Campbell University,0.27
+1782,Grace Hyde,Butler University,0.26
+1783,Hunter Hall,UNC Asheville,0.26
+1784,Lee Levy,Rutgers University,0.26
+1785,Gabriella Spindler,U.S. Military Academy,0.26
+1786,Oana Manole,Univ. of Illinois at Chicago,0.26
+1787,Sade Atkinson,Tulane University,0.26
+1788,Arina Alilueva,Morgan State University,0.26
+1789,Fabiola Cardoso,Univ. of Arkansas Pine Bluff,0.26
+1790,Anika Novacek,Fordham University,0.26
+1791,Andrea Macchiavello,Norfolk State University,0.26
+1792,Nataliya Naumova,University of Delaware,0.26
+1793,Macarena Acosta,Stephen F. Austin,0.26
+1794,Natalia Abdalla,University of Cincinnati,0.26
+1795,Adriana Wojakowska,Colorado State University,0.26
+1796,Nicole Chris,Fairleigh Dickinson University,0.25
+1797,Amanda Studnicki,University of Delaware,0.25
+1798,Courtney Lubbers,Western Illinois University,0.25
+1799,Aleeza Kanner,Marquette,0.24
+1800,Mareli Sanchez,Wofford,0.24
+1801,Rheanna Morehart,Northern Kentucky University,0.24
+1802,Julianna Heino,Youngstown State University,0.24
+1803,Dominique Beauvais,Weber State,0.24
+1804,Taler Brazell,U.S. Military Academy,0.24
+1805,Jenny White,Drexel University,0.24
+1806,Nicole Aragones,Fairfield University,0.24
+1807,Stella Peisakhaova,Niagara University,0.24
+1808,Teodora Stefanovic,Lamar University,0.24
+1809,Maddy Adams,Duquesne University,0.23
+1810,Noelle Kaufmann,U.S. Naval Academy,0.23
+1811,Harley Hutchison,Bowling Green State University,0.23
+1812,Cassidy Branstine,UC Irvine,0.23
+1813,Sadley St. Amant,Jacksonville State University,0.23
+1814,Allison Hansen,George Washington University,0.23
+1815,Matilda Rose Tench,UTEP,0.23
+1816,Siriporn Phakamad,Jackson State University,0.23
+1817,Kathleen Uy,University of Rhode Island,0.23
+1818,Melissa Esguerra,East Tennessee State University,0.23
+1819,Kirsten Scott,University at Albany,0.23
+1820,Nicole Parker,Longwood University,0.23
+1821,Julia Norlin,Loyola Marymount University,0.23
+1822,Erin Maguire,Western Carolina University,0.23
+1823,Laura Gutierrez,Idaho State University,0.23
+1824,Marisa Quevedo,Seton Hall University,0.22
+1825,Evelyn Youel,Northern Illinois University,0.22
+1826,Abbie Mather,Belmont University,0.22
+1827,Daniela Garcia-Diaz,Univ. of Texas at San Antonio,0.22
+1828,Laura Ambrozic,"Univ. of Maryland, Baltimore County",0.22
+1829,Maria Ortiz,Niagara University,0.22
+1830,Haley Powell,Mercer University,0.22
+1831,Cristina Martin,Kennesaw State University,0.22
+1832,Melika LeBlanc,Univ. of Illinois at Chicago,0.22
+1833,Amryn Soldier,UNC Asheville,0.22
+1834,Haley Ballinger,Louisiana Tech University,0.22
+1835,No Player,Lipscomb University,0.22
+1836,Audra Bell,Howard University,0.22
+1837,Claudia Ortiz,Campbell University,0.22
+1838,Mia Brandt,New Mexico State University,0.22
+1839,Jennifer DeLuca,Providence College,0.22
+1840,Chanel Scudiero,Illinois State University,0.21
+1841,Katie Seitz,Marist College,0.21
+1842,Ivana Boberic,Alcorn State University,0.21
+1843,Dhanielly Quevedo,Stephen F. Austin,0.21
+1844,Briana Leonard,Bryant University,0.21
+1845,Rebecca Breland,Temple University,0.21
+1846,Sara Mitrovic,Duquesne University,0.21
+1847,Kimberly Milla,University of Delaware,0.21
+1848,Eliizabeth Perez,Univ. of Arkansas Pine Bluff,0.21
+1849,Sydney Power,Northern Kentucky University,0.21
+1850,Ashley Ta,Niagara University,0.21
+1851,Raquel Montalvo,Eastern Kentucky University,0.21
+1852,Matea Roki,Chicago State University,0.21
+1853,Dana Shannon,"Univ. of Wisconsin, Milwaukee",0.21
+1854,Meredith Heitland,University of Hartford,0.21
+1855,Olivia Hogan,Providence College,0.21
+1856,Kathrin Waidner,University of Southern Mississippi,0.21
+1857,Mandy Marchant,Univ. of Dayton,0.20
+1858,Megan Govi,Portland State University,0.20
+1859,Jane Awad,George Mason University,0.20
+1860,Cassidy Crawford,Univ. of Central Arkansas,0.20
+1861,Chassidy King,University at Albany,0.20
+1862,Madison Shoemaker,Seton Hall University,0.20
+1863,Olivia Lacy-Thompson,George Mason University,0.20
+1864,Natalie Duran,Southeastern Louisiana University,0.20
+1865,Nicole Rydzewski,Sacred Heart University,0.20
+1866,Lindsey Bennet,Univ. of Northern Colorado,0.20
+1867,Nicole Tekelova,Alabama State University,0.20
+1868,Raquel Argenal,UMKC,0.19
+1869,Linnea Sjoberg,Bryant University,0.19
+1870,Zuzanna Stelmaszak,Duquesne University,0.19
+1871,Alejandra Gil,Furman University,0.19
+1872,Tori Turner,Wright State University,0.19
+1873,Jennifer Christhilf,"Univ. of Maryland, Baltimore County",0.19
+1874,Ffion Davies,South Dakota State,0.19
+1875,Florencia Magni,South Dakota State,0.19
+1876,Erin Strachan,University of Colorado,0.18
+1877,Ximena Puentes,Oral Roberts University,0.18
+1878,Danielle Gryckiewicz,St. Francis Univ. (Pennsylvania),0.18
+1879,Daphne Visscher,UTEP,0.18
+1880,Samantha Mayer,IUPUI,0.18
+1881,Elizabeth Guy,Oakland University,0.18
+1882,Tamilla Vaksman,UC Riverside,0.18
+1883,Ashley Monaco,Creighton University,0.18
+1884,Ines Teixeira,Univ. of San Francisco,0.18
+1885,Alejandra Barcelo,Eastern Michigan University,0.17
+1886,Ekaterina Donetskova,Missouri State University,0.17
+1887,Anastasija Trubich,McNeese State University,0.17
+1888,Ana. Reshetnikova,Western Michigan University,0.17
+1889,Marissa Baca,Univ. of Northern Colorado,0.17
+1890,Holly Monahan,Washington State University,0.17
+1891,Elif Gabb,South Dakota State,0.17
+1892,Madison Porter,Colorado State University,0.17
+1893,Abigail Madrigal,Wright State University,0.17
+1894,Mila Majtan,Coastal Carolina University,0.17
+1895,Amanda Noonan,Creighton University,0.17
+1896,Katherine Long,University of Hartford,0.17
+1897,Faith Huckabee,Chicago State University,0.17
+1898,Melissa Gerritsen,Eastern Kentucky University,0.17
+1899,Caroline Andersen,Iowa State University,0.17
+1900,Barbara Carey,Seattle University,0.16
+1901,Brittany Pilkington,George Mason University,0.16
+1902,Abigail Dekkinga,Northern Illinois University,0.16
+1903,Megan Mullen,Appalachian State University,0.16
+1904,Mariam Skhirtladze,St. Bonaventure University,0.16
+1905,Tamara Blum,Oakland University,0.16
+1906,Abby Farrel,Lehigh University,0.16
+1907,Anna Pelak,Longwood University,0.16
+1908,Bridget Liddell,Elon University,0.16
+1909,Andjela Brguljan,Univ. of Evansville,0.15
+1910,Emily Stefancic,Northern Illinois University,0.15
+1911,Grace Sarver,Radford University,0.15
+1912,Abby Bacharach,Cal Poly,0.15
+1913,Mitsuki Fukamachi,Siena College,0.15
+1914,Teodora Stanciu,Gardner-Webb University,0.15
+1915,Lindsey Whitehead,Belmont University,0.15
+1916,Chrissie Hoolahan,Univ. of Northern Colorado,0.15
+1917,Melissa Martin,Southeast Missouri State,0.15
+1918,Jennifer Gates,Northern Illinois University,0.15
+1919,Laura Theus,Idaho State University,0.15
+1920,Melissa Kromer,Lipscomb University,0.15
+1921,Sam Anderson,Creighton University,0.15
+1922,Madison Cohen,Akron,0.15
+1923,emily hughes,Loyola College (Maryland),0.15
+1924,Madelyn Weltzin,Idaho State University,0.15
+1925,Emma Burgess,Providence College,0.14
+1926,Kayleigh Hall,University of Toledo,0.14
+1927,Karla Dulay,UC Riverside,0.14
+1928,Ariana Launie,Quinnipiac University,0.14
+1929,Nancy Zonneveld,Long Island University (Brooklyn),0.14
+1930,adriana armendariz,Monmouth University,0.14
+1931,Sophie Allen-Fisher,Univ. of North Dakota,0.14
+1932,Suzanna Stapler,Belmont University,0.14
+1933,Lisa Ventimiglia,Marist College,0.14
+1934,Eva Sung,U.S. Military Academy,0.14
+1935,Doris Aleksovska,University at Buffalo,0.14
+1936,Gaby Fifer,Univ. of Evansville,0.14
+1937,Sruthi Kamprath,Mount St. Mary's University,0.14
+1938,Shantal Blackwood,Florida A&M University,0.14
+1939,Andrada Gordan,Oral Roberts University,0.14
+1940,Rachel Sutton,Butler University,0.14
+1941,Kamile Stadalninkaite,Eastern Illinois University,0.13
+1942,Emily Witt,Bowling Green State University,0.13
+1943,Catherine Orfanos,Montana,0.13
+1944,Anne Marie Devlin,Saint Joseph's University,0.13
+1945,Vanessa Tavarez,Austin Peay State University,0.13
+1946,Katia Jordan,Nicholls State University,0.13
+1947,Mina Milovic,Univ. of Evansville,0.13
+1948,Suzaan Stoltz,Murray State University,0.13
+1949,Beatriz Flores,University of Idaho,0.13
+1950,Sruthi Kamprath,Mount St. Mary's University,0.13
+1951,Kelly Mulquin,Saint Joseph's University,0.13
+1952,Marie-Pier Thiffault,New Mexico State University,0.13
+1953,Cassidy Cruz,Lehigh University,0.13
+1954,Brittini Jentz,St. Francis Univ. (Pennsylvania),0.13
+1955,alexis dean,Florida A&M University,0.13
+1956,Alek Savic,Morehead State University,0.13
+1957,Bianca Derrick,Hofstra University,0.13
+1958,Abby Martinez,University of Delaware,0.13
+1959,Alexandra Kroguis,Villanova University,0.13
+1960,Angelina Philipova,Montana State University-Bozeman,0.13
+1961,Caroline Konigsfeldt,Long Island University (Brooklyn),0.13
+1962,Miarian Mitaishvili,Hampton University,0.13
+1963,Haley O'Connor,U.S. Military Academy,0.13
+1964,Nicole Cyterski,Providence College,0.13
+1965,Dakota Brown,South Carolina State,0.12
+1966,Riley Nizzi,Kansas State,0.12
+1967,Katrina Domingo,Eastern Washington University,0.12
+1968,Mirelva Colon,Marist College,0.12
+1969,Camara Davis,"Southern University, Baton Rouge",0.12
+1970,Rachel Rohinsky,Lafayette College,0.12
+1971,Christel Amsallem,University of Texas-Pan American,0.12
+1972,Jana Schober,Cleveland State University,0.12
+1973,Charlotte Tonjann,"Univ. of Maryland, Baltimore County",0.12
+1974,Kate Pettee,Villanova University,0.12
+1975,Daria Labintseva,University of the Pacific (California),0.12
+1976,Mollie Cooper,Colorado State University,0.12
+1977,Camila Diaz,St. Francis Univ. (Pennsylvania),0.12
+1978,A. Nixon,Lafayette College,0.12
+1979,Carley Hatcliff,U.S. Air Force Academy,0.12
+1980,Rymma Maslova,University of South Dakota,0.12
+1981,Morgan Taylor,"Southern University, Baton Rouge",0.12
+1982,Alina Schibol,IPFW,0.12
+1983,Sierra Halverson,"Southern Illinois, Edwardsville",0.12
+1984,Danielle Donahue,Northern Kentucky University,0.12
+1985,Dominika Hadnadova,Eastern Kentucky University,0.12
+1986,Ewa Telenga,Campbell University,0.12
+1987,Carly Peck,Univ. of Dayton,0.12
+1988,Jana Hueckinghaus,Kennesaw State University,0.12
+1989,Amanda Pitocco,Providence College,0.11
+1990,Patrice Casey,Delaware State University,0.11
+1991,Natacha Minc,University of Texas-Pan American,0.11
+1992,Hannah Kimbrough,Eastern Illinois University,0.11
+1993,Yasmin Franco,UNC Greensboro,0.11
+1994,Aerielle Pendleton,"Univ. of Wisconsin, Milwaukee",0.11
+1995,Sam Hodges,Wagner College,0.11
+1996,Bianca Strukelj,Univ. of Central Arkansas,0.11
+1997,Tacy Haws-Lay,South Dakota State,0.11
+1998,Emina Djukanovic,St. Francis College (New York),0.11
+1999,Taylor Fay,Radford University,0.11
+2000,Isabel Balsavage,"Univ. of Massachusetts, Amherst",0.11
+2001,Daria Lurchenko,Arkansas State University,0.11
+2002,Mikaela Pierce,Hampton University,0.11
+2003,Paige Olson,Sacred Heart University,0.11
+2004,Maria Coronel,Longwood University,0.11
+2005,Giulia Leone,Hofstra University,0.11
+2006,Ashley Monaco,Creighton University,0.11
+2007,Bella Genkina,Fordham University,0.11
+2008,Alyssa Singh,Siena College,0.11
+2009,Agoncha Punj,Alcorn State University,0.11
+2010,Gabby Leon,Manhattan College,0.11
+2011,Anna Peacock,University of Rhode Island,0.11
+2012,Julia Albuquerque,Troy University,0.11
+2013,Mimi Yunker,Univ. of North Dakota,0.11
+2014,Emily Kerr,Northwestern State University,0.11
+2015,Ancia Ifill,Bethune-Cookman University,0.11
+2016,Michelle Garpenlov,University of Denver,0.11
+2017,Polina Dozortseva,"Southern Illinois, Carbondale",0.10
+2018,Carolina Zanotta,NJIT,0.10
+2019,Anna Zelechonok,Michigan State University,0.10
+2020,Juliana Guevara,Oakland University,0.10
+2021,Molly Matricardi,"Nebraska, Omaha",0.10
+2022,Chae Bean Kang,University at Albany,0.10
+2023,Olivia Nguyen,Jacksonville State University,0.10
+2024,Jenna Krakau,Belmont University,0.10
+2025,Brittany Dawson,Tennessee State University,0.10
+2026,Arrice Robinson,Florida A&M University,0.10
+2027,Farris Cunningham,Rutgers University,0.10
+2028,Addie Devine,Holy Cross,0.10
+2029,Senna Harris,Wagner College,0.10
+2030,Christine Haraldson,University at Buffalo,0.10
+2031,Alysa Straub,"Univ. of Wisconsin, Milwaukee",0.10
+2032,Caroline Shearrer,UNC Asheville,0.10
+2033,Irinka Toidze,Bradley University,0.10
+2034,Lizzie Oosterbaan,Xavier University,0.10
+2035,Mackenzie Rozell,Missouri State University,0.10
+2036,Yamini Reddy,University of South Dakota,0.10
+2037,Abby Duddy,Lehigh University,0.10
+2038,Alicia Robinson,University of South Florida,0.10
+2039,Juweria Hussain,Long Island University (Brooklyn),0.10
+2040,Grace Lymer-Sullivan,Washington State University,0.10
+2041,Mafalda Lhorca,Norfolk State University,0.10
+2042,Nina Roell,"University of South Carolina, Upstate",0.10
+2043,Amanda Lanciano,Loyola College (Maryland),0.10
+2044,Katie Shepherd,Univ. of Dayton,0.10
+2045,Christin Kaupper,UNC Wilmington,0.10
+2046,Bailey Vandyke,Sam Houston State University,0.10
+2047,Yvonne Kamegne,Norfolk State University,0.10
+2048,Regina Suarez,University of the Pacific (California),0.09
+2049,Claudia Marsala,Jacksonville State University,0.09
+2050,Jess Heeps-Eriken,Arkansas State University,0.09
+2051,Katie Sweet,Utah State University,0.09
+2052,Laura Kelly,Mercer University,0.09
+2053,Michelle Dassa,Quinnipiac University,0.09
+2054,Maame Osei,Howard University,0.09
+2055,Cheryl Kukkonen,University at Albany,0.09
+2056,Mara Martinez-Santori,St. Bonaventure University,0.09
+2057,Erin Blessing,Eastern Washington University,0.09
+2058,Andie Mouzes,Sacramento State,0.09
+2059,Carolina Lopez,Eastern Washington University,0.09
+2060,Renate von Oorschodt,Towson University,0.09
+2061,Kate Potapova,Alcorn State University,0.09
+2062,Bridget Guenard,U.S. Military Academy,0.09
+2063,Hailey Shanahan,Northern Kentucky University,0.09
+2064,Nora Tan,Stanford,0.09
+2065,Nicole Berkman,University of Pennsylvania,0.09
+2066,Adina Ungurean-Halagian,St. Peter's University,0.09
+2067,Kaila Nelson,Fairfield University,0.09
+2068,Alba Rosas,NJIT,0.09
+2069,rosie bird,Bryant University,0.09
+2070,Dani Young,Eastern Washington University,0.09
+2071,Chandler Consonery,Duquesne University,0.09
+2072,Abbey Neff,IUPUI,0.09
+2073,Isabela Castro,Kennesaw State University,0.09
+2074,Sarah Rieckman,Gardner-Webb University,0.09
+2075,Collen Beck,Delaware State University,0.09
+2076,Lauren Reid,Wofford,0.09
+2077,Christine Boissevain,UNC Asheville,0.09
+2078,Malisa Vatanadilok,Univ. of Incarnate Word,0.09
+2079,Lisa Jouravleva,Bucknell University,0.08
+2080,Riley Morgan,Santa Clara University,0.08
+2081,Haleigh Morgus,Loyola College (Maryland),0.08
+2082,Vanessa Madrgial,Wright State University,0.08
+2083,melegua king,Univ. of Maryland Eastern Shore,0.08
+2084,Kate Pettee,Villanova University,0.08
+2085,Jessica Silva,University of Tennessee at Martin,0.08
+2086,Maria Bessmertnaya,Akron,0.08
+2087,Nithila Asokaraj,University of Rhode Island,0.08
+2088,Caroline Nixon,Lafayette College,0.08
+2089,Rachel Jurgielewicz,Wagner College,0.08
+2090,Marina Rull V,Wagner College,0.08
+2091,Kelly Klein,Colgate University,0.08
+2092,Margot De Haan,Troy University,0.08
+2093,Arantxia Wijngaarde,Alabama State University,0.08
+2094,Elysia Ortiz,Florida A&M University,0.08
+2095,Tee Kassin,Grambling State University,0.08
+2096,C Goede,Coppin State College,0.08
+2097,Helen Abbot,Fairfield University,0.08
+2098,Amber Stuhlmann,Utah State University,0.08
+2099,Taylor Gurda,Sacred Heart University,0.08
+2100,Stephanie Londre,"Univ. of Wisconsin, Green Bay",0.08
+2101,Elizaveta Sadovnikova,University of Rhode Island,0.08
+2102,Aysenil Orhon,Drexel University,0.07
+2103,Ann Lauren Fiepke,Belmont University,0.07
+2104,Sarah Shashura,Duquesne University,0.07
+2105,Lynsey Cover,North Carolina Central University,0.07
+2106,Sydney Wolfe,Univ. of Northern Iowa,0.07
+2107,Alex Manolova,Univ. of Maryland Eastern Shore,0.07
+2108,Alexandra Torres,Middle Tennessee State University,0.07
+2109,Sydney Thomas,Prairie View A&M University,0.07
+2110,Karen McKeough,Fairfield University,0.07
+2111,Allie Schulte,UMKC,0.07
+2112,Brittney Covington,Austin Peay State University,0.07
+2113,Faith Atiso,Old Dominion University,0.07
+2114,Danielle Dixon,Hampton University,0.07
+2115,Sandy Lochu,Savannah State University,0.07
+2116,Elizabeth Vermillion,Creighton University,0.07
+2117,Daria Butorina,Jackson State University,0.07
+2118,Alyssa McAndrew,Bucknell University,0.07
+2119,A Senopoulos,Lafayette College,0.07
+2120,Catherine Senopoulos,Lafayette College,0.07
+2121,Yasmine Rashad,University of New Orleans,0.07
+2122,V.J. Ganesan,UC Riverside,0.07
+2123,Alese Brown,Univ. of Maryland Eastern Shore,0.07
+2124,Amanda Alvarez-Bargueno,Univ. of Central Arkansas,0.07
+2125,Jennifer Ho,Colgate University,0.07
+2126,Brankica Orlovic,Alabama State University,0.07
+2127,Lauren Doversola,St. Bonaventure University,0.07
+2128,No Player 2,Hampton University,0.07
+2129,Kristen Moore,Univ. of Arkansas Pine Bluff,0.07
+2130,Kailyn Skjonsby,Seattle University,0.07
+2131,Briana Bodner,Charlotte,0.07
+2132,Alison Noll,Rider University,0.06
+2133,Natalie Miller,Creighton University,0.06
+2134,Haley Ilcewicz,"Southern Illinois, Edwardsville",0.06
+2135,Elissa Pavelea,University of Nevada,0.06
+2136,Brooke Durden,Troy University,0.06
+2137,Elena Melian Puigventos,St. Peter's University,0.06
+2138,Courtney Schulte,Univ. of Northern Colorado,0.06
+2139,Brittany Thompson,Long Island University (Brooklyn),0.06
+2140,Kailey Eaton,Butler University,0.06
+2141,Tiffany Filipovich,South Dakota State,0.06
+2142,Elizabeth Konan,"University of Wisconsin, Madison",0.06
+2143,Angela Sabino,University of Hartford,0.06
+2144,Skylar Schaar,University of Hartford,0.06
+2145,Lisa Piller,Loyola Marymount University,0.06
+2146,Christina Johnson,North Carolina A&T State,0.06
+2147,Emily Richardson,IPFW,0.06
+2148,Elizabeth Przystawski,Bradley University,0.06
+2149,Faith Lee,Univ. of North Dakota,0.06
+2150,Chelsi Russell,Morgan State University,0.06
+2151,Jordan Rucks,University of Rhode Island,0.06
+2152,Mia Ramic,North Carolina Central University,0.06
+2153,Victoria Falk,U.S. Military Academy,0.06
+2154,Lindsey Madnick,Colgate University,0.06
+2155,Brooke Briseno,Niagara University,0.05
+2156,TEAM TEAM,University of Louisiana,0.05
+2157,Gabby Crofford,Western Kentucky University,0.05
+2158,Devi Hasan,Weber State,0.05
+2159,no player,Savannah State University,0.05
+2160,Diana Mirceta,Jacksonville State University,0.05
+2161,Khadijah Kenyatte,Univ. of Arkansas Pine Bluff,0.05
+2162,Sara Korzeniecki,University of Nevada,0.05
+2163,Michelle Erasmus,Cal State Fullerton,0.05
+2164,Tiffany Barnes,NJIT,0.05
+2165,Petra Jerabkova,Univ. of Maryland Eastern Shore,0.05
+2166,Ama Osei,Howard University,0.05
+2167,T Randolph,Prairie View A&M University,0.05
+2168,Leonara Paul,Rider University,0.05
+2169,Anotnia Conze,Presbyterian College,0.05
+2170,Jordan Minnick,Butler University,0.05
+2171,Maria Montenegro,Southeast Missouri State,0.05
+2172,Claudia Ruiz,Sacred Heart University,0.05
+2173,Olga Ostrovetsky,Binghamton University,0.05
+2174,Molly Crum,Montana State University-Bozeman,0.05
+2175,Marina Reimers,University of Portland,0.05
+2176,Maria Batchinsky,Univ. of Incarnate Word,0.05
+2177,Joan van Lochem,Furman University,0.05
+2178,Emily Tanner,Weber State,0.05
+2179,Maria Oronella,Morehead State University,0.05
+2180,Emily Sneedon,University of Hartford,0.05
+2181,Francisca Norregaard,Georgia Southern University,0.05
+2182,Sierra Nellessen,Northern Kentucky University,0.05
+2183,Daria Iurchenko,Arkansas State University,0.05
+2184,Malieva Hedberg,St. Peter's University,0.05
+2185,Madeline Phillips,Western Kentucky University,0.05
+2186,Isabell Draper,Mount St. Mary's University,0.05
+2187,Krystal Scott,Norfolk State University,0.05
+2188,Dominique St. Mortier,St. Bonaventure University,0.05
+2189,Ania Krawiec,Loyola College (Maryland),0.05
+2190,No Player,University of Delaware,0.05
+2191,Kari Rezac,Wagner College,0.05
+2192,Jessica Pepa,Cal State Fullerton,0.05
+2193,Abbie Grant,Kennesaw State University,0.05
+2194,Gina Atanasoff,University of Rhode Island,0.04
+2195,Mariya Kostyuk,Southeast Missouri State,0.04
+2196,Andreea Nenu,McNeese State University,0.04
+2197,Taylor Cole,Idaho State University,0.04
+2198,Sajela Harlow,Howard University,0.04
+2199,Cary Milanes,Valparaiso University,0.04
+2200,Megan Barthels,Valparaiso University,0.04
+2201,Haley Dekkinga,Northern Illinois University,0.04
+2202,Kadie Hueffner,University of Oregon,0.04
+2203,Natalie Penner,UC Riverside,0.04
+2204,Jenna Harris,Wagner College,0.04
+2205,Jovana Bojinovic,St. Francis College (New York),0.04
+2206,Camille Amrani,Winthrop University,0.04
+2207,Olivia Messineo,Syracuse University,0.04
+2208,Abby Lewis,Wright State University,0.04
+2209,Anna Tatyanich,UC Riverside,0.04
+2210,Mary Walker Mixon,Gardner-Webb University,0.04
+2211,Ellie Crum,Montana State University-Bozeman,0.04
+2212,Erika Reagan,Siena College,0.04
+2213,Natalie Phippen,Iowa State University,0.04
+2214,Anabel Carbo-Estruch,Montana,0.04
+2215,Logan Finnell,Loyola Marymount University,0.04
+2216,Nina Barudzic,University of South Dakota,0.04
+2217,A Pino,Bucknell University,0.04
+2218,Alba Payeras,Southern Utah University,0.04
+2219,Ella Perinovic,Western Michigan University,0.04
+2220,Jovana Karac,Austin Peay State University,0.04
+2221,Sabrina Tahir,Marist College,0.04
+2222,Dominique McLean,Morehead State University,0.04
+2223,Iva Celan,Niagara University,0.04
+2224,Claire Yang,University of Idaho,0.04
+2225,Hanemas Pangestu,Chicago State University,0.04
+2226,Maria Vlaskina,Northwestern State University,0.04
+2227,Donna Haycock,Illinois State University,0.04
+2228,Beata Kull,ULM (Univ. of Louisiana at Monroe),0.04
+2229,Khalia Powell,North Carolina A&T State,0.04
+2230,Angela Sabino,University of Hartford,0.04
+2231,Taylor Zaytoun,North Carolina State,0.04
+2232,Callie Schmit,Butler University,0.04
+2233,Janine Koleta,University of San Diego,0.04
+2234,Renu Sharma,Eastern Michigan University,0.04
+2235,Gabriela Bueno,Kennesaw State University,0.04
+2236,Cailey Easdale,Towson University,0.04
+2237,Alex Bryant,Fairleigh Dickinson University,0.04
+2238,Taylor Briggs,Florida Atlantic University,0.04
+2239,Helen Ayim,Grambling State University,0.04
+2240,Sarah Stuhlmann,Fairfield University,0.04
+2241,Grace Korta,Mercer University,0.04
+2242,Aphrah Brokaw,Villanova University,0.03
+2243,Liza Klyachkin,Mercer University,0.03
+2244,no player,Norfolk State University,0.03
+2245,Jamie Rogers,North Carolina Central University,0.03
+2246,Elizabeth Clayton,Florida A&M University,0.03
+2247,Chiara Stefanov,Arkansas State University,0.03
+2248,Mela Jaglarz,Drake University,0.03
+2249,Maria Moshteva,Eastern Illinois University,0.03
+2250,Wiebke Boeckmann,Idaho State University,0.03
+2251,Aakanksha Punj,Alcorn State University,0.03
+2252,Kirstie Woodbury,Colgate University,0.03
+2253,Lauren Brooker,UNC Asheville,0.03
+2254,Valerija Gercar,Illinois State University,0.03
+2255,Jacqueline Baude,"Nebraska, Omaha",0.03
+2256,Hollie Champion,UNC Wilmington,0.03
+2257,Rocine Moschella,Lafayette College,0.03
+2258,Lauren Tracy,Lafayette College,0.03
+2259,Jennifer Andra,UC Irvine,0.03
+2260,Rachael Bridegroom,IUPUI,0.03
+2261,Lauren Mullis,North Carolina Central University,0.03
+2262,Chloe Jolliff,New Mexico State University,0.03
+2263,Melissa Burckhartt,University of Louisiana,0.03
+2264,Michelle Caravaglio,Rider University,0.03
+2265,Danielle Kerinda,Jacksonville State University,0.03
+2266,Alice Scott,University of South Dakota,0.03
+2267,Lison Le Biavant,University of Texas-Pan American,0.03
+2268,Taylor Monken,Saint Louis University,0.03
+2269,Mina Saygi,George Mason University,0.03
+2270,Stephanie Pino,Bucknell University,0.03
+2271,Akshatha Ananth,Jackson State University,0.03
+2272,Viviana Ortiz,Southeast Missouri State,0.03
+2273,Caitlyn Mitchell,Sam Houston State University,0.03
+2274,Tamara Klimek,University of Tennessee at Martin,0.03
+2275,Olivia Headford,"Univ. of Wisconsin, Green Bay",0.03
+2276,Kelsey Frey,Portland State University,0.03
+2277,Lucia Radovic,St. Peter's University,0.03
+2278,Anastasiia Romanova,Hampton University,0.03
+2279,Arianna Demos,Western Illinois University,0.03
+2280,Meghan Zimmer,Fairfield University,0.03
+2281,Patricia Normand,Alcorn State University,0.03
+2282,Marnie Perez,Chicago State University,0.03
+2283,Liana Bates,Montana State University-Bozeman,0.03
+2284,Liz Vermillion,Creighton University,0.03
+2285,Jenna Wallace,Western Illinois University,0.03
+2286,Madison Pautsch,Wagner College,0.03
+2287,Kristen James,Seattle University,0.03
+2288,Caitlin Coelho,La Salle University,0.03
+2289,Elizabeth Rodriguez,Univ. of Arkansas Pine Bluff,0.03
+2290,Emily Sheddon,University of Hartford,0.03
+2291,Celeste Smith,La Salle University,0.03
+2292,Elena Cerati,Lafayette College,0.03
+2293,Won By Default,Rider University,0.03
+2294,Kassie Truong,UC Riverside,0.03
+2295,Florence Nicole,University of Tennessee at Martin,0.03
+2296,Lauren Mueller,Georgia Southern University,0.03
+2297,No Player,McNeese State University,0.03
+2298,Sari Kwee,Seattle University,0.03
+2299,Paloma Gomez,University of Oregon,0.03
+2300,Ashley Garner,Howard University,0.02
+2301,Hannah Fleckenstein,Colgate University,0.02
+2302,Montse Mesalles,Western Carolina University,0.02
+2303,Kendall Bunch,"Southern University, Baton Rouge",0.02
+2304,Kristina Eisenbrand,Saint Joseph's University,0.02
+2305,Alexa McDonald,Portland State University,0.02
+2306,Smaranda Petreanv,South Carolina State,0.02
+2307,Andjela Vasic,South Carolina State,0.02
+2308,Paige Heuer,Valparaiso University,0.02
+2309,miranda taylor,Coppin State College,0.02
+2310,Virag Hollos,Alabama A&M University,0.02
+2311,Priscila Garcia,UC Santa Barbara,0.02
+2312,Kathryn Thomas,La Salle University,0.02
+2313,Sophie El-Kara,UC Riverside,0.02
+2314,Ilona Zaislisk,Jackson State University,0.02
+2315,Shrarre Smith,Alabama A&M University,0.02
+2316,Sammie Hornbarger,Univ. of Dayton,0.02
+2317,Barbora Kollarova,Northwestern State University,0.02
+2318,Katie Marvin,Providence College,0.02
+2319,Julia Dunbar,Siena College,0.02
+2320,Paulina Tafler,Binghamton University,0.02
+2321,Egle Jakuciunaite,George Washington University,0.02
+2322,Emma Pezzullo,Sacred Heart University,0.02
+2323,Patonya Price,Univ. of Maryland Eastern Shore,0.02
+2324,Darby Rosette,Creighton University,0.02
+2325,Gabrielle Spence,Coppin State College,0.02
+2326,Brittany Hill,Stetson University,0.02
+2327,Ashleigh De Wet,Kennesaw State University,0.02
+2328,Demi Daniels,Brigham Young University,0.02
+2329,Katie Grant,Colgate University,0.02
+2330,Lara Delli Castelli,Lamar University,0.02
+2331,Caroline Hall,UC Riverside,0.02
+2332,no player,Grambling State University,0.02
+2333,Yasmine Xantos,Northern Kentucky University,0.02
+2334,Nicole Soutar,Northern Kentucky University,0.02
+2335,symone townsend,Florida A&M University,0.02
+2336,Nina Luiggi,Bryant University,0.02
+2337,Samantha Perry,University of Cincinnati,0.02
+2338,Brianna Fairley,Alabama State University,0.02
+2339,Enisa Drekovic,St. Francis College (New York),0.02
+2340,Blake Nickles,Davidson College,0.02
+2341,Taylor Capannolo,Louisiana Tech University,0.02
+2342,Danielle Nguyen,Mount St. Mary's University,0.02
+2343,Ketevan Mdzinarishvili,Akron,0.02
+2344,Karlin Naslund,Creighton University,0.02
+2345,Jordyn Spellberg,Lafayette College,0.02
+2346,Alexa Sloane,Binghamton University,0.02
+2347,Barbara Hernandez,Manhattan College,0.02
+2348,Kaelin Brittin,Colgate University,0.02
+2349,Kathryn Phillips,Florida State University,0.02
+2350,Natalia Parchowska,Illinois State University,0.02
+2351,Cassia Wojtalik,Bradley University,0.02
+2352,Elizabeth Ansari,Western Carolina University,0.02
+2353,Victoria Ferry,Youngstown State University,0.02
+2354,No Player,Mercer University,0.02
+2355,Kenzie Hill,"Nebraska, Omaha",0.02
+2356,Nikki Rohan,Marist College,0.02
+2357,ashley milo,Coppin State College,0.02
+2358,Annisa Warasanti,Southeast Missouri State,0.02
+2359,Danielle Hansen,Lipscomb University,0.02
+2360,Olivia Battye,Sam Houston State University,0.02
+2361,Isabel Doran,Holy Cross,0.02
+2362,Ashley Rettger,Western Illinois University,0.02
+2363,Camille Hemond-Hills,Oakland University,0.02
+2364,Taryn Strahl,Univ. of Incarnate Word,0.02
+2365,Courtney Pattugalan,UC Riverside,0.02
+2366,Francesca Chin,St. Bonaventure University,0.02
+2367,Maddie Gilley,Belmont University,0.02
+2368,Linley Busby,Villanova University,0.02
+2369,Natalija Tasovac,NJIT,0.02
+2370,Marina Schneiger,IUPUI,0.02
+2371,Sophie Wyman,Boston University,0.02
+2372,Taylor Stathis,Holy Cross,0.02
+2373,Ella Norgren,IPFW,0.02
+2374,Datanya Pride,Univ. of Maryland Eastern Shore,0.01
+2375,Kathleen Preston,Univ. of North Dakota,0.01
+2376,Leeah Floyd,Bowling Green State University,0.01
+2377,Isabella Wagener,Long Island University (Brooklyn),0.01
+2378,Jade Smith,La Salle University,0.01
+2379,Sabrina Navarro Lopez,Sacred Heart University,0.01
+2380,Courtney McCray,Davidson College,0.01
+2381,Bria Burrows,Savannah State University,0.01
+2382,Sarah Savedra,Univ. of Incarnate Word,0.01
+2383,Nicole Jones,Western Illinois University,0.01
+2384,Jasmine Edwards,Morgan State University,0.01
+2385,Isabella Jovonavic,Austin Peay State University,0.01
+2386,Emily Przystawski,Western Kentucky University,0.01
+2387,Alana Chaplin,Portland State University,0.01
+2388,Montana Morris,Rider University,0.01
+2389,Erin Benefiel,Mount St. Mary's University,0.01
+2390,Sydney Nowak,NJIT,0.01
+2391,Nadia Hilton-Adams,North Carolina A&T State,0.01
+2392,Tierra Poymer,Univ. of Arkansas Pine Bluff,0.01
+2393,Farrah Smoke,Monmouth University,0.01
+2394,Teresa De Enrique,Southern Utah University,0.01
+2395,danielle Nguyen,Mount St. Mary's University,0.01
+2396,Valerie Caroll,NJIT,0.01
+2397,Julie Covington,Austin Peay State University,0.01
+2398,Christie Schneider,Bucknell University,0.01
+2399,Kateryna Stoianova,Southeast Missouri State,0.01
+2400,Ayaka Terakawa,Portland State University,0.01
+2401,Ines Vujkovac,NJIT,0.01
+2402,Matabe Akoachere,Alabama State University,0.01
+2403,Joy Jones,Grambling State University,0.01
+2404,Abigail Roebker,Xavier University,0.01
+2405,Jasmine Jennings,Univ. of Maryland Eastern Shore,0.01
+2406,Karina Ono,Jackson State University,0.01
+2407,Danielle Scrudato,Rider University,0.01
+2408,Brianah Creek,Univ. of Incarnate Word,0.01
+2409,Claudia Roca,South Carolina State,0.01
+2410,Jorie Fox,Bucknell University,0.01
+2411,Ann Kazarina,Alcorn State University,0.01
+2412,Madeline Makings,University of Hartford,0.01
+2413,No Player,James Madison University,0.01
+2414,Allison Johnson,"Nebraska, Omaha",0.01
+2415,Svenja Tegtmeier,Idaho State University,0.01
+2416,Riana Roberts,Morgan State University,0.01
+2417,Kathryn Evans,Lipscomb University,0.01
+2418,Antea Dedic,Univ. of Incarnate Word,0.01
+2419,Callie Morlock,Marist College,0.01
+2420,Tyla Goodridge,North Carolina A&T State,0.01
+2421,Erika Nannery,Fairfield University,0.01
+2422,Kelly Smith,Mount St. Mary's University,0.01
+2423,Lauren Dupuis,University of Louisiana,0.01
+2424,Elizabeth Brozovich,Marist College,0.01
+2425,Angelina Qin,Butler University,0.01
+2426,Kenya Colbert,North Carolina A&T State,0.01
+2427,Brenda Jove,Oral Roberts University,0.01
+2428,Meredith Heitland,University of Hartford,0.01
+2429,Dragana Dzigurski,St. Francis College (New York),0.01
+2430,Allison Lane,Bucknell University,0.01
+2431,Nicole Madden,Tennessee State University,0.01
+2432,Sofia Krsmanovic,Arkansas State University,0.01
+2433,Michele Fredlake,Valparaiso University,0.01
+2434,Maria Neff,"Univ. of Wisconsin, Green Bay",0.01
+2435,Katy Brady,Southeast Missouri State,0.01
+2436,no player,Coppin State College,0.01
+2437,Madeline Melch,Bucknell University,0.01
+2438,Maria Lackey,Prairie View A&M University,0.01
+2439,Sharlee Deshmukh,"University of South Carolina, Upstate",0.01
+2440,Adrianne Presley,Tennessee State University,0.01
+2441,Bianca Posa,Hofstra University,0.01
+2442,Kendal Kauffman,Monmouth University,0.01
+2443,Kerrin Toner,Rider University,0.01
+2444,Yemurai Muskwe,Alabama A&M University,0.01
+2445,Nicole Keklik,Quinnipiac University,0.01
+2446,Casandra Braz,Siena College,0.01
+2447,Melissa Parks,Bucknell University,0.01
+2448,Abbey Belote,Missouri State University,0.01
+2449,Rebekah Adewumi,Jackson State University,0.01
+2450,No Player 1,Tennessee State University,0.01
+2451,Orianna Rodriguez,Alabama A&M University,0.01
+2452,Jennifer Gonzalez,St. Francis College (New York),0.01
+2453,Attallah Eiland,Tennessee State University,0.01
+2454,Destiny Jones,Univ. of Arkansas Pine Bluff,0.01
+2455,Ashley Sandler,Monmouth University,0.01
+2456,Morgan Paras,Valparaiso University,0.01
+2457,Reine Fowajuh,Univ. of Maryland Eastern Shore,0.01
+2458,Melissa Carlay,Marist College,0.01
+2459,Lauren Schulte,Weber State,0.01
+2460,Jessica Macaluso,Siena College,0.01
+2461,Kaitlyn Hamel,Valparaiso University,0.01
+2462,Tori Almeida,Lafayette College,0.01
+2463,Tamara Jeremic,North Carolina Central University,0.01
+2464,Lorea Gamboa,Chicago State University,0.01
+2465,Nika Munoz,Oral Roberts University,0.01
+2466,Abby Henry,Holy Cross,0.01
+2467,Shaddae Findley,Prairie View A&M University,0.01
+2468,Madison Utberg,Presbyterian College,0.01
+2469,Julie Clark,Loyola College (Maryland),0.01
+2470,Corinne Schnyder,Cal State Northridge,0.01
+2471,Jennyfer Vivas,Savannah State University,0.01
+2472,Jaclyn Carroll,Holy Cross,0.01
+2473,Rachael Menos,"Univ. of Wisconsin, Green Bay",0.01
+2474,Cassy Deng,Holy Cross,0.01
+2475,Tierra Poyner,Univ. of Arkansas Pine Bluff,0.01
+2476,Amelie Amsallem,UMKC,0.01
+2477,Phyllicia Hemphill,Tennessee State University,0.01
+2478,Kayla Jefferson,North Carolina A&T State,0.01
+2479,Shivani Pael,Manhattan College,0.01
+2480,Daneya Charles,Hampton University,0.00
+2481,Laura Martin,Southern Utah University,0.00
+2482,Sarah Turner,Monmouth University,0.00
+2483,Alexandra Santerelli,La Salle University,0.00
+2484,No Player,Savannah State University,0.00
+2485,Theresa Elder,Oakland University,0.00
+2486,Jessica Taylor,Alabama A&M University,0.00
+2487,Saundra Smith,North Carolina A&T State,0.00
+2488,No Player,Alabama A&M University,0.00
+2489,Samm Pedersen,"Univ. of Wisconsin, Green Bay",0.00
+2490,A. Spellberg,Lafayette College,0.00
+2491,no player,Hampton University,0.00
+2492,Claudia Hellman,St. Peter's University,0.00
+2493,Melanie Scott,Hampton University,0.00
+2494,Kylie Waschuk,Loyola Marymount University,0.00
+2495,Cassandra Powell,Mount St. Mary's University,0.00
+2496,Chioma Gabrid,Monmouth University,0.00
+2497,Stacy Lackey,Prairie View A&M University,0.00
+2498,Gabby Montes,Lafayette College,0.00
+2499,Khyana Price,Alabama A&M University,0.00
+2500,Capra Fellows,Prairie View A&M University,0.00
+2501,Sydney Seeley,Bowling Green State University,0.00
+2502,Danielle Zinn,Santa Clara University,0.00
+2503,Leonara Paul,Rider University,0.00
+2504,Katherine Elia,Holy Cross,0.00
+2505,No Player,Univ. of Arkansas Pine Bluff,0.00
+2506,Caitlin Bricketto,Manhattan College,0.00
+2507,Hannah Tatlock,Austin Peay State University,0.00
+2508,Anna Makhneva,Southeast Missouri State,0.00
+2509,Tatiana Ruhl,Prairie View A&M University,0.00
+2510,Hayley Trinkle,IUPUI,0.00
+2511,Shaunte Southern,Grambling State University,0.00
+2512,Tabitha Kassin,Grambling State University,0.00
+2513,Emily Lemon,Southern Utah University,0.00
+2514,Audrey Scott,Seattle University,0.00
+2515,Alisha Burton,UNC Greensboro,0.00
+2516,Monica Arcos,Univ. of Arkansas Pine Bluff,0.00
+2517,Shelby Cerkovnik,Montana State University-Bozeman,0.00
+2518,Sarah Vande Berg,"University of South Carolina, Upstate",0.00
+2519,Megan Rindlisbacher,Weber State,0.00
+2520,Katie Seitz,Marist College,0.00
+2521,Robyn Belen,Monmouth University,0.00
+2522,Tori Oates,Sacred Heart University,0.00
+2523,Lauren Miketinac,"Univ. of Wisconsin, Green Bay",0.00
+2524,Sharre Smith,Alabama A&M University,0.00
+2525,Alyssa Rosello,Manhattan College,0.00
+2526,Dezhare Bennett,St. Francis College (New York),0.00
+2527,NO PLAYER,Western Carolina University,0.00
+2528,aleesha rouse,Rider University,0.00
+2529,Jasmine Jenkins,Alabama A&M University,0.00
+2530,No Player,"Southern Illinois, Edwardsville",0.00
+2531,Diana Onichshenko,Manhattan College,0.00
+2532,Alexus Morgan,North Carolina A&T State,0.00
+2533,Maddie Holscher,"Nebraska, Omaha",0.00
+2534,Felicia Demarco,University of Hartford,0.00
+2535,No Player,Western Illinois University,0.00
+2536,Jayla Smith,La Salle University,0.00
+2537,Carly Van Nuland,"Univ. of Wisconsin, Green Bay",0.00
+2538,Kristen Moore,Univ. of Arkansas Pine Bluff,0.00
+2539,Britney Harris,Tennessee State University,0.00
+2540,Tiffany Williams,Savannah State University,0.00
+2541,Lauren Tucker,Longwood University,0.00
+2542,Antonina Farrar,Bowling Green State University,0.00
+2543,Rebecca McIsaac,Missouri State University,0.00
+2544,savannah hunt,Univ. of Northern Iowa,0.00
+2545,Hannah Goldman,University of Hartford,0.00
+2546,Cortisia Clark,Tennessee State University,0.00
+2547,Anastasiya Sylenko,UTEP,0.00
+2548,Carly Miles,Bradley University,0.00
+2549,Rebecca Mores,St. Francis College (New York),0.00
+2550,Jennifer Smith,Mount St. Mary's University,0.00
+2551,Heidi Thomas,Grambling State University,0.00
+2552,Jamee Hale,Western Illinois University,0.00
+2553,Saundra Smith,North Carolina A&T State,0.00
+2554,Tafadza Chiridza,Grambling State University,0.00
+2555,no player,Fairleigh Dickinson University,0.00
+2556,Rebecca Stafford,"Nebraska, Omaha",0.00
+2557,N/A Thomas,Grambling State University,0.00
+2558,Tabitha Nankya,Grambling State University,0.00
+2559,Kimberly Butler,Oral Roberts University,0.00
+2560,Christian Resurreccion,St. Peter's University,0.00
+2561,Andriana Johnson,Western Illinois University,0.00
+2562,Marisa Marsh,University of San Diego,0.00
