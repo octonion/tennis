@@ -1,0 +1,39 @@
+BEGIN
+      player_name       |   team_name    |   p   
+------------------------+----------------+-------
+ Axel Alvarez Llamas    | Oklahoma       | 0.228
+ Noah Rubin             | Wake Forest    | 0.197
+ Julian Lenz            | Baylor         | 0.120
+ Mikelis Libietis       | Tennessee      | 0.099
+ Ryan Shane             | Virginia       | 0.081
+ Søren Hess-Olesen      | Texas          | 0.060
+ Sebastian Stiefelmeyer | Louisville     | 0.055
+ Quentin Monaghan       | Notre Dame     | 0.046
+ Thai-Son Kwiatkowski   | Virginia       | 0.030
+ Dominik Koepfer        | Tulane         | 0.022
+ Romain Bogaerts        | Wake Forest    | 0.021
+ Nicolas Alvarez        | Duke           | 0.011
+ Roberto Quiroz         | USC            | 0.008
+ Yannick Hanfmann       | USC            | 0.007
+ Jared Hiltzik          | Illinois       | 0.004
+ Winston Lin            | Columbia       | 0.003
+ Ronnie Schneider       | North Carolina | 0.002
+ Jonny Wang             | USC            | 0.002
+ Austin Smith           | Georgia        | 0.001
+ Cameron Norrie         | TCU            | 0.001
+ Chris Diaz             | Ohio State     | 0.001
+ Guillermo Nuñez        | TCU            | 0.001
+ Lloyd Glasspool        | Texas          | 0.000
+ Christopher Eubanks    | Georgia Tech   | 0.000
+ Maxime Tchoutakian     | Baylor         | 0.000
+ Benjamin Lock          | Florida State  | 0.000
+ Tin Ostojic            | Wichita State  | 0.000
+ Jakob Sude             | Oklahoma State | 0.000
+ Felipe Soares          | Texas Tech     | 0.000
+ Tony Lupieri           | Baylor         | 0.000
+ Denis Nguyen           | Harvard        | 0.000
+ Jeremy Efferding       | Texas A&M      | 0.000
+(32 rows)
+
+COPY 32
+COMMIT

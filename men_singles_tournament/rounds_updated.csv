@@ -1,0 +1,33 @@
+year,round_id,division_id,player_id,player_name,team_name,bracket,p
+2015,1,1,122038,Axel Alvarez Llamas,Oklahoma,"{1,1,1,1,1,1,1}",1.0
+2015,1,1,123644,Tony Lupieri,Baylor,"{4,2,1,1,1,1,1}",1.0
+2015,1,1,134791,Thai-Son Kwiatkowski,Virginia,"{6,3,2,1,1,1,1}",1.0
+2015,1,1,111002,Denis Nguyen,Harvard,"{8,4,2,1,1,1,1}",1.0
+2015,1,1,110312,Sebastian Stiefelmeyer,Louisville,"{9,5,3,2,1,1,1}",1.0
+2015,1,1,119283,Austin Smith,Georgia,"{11,6,3,2,1,1,1}",1.0
+2015,1,1,140392,Nicolas Alvarez,Duke,"{13,7,4,2,1,1,1}",1.0
+2015,1,1,110263,Winston Lin,Columbia,"{16,8,4,2,1,1,1}",1.0
+2015,1,1,113606,Lloyd Glasspool,Texas,"{18,9,5,3,2,1,1}",1.0
+2015,1,1,131783,Ronnie Schneider,North Carolina,"{19,10,5,3,2,1,1}",1.0
+2015,1,1,122392,Dominik Koepfer,Tulane,"{21,11,6,3,2,1,1}",1.0
+2015,1,1,119891,Jared Hiltzik,Illinois,"{23,12,6,3,2,1,1}",1.0
+2015,1,1,140671,Noah Rubin,Wake Forest,"{25,13,7,4,2,1,1}",1.0
+2015,1,1,72258,Chris Diaz,Ohio State,"{28,14,7,4,2,1,1}",1.0
+2015,1,1,110997,Yannick Hanfmann,USC,"{29,15,8,4,2,1,1}",1.0
+2015,1,1,140578,Christopher Eubanks,Georgia Tech,"{31,16,8,4,2,1,1}",1.0
+2015,1,1,144920,Maxime Tchoutakian,Baylor,"{34,17,9,5,3,2,1}",1.0
+2015,1,1,109798,Mikelis Libietis,Tennessee,"{36,18,9,5,3,2,1}",1.0
+2015,1,1,141619,Cameron Norrie,TCU,"{38,19,10,5,3,2,1}",1.0
+2015,1,1,110240,Søren Hess-Olesen,Texas,"{40,20,10,5,3,2,1}",1.0
+2015,1,1,113728,Roberto Quiroz,USC,"{41,21,11,6,3,2,1}",1.0
+2015,1,1,120404,Quentin Monaghan,Notre Dame,"{44,22,11,6,3,2,1}",1.0
+2015,1,1,133126,Jakob Sude,Oklahoma State,"{46,23,12,6,3,2,1}",1.0
+2015,1,1,141620,Guillermo Nuñez,TCU,"{48,24,12,6,3,2,1}",1.0
+2015,1,1,111008,Jeremy Efferding,Texas A&M,"{50,25,13,7,4,2,1}",1.0
+2015,1,1,130683,Romain Bogaerts,Wake Forest,"{52,26,13,7,4,2,1}",1.0
+2015,1,1,113647,Benjamin Lock,Florida State,"{53,27,14,7,4,2,1}",1.0
+2015,1,1,120973,Ryan Shane,Virginia,"{56,28,14,7,4,2,1}",1.0
+2015,1,1,120041,Tin Ostojic,Wichita State,"{58,29,15,8,4,2,1}",1.0
+2015,1,1,123825,Felipe Soares,Texas Tech,"{59,30,15,8,4,2,1}",1.0
+2015,1,1,111012,Jonny Wang,USC,"{61,31,16,8,4,2,1}",1.0
+2015,1,1,121316,Julian Lenz,Baylor,"{64,32,16,8,4,2,1}",1.0
