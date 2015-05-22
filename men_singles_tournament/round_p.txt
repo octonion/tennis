@@ -1,167 +1,36 @@
 BEGIN
- rd |          name          |      team      |   p   
-----+------------------------+----------------+-------
-  3 | Axel Alvarez Llamas    | Oklahoma       | 0.910
-  3 | Thai-Son Kwiatkowski   | Virginia       | 0.879
-  3 | Noah Rubin             | Wake Forest    | 0.877
-  3 | Mikelis Libietis       | Tennessee      | 0.874
-  3 | Ryan Shane             | Virginia       | 0.847
-  3 | Søren Hess-Olesen      | Texas          | 0.800
-  3 | Julian Lenz            | Baylor         | 0.799
-  3 | Yannick Hanfmann       | USC            | 0.792
-  3 | Sebastian Stiefelmeyer | Louisville     | 0.759
-  3 | Romain Bogaerts        | Wake Forest    | 0.747
-  3 | Guillermo Nuñez        | TCU            | 0.710
-  3 | Quentin Monaghan       | Notre Dame     | 0.641
-  3 | Dominik Koepfer        | Tulane         | 0.634
-  3 | Ronnie Schneider       | North Carolina | 0.623
-  3 | Felipe Soares          | Texas Tech     | 0.601
-  3 | Nicolas Alvarez        | Duke           | 0.587
-  3 | Winston Lin            | Columbia       | 0.413
-  3 | Tin Ostojic            | Wichita State  | 0.399
-  3 | Lloyd Glasspool        | Texas          | 0.377
-  3 | Jared Hiltzik          | Illinois       | 0.366
-  3 | Roberto Quiroz         | USC            | 0.359
-  3 | Jakob Sude             | Oklahoma State | 0.290
-  3 | Jeremy Efferding       | Texas A&M      | 0.253
-  3 | Austin Smith           | Georgia        | 0.241
-  3 | Christopher Eubanks    | Georgia Tech   | 0.208
-  3 | Jonny Wang             | USC            | 0.201
-  3 | Cameron Norrie         | TCU            | 0.200
-  3 | Benjamin Lock          | Florida State  | 0.153
-  3 | Maxime Tchoutakian     | Baylor         | 0.126
-  3 | Chris Diaz             | Ohio State     | 0.123
-  3 | Denis Nguyen           | Harvard        | 0.121
-  3 | Tony Lupieri           | Baylor         | 0.090
-  4 | Noah Rubin             | Wake Forest    | 0.733
-  4 | Julian Lenz            | Baylor         | 0.723
-  4 | Axel Alvarez Llamas    | Oklahoma       | 0.686
-  4 | Ryan Shane             | Virginia       | 0.575
-  4 | Mikelis Libietis       | Tennessee      | 0.527
-  4 | Quentin Monaghan       | Notre Dame     | 0.526
-  4 | Sebastian Stiefelmeyer | Louisville     | 0.507
-  4 | Dominik Koepfer        | Tulane         | 0.454
-  4 | Søren Hess-Olesen      | Texas          | 0.402
-  4 | Romain Bogaerts        | Wake Forest    | 0.324
-  4 | Thai-Son Kwiatkowski   | Virginia       | 0.281
-  4 | Roberto Quiroz         | USC            | 0.259
-  4 | Nicolas Alvarez        | Duke           | 0.253
-  4 | Ronnie Schneider       | North Carolina | 0.229
-  4 | Jared Hiltzik          | Illinois       | 0.217
-  4 | Yannick Hanfmann       | USC            | 0.195
-  4 | Guillermo Nuñez        | TCU            | 0.180
-  4 | Winston Lin            | Columbia       | 0.145
-  4 | Jonny Wang             | USC            | 0.143
-  4 | Lloyd Glasspool        | Texas          | 0.099
-  4 | Austin Smith           | Georgia        | 0.095
-  4 | Felipe Soares          | Texas Tech     | 0.091
-  4 | Jeremy Efferding       | Texas A&M      | 0.057
-  4 | Chris Diaz             | Ohio State     | 0.054
-  4 | Cameron Norrie         | TCU            | 0.045
-  4 | Benjamin Lock          | Florida State  | 0.045
-  4 | Tin Ostojic            | Wichita State  | 0.043
-  4 | Jakob Sude             | Oklahoma State | 0.036
-  4 | Maxime Tchoutakian     | Baylor         | 0.025
-  4 | Tony Lupieri           | Baylor         | 0.024
-  4 | Christopher Eubanks    | Georgia Tech   | 0.019
-  4 | Denis Nguyen           | Harvard        | 0.009
-  5 | Noah Rubin             | Wake Forest    | 0.581
-  5 | Axel Alvarez Llamas    | Oklahoma       | 0.508
-  5 | Julian Lenz            | Baylor         | 0.436
-  5 | Mikelis Libietis       | Tennessee      | 0.360
-  5 | Ryan Shane             | Virginia       | 0.328
-  5 | Søren Hess-Olesen      | Texas          | 0.258
-  5 | Quentin Monaghan       | Notre Dame     | 0.239
-  5 | Sebastian Stiefelmeyer | Louisville     | 0.210
-  5 | Dominik Koepfer        | Tulane         | 0.170
-  5 | Romain Bogaerts        | Wake Forest    | 0.149
-  5 | Thai-Son Kwiatkowski   | Virginia       | 0.148
-  5 | Yannick Hanfmann       | USC            | 0.095
-  5 | Roberto Quiroz         | USC            | 0.084
-  5 | Nicolas Alvarez        | Duke           | 0.075
-  5 | Jared Hiltzik          | Illinois       | 0.059
-  5 | Ronnie Schneider       | North Carolina | 0.055
-  5 | Jonny Wang             | USC            | 0.042
-  5 | Guillermo Nuñez        | TCU            | 0.035
-  5 | Winston Lin            | Columbia       | 0.034
-  5 | Chris Diaz             | Ohio State     | 0.020
-  5 | Austin Smith           | Georgia        | 0.019
-  5 | Lloyd Glasspool        | Texas          | 0.017
-  5 | Cameron Norrie         | TCU            | 0.015
-  5 | Felipe Soares          | Texas Tech     | 0.015
-  5 | Jeremy Efferding       | Texas A&M      | 0.014
-  5 | Benjamin Lock          | Florida State  | 0.011
-  5 | Maxime Tchoutakian     | Baylor         | 0.007
-  5 | Tony Lupieri           | Baylor         | 0.006
-  5 | Tin Ostojic            | Wichita State  | 0.005
-  5 | Christopher Eubanks    | Georgia Tech   | 0.004
-  5 | Jakob Sude             | Oklahoma State | 0.003
-  5 | Denis Nguyen           | Harvard        | 0.001
-  6 | Axel Alvarez Llamas    | Oklahoma       | 0.342
-  6 | Noah Rubin             | Wake Forest    | 0.322
-  6 | Julian Lenz            | Baylor         | 0.248
-  6 | Mikelis Libietis       | Tennessee      | 0.204
-  6 | Ryan Shane             | Virginia       | 0.178
-  6 | Søren Hess-Olesen      | Texas          | 0.135
-  6 | Quentin Monaghan       | Notre Dame     | 0.114
-  6 | Sebastian Stiefelmeyer | Louisville     | 0.109
-  6 | Thai-Son Kwiatkowski   | Virginia       | 0.068
-  6 | Romain Bogaerts        | Wake Forest    | 0.062
-  6 | Dominik Koepfer        | Tulane         | 0.057
-  6 | Nicolas Alvarez        | Duke           | 0.030
-  6 | Roberto Quiroz         | USC            | 0.029
-  6 | Yannick Hanfmann       | USC            | 0.024
-  6 | Jared Hiltzik          | Illinois       | 0.014
-  6 | Winston Lin            | Columbia       | 0.011
-  6 | Jonny Wang             | USC            | 0.011
-  6 | Ronnie Schneider       | North Carolina | 0.011
-  6 | Guillermo Nuñez        | TCU            | 0.007
-  6 | Austin Smith           | Georgia        | 0.005
-  6 | Jeremy Efferding       | Texas A&M      | 0.003
-  6 | Cameron Norrie         | TCU            | 0.003
-  6 | Chris Diaz             | Ohio State     | 0.003
-  6 | Benjamin Lock          | Florida State  | 0.002
-  6 | Felipe Soares          | Texas Tech     | 0.002
-  6 | Lloyd Glasspool        | Texas          | 0.002
-  6 | Tony Lupieri           | Baylor         | 0.001
-  6 | Maxime Tchoutakian     | Baylor         | 0.001
-  6 | Tin Ostojic            | Wichita State  | 0.001
-  6 | Christopher Eubanks    | Georgia Tech   | 0.000
-  6 | Jakob Sude             | Oklahoma State | 0.000
-  6 | Denis Nguyen           | Harvard        | 0.000
-  7 | Axel Alvarez Llamas    | Oklahoma       | 0.228
-  7 | Noah Rubin             | Wake Forest    | 0.197
-  7 | Julian Lenz            | Baylor         | 0.120
-  7 | Mikelis Libietis       | Tennessee      | 0.099
-  7 | Ryan Shane             | Virginia       | 0.081
-  7 | Søren Hess-Olesen      | Texas          | 0.060
-  7 | Sebastian Stiefelmeyer | Louisville     | 0.055
-  7 | Quentin Monaghan       | Notre Dame     | 0.046
-  7 | Thai-Son Kwiatkowski   | Virginia       | 0.030
-  7 | Dominik Koepfer        | Tulane         | 0.022
-  7 | Romain Bogaerts        | Wake Forest    | 0.021
-  7 | Nicolas Alvarez        | Duke           | 0.011
-  7 | Roberto Quiroz         | USC            | 0.008
-  7 | Yannick Hanfmann       | USC            | 0.007
-  7 | Jared Hiltzik          | Illinois       | 0.004
-  7 | Winston Lin            | Columbia       | 0.003
-  7 | Jonny Wang             | USC            | 0.002
-  7 | Ronnie Schneider       | North Carolina | 0.002
-  7 | Cameron Norrie         | TCU            | 0.001
-  7 | Chris Diaz             | Ohio State     | 0.001
-  7 | Austin Smith           | Georgia        | 0.001
-  7 | Guillermo Nuñez        | TCU            | 0.001
-  7 | Tin Ostojic            | Wichita State  | 0.000
-  7 | Benjamin Lock          | Florida State  | 0.000
-  7 | Jakob Sude             | Oklahoma State | 0.000
-  7 | Lloyd Glasspool        | Texas          | 0.000
-  7 | Christopher Eubanks    | Georgia Tech   | 0.000
-  7 | Tony Lupieri           | Baylor         | 0.000
-  7 | Felipe Soares          | Texas Tech     | 0.000
-  7 | Denis Nguyen           | Harvard        | 0.000
-  7 | Jeremy Efferding       | Texas A&M      | 0.000
-  7 | Maxime Tchoutakian     | Baylor         | 0.000
-(160 rows)
+ rd |          name          |    team     |   p   
+----+------------------------+-------------+-------
+  4 | Sebastian Stiefelmeyer | Louisville  | 0.713
+  4 | Winston Lin            | Columbia    | 0.287
+  5 | Ryan Shane             | Virginia    | 0.881
+  5 | Noah Rubin             | Wake Forest | 0.821
+  5 | Quentin Monaghan       | Notre Dame  | 0.769
+  5 | Thai-Son Kwiatkowski   | Virginia    | 0.496
+  5 | Sebastian Stiefelmeyer | Louisville  | 0.405
+  5 | Cameron Norrie         | TCU         | 0.231
+  5 | Jared Hiltzik          | Illinois    | 0.179
+  5 | Felipe Soares          | Texas Tech  | 0.119
+  5 | Winston Lin            | Columbia    | 0.099
+  6 | Noah Rubin             | Wake Forest | 0.544
+  6 | Ryan Shane             | Virginia    | 0.542
+  6 | Quentin Monaghan       | Notre Dame  | 0.378
+  6 | Thai-Son Kwiatkowski   | Virginia    | 0.193
+  6 | Sebastian Stiefelmeyer | Louisville  | 0.183
+  6 | Cameron Norrie         | TCU         | 0.056
+  6 | Jared Hiltzik          | Illinois    | 0.054
+  6 | Winston Lin            | Columbia    | 0.026
+  6 | Felipe Soares          | Texas Tech  | 0.023
+  7 | Noah Rubin             | Wake Forest | 0.348
+  7 | Ryan Shane             | Virginia    | 0.264
+  7 | Quentin Monaghan       | Notre Dame  | 0.163
+  7 | Sebastian Stiefelmeyer | Louisville  | 0.097
+  7 | Thai-Son Kwiatkowski   | Virginia    | 0.090
+  7 | Jared Hiltzik          | Illinois    | 0.016
+  7 | Cameron Norrie         | TCU         | 0.011
+  7 | Winston Lin            | Columbia    | 0.008
+  7 | Felipe Soares          | Texas Tech  | 0.003
+(29 rows)
 
-COPY 160
+COPY 29
 COMMIT
