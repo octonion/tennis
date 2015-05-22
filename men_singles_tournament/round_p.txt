@@ -1,36 +1,31 @@
 BEGIN
- rd |          name          |    team     |   p   
-----+------------------------+-------------+-------
-  4 | Sebastian Stiefelmeyer | Louisville  | 0.713
-  4 | Winston Lin            | Columbia    | 0.287
-  5 | Ryan Shane             | Virginia    | 0.881
-  5 | Noah Rubin             | Wake Forest | 0.821
-  5 | Quentin Monaghan       | Notre Dame  | 0.769
-  5 | Thai-Son Kwiatkowski   | Virginia    | 0.496
-  5 | Sebastian Stiefelmeyer | Louisville  | 0.405
-  5 | Cameron Norrie         | TCU         | 0.231
-  5 | Jared Hiltzik          | Illinois    | 0.179
-  5 | Felipe Soares          | Texas Tech  | 0.119
-  5 | Winston Lin            | Columbia    | 0.099
-  6 | Noah Rubin             | Wake Forest | 0.544
-  6 | Ryan Shane             | Virginia    | 0.542
-  6 | Quentin Monaghan       | Notre Dame  | 0.378
-  6 | Thai-Son Kwiatkowski   | Virginia    | 0.193
-  6 | Sebastian Stiefelmeyer | Louisville  | 0.183
-  6 | Cameron Norrie         | TCU         | 0.056
-  6 | Jared Hiltzik          | Illinois    | 0.054
-  6 | Winston Lin            | Columbia    | 0.026
-  6 | Felipe Soares          | Texas Tech  | 0.023
-  7 | Noah Rubin             | Wake Forest | 0.348
-  7 | Ryan Shane             | Virginia    | 0.264
-  7 | Quentin Monaghan       | Notre Dame  | 0.163
-  7 | Sebastian Stiefelmeyer | Louisville  | 0.097
-  7 | Thai-Son Kwiatkowski   | Virginia    | 0.090
-  7 | Jared Hiltzik          | Illinois    | 0.016
-  7 | Cameron Norrie         | TCU         | 0.011
-  7 | Winston Lin            | Columbia    | 0.008
-  7 | Felipe Soares          | Texas Tech  | 0.003
-(29 rows)
+ rd |         name         |    team     |   p   
+----+----------------------+-------------+-------
+  5 | Ryan Shane           | Virginia    | 0.881
+  5 | Noah Rubin           | Wake Forest | 0.821
+  5 | Quentin Monaghan     | Notre Dame  | 0.769
+  5 | Thai-Son Kwiatkowski | Virginia    | 0.655
+  5 | Winston Lin          | Columbia    | 0.345
+  5 | Cameron Norrie       | TCU         | 0.231
+  5 | Jared Hiltzik        | Illinois    | 0.179
+  5 | Felipe Soares        | Texas Tech  | 0.119
+  6 | Noah Rubin           | Wake Forest | 0.589
+  6 | Ryan Shane           | Virginia    | 0.542
+  6 | Quentin Monaghan     | Notre Dame  | 0.378
+  6 | Thai-Son Kwiatkowski | Virginia    | 0.255
+  6 | Winston Lin          | Columbia    | 0.091
+  6 | Jared Hiltzik        | Illinois    | 0.065
+  6 | Cameron Norrie       | TCU         | 0.056
+  6 | Felipe Soares        | Texas Tech  | 0.023
+  7 | Noah Rubin           | Wake Forest | 0.377
+  7 | Ryan Shane           | Virginia    | 0.272
+  7 | Quentin Monaghan     | Notre Dame  | 0.169
+  7 | Thai-Son Kwiatkowski | Virginia    | 0.119
+  7 | Winston Lin          | Columbia    | 0.029
+  7 | Jared Hiltzik        | Illinois    | 0.019
+  7 | Cameron Norrie       | TCU         | 0.012
+  7 | Felipe Soares        | Texas Tech  | 0.003
+(24 rows)
 
-COPY 29
+COPY 24
 COMMIT

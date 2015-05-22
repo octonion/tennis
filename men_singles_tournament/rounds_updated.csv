@@ -1,6 +1,5 @@
 year,round_id,division_id,player_id,player_name,team_name,bracket,p
 2015,1,1,134791,Thai-Son Kwiatkowski,Virginia,"{6,3,2,1,1,1,1}",1.0
-2015,1,1,110312,Sebastian Stiefelmeyer,Louisville,"{9,5,3,2,1,1,1}",1.0
 2015,1,1,110263,Winston Lin,Columbia,"{16,8,4,2,1,1,1}",1.0
 2015,1,1,119891,Jared Hiltzik,Illinois,"{23,12,6,3,2,1,1}",1.0
 2015,1,1,140671,Noah Rubin,Wake Forest,"{25,13,7,4,2,1,1}",1.0
