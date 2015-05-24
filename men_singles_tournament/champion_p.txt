@@ -1,11 +1,9 @@
 BEGIN
-     player_name      |  team_name  |   p   
-----------------------+-------------+-------
- Noah Rubin           | Wake Forest | 0.419
- Ryan Shane           | Virginia    | 0.258
- Quentin Monaghan     | Notre Dame  | 0.180
- Thai-Son Kwiatkowski | Virginia    | 0.143
-(4 rows)
+ player_name |  team_name  |   p   
+-------------+-------------+-------
+ Noah Rubin  | Wake Forest | 0.596
+ Ryan Shane  | Virginia    | 0.404
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT

@@ -1,15 +1,9 @@
 BEGIN
- rd |         name         |    team     |   p   
-----+----------------------+-------------+-------
-  6 | Noah Rubin           | Wake Forest | 0.675
-  6 | Ryan Shane           | Virginia    | 0.558
-  6 | Quentin Monaghan     | Notre Dame  | 0.442
-  6 | Thai-Son Kwiatkowski | Virginia    | 0.325
-  7 | Noah Rubin           | Wake Forest | 0.419
-  7 | Ryan Shane           | Virginia    | 0.258
-  7 | Quentin Monaghan     | Notre Dame  | 0.180
-  7 | Thai-Son Kwiatkowski | Virginia    | 0.143
-(8 rows)
+ rd |    name    |    team     |   p   
+----+------------+-------------+-------
+  7 | Noah Rubin | Wake Forest | 0.596
+  7 | Ryan Shane | Virginia    | 0.404
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT
