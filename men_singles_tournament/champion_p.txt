@@ -1,15 +1,11 @@
 BEGIN
      player_name      |  team_name  |   p   
 ----------------------+-------------+-------
- Noah Rubin           | Wake Forest | 0.377
- Ryan Shane           | Virginia    | 0.272
- Quentin Monaghan     | Notre Dame  | 0.169
- Thai-Son Kwiatkowski | Virginia    | 0.119
- Winston Lin          | Columbia    | 0.029
- Jared Hiltzik        | Illinois    | 0.019
- Cameron Norrie       | TCU         | 0.012
- Felipe Soares        | Texas Tech  | 0.003
-(8 rows)
+ Noah Rubin           | Wake Forest | 0.419
+ Ryan Shane           | Virginia    | 0.258
+ Quentin Monaghan     | Notre Dame  | 0.180
+ Thai-Son Kwiatkowski | Virginia    | 0.143
+(4 rows)
 
-COPY 8
+COPY 4
 COMMIT
