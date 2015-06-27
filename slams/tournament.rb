@@ -11,10 +11,11 @@ agent.user_agent = 'Mozilla/5.0'
 
 year = 2015
 
-tn = "rolandgarros"
+tn = "wimbledon"
 
-url = "http://2015.rolandgarros.com/en_FR/xml/gen/apps/cmatch/eventDays.json"
-  
+#url = "http://2015.rolandgarros.com/en_FR/xml/gen/apps/cmatch/eventDays.json"
+url = "http://www.wimbledon.com/en_GB/xml/gen/apps/cmatch/eventDays.json"
+
 page = agent.get(url).body
 j = JSON.parse(page)
 fn = url.split("/")[-1]
