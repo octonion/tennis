@@ -18,14 +18,17 @@ agent.user_agent = 'Mozilla/5.0'
 #key_base = "http://2014.rolandgarros.com/en_FR/xml/gen/ps"
 #pbp_base = "http://2014.rolandgarros.com/en_FR/xml/gen/ps"
 
-key_base = "http://2015.rolandgarros.com/en_FR/xml/gen/ps"
-pbp_base = "http://2015.rolandgarros.com/en_FR/xml/gen/ps"
+#key_base = "http://2015.rolandgarros.com/en_FR/xml/gen/ps"
+#pbp_base = "http://2015.rolandgarros.com/en_FR/xml/gen/ps"
 
 #key_base = "http://2014.wimbledon.com/en_GB/xml/gen/ps"
 #pbp_base = "http://2014.wimbledon.com/en_GB/xml/gen/ps"
 
 #key_base = "http://2014.usopen.org/en_US/xml/gen/ps"
 #pbp_base = "http://2014.usopen.org/en_US/xml/gen/ps"
+
+key_base = "http://2015.usopen.org/en_US/xml/gen/ps"
+pbp_base = "http://2015.usopen.org/en_US/xml/gen/ps"
 
 days = ARGV
 
